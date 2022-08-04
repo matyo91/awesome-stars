@@ -431,6 +431,7 @@
 
 ## c 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
@@ -1056,6 +1057,7 @@
 
 ## graphql 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 the new CLI for Apollo
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -1084,6 +1086,7 @@
 
 ## hacktoberfest 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
@@ -1163,7 +1166,6 @@
 - [pestphp/pest-intellij](https://github.com/pestphp/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [gatsbyjs/desktop](https://github.com/gatsbyjs/desktop) - 
-- [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1321,6 +1323,7 @@
 
 ## javascript 
 
+- [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [andrew/first-pr](https://github.com/andrew/first-pr) - :octocat: What was the first pull request you sent on GitHub?
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -1420,6 +1423,7 @@
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://grnh.se/ca81c1701us
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -1802,6 +1806,7 @@
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
@@ -1864,6 +1869,9 @@
 
 ## others 
 
+- [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [Crell/AttributeUtils](https://github.com/Crell/AttributeUtils) - Utilities to help ease parsing and manging of attributes
@@ -2678,7 +2686,6 @@
 - [christoomey/dotfiles](https://github.com/christoomey/dotfiles) - My vim, zsh, git, tmux, and other config files and utility scripts.
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [z-pattern-matching/z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
@@ -3206,6 +3213,7 @@
 
 ## react 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
@@ -3355,6 +3363,7 @@
 
 ## rust 
 
+- [rust-console/gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
