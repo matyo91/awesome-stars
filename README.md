@@ -267,7 +267,7 @@
 - [satishbabariya/elastic-stack-docker](https://github.com/satishbabariya/elastic-stack-docker) - Elastic stack (ELK) on Docker (APM, Logging, Elasticsearch, Kibana, Beats)
 - [satishbabariya/swift-snapshots-docker](https://github.com/satishbabariya/swift-snapshots-docker) - Swift Development Snapshot Docker
 - [florianbelhomme/docker-symfony](https://github.com/florianbelhomme/docker-symfony) - Docker image with all the requirements for a Symfony project
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker-compose up`.
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [cvergne/actions](https://github.com/cvergne/actions) - Collection of GitHub Actions
 - [eko/docker-symfony](https://github.com/eko/docker-symfony) - Run a Symfony application using Docker & docker-compose
@@ -536,7 +536,7 @@
 - [Jazys/web3-initiation](https://github.com/Jazys/web3-initiation) - web3-initiation
 - [PresearchOfficial/presearch-packages](https://github.com/PresearchOfficial/presearch-packages) - Instant information packages for the Presearch engine
 - [HandyOSS/HandyHost](https://github.com/HandyOSS/HandyHost) - Host DVPN/HNS, Sia and Akash all in one UI.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [sentinel-official/sentinel](https://github.com/sentinel-official/sentinel) - Sentinel is an interoperable secure network layer offering the Sentinel Service Chain exclusively for distributed & decentralized native services like - dVPN, Sentrix (dChat and dVoIP) and more.
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
@@ -744,6 +744,7 @@
 - [WaldoJeffers/conductor](https://github.com/WaldoJeffers/conductor) - Mix both synchronous and asynchronous code without hassle
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [webpack-contrib/cache-loader](https://github.com/webpack-contrib/cache-loader) - [DEPRECATED] Caches the result of following loaders on disk
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
@@ -869,6 +870,7 @@
 
 ## Markdown 
 
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 
 ## Mustache 
@@ -885,7 +887,6 @@
 ## Nunjucks 
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## OCaml 
 
@@ -897,7 +898,6 @@
 
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [streamcloudapp/StreamCloud](https://github.com/streamcloudapp/StreamCloud) - An open source Mac OS X player for SoundCloud
 - [fitztrev/shuttle](https://github.com/fitztrev/shuttle) - A simple shortcut menu for macOS
@@ -1046,6 +1046,7 @@
 
 ## PHP 
 
+- [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [Crell/AttributeUtils](https://github.com/Crell/AttributeUtils) - Utilities to help ease parsing and manging of attributes
 - [Atanamo/PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) - A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
@@ -1925,6 +1926,7 @@
 - [0xChqrles/qrcreator](https://github.com/0xChqrles/qrcreator) - QR Creator allows you to create personalised QR Codes in a few seconds
 - [satishbabariya/swift-boilerplate](https://github.com/satishbabariya/swift-boilerplate) - Clean Architecture for iOS projects (Swift + Programmatically UI + MVC + RxSwift + Auto Layout Visual Format + REST + JWT)
 - [SwiftyContacts/SwiftyContacts](https://github.com/SwiftyContacts/SwiftyContacts) - A Swift library for Contacts framework.
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [evanpurkhiser/magnetic](https://github.com/evanpurkhiser/magnetic) - An iOS app to send magnet links and torrent files to a Transmission server
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
