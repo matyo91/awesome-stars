@@ -1887,7 +1887,7 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [kterra/kterra](https://github.com/kterra/kterra) - 
 - [PamelaRondina/PamelaRondina](https://github.com/PamelaRondina/PamelaRondina) - 
-- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia à aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
+- [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Projeto com o objetivo de auxiliar a comunidade de Tecnologia a aprender a utilizar o GitHub. Consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis. 
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [kochrt/markwhen](https://github.com/kochrt/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
