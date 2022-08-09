@@ -40,6 +40,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -72,6 +73,7 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [YARA](#yara)
 - [Zig](#zig)
 
 ## ApacheConf 
@@ -871,6 +873,10 @@
 
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
+
+## Mathematica 
+
+- [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
 
 ## Mustache 
 
@@ -2140,6 +2146,10 @@
 - [wasmerio/docs.wasmer.io](https://github.com/wasmerio/docs.wasmer.io) - Wasmer Documentation (for standalone and embedded use cases)
 - [WebAssembly/interface-types](https://github.com/WebAssembly/interface-types) - 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## YARA 
+
+- [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint
 
 ## Zig 
 
