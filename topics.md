@@ -660,6 +660,7 @@
 ## deep-learning 
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
@@ -1973,7 +1974,6 @@
 - [dapr/php-sdk](https://github.com/dapr/php-sdk) - Dapr SDK for PHP
 - [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail) - 
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
-- [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [afup/identity](https://github.com/afup/identity) - 
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [jpaulm/drawfbp](https://github.com/jpaulm/drawfbp) - Tool for Creating and Exploring Flow-Based Programming Diagram Hierarchies
@@ -3181,6 +3181,7 @@
 ## python 
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [gjthompson1/glue-public](https://github.com/gjthompson1/glue-public) - :fire: Data pipeline and automation tool.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
