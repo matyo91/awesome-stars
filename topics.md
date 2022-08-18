@@ -799,6 +799,7 @@
 
 ## emoji 
 
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
@@ -1888,7 +1889,6 @@
 
 - [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
-- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - 
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
 - [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint
@@ -2832,6 +2832,7 @@
 
 ## php 
 
+- [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
 - [symfony/clock](https://github.com/symfony/clock) - Decouples applications from the system clock
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [Atanamo/PHP-Codeshift](https://github.com/Atanamo/PHP-Codeshift) - A small PHP toolkit for running codemods (code transformations) over multiple PHP files.
