@@ -475,7 +475,7 @@
 
 - [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 the new CLI for Apollo
+- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo Studio
 - [php-toolkit/pflag](https://github.com/php-toolkit/pflag) - Generic PHP command line flags parse library.
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying
@@ -1081,7 +1081,7 @@
 ## graphql 
 
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
-- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 the new CLI for Apollo
+- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo Studio
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
@@ -3410,7 +3410,7 @@
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 the new CLI for Apollo
+- [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo Studio
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
 - [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
