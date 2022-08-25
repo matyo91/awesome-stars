@@ -70,7 +70,7 @@
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [YARA](#yara)
@@ -2139,7 +2139,7 @@
 
 - [pdfpc/pdfpc](https://github.com/pdfpc/pdfpc) - A presenter console with multi-monitor support for PDF files.
 
-## Vim script 
+## Vim Script 
 
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
