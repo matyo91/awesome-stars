@@ -460,7 +460,6 @@
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project
 - [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
 - [doctrine/sql-formatter](https://github.com/doctrine/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
-- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [twigphp/twig-perf](https://github.com/twigphp/twig-perf) - 
 - [LINCnil/Guide-RGPD-du-developpeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) - La CNIL publie un guide RGPD pour les développeurs
@@ -678,6 +677,7 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [darkwood-fr/serverless-starter](https://github.com/darkwood-fr/serverless-starter) - 
 - [darkwood-fr/darkwood-fr](https://github.com/darkwood-fr/darkwood-fr) - 🖤 Darkwood website
+- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
@@ -1961,6 +1961,7 @@
 
 ## TypeScript 
 
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
