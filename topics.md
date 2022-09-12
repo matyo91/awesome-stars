@@ -511,7 +511,7 @@
 ## code 
 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-- [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
 
 ## code-quality 
@@ -1646,7 +1646,7 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [zziz/pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [transcranial/keras-js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support using WebGL
 
