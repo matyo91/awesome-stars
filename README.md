@@ -336,7 +336,7 @@
 - [symfony-cli/terminal](https://github.com/symfony-cli/terminal) - 
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, which can distill insights to improve engineering productivity.
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services (SCS)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [egonelbre/flow-based-programming](https://github.com/egonelbre/flow-based-programming) - Examples on different options for implementing Flow Based Programming
 - [jpaulm/gofbp](https://github.com/jpaulm/gofbp) - This repo is an FBP implementation written in Go that follows pretty closely the logic of JavaFBP and C#FBP, taking advantage of Go's "goroutines"
@@ -741,7 +741,6 @@
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [webpack/watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [noflo/noflo-mclighting](https://github.com/noflo/noflo-mclighting) - NoFlo components for interacting with McLighting
@@ -1783,6 +1782,7 @@
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
+- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
 - [fgrehm/vagrant-cachier](https://github.com/fgrehm/vagrant-cachier) - Caffeine reducer
 - [scttnlsn/dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment.
