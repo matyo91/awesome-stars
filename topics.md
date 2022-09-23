@@ -406,7 +406,7 @@
 - [darkwood-fr/crypto-tracker](https://github.com/darkwood-fr/crypto-tracker) - 🔍Track your crypto currencies and fill tax forms
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4, Ubuntu/Debian homeserver, or a VPS.
 - [pgrimaud/declaration-actifs-numeriques](https://github.com/pgrimaud/declaration-actifs-numeriques) - Liste des plateformes pour la déclaration d'actifs numériques sur impots.gouv.fr via le formulaire n°3916-bis (french only)
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
@@ -739,7 +739,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4, Ubuntu/Debian homeserver, or a VPS.
 - [drupol/afup-day-lille-2021](https://github.com/drupol/afup-day-lille-2021) - This is the source of my talk 'Lazy Collection' for the AFUP Day 2021 event
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -3269,7 +3269,7 @@
 
 ## raspberry-pi 
 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4, Ubuntu/Debian homeserver, or a VPS.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 
 ## react 
