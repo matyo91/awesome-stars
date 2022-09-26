@@ -336,7 +336,7 @@
 - [symfony-cli/terminal](https://github.com/symfony-cli/terminal) - 
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, which can distill insights to improve engineering productivity.
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud services (SCS)
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless cloud provider
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [egonelbre/flow-based-programming](https://github.com/egonelbre/flow-based-programming) - Examples on different options for implementing Flow Based Programming
 - [jpaulm/gofbp](https://github.com/jpaulm/gofbp) - This repo is an FBP implementation written in Go that follows pretty closely the logic of JavaFBP and C#FBP, taking advantage of Go's "goroutines"
@@ -739,7 +739,6 @@
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [webpack/watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
@@ -2124,6 +2123,7 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
+- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
