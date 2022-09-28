@@ -459,7 +459,6 @@
 - [GetLuko/Covid19-French-Auth](https://github.com/GetLuko/Covid19-French-Auth) - 
 - [vanoix/vanoix.com](https://github.com/vanoix/vanoix.com) - Vanoix's Amazing Website
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project
-- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
 - [doctrine/sql-formatter](https://github.com/doctrine/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [twigphp/twig-perf](https://github.com/twigphp/twig-perf) - 
@@ -600,7 +599,6 @@
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [noflo/noflo-assembly](https://github.com/noflo/noflo-assembly) - Industrial approach to writing NoFlo applications
 - [ashugeo/set-game](https://github.com/ashugeo/set-game) - Set – Visual card game
-- [leichteckig/cypress-example-symfony-world](https://github.com/leichteckig/cypress-example-symfony-world) - An example test from the live coding session "Symfony meets Cypress - E2E testing for symfony developers"
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [dunglas/jquery.confirmExit](https://github.com/dunglas/jquery.confirmExit) - jQuery confirm before exit plugin
 - [dunglas/slides-sfPot-2015-01-15](https://github.com/dunglas/slides-sfPot-2015-01-15) - API-first et Linked Data avec Symfony
@@ -1693,6 +1691,7 @@
 - [GoVanguard/legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [tensorflow/agents](https://github.com/tensorflow/agents) - TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
+- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
 - [linssen/country-flag-icons](https://github.com/linssen/country-flag-icons) - ISO country flags with licensing information
 - [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [ipython/ipykernel](https://github.com/ipython/ipykernel) - IPython Kernel for Jupyter
@@ -2098,7 +2097,7 @@
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
