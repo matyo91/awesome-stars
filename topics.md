@@ -1213,7 +1213,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -1267,6 +1267,7 @@
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
 
 ## homebrew 
 
@@ -2213,7 +2214,6 @@
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - Composer plugin for automatic installation of PHPStan extensions.
 - [FriendsOfPHP/proxy-manager-lts](https://github.com/FriendsOfPHP/proxy-manager-lts) - Adding support for a wider range of PHP versions to ocramius/proxy-manager.
 - [ismail1432/simple-health-check](https://github.com/ismail1432/simple-health-check) - This application allows us to monitor a web server and send a notification if a server is down
-- [leichteckig/cypress-example-symfony-world](https://github.com/leichteckig/cypress-example-symfony-world) - An example test from the live coding session "Symfony meets Cypress - E2E testing for symfony developers"
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [Ocramius/.github](https://github.com/Ocramius/.github) - Common documentation about my work on projects that I make public on Github
 - [dunglas/piy](https://github.com/dunglas/piy) - A modern self-managed Content Management System
