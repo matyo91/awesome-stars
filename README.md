@@ -1691,7 +1691,7 @@
 - [GoVanguard/legion](https://github.com/GoVanguard/legion) - Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [tensorflow/agents](https://github.com/tensorflow/agents) - TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
-- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.
+- [crweiner/hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
 - [linssen/country-flag-icons](https://github.com/linssen/country-flag-icons) - ISO country flags with licensing information
 - [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [ipython/ipykernel](https://github.com/ipython/ipykernel) - IPython Kernel for Jupyter
