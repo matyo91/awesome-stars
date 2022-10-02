@@ -1849,7 +1849,7 @@
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [sunjay/turtle](https://github.com/sunjay/turtle) - Create Animated Drawings in Rust
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [awoimbee/sf4_updater](https://github.com/awoimbee/sf4_updater) - Helper for migrating from symfony 3 to symfony 4. Scans and removes deprecations
 - [awoimbee/rsr](https://github.com/awoimbee/rsr) - Recursive Search & Replace, as fast as possible. Saves lots of time on large repositories.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
