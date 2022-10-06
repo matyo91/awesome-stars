@@ -336,7 +336,7 @@
 - [symfony-cli/terminal](https://github.com/symfony-cli/terminal) - 
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro Services
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [egonelbre/flow-based-programming](https://github.com/egonelbre/flow-based-programming) - Examples on different options for implementing Flow Based Programming
 - [jpaulm/gofbp](https://github.com/jpaulm/gofbp) - This repo is an FBP implementation written in Go that follows pretty closely the logic of JavaFBP and C#FBP, taking advantage of Go's "goroutines"
@@ -1961,6 +1961,7 @@
 
 ## TypeScript 
 
+- [tanishq-singh-2301/tic-tac-toe-readme](https://github.com/tanishq-singh-2301/tic-tac-toe-readme) - Play tic tac toe in repo's readme 😮.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
