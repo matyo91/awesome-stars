@@ -1154,6 +1154,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Zoom
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [GrahamCampbell/Result-Type](https://github.com/GrahamCampbell/Result-Type) - An implementation of the result type
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - :abc: Microtypography fixer for the web
@@ -1170,6 +1171,8 @@
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+- [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ivan-dalmet/formiz](https://github.com/ivan-dalmet/formiz) - 🐜   React forms with ease! Composable, headless & with built-in multi steps
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses
@@ -1221,6 +1224,8 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [pestphp/pest-intellij](https://github.com/pestphp/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
+- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [gatsbyjs/desktop](https://github.com/gatsbyjs/desktop) - 
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
@@ -2490,7 +2495,6 @@
 - [awoimbee-42/wolf3d](https://github.com/awoimbee-42/wolf3d) - Raycaster (Wolfenstein 3D style)
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
-- [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [julie-desvaux/react_pokedex](https://github.com/julie-desvaux/react_pokedex) - Pokedex en React
 - [awoimbee-42/n-puzzle](https://github.com/awoimbee-42/n-puzzle) - clone of https://github.com/igorgarbuz/n-puzzle
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
