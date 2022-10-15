@@ -295,7 +295,7 @@
 
 - [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
 - [fenix-hub/godot-engine.supabase-ui](https://github.com/fenix-hub/godot-engine.supabase-ui) - UI library for Supabase in Godot Engine
-- [fenix-hub/godot-engine.supabase](https://github.com/fenix-hub/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
+- [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
 - [wesnoth/haldric](https://github.com/wesnoth/haldric) - Wesnoth 2.0, being developed in the Godot engine.
 - [GDQuest/godot-open-rpg](https://github.com/GDQuest/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [btzr-io/gwj-26](https://github.com/btzr-io/gwj-26) - 
@@ -2067,7 +2067,7 @@
 - [evanpurkhiser/prolink-connect](https://github.com/evanpurkhiser/prolink-connect) - A Typescript / JavaScript library that is able to talk to Pioneer PROLINK enabled DJ equipment
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
-- [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API 😋
+- [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
