@@ -1015,6 +1015,7 @@
 
 ## go 
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
@@ -1959,6 +1960,7 @@
 
 ## others 
 
+- [Girgias/PHP-Type-System-Talk-FR-](https://github.com/Girgias/PHP-Type-System-Talk-FR-) - French version of my talk about PHP's Type System
 - [tanishq-singh-2301/tic-tac-toe-readme](https://github.com/tanishq-singh-2301/tic-tac-toe-readme) - Play tic tac toe in repo's readme 😮.
 - [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP. Expect the list to grow over time.
 - [oransel/node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
@@ -2899,6 +2901,7 @@
 
 ## php 
 
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
 - [symfony/clock](https://github.com/symfony/clock) - Decouples applications from the system clock
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
