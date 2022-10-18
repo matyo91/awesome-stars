@@ -237,7 +237,7 @@
 ## Clojure 
 
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [commsor/titanoboa-sample-workflows](https://github.com/commsor/titanoboa-sample-workflows) - Sample workflows for titanoboa
 - [commsor/titanoboa-tasklets](https://github.com/commsor/titanoboa-tasklets) - ready-made workflow steps for titanoboa
 - [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
@@ -330,7 +330,7 @@
 - [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
-- [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
+- [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [madflojo/tarmac](https://github.com/madflojo/tarmac) - Framework for building distributed services with Web Assembly
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l'instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider
@@ -1743,7 +1743,7 @@
 - [bijection/sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
 - [evanpurkhiser/cdj-trackload-broadcast](https://github.com/evanpurkhiser/cdj-trackload-broadcast) - Small python script to broadcast over Websockets when tracks are loaded from Rekordbox into Pioneer CDJs
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [fogleman/PirateMap](https://github.com/fogleman/PirateMap) - Procedurally generate pirate treasure maps.
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
