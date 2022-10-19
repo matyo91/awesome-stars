@@ -965,7 +965,6 @@
 - [priximmo/sommaire-xavki-devops-fr](https://github.com/priximmo/sommaire-xavki-devops-fr) - 
 - [codacy/tools-for-code-review-engineers](https://github.com/codacy/tools-for-code-review-engineers) - A list of tools to improve the git workflow for code review engineers.
 - [steeve/france.code-civil](https://github.com/steeve/france.code-civil) - Le code civil français sous git
-- [gjthompson1/glue-public](https://github.com/gjthompson1/glue-public) - :fire: Data pipeline and automation tool.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
