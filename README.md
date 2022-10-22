@@ -649,7 +649,7 @@
 - [LAB-MI/attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020) - attestation-deplacement-derogatoire-q4-2020 public
 - [naholyr/attestation-deplacement-derogatoire-q4-2020](https://github.com/naholyr/attestation-deplacement-derogatoire-q4-2020) - attestation-deplacement-derogatoire-q4-2020 public
 - [format-message/format-message](https://github.com/format-message/format-message) - Internationalization Made Easy
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [samcus/clearbit-logo](https://github.com/samcus/clearbit-logo) - Clearbit Logo API in Nodejs
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [LePetitBloc/LePetitBloc](https://github.com/LePetitBloc/LePetitBloc) - :newspaper: LePetitBloc Website
