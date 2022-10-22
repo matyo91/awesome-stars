@@ -915,6 +915,7 @@
 
 ## game 
 
+- [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
 - [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++17 game engine built to make optimal use of modern hardware.
 - [ogizanagi/shiningame](https://github.com/ogizanagi/shiningame) - Shiny little extracts from enjoyable games ✨ 🎮  🌅
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
@@ -1132,6 +1133,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
@@ -1177,6 +1179,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ivan-dalmet/formiz](https://github.com/ivan-dalmet/formiz) - 🐜   React forms with ease! Composable, headless & with built-in multi steps
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [intuit/design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -2404,7 +2407,7 @@
 - [hamlet-framework/type](https://github.com/hamlet-framework/type) - Hamlet Framework / Type
 - [Behatch/contexts](https://github.com/Behatch/contexts) - Behat extension with most custom helper steps
 - [FriendsOfBehat/PageObjectExtension](https://github.com/FriendsOfBehat/PageObjectExtension) - :pager: Default classes for Page object pattern in Behat
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [nomuq/nextjs-tailwind-example](https://github.com/nomuq/nextjs-tailwind-example) - 
 - [nomuq/martialscans](https://github.com/nomuq/martialscans) - 
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
