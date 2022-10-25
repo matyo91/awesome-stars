@@ -989,7 +989,7 @@
 - [edbentley/miniscript-rfc](https://github.com/edbentley/miniscript-rfc) - An RFC that proposes an idea for a new open source programming language called MiniScript
 - [RvNovae/rvnovae](https://github.com/RvNovae/rvnovae) - 
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "locked and limited conversation to collaborators"
+- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked as resolved and limited to collaborators."
 - [marmelab/argos-cli](https://github.com/marmelab/argos-cli) - 
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
@@ -1657,7 +1657,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sebastianhaberey/ctax](https://github.com/sebastianhaberey/ctax) - Crypto currency tax calculator
 - [mikepound/mazesolving](https://github.com/mikepound/mazesolving) - A variety of algorithms to solve mazes from an input image
-- [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - This repository hosts the free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/
+- [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/WvcSG55Bf3
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
 - [symfony-cmf/routing-docs](https://github.com/symfony-cmf/routing-docs) - Symfony bundle to provide the CMF chain router to handle multiple routers, and the dynamic router to load routes from a database or other sources.
