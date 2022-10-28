@@ -533,7 +533,7 @@
 - [glayzzle/php-parser](https://github.com/glayzzle/php-parser) - :herb: NodeJS PHP Parser - extract AST or tokens
 - [CodingTrain/Wave-Function-Collapse](https://github.com/CodingTrain/Wave-Function-Collapse) - 
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [sanctuary-js/sanctuary-maybe](https://github.com/sanctuary-js/sanctuary-maybe) - :rainbow: Fantasy Land -compliant Maybe type
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -1448,7 +1448,7 @@
 - [FriendsOfPHP/uprofiler](https://github.com/FriendsOfPHP/uprofiler) - [NOT MAINTAINED ANYMORE] Lightweight profiler for PHP (based on facebook/xhprof) -- use Blackfire instead
 - [symfonycorp/connect](https://github.com/symfonycorp/connect) - The SymfonyConnect official API SDK
 - [symfony/translation](https://github.com/symfony/translation) - The Translation component provides tools to internationalize your application.
-- [auth0/jwt-auth-bundle](https://github.com/auth0/jwt-auth-bundle) - JWT Authentication Bundle for Symfony REST APIs
+- [auth0/jwt-auth-bundle](https://github.com/auth0/jwt-auth-bundle) - Symfony SDK for Auth0 Authentication and Management APIs.
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs
 - [jgrossi/elephpant.me](https://github.com/jgrossi/elephpant.me) - 🐘 a simple website to help you to trade elePHPants 💥
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
