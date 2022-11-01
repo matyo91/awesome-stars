@@ -3182,7 +3182,7 @@
 - [dg/MySQL-dump](https://github.com/dg/MySQL-dump) - MySQL Dump Utility
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [symfony/mime](https://github.com/symfony/mime) - The MIME component allows manipulating MIME types.
-- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
+- [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
@@ -3556,7 +3556,7 @@
 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro Services
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services gateway
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [mnapoli/serverless-pdf-generator](https://github.com/mnapoli/serverless-pdf-generator) - Serverless PDF generator
