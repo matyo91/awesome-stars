@@ -90,6 +90,7 @@
 
 ## C 
 
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [oransel/node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
@@ -327,6 +328,7 @@
 
 ## Go 
 
+- [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1171,7 +1173,7 @@
 - [Roave/psr-container-doctrine](https://github.com/Roave/psr-container-doctrine) - Doctrine Factories for PSR-11 Containers
 - [shopsys/shopsys](https://github.com/shopsys/shopsys) - Main repository for maintaining Shopsys Framework packages. Open for ISSUES and PULL REQUESTS.
 - [streamcommon/promise](https://github.com/streamcommon/promise) - PHP Promises/A+ implementation
-- [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) - Kimai v2 is a web-based multiuser time-tracking application. Free for everyone: freelancers, agencies, companies, organizations - all can track their times, generate invoices and more. SaaS version av
+- [kevinpapst/kimai2](https://github.com/kevinpapst/kimai2) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Provides Fake Chat integration for Symfony Notifier.
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses
@@ -1790,6 +1792,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rust-console/gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
