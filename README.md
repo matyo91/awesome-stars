@@ -1630,7 +1630,7 @@
 - [smalot/pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
 - [kasperisager/php-dockerized](https://github.com/kasperisager/php-dockerized) - Dockerized PHP development stack: Nginx, MySQL, MongoDB, PHP-FPM, HHVM, Memcached, Redis, Elasticsearch and RabbitMQ
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Platform on Symfony
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [asm89/twig-cache-extension](https://github.com/asm89/twig-cache-extension) - The missing cache extension for Twig. Caching template fragments with Twig.
 - [Kunstmaan/KunstmaanAdminBundle](https://github.com/Kunstmaan/KunstmaanAdminBundle) - [READ-ONLY] Subtree split of the Kunstmaan AdminBundle -- master at Kunstmaan/KunstmaanBundlesCMS
 
@@ -2069,7 +2069,7 @@
 - [evanpurkhiser/prolink-connect](https://github.com/evanpurkhiser/prolink-connect) - A Typescript / JavaScript library that is able to talk to Pioneer PROLINK enabled DJ equipment
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
-- [Bearer/Pizzly](https://github.com/Bearer/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
