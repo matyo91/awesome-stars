@@ -1967,6 +1967,7 @@
 
 ## others 
 
+- [MarionLeHerisson/validation](https://github.com/MarionLeHerisson/validation) - Exemples et tests pour la conférence "Comment valider dynamiquement de la donnée"
 - [SwissBorg/pub](https://github.com/SwissBorg/pub) - Public Information
 - [Girgias/PHP-Type-System-Talk-FR-](https://github.com/Girgias/PHP-Type-System-Talk-FR-) - French version of my talk about PHP's Type System
 - [tanishq-singh-2301/tic-tac-toe-readme](https://github.com/tanishq-singh-2301/tic-tac-toe-readme) - Play tic tac toe in repo's readme 😮.
@@ -2909,6 +2910,7 @@
 
 ## php 
 
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
@@ -3969,6 +3971,7 @@
 
 ## vim 
 
+- [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
