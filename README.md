@@ -1057,6 +1057,7 @@
 
 ## PHP 
 
+- [b-viguier/php-emoji](https://github.com/b-viguier/php-emoji) - 
 - [schranz-php-recipes/sylius-recipes-php](https://github.com/schranz-php-recipes/sylius-recipes-php) - Provides https://github.com/sylius/syliusrecipes as PHP instead of YAML configs.
 - [prismamedia/metrics](https://github.com/prismamedia/metrics) - Symfony bundle to expose your own metrics to Prometheus
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
