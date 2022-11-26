@@ -1057,6 +1057,8 @@
 
 ## PHP 
 
+- [igorw/brainfuck-php](https://github.com/igorw/brainfuck-php) - Brainfuck implementation.
+- [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book "The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer" by Jamis Buck.
 - [b-viguier/php-emoji](https://github.com/b-viguier/php-emoji) - 
 - [schranz-php-recipes/sylius-recipes-php](https://github.com/schranz-php-recipes/sylius-recipes-php) - Provides https://github.com/sylius/syliusrecipes as PHP instead of YAML configs.
 - [prismamedia/metrics](https://github.com/prismamedia/metrics) - Symfony bundle to expose your own metrics to Prometheus
@@ -1798,6 +1800,7 @@
 
 ## Rust 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rust-console/gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
 - [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen) - A language binding generator for WebAssembly interface types
