@@ -921,6 +921,7 @@
 
 ## Others 
 
+- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [SwissBorg/pub](https://github.com/SwissBorg/pub) - Public Information
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
@@ -1057,6 +1058,7 @@
 
 ## PHP 
 
+- [ergebnis/clock](https://github.com/ergebnis/clock) - :alarm_clock: Provides a simple abstraction of a clock.
 - [igorw/brainfuck-php](https://github.com/igorw/brainfuck-php) - Brainfuck implementation.
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book "The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer" by Jamis Buck.
 - [b-viguier/php-emoji](https://github.com/b-viguier/php-emoji) - 
