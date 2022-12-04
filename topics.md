@@ -1983,6 +1983,7 @@
 
 ## others 
 
+- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Advent Of Code 2022
 - [google/mangle](https://github.com/google/mangle) - 
 - [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) - List of resources for asynchronous programming in PHP
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) - 
