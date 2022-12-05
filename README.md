@@ -1063,7 +1063,7 @@
 
 ## PHP 
 
-- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Advent Of Code 2022
+- [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [ergebnis/clock](https://github.com/ergebnis/clock) - :alarm_clock: Provides a simple abstraction of a clock.
 - [igorw/brainfuck-php](https://github.com/igorw/brainfuck-php) - Brainfuck implementation.
@@ -1896,6 +1896,7 @@
 
 ## Shell 
 
+- [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
