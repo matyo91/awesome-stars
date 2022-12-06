@@ -1063,6 +1063,7 @@
 
 ## PHP 
 
+- [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - Reactive extensions for PHP
 - [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [ergebnis/clock](https://github.com/ergebnis/clock) - :alarm_clock: Provides a simple abstraction of a clock.
