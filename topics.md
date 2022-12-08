@@ -93,6 +93,7 @@
 - [gulp](#gulp)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
@@ -461,6 +462,7 @@
 
 ## c 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
@@ -593,6 +595,7 @@
 
 ## cpp 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [angeluriot/Galaxy_simulation](https://github.com/angeluriot/Galaxy_simulation) - An n-body type simulation using GPU acceleration to simulate galaxies, galaxy collisions and expanding universes.
@@ -826,6 +829,7 @@
 
 ## elixir 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [antonmi/ALF](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -1037,6 +1041,7 @@
 
 ## go 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
@@ -1325,6 +1330,10 @@
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 
+## haskell 
+
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+
 ## homebrew 
 
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
@@ -1422,6 +1431,7 @@
 
 ## javascript 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
@@ -1863,6 +1873,7 @@
 
 ## node 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -3293,6 +3304,7 @@
 
 ## python 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/WvcSG55Bf3
@@ -3490,6 +3502,7 @@
 
 ## ruby 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [flexbox/davidl](https://github.com/flexbox/davidl) - 💎 Designer & front-end developer website
 - [flexbox/classroom](https://github.com/flexbox/classroom) - 👉  Let's build together our own classroom HQ
 - [flexbox/codeless](https://github.com/flexbox/codeless) - 🚚✨ Advanced Middleman template with Sass, Slim & Yarn
@@ -3505,6 +3518,7 @@
 
 ## rust 
 
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
