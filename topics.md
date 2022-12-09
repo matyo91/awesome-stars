@@ -2951,6 +2951,7 @@
 
 ## php 
 
+- [IngeniozIT/psr-container-edict](https://github.com/IngeniozIT/psr-container-edict) - Easy DI ConTainer is a slim, PSR 11, framework-agnostic dependency injection container.
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
