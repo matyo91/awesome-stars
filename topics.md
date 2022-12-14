@@ -464,7 +464,7 @@
 
 ## c 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
 - [vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
@@ -597,7 +597,7 @@
 
 ## cpp 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [angeluriot/Galaxy_simulation](https://github.com/angeluriot/Galaxy_simulation) - An n-body type simulation using GPU acceleration to simulate galaxies, galaxy collisions and expanding universes.
@@ -625,7 +625,7 @@
 
 ## csharp 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
@@ -812,7 +812,7 @@
 
 ## dotnet 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 
 ## electron 
 
@@ -836,7 +836,7 @@
 
 ## elixir 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [antonmi/ALF](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -1048,7 +1048,7 @@
 
 ## go 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
@@ -1184,7 +1184,6 @@
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [l3mpire/lemverse](https://github.com/l3mpire/lemverse) - The first-ever coworking metaverse
 - [afsy/website](https://github.com/afsy/website) - 👩‍💻👨‍💻 afsy.fr website ✨
-- [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/WvcSG55Bf3
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration) - Discord rich presence integration for all JetBrains IDEs
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -1339,7 +1338,7 @@
 
 ## haskell 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 
 ## homebrew 
 
@@ -1428,7 +1427,7 @@
 
 ## java 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [jpaulm/javafbp](https://github.com/jpaulm/javafbp) - Java Implementation of Flow-Based Programming (FBP)
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
@@ -1440,7 +1439,7 @@
 
 ## javascript 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
@@ -1883,7 +1882,7 @@
 
 ## node 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -3315,7 +3314,7 @@
 
 ## python 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/WvcSG55Bf3
@@ -3515,7 +3514,7 @@
 
 ## ruby 
 
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [flexbox/davidl](https://github.com/flexbox/davidl) - 💎 Designer & front-end developer website
 - [flexbox/classroom](https://github.com/flexbox/classroom) - 👉  Let's build together our own classroom HQ
 - [flexbox/codeless](https://github.com/flexbox/codeless) - 🚚✨ Advanced Middleman template with Sass, Slim & Yarn
@@ -3532,7 +3531,7 @@
 ## rust 
 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A PHP parser for Rust.
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly.
+- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -3916,7 +3915,6 @@
 ## tensorflow 
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the Tournesol platform. Learn more about the project on our Wiki https://wiki.tournesol.app/ or meet the community on Discord https://discord.gg/WvcSG55Bf3
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [tensorflow/agents](https://github.com/tensorflow/agents) - TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
