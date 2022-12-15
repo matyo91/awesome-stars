@@ -65,6 +65,7 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
@@ -167,7 +168,6 @@
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++17 game engine built to make optimal use of modern hardware.
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
@@ -629,7 +629,7 @@
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [jpetitcolas/advent-of-code](https://github.com/jpetitcolas/advent-of-code) - List of solutions for Advent of Code
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [b-viguier/WebMidiPiano](https://github.com/b-viguier/WebMidiPiano) - :musical_keyboard: Online On-Screen Midi Piano
@@ -1969,6 +1969,10 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [evanpurkhiser/magnetic](https://github.com/evanpurkhiser/magnetic) - An iOS app to send magnet links and torrent files to a Transmission server
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+
+## Tcl 
+
+- [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++17 game engine built to make optimal use of modern hardware.
 
 ## TeX 
 
