@@ -210,7 +210,7 @@
 ## 3d 
 
 - [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
-- [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
+- [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## ai 
@@ -970,7 +970,7 @@
 
 - [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++17 game engine built to make optimal use of modern hardware.
 - [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
-- [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - :dromedary_camel: Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.
+- [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [GDQuest/godot-open-rpg](https://github.com/GDQuest/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
