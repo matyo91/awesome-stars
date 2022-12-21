@@ -1199,7 +1199,7 @@
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
 - [composer/metadata-minifier](https://github.com/composer/metadata-minifier) - Small utility library that handles metadata minification and expansion.
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
-- [darkwood-fr/railway-fbp](https://github.com/darkwood-fr/railway-fbp) - Railway Flow Based Programming
+- [darkwood-fr/flow](https://github.com/darkwood-fr/flow) - 💧Flow
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [SimpleBus/SimpleBus](https://github.com/SimpleBus/SimpleBus) - Main repository of SimpleBus
 - [zairigimad/messagebird](https://github.com/zairigimad/messagebird) - MessageBird Symfony Notifier Bridge
