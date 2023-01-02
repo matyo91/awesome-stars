@@ -155,6 +155,7 @@
 
 ## C++ 
 
+- [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1486,7 +1487,7 @@
 - [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) - Doctrine2 behavior traits that help handling Blameable, Loggable, Sluggable, SoftDeletable, Uuidable, Timestampable, Translatable, Tree behavior
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
-- [symfony/security](https://github.com/symfony/security) - The Security component provides a complete security system for your web application.
+- [symfony/security](https://github.com/symfony/security) - [DEPRECATED] The Security component provides a complete security system for your web application.
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
 - [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - A set of HTTP client abstractions extracted out of the Symfony components
@@ -1504,7 +1505,7 @@
 - [webmozarts/assert](https://github.com/webmozarts/assert) - Assertions to validate method input/output with nice error messages.
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 - [symfony/yaml](https://github.com/symfony/yaml) - The Yaml component loads and dumps YAML files.
-- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web server such as
+- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - [DEPRECATED] WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web s
 - [symfony/web-link](https://github.com/symfony/web-link) - The WebLink component manages links between resources. It is particularly useful to advise clients to preload and prefetch documents through HTTP and HTTP/2 pushes.
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__w
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().
