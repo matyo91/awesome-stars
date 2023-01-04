@@ -1144,7 +1144,7 @@
 - [Ocramius/LazyMap](https://github.com/Ocramius/LazyMap) - :rainbow: A lazy-initializing high performance service map
 - [phabelio/phabel](https://github.com/phabelio/phabel) - PHP transpiler - Write and deploy modern PHP 8 code, today.
 - [mrsuh/php-generics](https://github.com/mrsuh/php-generics) - PHP generics written in PHP
-- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Zoom
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [GrahamCampbell/Result-Type](https://github.com/GrahamCampbell/Result-Type) - An implementation of the result type
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - :abc: Microtypography fixer for the web
