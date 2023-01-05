@@ -1066,7 +1066,8 @@
 
 ## PHP 
 
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - Most downloaded, forked, contributed, huge community supported, and used (Laravel, PHP or any framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming.
+- [b-viguier/PhpFk](https://github.com/b-viguier/PhpFk) - Writing PHP with only 8 characters
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like stre
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - ReactPHP's core reactor event loop that libraries can use for evented I/O.
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
