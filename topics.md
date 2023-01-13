@@ -2520,7 +2520,6 @@
 - [JMLamodiere/jmlamo.net](https://github.com/JMLamodiere/jmlamo.net) - Personal website, for demo purpose
 - [flexbox/hoooooo.fr](https://github.com/flexbox/hoooooo.fr) - A cool website to trap your friends
 - [flexbox/community-starter-kit](https://github.com/flexbox/community-starter-kit) - 
-- [flexbox/captainautomation](https://github.com/flexbox/captainautomation) - Worshops about automation
 - [flexbox/starter-express](https://github.com/flexbox/starter-express) - Starter project for using Remix with Express
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [wouterj/psalm-reproducer](https://github.com/wouterj/psalm-reproducer) - 
