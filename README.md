@@ -671,7 +671,6 @@
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [LePetitBloc/LePetitBloc](https://github.com/LePetitBloc/LePetitBloc) - :newspaper: LePetitBloc Website
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
-- [flexbox/captainautomation](https://github.com/flexbox/captainautomation) - Worshops about automation
 - [flexbox/starter-express](https://github.com/flexbox/starter-express) - Starter project for using Remix with Express
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [monsieurluge/typing-test](https://github.com/monsieurluge/typing-test) - A distraction free and minimalistic typing test
