@@ -908,6 +908,7 @@
 - [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [cben/mathdown](https://github.com/cben/mathdown) - Collaborative markdown with math
 
@@ -1670,7 +1671,7 @@
 
 ## laravel 
 
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like stre
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [web-id-fr/radis](https://github.com/web-id-fr/radis) - 🍥 R.A.D.I.S. — Review Apps Deployed In Seconds
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
@@ -2993,7 +2994,7 @@
 - [openswoole/swoole-src](https://github.com/openswoole/swoole-src) - Programmatic server for PHP with async IO, coroutines and fibers
 - [b-viguier/PhpFk](https://github.com/b-viguier/PhpFk) - Writing PHP with only 6 characters
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like stre
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - ReactPHP's core reactor event loop that libraries can use for evented I/O.
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
@@ -3015,7 +3016,7 @@
 - [amphp/websocket](https://github.com/amphp/websocket) - Shared code for websocket servers and clients.
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
-- [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Mono-repo Symfony skeleton for multi-application
+- [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR code generator and reader with a user friendly API. PHP 7.4+
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
@@ -3760,14 +3761,14 @@
 ## symfony 
 
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like stre
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
 - [symfony/clock](https://github.com/symfony/clock) - Decouples applications from the system clock
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [a2lix/TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Ease translations with some dedicated Symfony form types
 - [symfony/ux-react](https://github.com/symfony/ux-react) - Integrates React into Symfony applications
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
-- [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Mono-repo Symfony skeleton for multi-application
+- [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
 - [symfony-cmf/routing-bundle](https://github.com/symfony-cmf/routing-bundle) - Symfony bundle to provide the CMF chain router to handle multiple routers, and the dynamic router to load routes from a database or other sources.
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
