@@ -1076,7 +1076,7 @@
 - [openswoole/core](https://github.com/openswoole/core) - OpenSwoole core library [READ ONLY]
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
 - [b-viguier/PhpFk](https://github.com/b-viguier/PhpFk) - Writing PHP with only 6 characters
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like stre
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged PHP API client that allows you to interact with OpenAI API.
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - ReactPHP's core reactor event loop that libraries can use for evented I/O.
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
@@ -1118,7 +1118,7 @@
 - [symfony/ux-react](https://github.com/symfony/ux-react) - Integrates React into Symfony applications
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [soyuka/esql](https://github.com/soyuka/esql) - PHP Extended SQL
-- [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Mono-repo Symfony skeleton for multi-application
+- [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
 - [ecphp/cas-bundle](https://github.com/ecphp/cas-bundle) - CAS Bundle, a standard Symfony bundle for authentication using CAS protocol.
 - [drupol/symfony-demo](https://github.com/drupol/symfony-demo) - Symfony Demo Application
 - [symfony-cmf/routing-bundle](https://github.com/symfony-cmf/routing-bundle) - Symfony bundle to provide the CMF chain router to handle multiple routers, and the dynamic router to load routes from a database or other sources.
