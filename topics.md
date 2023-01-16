@@ -629,7 +629,7 @@
 
 ## csharp 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, high-performance, and 100% open-source platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc.
+- [featbit/featbit](https://github.com/featbit/featbit) - A 100% open-source feature flags management platform
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -821,7 +821,7 @@
 
 ## dotnet 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, high-performance, and 100% open-source platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc.
+- [featbit/featbit](https://github.com/featbit/featbit) - A 100% open-source feature flags management platform
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 
 ## electron 
@@ -3354,7 +3354,7 @@
 ## python 
 
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, high-performance, and 100% open-source platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc.
+- [featbit/featbit](https://github.com/featbit/featbit) - A 100% open-source feature flags management platform
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
@@ -4014,7 +4014,7 @@
 ## typescript 
 
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, high-performance, and 100% open-source platform that empowers all teams to manage Feature Flags, Experimentations, Entitlement, etc.
+- [featbit/featbit](https://github.com/featbit/featbit) - A 100% open-source feature flags management platform
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
