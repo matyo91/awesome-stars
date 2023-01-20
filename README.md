@@ -475,7 +475,6 @@
 - [GetLuko/Covid19-French-Auth](https://github.com/GetLuko/Covid19-French-Auth) - 
 - [vanoix/vanoix.com](https://github.com/vanoix/vanoix.com) - Vanoix's Amazing Website
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project
-- [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [doctrine/sql-formatter](https://github.com/doctrine/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [twigphp/twig-perf](https://github.com/twigphp/twig-perf) - 
@@ -606,7 +605,7 @@
 - [thecodingmachine/workadventure-php-community-map](https://github.com/thecodingmachine/workadventure-php-community-map) - A map for the PHP community on WorkAdventure
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
 - [yoannfleurydev/comments-on-stream](https://github.com/yoannfleurydev/comments-on-stream) - 
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
 - [Yousign/blog](https://github.com/Yousign/blog) - Yousign par ceux qui le construisent
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [Noleli/EncodeMightyThings](https://github.com/Noleli/EncodeMightyThings) - 
@@ -1032,6 +1031,7 @@
 - [getsentry/sentry-php-sdk](https://github.com/getsentry/sentry-php-sdk) - This is a meta package to ship sentry-php with a recommend http client.
 - [UnrealEngineHTML5/Documentation](https://github.com/UnrealEngineHTML5/Documentation) - 
 - [SymfonyLive/paris-2020-talks](https://github.com/SymfonyLive/paris-2020-talks) - 
+- [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [TwanBox/TwanBox](https://github.com/TwanBox/TwanBox) - profile readme
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs...
