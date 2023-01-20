@@ -1234,7 +1234,7 @@
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme with Theme Kit on GitHub Actions
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
 - [yoannfleurydev/GitHub-Notifications](https://github.com/yoannfleurydev/GitHub-Notifications) - 🔔 Get GitHub's notifications directly on your Mac Status Bar
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
