@@ -810,6 +810,7 @@
 
 ## documentation 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
@@ -1687,6 +1688,7 @@
 
 ## learning 
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP
 
 ## library 
@@ -2026,6 +2028,7 @@
 
 ## others 
 
+- [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 - [GromNaN/s3-zip](https://github.com/GromNaN/s3-zip) - Read partial ZIP on S3 (PHP)
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Attempts to get NixOS up on M1 Macs.
