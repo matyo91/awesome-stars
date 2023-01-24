@@ -2031,7 +2031,7 @@
 - [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 - [GromNaN/s3-zip](https://github.com/GromNaN/s3-zip) - Read partial ZIP on S3 (PHP)
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
-- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Attempts to get NixOS up on M1 Macs.
+- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [flexbox/react-native-template-obytes](https://github.com/flexbox/react-native-template-obytes) - 📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,TailwindCSS, Husky, Lint-Staged, react-navigation, react-query, react-hook-form
 - [phpcr/phpcr](https://github.com/phpcr/phpcr) - Port of the Java Content Repository (JCR) to PHP.
@@ -2402,7 +2402,7 @@
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
 - [darkwood-fr/dj-stream](https://github.com/darkwood-fr/dj-stream) - 🎛 Setup for DJ to stream online
 - [rust-lang/foundation-faq-2020](https://github.com/rust-lang/foundation-faq-2020) - Have questions on the Rust Foundation? Ask here!
-- [jainromil56/Notes-App](https://github.com/jainromil56/Notes-App) - Note taking app build with node.js
+- [romiljain5/Notes-App](https://github.com/romiljain5/Notes-App) - Note taking app build with node.js
 - [jnavarro7/pineeye_for_pinephone](https://github.com/jnavarro7/pineeye_for_pinephone) - Thermal imaging board aimed to be used with the PinePhone.
 - [brunoimbrizi/triangle-wasm](https://github.com/brunoimbrizi/triangle-wasm) - Javascript wrapper around Triangle - A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator
 - [tuupola/base58](https://github.com/tuupola/base58) - Base58 encoder and decoder for arbitrary data
