@@ -1499,7 +1499,7 @@
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) - Stimulus integration bridge for Symfony projects
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -3816,7 +3816,7 @@
 - [web-auth/symfony-demo](https://github.com/web-auth/symfony-demo) - Demo Application using Symfony 5, Bootstrap 4 and Webauthn
 - [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) - Stimulus integration bridge for Symfony projects
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [BitBagCommerce/SyliusElasticsearchPlugin](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin) - Elasticsearch integration for Sylius apps.
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) - :musical_score: Extension integrating Behat with Symfony.
 - [the-fast-track/book-5.0-5](https://github.com/the-fast-track/book-5.0-5) - The Symfony 5 book source: The Fast Track
