@@ -292,7 +292,7 @@
 - [Taluu/Behapi](https://github.com/Taluu/Behapi) - Behat extension for those who want to write acceptances tests for apis
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
@@ -1248,7 +1248,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [liuggio/fastest](https://github.com/liuggio/fastest) - Simple parallel testing execution... with some goodies for functional tests.
 - [satishbabariya/swift-boilerplate](https://github.com/satishbabariya/swift-boilerplate) - Clean Architecture for iOS projects (Swift + Programmatically UI + MVC + RxSwift + Auto Layout Visual Format + REST + JWT)
 - [nomuq/restyjs-example](https://github.com/nomuq/restyjs-example) - 
@@ -1510,7 +1510,7 @@
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [format-message/format-message](https://github.com/format-message/format-message) - Internationalization Made Easy
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -1938,7 +1938,7 @@
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
@@ -2028,6 +2028,7 @@
 
 ## others 
 
+- [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
 - [GromNaN/s3-zip](https://github.com/GromNaN/s3-zip) - Read partial ZIP on S3 (PHP)
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
@@ -3325,7 +3326,7 @@
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -3454,7 +3455,7 @@
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [LePetitBloc/LePetitBloc](https://github.com/LePetitBloc/LePetitBloc) - :newspaper: LePetitBloc Website
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
@@ -4047,7 +4048,7 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - A JavaScript playground that auto-evaluates as you type
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
-- [NangoHQ/Pizzly](https://github.com/NangoHQ/Pizzly) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
