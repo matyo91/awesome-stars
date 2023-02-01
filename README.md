@@ -391,6 +391,7 @@
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [liamg/gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -474,7 +475,6 @@
 - [GetLuko/Covid19-French-Auth](https://github.com/GetLuko/Covid19-French-Auth) - 
 - [vanoix/vanoix.com](https://github.com/vanoix/vanoix.com) - Vanoix's Amazing Website
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [doctrine/sql-formatter](https://github.com/doctrine/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
 - [twigphp/twig-perf](https://github.com/twigphp/twig-perf) - 
@@ -609,7 +609,6 @@
 - [Yousign/blog](https://github.com/Yousign/blog) - Yousign par ceux qui le construisent
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [Noleli/EncodeMightyThings](https://github.com/Noleli/EncodeMightyThings) - 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [TomerAberbach/grfn](https://github.com/TomerAberbach/grfn) - 🦅 A tiny (~400B) utility that executes a dependency graph of async functions as concurrently as possible.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -723,7 +722,6 @@
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [facebookarchive/flow-language-server](https://github.com/facebookarchive/flow-language-server) - An implementation of the Language Server Protocol for Flow
 - [cantino/chrome_pipe](https://github.com/cantino/chrome_pipe) - A Chrome extension experiment with JavaScript UNIXy pipes
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [gatsbyjs/gatsby-fr](https://github.com/gatsbyjs/gatsby-fr) - French translation of Gatsbyjs.org
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
@@ -879,6 +877,7 @@
 
 - [javanile/springboard](https://github.com/javanile/springboard) - 🌈 Your project's first place
 - [slashfan/docker-supervisor-php-workers](https://github.com/slashfan/docker-supervisor-php-workers) - Starting point configuration for running (PHP) workers inside Docker containers with Supervisor.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [soyuka/php-wasm](https://github.com/soyuka/php-wasm) - PHP WebAssembly binaries. Original Project by Oraoto and Sean Morris.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 
@@ -898,7 +897,7 @@
 
 ## Nix 
 
-- [tpwrules/nixos-m1](https://github.com/tpwrules/nixos-m1) - Resources to install NixOS bare metal on Apple Silicon Macs
+- [tpwrules/nixos-apple-silicon](https://github.com/tpwrules/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [drupol/latex-letter](https://github.com/drupol/latex-letter) - 
 - [drupol/nixos-x260](https://github.com/drupol/nixos-x260) - Contains the configuration of every home computers
@@ -1260,7 +1259,7 @@
 - [symfony/messenger](https://github.com/symfony/messenger) - The Messenger component helps application send and receive messages to/from other applications or via message queues.
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Provides Doctrine integration for Symfony Messenger
 - [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Provides AMQP integration for Symfony Messenger
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrades rules for Symfony Framework
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [estvoyage/phpTour2015](https://github.com/estvoyage/phpTour2015) - 
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
@@ -2165,6 +2164,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [rapid-sensemaking-framework/noflo-rsf](https://github.com/rapid-sensemaking-framework/noflo-rsf) - ENTER HERE, and README.  the Rapid Sensemaking Framework is designed for cross-platform, cross-protocol social processes of ideation and structured conversation! Design it, run it, harvest it.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [algolia/npm-search](https://github.com/algolia/npm-search) - 🗿 npm ↔️ Algolia replication tool :skier: :snail: :artificial_satellite:
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
