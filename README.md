@@ -2119,7 +2119,7 @@
 - [evanpurkhiser/prolink-connect](https://github.com/evanpurkhiser/prolink-connect) - A Typescript / JavaScript library that is able to talk to Pioneer PROLINK enabled DJ equipment
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The simplest, fastest way to integrate your app with an OAuth API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
