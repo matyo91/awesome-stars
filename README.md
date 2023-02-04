@@ -119,7 +119,6 @@
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [awoimbee-42/wolf3d](https://github.com/awoimbee-42/wolf3d) - Raycaster (Wolfenstein 3D style)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -914,6 +913,7 @@
 ## Objective-C 
 
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
+- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [streamcloudapp/StreamCloud](https://github.com/streamcloudapp/StreamCloud) - An open source Mac OS X player for SoundCloud
