@@ -1264,7 +1264,7 @@
 - [estvoyage/phpTour2015](https://github.com/estvoyage/phpTour2015) - 
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
-- [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You'll love the toolkits here! :)
+- [symplify/symplify](https://github.com/symplify/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [turanct/railway](https://github.com/turanct/railway) - :train: Railway Oriented Programming in PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
