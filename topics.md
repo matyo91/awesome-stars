@@ -3080,7 +3080,7 @@
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
-- [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You'll love the toolkits here! :)
+- [symplify/symplify](https://github.com/symplify/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
@@ -3813,7 +3813,7 @@
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
-- [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You'll love the toolkits here! :)
+- [symplify/symplify](https://github.com/symplify/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
 - [dunglas/DunglasTorControlBundle](https://github.com/dunglas/DunglasTorControlBundle) - Integration of PHP TorControl library in Symfony
 - [dunglas/symfonycon-lisbon](https://github.com/dunglas/symfonycon-lisbon) - A joind.in clone built with Symfony 4 and Vue.js
