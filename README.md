@@ -1750,7 +1750,7 @@
 - [holzschu/Carnets](https://github.com/holzschu/Carnets) - Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [NVlabs/stylegan](https://github.com/NVlabs/stylegan) - StyleGAN - Official TensorFlow Implementation
 - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [manu-chroma/username-availability-checker](https://github.com/manu-chroma/username-availability-checker) - Live at  : https://username-check.herokuapp.com/
 - [apenwarr/bup](https://github.com/apenwarr/bup) - Please switch to using the github.com/bup/bup repo instead!
