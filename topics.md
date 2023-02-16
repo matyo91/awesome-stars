@@ -2053,7 +2053,7 @@
 - [MarionLeHerisson/validation](https://github.com/MarionLeHerisson/validation) - Exemples et tests pour la conférence "Comment valider dynamiquement de la donnée"
 - [SwissBorg/pub](https://github.com/SwissBorg/pub) - Public Information
 - [Girgias/PHP-Type-System-Talk-FR-](https://github.com/Girgias/PHP-Type-System-Talk-FR-) - French version of my talk about PHP's Type System
-- [tanishq-singh-2301/tic-tac-toe-readme](https://github.com/tanishq-singh-2301/tic-tac-toe-readme) - 😮 Play tic tac toe in repo's readme.
+- [tanishq-singh-2407/tic-tac-toe-readme](https://github.com/tanishq-singh-2407/tic-tac-toe-readme) - 😮 Play tic tac toe in repo's readme.
 - [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP. Expect the list to grow over time.
 - [oransel/node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
 - [brian-the-dev/python-tradingview-ta](https://github.com/brian-the-dev/python-tradingview-ta) - Unofficial TradingView technical analysis API wrapper.
@@ -3675,7 +3675,7 @@
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [mnapoli/serverless-pdf-generator](https://github.com/mnapoli/serverless-pdf-generator) - Serverless PDF generator
