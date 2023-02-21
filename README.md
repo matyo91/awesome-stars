@@ -1007,7 +1007,7 @@
 - [edbentley/miniscript-rfc](https://github.com/edbentley/miniscript-rfc) - An RFC that proposes an idea for a new open source programming language called MiniScript
 - [RvNovae/rvnovae](https://github.com/RvNovae/rvnovae) - 
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
-- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked as resolved and limited to collaborators."
+- [nikolas/github-drama](https://github.com/nikolas/github-drama) - "This conversation has been locked and limited to collaborators."
 - [marmelab/argos-cli](https://github.com/marmelab/argos-cli) - 
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
