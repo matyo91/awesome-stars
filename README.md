@@ -1711,6 +1711,7 @@
 - [wkta/space-gatherer](https://github.com/wkta/space-gatherer) - basic arcade game, that uses python3.8 & pygame2
 - [eleurent/twitter-graph](https://github.com/eleurent/twitter-graph) - Fetch and visualize the graph of your Twitter friends and followers.
 - [phiresky/world-development-indicators-sqlite](https://github.com/phiresky/world-development-indicators-sqlite) - 
+- [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
@@ -2083,7 +2084,6 @@
 - [phiresky/blog](https://github.com/phiresky/blog) - Source code of my personal blog
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
