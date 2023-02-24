@@ -286,7 +286,7 @@
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system.
+- [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [marmelab/ra-supabase](https://github.com/marmelab/ra-supabase) - Supabase adapter for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
@@ -771,7 +771,7 @@
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system.
+- [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -1731,7 +1731,7 @@
 
 ## localization 
 
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system.
+- [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 
 ## lua 
 
@@ -3411,7 +3411,7 @@
 ## rails 
 
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system.
+- [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 
@@ -4037,7 +4037,7 @@
 - [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system.
+- [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
