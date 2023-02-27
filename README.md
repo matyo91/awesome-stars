@@ -984,7 +984,7 @@
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
-- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
 - [Dashlane/password-changer-well-known](https://github.com/Dashlane/password-changer-well-known) - Documentation for using Dashlane's password changer .well-known
 - [pgrimaud/declaration-actifs-numeriques](https://github.com/pgrimaud/declaration-actifs-numeriques) - Liste des plateformes pour la déclaration d'actifs numériques sur impots.gouv.fr via le formulaire n°3916-bis (french only)
