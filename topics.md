@@ -1934,6 +1934,7 @@
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
@@ -2247,7 +2248,6 @@
 - [BedrockStreaming/RateLimitBundle](https://github.com/BedrockStreaming/RateLimitBundle) - 
 - [dkwavetech/sflive-bundle-outils](https://github.com/dkwavetech/sflive-bundle-outils) - symfony live 2019 - meilleurs bundles et outils
 - [dkwavetech/grpc](https://github.com/dkwavetech/grpc) - 
-- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
 - [soyuka/relieve](https://github.com/soyuka/relieve) - Ease the implementation of multi processing accross your microservices
 - [Elao/elao_](https://github.com/Elao/elao_) - Elao website & blog
 - [Tom32i/talk-stenope](https://github.com/Tom32i/talk-stenope) - Présentation de Stenope
