@@ -109,7 +109,7 @@
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [php/systems](https://github.com/php/systems) - Hooks and Cronjobs for PHP Infrastructure
-- [Palakis/obs-ndi](https://github.com/Palakis/obs-ndi) - NewTek NDI integration for OBS Studio
+- [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [mkirchner/linked-list-good-taste](https://github.com/mkirchner/linked-list-good-taste) - Linus Torvalds' linked list argument for good taste, explained
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
