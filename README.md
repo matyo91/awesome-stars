@@ -146,7 +146,7 @@
 
 ## C# # 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A free and 100% open-source feature flags management platform - Scalable and Fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A free and 100% open-source feature flag management platform - Scalable and Fast
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 - [isakody/VJ_LaraCroftGo](https://github.com/isakody/VJ_LaraCroftGo) - 3D game imitation of the well-known mobile game Lara Croft Go made with Unity by a 2-person team in Scrum.
@@ -427,7 +427,7 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [fogleman/rush](https://github.com/fogleman/rush) - Rush Hour puzzle goodies!
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [evanpurkhiser/prolink-go](https://github.com/evanpurkhiser/prolink-go) - golang library to interface with Pioneers PRO DJ Link network
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [fogleman/ln](https://github.com/fogleman/ln) - 3D line art engine.
