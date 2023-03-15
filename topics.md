@@ -330,7 +330,7 @@
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [aitorroma/n8n-traefik](https://github.com/aitorroma/n8n-traefik) - 🔶 Deploy N8N usando traefik o Caddy con dominio personalizado y Letsencrypt.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action
@@ -535,7 +535,7 @@
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
-- [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
@@ -597,7 +597,7 @@
 ## config 
 
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 
 ## continuous-integration 
 
@@ -657,7 +657,6 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
-- [symfony/css-selector](https://github.com/symfony/css-selector) - The CssSelector component converts CSS selectors to XPath expressions.
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -681,7 +680,7 @@
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 
@@ -693,7 +692,7 @@
 
 ## data-science 
 
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
@@ -1128,7 +1127,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
-- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Framework for building distributed services with Web Assembly
+- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write, Deploy and Scale Microservices with WebAssembly Functions
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
@@ -1393,7 +1392,6 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [flexbox/davidl](https://github.com/flexbox/davidl) - 💎 Designer & front-end developer website
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [symfony/form](https://github.com/symfony/form) - The Form component allows you to easily create, process and reuse HTML forms.
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
@@ -1423,13 +1421,11 @@
 - [php-http/httplug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
-- [symfony/http-client](https://github.com/symfony/http-client) - The HttpClient component provides powerful methods to fetch HTTP resources synchronously or asynchronously.
+- [symfony/http-client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [symfony/security-http](https://github.com/symfony/security-http) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
 - [php-fig/http-message](https://github.com/php-fig/http-message) - The purpose of this PSR is to provide a set of common interfaces for HTTP messages as described in RFC 7230 and RFC 7231
 
 ## image-processing 
@@ -1636,7 +1632,6 @@
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - :musical_note: Provides a composer plugin for normalizing composer.json.
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
-- [symfony/serializer](https://github.com/symfony/serializer) - With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing X
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [jplusplus/the-accountant](https://github.com/jplusplus/the-accountant) - Can you resist the sirens of easy money? Find out by playing The Good, The Bad and The Accountant
 
@@ -1756,6 +1751,7 @@
 ## localization 
 
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
+- [symfony/intl](https://github.com/symfony/intl) - Provides a PHP replacement layer for the C intl extension that includes additional data from the ICU library
 
 ## lua 
 
@@ -2244,7 +2240,6 @@
 - [fenix-hub/godot-engine.supabase-ui](https://github.com/fenix-hub/godot-engine.supabase-ui) - UI library for Supabase in Godot Engine
 - [isakody/VJ_LaraCroftGo](https://github.com/isakody/VJ_LaraCroftGo) - 3D game imitation of the well-known mobile game Lara Croft Go made with Unity by a 2-person team in Scrum.
 - [evanpurkhiser/tooling-personal](https://github.com/evanpurkhiser/tooling-personal) - Software specific to my workflows
-- [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - 
 - [flowbased/fbp-graph](https://github.com/flowbased/fbp-graph) - FBP graph library for JavaScript
 - [flowbased/fbp](https://github.com/flowbased/fbp) - FBP flow definition language parser
 - [Jellevermandere/4D-Raymarching](https://github.com/Jellevermandere/4D-Raymarching) - a Unity framework to create spacial 4 dimentional games, using raymarching
@@ -3059,7 +3054,7 @@
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [marcosh/php-validation-dsl](https://github.com/marcosh/php-validation-dsl) - A DSL for validating data in a functional fashion
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures
-- [symfony/sms77-notifier](https://github.com/symfony/sms77-notifier) - Provides SMS77 integration for Symfony Notifier.
+- [symfony/sms77-notifier](https://github.com/symfony/sms77-notifier) - Symfony sms77 Notifier Bridge
 - [FlorianLeMenn/Symfony-chat-mercure-poc](https://github.com/FlorianLeMenn/Symfony-chat-mercure-poc) - POC chat avec Mercure et Symfony
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -3075,13 +3070,14 @@
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - Symfony SMSC Notifier Bridge
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
-- [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Provides Mailjet integration for Symfony Notifier.
+- [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Symfony Mailjet Notifier Bridge
 - [pgrimaud/git-stars](https://github.com/pgrimaud/git-stars) - Discover your ranking on GitHub
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) - The enum PHP is missing, inspired from SplEnum
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [symfony/password-hasher](https://github.com/symfony/password-hasher) - The PasswordHasher component provides password hashing utilities.
+- [symfony/password-hasher](https://github.com/symfony/password-hasher) - Provides password hashing utilities
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date & Time library that solves common problems in object oriented, immutable way.
 - [yoanbernabeu/Airtable-Client-Bundle](https://github.com/yoanbernabeu/Airtable-Client-Bundle) - Simple Client for Airtable API
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
@@ -3097,23 +3093,23 @@
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
-- [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Provides Fake Chat integration for Symfony Notifier.
+- [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
 - [darkwood-fr/flow](https://github.com/darkwood-fr/flow) - 💧Flow
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
-- [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email during development) Notifier Bridge
+- [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email or log during development) Notifier Bridge.
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
-- [symfony/lock](https://github.com/symfony/lock) - Creates and manages locks, a mechanism to provide exclusive access to a shared resource.
+- [symfony/lock](https://github.com/symfony/lock) - Creates and manages locks, a mechanism to provide exclusive access to a shared resource
 - [portphp/portphp](https://github.com/portphp/portphp) - Data import/export framework for PHP
 - [jubianchi/ppc](https://github.com/jubianchi/ppc) - A parser combinator library for PHP
 - [code-rhapsodie/dataflow-bundle](https://github.com/code-rhapsodie/dataflow-bundle) - Data processing framework inspired by PortPHP
 - [Taluu/Behapi](https://github.com/Taluu/Behapi) - Behat extension for those who want to write acceptances tests for apis
-- [symfony/uid](https://github.com/symfony/uid) - Provides an object-oriented API to generate and represent UIDs.
-- [symfony/redis-messenger](https://github.com/symfony/redis-messenger) - Provides Redis integration for Symfony Messenger
-- [symfony/proxy-manager-bridge](https://github.com/symfony/proxy-manager-bridge) - Provides integration for ProxyManager with various Symfony components.
-- [symfony/messenger](https://github.com/symfony/messenger) - The Messenger component helps application send and receive messages to/from other applications or via message queues.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Provides Doctrine integration for Symfony Messenger
-- [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Provides AMQP integration for Symfony Messenger
+- [symfony/uid](https://github.com/symfony/uid) - Provides an object-oriented API to generate and represent UIDs
+- [symfony/redis-messenger](https://github.com/symfony/redis-messenger) - Symfony Redis extension Messenger Bridge
+- [symfony/proxy-manager-bridge](https://github.com/symfony/proxy-manager-bridge) - Provides integration for ProxyManager with various Symfony components
+- [symfony/messenger](https://github.com/symfony/messenger) - Helps applications send and receive messages to/from other applications or via message queues
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Symfony Doctrine Messenger Bridge
+- [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Symfony AMQP extension Messenger Bridge
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
@@ -3156,13 +3152,13 @@
 - [symfony/demo](https://github.com/symfony/demo) - Symfony Demo Application
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - Symfony extension for PHPStan
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. Original Project by Oraoto, ES6 & Clang Upgrades by Sean Morris.
-- [symfony/rate-limiter](https://github.com/symfony/rate-limiter) - The Rate Limiter Component provides a Token Bucket implementation to rate limit input and output in your application.
+- [symfony/rate-limiter](https://github.com/symfony/rate-limiter) - Provides a Token Bucket implementation to rate limit input and output in your application
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [wasmerio/wasmer-php](https://github.com/wasmerio/wasmer-php) - 🐘🕸️ WebAssembly runtime for PHP
 - [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
-- [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Provides Sendinblue integration for Symfony Notifier.
+- [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Symfony Sendinblue Notifier Bridge
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
-- [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Provides Sendinblue integration for Symfony Mailer
+- [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
 - [pestphp/pest-intellij](https://github.com/pestphp/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP Testing Framework with a focus on simplicity
 - [php-fig/http-factory](https://github.com/php-fig/http-factory) - Implementation of PSR-17 (HTTP Message Factories)
@@ -3174,17 +3170,17 @@
 - [twigphp/string-extra](https://github.com/twigphp/string-extra) - Unicode/String support for Twig
 - [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - Intl support for Twig
 - [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
-- [symfony/templating](https://github.com/symfony/templating) - The Templating component provides all the tools needed to build any kind of template system.
+- [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
 - [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - This component provides functions unavailable in releases prior to PHP 8.0.
 - [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
 - [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - This component provides a partial, native PHP implementation of the Grapheme functions from the Intl extension.
-- [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...).
-- [symfony/mailer](https://github.com/symfony/mailer) - The Mailer component helps sending emails
+- [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...)
+- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in imagine manipulation using the imagine library
 - [thephpleague/oauth2-client](https://github.com/thephpleague/oauth2-client) - Easy integration with OAuth 2.0 service providers.
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
-- [symfony/semaphore](https://github.com/symfony/semaphore) - The Semaphore Component manages semaphores, a mechanism to provide exclusive access to a shared resource.
+- [symfony/semaphore](https://github.com/symfony/semaphore) - Symfony Semaphore Component
 - [moneyphp/money](https://github.com/moneyphp/money) - PHP implementation of Fowler's Money pattern.
 - [thephpleague/flysystem-memory](https://github.com/thephpleague/flysystem-memory) - Flysystem Memory Adapter
 - [certificationy/certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
@@ -3208,7 +3204,7 @@
 - [symfony/marketing](https://github.com/symfony/marketing) - The symfony.com content
 - [symfonycorp/insight](https://github.com/symfonycorp/insight) - SymfonyInsight Official SDK
 - [symfonycorp/connect](https://github.com/symfonycorp/connect) - The SymfonyConnect official API SDK
-- [symfony/translation](https://github.com/symfony/translation) - The Translation component provides tools to internationalize your application.
+- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application
 - [auth0/symfony](https://github.com/auth0/symfony) - Symfony SDK for Auth0 Authentication and Management APIs.
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs
 - [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
@@ -3221,72 +3217,72 @@
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [ezsystems/ezplatform](https://github.com/ezsystems/ezplatform) - Meta repository that pulls in all dependencies for clean distribution of Ibexa Platform.
-- [symfony/security](https://github.com/symfony/security) - [DEPRECATED] The Security component provides a complete security system for your web application.
+- [symfony/security](https://github.com/symfony/security) - Provides a complete security system for your web application
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [SymfonyCon/2019-talks](https://github.com/SymfonyCon/2019-talks) - 
 - [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - A set of HTTP client abstractions extracted out of the Symfony components
-- [symfony/http-client](https://github.com/symfony/http-client) - The HttpClient component provides powerful methods to fetch HTTP resources synchronously or asynchronously.
-- [symfony/error-handler](https://github.com/symfony/error-handler) - The ErrorHandler component provides tools to manage errors and ease debugging PHP code.
+- [symfony/http-client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously
+- [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
-- [symfony/yaml](https://github.com/symfony/yaml) - The Yaml component loads and dumps YAML files.
+- [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
 - [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - [DEPRECATED] WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web s
-- [symfony/web-link](https://github.com/symfony/web-link) - The WebLink component manages links between resources. It is particularly useful to advise clients to preload and prefetch documents through HTTP and HTTP/2 pushes.
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__w
-- [symfony/var-dumper](https://github.com/symfony/var-dumper) - The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().
-- [symfony/validator](https://github.com/symfony/validator) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components.
+- [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) - Allows exporting any serializable PHP data structure to plain PHP code
+- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components
 - [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components
 - [symfony/test-pack](https://github.com/symfony/test-pack) - A Symfony Pack for functional testing
 - [symfony/swiftmailer-bundle](https://github.com/symfony/swiftmailer-bundle) - Symfony Swiftmailer Bundle
-- [symfony/stopwatch](https://github.com/symfony/stopwatch) - The Stopwatch component provides a way to profile code.
+- [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
 - [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
-- [symfony/serializer](https://github.com/symfony/serializer) - With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing X
-- [symfony/security-http](https://github.com/symfony/security-http) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/security-guard](https://github.com/symfony/security-guard) - The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
-- [symfony/security-csrf](https://github.com/symfony/security-csrf) - The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
-- [symfony/security-core](https://github.com/symfony/security-core) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - The security system is one of the most powerful parts of Symfony and can largely be controlled via its configuration.
-- [symfony/routing](https://github.com/symfony/routing) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/property-info](https://github.com/symfony/property-info) - PropertyInfo extracts information about PHP class' properties using metadata of popular sources.
-- [symfony/property-access](https://github.com/symfony/property-access) - The PropertyAccess component provides function to read and write from/to an object or array using a simple string notation.
+- [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
+- [symfony/security-guard](https://github.com/symfony/security-guard) - Symfony Security Component - Guard
+- [symfony/security-csrf](https://github.com/symfony/security-csrf) - Symfony Security Component - CSRF Library
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/routing](https://github.com/symfony/routing) - Maps an HTTP request to a set of configuration variables
+- [symfony/property-info](https://github.com/symfony/property-info) - Extracts information about PHP class' properties using metadata of popular sources
+- [symfony/property-access](https://github.com/symfony/property-access) - Provides functions to read and write from/to an object or array using a simple string notation
 - [symfony/profiler-pack](https://github.com/symfony/profiler-pack) - A Symfony Pack for Symfony profiler
-- [symfony/process](https://github.com/symfony/process) - The Process component executes commands in sub-processes.
+- [symfony/process](https://github.com/symfony/process) - Executes commands in sub-processes
 - [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - This component provides functions unavailable in releases prior to PHP 7.3.
 - [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
 - [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
 - [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
-- [symfony/options-resolver](https://github.com/symfony/options-resolver) - The OptionsResolver component is array_replace() on steroids. It allows you to create an options system with required options, defaults, validation (type, value), normalization and more.
+- [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
-- [symfony/monolog-bridge](https://github.com/symfony/monolog-bridge) - Provides integration for Monolog with various Symfony components.
-- [symfony/intl](https://github.com/symfony/intl) - A PHP replacement layer for the C intl extension that also provides access to the localization data of the ICU library.
-- [symfony/inflector](https://github.com/symfony/inflector) - Inflector converts words between their singular and plural forms (English only).
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/form](https://github.com/symfony/form) - The Form component allows you to easily create, process and reuse HTML forms.
-- [symfony/finder](https://github.com/symfony/finder) - The Finder component finds files and directories via an intuitive fluent interface.
-- [symfony/filesystem](https://github.com/symfony/filesystem) - The Filesystem component provides basic utilities for the filesystem.
-- [symfony/expression-language](https://github.com/symfony/expression-language) - The ExpressionLanguage component provides an engine that can compile and evaluate expressions.
+- [symfony/monolog-bridge](https://github.com/symfony/monolog-bridge) - Provides integration for Monolog with various Symfony components
+- [symfony/intl](https://github.com/symfony/intl) - Provides a PHP replacement layer for the C intl extension that includes additional data from the ICU library
+- [symfony/inflector](https://github.com/symfony/inflector) - Converts words between their singular and plural forms (English only)
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) - Provides a structured process for converting a Request into a Response
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/form](https://github.com/symfony/form) - Allows to easily create, process and reuse HTML forms
+- [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
+- [symfony/filesystem](https://github.com/symfony/filesystem) - Provides basic utilities for the filesystem
+- [symfony/expression-language](https://github.com/symfony/expression-language) - Provides an engine that can compile and evaluate expressions
 - [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - A set of event dispatcher abstractions extracted out of the Symfony components
-- [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
-- [symfony/dotenv](https://github.com/symfony/dotenv) - Symfony Dotenv parses .env files to make environment variables stored in them accessible via getenv(), $_ENV, or $_SERVER.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
+- [symfony/dotenv](https://github.com/symfony/dotenv) - Registers environment variables from a .env file
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - Allows you to standardize and centralize the way objects are constructed in your application
 - [symfony/debug-pack](https://github.com/symfony/debug-pack) - A Symfony Pack for Symfony debug
-- [symfony/debug-bundle](https://github.com/symfony/debug-bundle) - The DebugBundle allows greater integration of the VarDumper component in the Symfony full-stack framework.
+- [symfony/debug-bundle](https://github.com/symfony/debug-bundle) - Provides a tight integration of the Symfony VarDumper component and the ServerLogCommand from MonologBridge into the Symfony full-stack framework
 - [symfony/debug](https://github.com/symfony/debug) - The Debug component provides tools to ease debugging PHP code.
-- [symfony/css-selector](https://github.com/symfony/css-selector) - The CssSelector component converts CSS selectors to XPath expressions.
-- [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
 - [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - A set of cache abstractions extracted out of the Symfony components
-- [symfony/cache](https://github.com/symfony/cache) - The Cache component provides an extended PSR-6 implementation for adding cache to your applications.
-- [symfony/browser-kit](https://github.com/symfony/browser-kit) - The BrowserKit component simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically.
-- [symfony/asset](https://github.com/symfony/asset) - The Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.
+- [symfony/cache](https://github.com/symfony/cache) - Provides extended PSR-6, PSR-16 (and tags) implementations
+- [symfony/browser-kit](https://github.com/symfony/browser-kit) - Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically
+- [symfony/asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files
 - [symfony/apache-pack](https://github.com/symfony/apache-pack) - A Symfony Pack for Symfony Apache
 - [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP
 - [stof/StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - Integration bundle for DoctrineExtensions by l3pp4rd in Symfony
@@ -3307,7 +3303,7 @@
 - [EasyCorp/easy-log-handler](https://github.com/EasyCorp/easy-log-handler) - Human-friendly log files that make you more productive
 - [doctrine/DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - Symfony integration for the doctrine/migrations library
 - [Behat/Transliterator](https://github.com/Behat/Transliterator) - Behat Transliterator library inherited from Doctrine1 and used in Behat for snippet generation
-- [symfony/string](https://github.com/symfony/string) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/string](https://github.com/symfony/string) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way
 - [sensiolabs/melody](https://github.com/sensiolabs/melody) - One-file composer scripts
 - [brefphp/bref](https://github.com/brefphp/bref) - Serverless PHP on AWS Lambda
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development
@@ -3317,9 +3313,9 @@
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [dg/MySQL-dump](https://github.com/dg/MySQL-dump) - MySQL Dump Utility
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [symfony/mime](https://github.com/symfony/mime) - The MIME component allows manipulating MIME types.
+- [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [sensiolabs/SensioDistributionBundle](https://github.com/sensiolabs/SensioDistributionBundle) - Base bundle for Symfony Distributions
@@ -3397,7 +3393,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the https://tournesol.app platform. Meet the community on Discord https://discord.gg/WvcSG55Bf3
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -3690,12 +3686,6 @@
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
 - [sensiolabs/security-checker](https://github.com/sensiolabs/security-checker) - PHP frontend for security.symfony.com
-- [symfony/security](https://github.com/symfony/security) - [DEPRECATED] The Security component provides a complete security system for your web application.
-- [symfony/security-http](https://github.com/symfony/security-http) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/security-guard](https://github.com/symfony/security-guard) - The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
-- [symfony/security-csrf](https://github.com/symfony/security-csrf) - The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
-- [symfony/security-core](https://github.com/symfony/security-core) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - The security system is one of the most powerful parts of Symfony and can largely be controlled via its configuration.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 
@@ -3820,13 +3810,14 @@
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
 - [symfony-cmf/routing-bundle](https://github.com/symfony-cmf/routing-bundle) - Symfony bundle to provide the CMF chain router to handle multiple routers, and the dynamic router to load routes from a database or other sources.
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
-- [symfony/sms77-notifier](https://github.com/symfony/sms77-notifier) - Provides SMS77 integration for Symfony Notifier.
+- [symfony/sms77-notifier](https://github.com/symfony/sms77-notifier) - Symfony sms77 Notifier Bridge
 - [FlorianLeMenn/Symfony-chat-mercure-poc](https://github.com/FlorianLeMenn/Symfony-chat-mercure-poc) - POC chat avec Mercure et Symfony
 - [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord
+- [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - Symfony SMSC Notifier Bridge
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
-- [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Provides Mailjet integration for Symfony Notifier.
+- [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Symfony Mailjet Notifier Bridge
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
-- [symfony/password-hasher](https://github.com/symfony/password-hasher) - The PasswordHasher component provides password hashing utilities.
+- [symfony/password-hasher](https://github.com/symfony/password-hasher) - Provides password hashing utilities
 - [yoanbernabeu/Airtable-Client-Bundle](https://github.com/yoanbernabeu/Airtable-Client-Bundle) - Simple Client for Airtable API
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
 - [qmachard/atomic-design-bundle](https://github.com/qmachard/atomic-design-bundle) - Atomic Design is a Storybook like made for Symfony and Twig
@@ -3836,19 +3827,19 @@
 - [Guikingone/SchedulerBundle](https://github.com/Guikingone/SchedulerBundle) - Repetitive tasks as a breath in Symfony
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
-- [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Provides Fake Chat integration for Symfony Notifier.
+- [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
 - [darkwood-fr/flow](https://github.com/darkwood-fr/flow) - 💧Flow
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony
-- [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email during development) Notifier Bridge
-- [symfony/lock](https://github.com/symfony/lock) - Creates and manages locks, a mechanism to provide exclusive access to a shared resource.
+- [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email or log during development) Notifier Bridge.
+- [symfony/lock](https://github.com/symfony/lock) - Creates and manages locks, a mechanism to provide exclusive access to a shared resource
 - [symfony/ux-turbo-mercure](https://github.com/symfony/ux-turbo-mercure) - Mercure bridge for Symfony UX Turbo
 - [async-aws/symfony-bundle](https://github.com/async-aws/symfony-bundle) - [READ ONLY] AsyncAws + Symfony = &lt;3
-- [symfony/uid](https://github.com/symfony/uid) - Provides an object-oriented API to generate and represent UIDs.
-- [symfony/redis-messenger](https://github.com/symfony/redis-messenger) - Provides Redis integration for Symfony Messenger
-- [symfony/proxy-manager-bridge](https://github.com/symfony/proxy-manager-bridge) - Provides integration for ProxyManager with various Symfony components.
-- [symfony/messenger](https://github.com/symfony/messenger) - The Messenger component helps application send and receive messages to/from other applications or via message queues.
-- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Provides Doctrine integration for Symfony Messenger
-- [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Provides AMQP integration for Symfony Messenger
+- [symfony/uid](https://github.com/symfony/uid) - Provides an object-oriented API to generate and represent UIDs
+- [symfony/redis-messenger](https://github.com/symfony/redis-messenger) - Symfony Redis extension Messenger Bridge
+- [symfony/proxy-manager-bridge](https://github.com/symfony/proxy-manager-bridge) - Provides integration for ProxyManager with various Symfony components
+- [symfony/messenger](https://github.com/symfony/messenger) - Helps applications send and receive messages to/from other applications or via message queues
+- [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Symfony Doctrine Messenger Bridge
+- [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Symfony AMQP extension Messenger Bridge
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
@@ -3875,22 +3866,22 @@
 - [symfony/demo](https://github.com/symfony/demo) - Symfony Demo Application
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - Symfony extension for PHPStan
 - [symfony-cmf/Routing](https://github.com/symfony-cmf/Routing) - Routing component building on the Symfony Routing component
-- [symfony/rate-limiter](https://github.com/symfony/rate-limiter) - The Rate Limiter Component provides a Token Bucket implementation to rate limit input and output in your application.
-- [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Provides Sendinblue integration for Symfony Notifier.
-- [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Provides Sendinblue integration for Symfony Mailer
+- [symfony/rate-limiter](https://github.com/symfony/rate-limiter) - Provides a Token Bucket implementation to rate limit input and output in your application
+- [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Symfony Sendinblue Notifier Bridge
+- [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
 - [SymfonyLive/paris-2020-talks](https://github.com/SymfonyLive/paris-2020-talks) - 
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
 - [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
-- [symfony/templating](https://github.com/symfony/templating) - The Templating component provides all the tools needed to build any kind of template system.
+- [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
 - [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - This component provides functions unavailable in releases prior to PHP 8.0.
 - [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
 - [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - This component provides a partial, native PHP implementation of the Grapheme functions from the Intl extension.
-- [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...).
-- [symfony/mailer](https://github.com/symfony/mailer) - The Mailer component helps sending emails
+- [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...)
+- [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in imagine manipulation using the imagine library
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
-- [symfony/semaphore](https://github.com/symfony/semaphore) - The Semaphore Component manages semaphores, a mechanism to provide exclusive access to a shared resource.
+- [symfony/semaphore](https://github.com/symfony/semaphore) - Symfony Semaphore Component
 - [certificationy/certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
 - [symfony/deprecation-contracts](https://github.com/symfony/deprecation-contracts) - A generic function and convention to trigger deprecation notices
 - [liip/LiipMonitorBundle](https://github.com/liip/LiipMonitorBundle) - Integrates the LiipMonitor library into Symfony
@@ -3900,81 +3891,81 @@
 - [symfony/marketing](https://github.com/symfony/marketing) - The symfony.com content
 - [symfonycorp/insight](https://github.com/symfonycorp/insight) - SymfonyInsight Official SDK
 - [symfonycorp/connect](https://github.com/symfonycorp/connect) - The SymfonyConnect official API SDK
-- [symfony/translation](https://github.com/symfony/translation) - The Translation component provides tools to internationalize your application.
+- [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application
 - [auth0/symfony](https://github.com/auth0/symfony) - Symfony SDK for Auth0 Authentication and Management APIs.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [jolicode/elastically](https://github.com/jolicode/elastically) - 🔍 JoliCode's Elastica wrapper to bootstrap Elasticsearch PHP integrations
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets
 - [the-fast-track/book-5.0-1](https://github.com/the-fast-track/book-5.0-1) - The Symfony 5 book source: The Fast Track
 - [ezsystems/ezplatform](https://github.com/ezsystems/ezplatform) - Meta repository that pulls in all dependencies for clean distribution of Ibexa Platform.
-- [symfony/security](https://github.com/symfony/security) - [DEPRECATED] The Security component provides a complete security system for your web application.
+- [symfony/security](https://github.com/symfony/security) - Provides a complete security system for your web application
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [SymfonyCon/2019-talks](https://github.com/SymfonyCon/2019-talks) - 
 - [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - A set of HTTP client abstractions extracted out of the Symfony components
-- [symfony/http-client](https://github.com/symfony/http-client) - The HttpClient component provides powerful methods to fetch HTTP resources synchronously or asynchronously.
+- [symfony/http-client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously
 - [awoimbee/sf4_updater](https://github.com/awoimbee/sf4_updater) - Helper for migrating from symfony 3 to symfony 4. Scans and removes deprecations
-- [symfony/error-handler](https://github.com/symfony/error-handler) - The ErrorHandler component provides tools to manage errors and ease debugging PHP code.
+- [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
-- [symfony/yaml](https://github.com/symfony/yaml) - The Yaml component loads and dumps YAML files.
+- [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
 - [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - [DEPRECATED] WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web s
-- [symfony/web-link](https://github.com/symfony/web-link) - The WebLink component manages links between resources. It is particularly useful to advise clients to preload and prefetch documents through HTTP and HTTP/2 pushes.
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__w
-- [symfony/var-dumper](https://github.com/symfony/var-dumper) - The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. It provides a better dump() function that you can use instead of var_dump().
-- [symfony/validator](https://github.com/symfony/validator) - The Validator component provides tools to validate values following the JSR-303 Bean Validation specification.
-- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - The Twig Bundle provides configuration for using Twig in your applications.
-- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components.
+- [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) - Allows exporting any serializable PHP data structure to plain PHP code
+- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
+- [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
+- [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
+- [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components
 - [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components
 - [symfony/test-pack](https://github.com/symfony/test-pack) - A Symfony Pack for functional testing
 - [symfony/swiftmailer-bundle](https://github.com/symfony/swiftmailer-bundle) - Symfony Swiftmailer Bundle
-- [symfony/stopwatch](https://github.com/symfony/stopwatch) - The Stopwatch component provides a way to profile code.
+- [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
 - [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
 - [symfony/serializer-pack](https://github.com/symfony/serializer-pack) - A Symfony Pack for Symfony Serializer
-- [symfony/serializer](https://github.com/symfony/serializer) - With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing X
-- [symfony/security-http](https://github.com/symfony/security-http) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/security-guard](https://github.com/symfony/security-guard) - The Guard component brings many layers of authentication together, making it much easier to create complex authentication systems where you have total control.
-- [symfony/security-csrf](https://github.com/symfony/security-csrf) - The Security CSRF (cross-site request forgery) component provides a class CsrfTokenManager for generating and validating CSRF tokens.
-- [symfony/security-core](https://github.com/symfony/security-core) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users
-- [symfony/security-bundle](https://github.com/symfony/security-bundle) - The security system is one of the most powerful parts of Symfony and can largely be controlled via its configuration.
-- [symfony/routing](https://github.com/symfony/routing) - The Routing component maps an HTTP request to a set of configuration variables.
-- [symfony/property-info](https://github.com/symfony/property-info) - PropertyInfo extracts information about PHP class' properties using metadata of popular sources.
-- [symfony/property-access](https://github.com/symfony/property-access) - The PropertyAccess component provides function to read and write from/to an object or array using a simple string notation.
+- [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
+- [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
+- [symfony/security-guard](https://github.com/symfony/security-guard) - Symfony Security Component - Guard
+- [symfony/security-csrf](https://github.com/symfony/security-csrf) - Symfony Security Component - CSRF Library
+- [symfony/security-core](https://github.com/symfony/security-core) - Symfony Security Component - Core Library
+- [symfony/security-bundle](https://github.com/symfony/security-bundle) - Provides a tight integration of the Security component into the Symfony full-stack framework
+- [symfony/routing](https://github.com/symfony/routing) - Maps an HTTP request to a set of configuration variables
+- [symfony/property-info](https://github.com/symfony/property-info) - Extracts information about PHP class' properties using metadata of popular sources
+- [symfony/property-access](https://github.com/symfony/property-access) - Provides functions to read and write from/to an object or array using a simple string notation
 - [symfony/profiler-pack](https://github.com/symfony/profiler-pack) - A Symfony Pack for Symfony profiler
-- [symfony/process](https://github.com/symfony/process) - The Process component executes commands in sub-processes.
+- [symfony/process](https://github.com/symfony/process) - Executes commands in sub-processes
 - [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - This component provides functions unavailable in releases prior to PHP 7.3.
 - [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
 - [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
 - [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management.
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
-- [symfony/options-resolver](https://github.com/symfony/options-resolver) - The OptionsResolver component is array_replace() on steroids. It allows you to create an options system with required options, defaults, validation (type, value), normalization and more.
+- [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
-- [symfony/monolog-bridge](https://github.com/symfony/monolog-bridge) - Provides integration for Monolog with various Symfony components.
-- [symfony/intl](https://github.com/symfony/intl) - A PHP replacement layer for the C intl extension that also provides access to the localization data of the ICU library.
-- [symfony/inflector](https://github.com/symfony/inflector) - Inflector converts words between their singular and plural forms (English only).
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) - The HttpKernel component provides a structured process for converting a Request into a Response.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/form](https://github.com/symfony/form) - The Form component allows you to easily create, process and reuse HTML forms.
-- [symfony/finder](https://github.com/symfony/finder) - The Finder component finds files and directories via an intuitive fluent interface.
-- [symfony/filesystem](https://github.com/symfony/filesystem) - The Filesystem component provides basic utilities for the filesystem.
-- [symfony/expression-language](https://github.com/symfony/expression-language) - The ExpressionLanguage component provides an engine that can compile and evaluate expressions.
+- [symfony/monolog-bridge](https://github.com/symfony/monolog-bridge) - Provides integration for Monolog with various Symfony components
+- [symfony/intl](https://github.com/symfony/intl) - Provides a PHP replacement layer for the C intl extension that includes additional data from the ICU library
+- [symfony/inflector](https://github.com/symfony/inflector) - Converts words between their singular and plural forms (English only)
+- [symfony/http-kernel](https://github.com/symfony/http-kernel) - Provides a structured process for converting a Request into a Response
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) - Provides a tight integration between Symfony components and the Symfony full-stack framework
+- [symfony/form](https://github.com/symfony/form) - Allows to easily create, process and reuse HTML forms
+- [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
+- [symfony/filesystem](https://github.com/symfony/filesystem) - Provides basic utilities for the filesystem
+- [symfony/expression-language](https://github.com/symfony/expression-language) - Provides an engine that can compile and evaluate expressions
 - [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - A set of event dispatcher abstractions extracted out of the Symfony components
-- [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.
-- [symfony/dotenv](https://github.com/symfony/dotenv) - Symfony Dotenv parses .env files to make environment variables stored in them accessible via getenv(), $_ENV, or $_SERVER.
-- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components.
-- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.
+- [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
+- [symfony/dotenv](https://github.com/symfony/dotenv) - Registers environment variables from a .env file
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
+- [symfony/doctrine-bridge](https://github.com/symfony/doctrine-bridge) - Provides integration for Doctrine with various Symfony components
+- [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - Allows you to standardize and centralize the way objects are constructed in your application
 - [symfony/debug-pack](https://github.com/symfony/debug-pack) - A Symfony Pack for Symfony debug
-- [symfony/debug-bundle](https://github.com/symfony/debug-bundle) - The DebugBundle allows greater integration of the VarDumper component in the Symfony full-stack framework.
+- [symfony/debug-bundle](https://github.com/symfony/debug-bundle) - Provides a tight integration of the Symfony VarDumper component and the ServerLogCommand from MonologBridge into the Symfony full-stack framework
 - [symfony/debug](https://github.com/symfony/debug) - The Debug component provides tools to ease debugging PHP code.
-- [symfony/css-selector](https://github.com/symfony/css-selector) - The CssSelector component converts CSS selectors to XPath expressions.
-- [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
-- [symfony/config](https://github.com/symfony/config) - The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).
+- [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
+- [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
 - [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - A set of cache abstractions extracted out of the Symfony components
-- [symfony/cache](https://github.com/symfony/cache) - The Cache component provides an extended PSR-6 implementation for adding cache to your applications.
-- [symfony/browser-kit](https://github.com/symfony/browser-kit) - The BrowserKit component simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically.
-- [symfony/asset](https://github.com/symfony/asset) - The Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.
+- [symfony/cache](https://github.com/symfony/cache) - Provides extended PSR-6, PSR-16 (and tags) implementations
+- [symfony/browser-kit](https://github.com/symfony/browser-kit) - Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically
+- [symfony/asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files
 - [symfony/apache-pack](https://github.com/symfony/apache-pack) - A Symfony Pack for Symfony Apache
 - [stof/StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - Integration bundle for DoctrineExtensions by l3pp4rd in Symfony
 - [getsentry/sentry-symfony](https://github.com/getsentry/sentry-symfony) - The official Symfony SDK for Sentry (sentry.io)
@@ -3986,11 +3977,11 @@
 - [doctrine/DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Symfony integration for the doctrine/data-fixtures library
 - [doctrine/DoctrineCacheBundle](https://github.com/doctrine/DoctrineCacheBundle) - Symfony2 Bundle for Doctrine Cache
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) - Symfony Bundle for Doctrine ORM and DBAL
-- [symfony/string](https://github.com/symfony/string) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/string](https://github.com/symfony/string) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way
 - [symfony/contracts](https://github.com/symfony/contracts) - A set of abstractions extracted out of the Symfony components
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [symfony/mime](https://github.com/symfony/mime) - The MIME component allows manipulating MIME types.
-- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.
+- [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages
+- [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request
 - [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository
 - [sensiolabs/SensioDistributionBundle](https://github.com/sensiolabs/SensioDistributionBundle) - Base bundle for Symfony Distributions
@@ -4030,6 +4021,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
@@ -4270,7 +4262,6 @@
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
-- [symfony/serializer](https://github.com/symfony/serializer) - With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing X
 
 
 ## License
