@@ -534,6 +534,7 @@
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link) - Java library for synchronizing and communicating with Pioneer DJ Link equipment
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [ProjectMAXS/maxs](https://github.com/ProjectMAXS/maxs) - MAXS, the Modular Android XMPP Suite
 
@@ -804,7 +805,6 @@
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [chirashijs/chirashi-wasabi](https://github.com/chirashijs/chirashi-wasabi) - Wasabi plugin for Chirashi - Execute callbacks on scroll
 - [darkwood-fr/darkwood-app](https://github.com/darkwood-fr/darkwood-app) - Darkwood native application
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [chirashijs/chirashi](https://github.com/chirashijs/chirashi) - Fast, modular, lightweight and simple DOM and events manipulation
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
