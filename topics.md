@@ -802,6 +802,7 @@
 - [JMLamodiere/tdd-demo-forumphp2020](https://github.com/JMLamodiere/tdd-demo-forumphp2020) - Live coding examples used during Forum PHP 2020 talk "Too many mocks killed the test: What Hexagonal Architecture has changed"
 - [mykiwi/symfony-bootstrapped](https://github.com/mykiwi/symfony-bootstrapped) - :zap: Symfony with tools
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [Orbitale/Compotes](https://github.com/Orbitale/Compotes) - A small app to manage bank account operations and display rich analytics. Demo app credentials are admin/admin. [In development]
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [docker/compose-cli](https://github.com/docker/compose-cli) - Easily run your Compose application to the cloud with compose-cli
@@ -830,7 +831,7 @@
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
 - [PrestaShop/docs](https://github.com/PrestaShop/docs) - PrestaShop technical documentation
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1093,6 +1094,7 @@
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [satishbabariya/swift-docker-builder](https://github.com/satishbabariya/swift-docker-builder) - Swift Dockerfile Builder written in Go
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
@@ -1297,7 +1299,6 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
-- [pestphp/pest-intellij](https://github.com/pestphp/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
@@ -1569,7 +1570,7 @@
 - [DSchau/gatsby-mail](https://github.com/DSchau/gatsby-mail) - A Gatsby email *application*
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
@@ -2583,7 +2584,6 @@
 - [btzr-io/gwj-26](https://github.com/btzr-io/gwj-26) - 
 - [backup-manager/symfony](https://github.com/backup-manager/symfony) - Driver to seamlessly integrate the Backup Manager into Symfony applications.
 - [SergioBenitez/RustFS](https://github.com/SergioBenitez/RustFS) - A virtual file system written in Rust.
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [asgrim/yamldb](https://github.com/asgrim/yamldb) - Don't use this, please.
 - [lmoroney/dlaicourse](https://github.com/lmoroney/dlaicourse) - Notebooks for learning deep learning
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -3519,7 +3519,7 @@
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [dabit3/gatsby-auth-starter-aws-amplify](https://github.com/dabit3/gatsby-auth-starter-aws-amplify) - Starter Project with Authentication with Gatsby & AWS Amplify
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
@@ -4226,7 +4226,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 
