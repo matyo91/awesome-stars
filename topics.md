@@ -220,7 +220,7 @@
 
 ## ai 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [GDQuest/godot-2d-space-game](https://github.com/GDQuest/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
@@ -293,7 +293,7 @@
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [marmelab/ra-supabase](https://github.com/marmelab/ra-supabase) - Supabase adapter for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
@@ -512,7 +512,7 @@
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network where developers grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 
 ## cli 
 
@@ -1131,7 +1131,7 @@
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
-- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write, Deploy and Scale Microservices with WebAssembly Functions
+- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write, Deploy, and Scale Microservices with WebAssembly Functions
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
@@ -1208,7 +1208,6 @@
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
@@ -3705,7 +3704,7 @@
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter, and the most universal WASM runtime
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services API gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [mnapoli/serverless-pdf-generator](https://github.com/mnapoli/serverless-pdf-generator) - Serverless PDF generator
@@ -4209,7 +4208,7 @@
 
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [dunglas/uri-template-tester](https://github.com/dunglas/uri-template-tester) - Test if a URI matches a given URI template (RFC6570)
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network where developers grow together 👩🏽‍💻 👨‍💻
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 
 ## webpack 
