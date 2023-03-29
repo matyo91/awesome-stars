@@ -333,7 +333,7 @@
 
 ## Go 
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
 - [google/mangle](https://github.com/google/mangle) - 
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
@@ -1072,6 +1072,7 @@
 
 ## PHP 
 
+- [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [igorw/evenement](https://github.com/igorw/evenement) - Événement is a very simple event dispatching library for PHP.
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
 - [florentdestremau/symfonycon-turbo](https://github.com/florentdestremau/symfonycon-turbo) - A simple website to demonstrate symfony-ux turbo
@@ -1696,7 +1697,7 @@
 - [brian-the-dev/python-tradingview-ta](https://github.com/brian-the-dev/python-tradingview-ta) - Unofficial TradingView technical analysis API wrapper.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [WebAssembly/component-model](https://github.com/WebAssembly/component-model) - Repository for design and specification of the Component Model
@@ -2061,7 +2062,7 @@
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [halfnelson/svelte-native](https://github.com/halfnelson/svelte-native) - Svelte controlling native components via Nativescript
 - [Raathigesh/paper](https://github.com/Raathigesh/paper) - VSCode extension for taking code notes
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
