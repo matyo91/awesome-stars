@@ -2066,6 +2066,7 @@
 
 ## others 
 
+- [jolicode/webhook-demo](https://github.com/jolicode/webhook-demo) - 
 - [igorw/evenement](https://github.com/igorw/evenement) - Événement is a very simple event dispatching library for PHP.
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
 - [florentdestremau/symfonycon-turbo](https://github.com/florentdestremau/symfonycon-turbo) - A simple website to demonstrate symfony-ux turbo
@@ -3237,7 +3238,7 @@
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
 - [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
-- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - [DEPRECATED] WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web s
+- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - Provides commands for running applications using the PHP built-in web server
 - [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
@@ -3264,7 +3265,7 @@
 - [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
 - [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
 - [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
 - [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
@@ -3286,7 +3287,7 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - Allows you to standardize and centralize the way objects are constructed in your application
 - [symfony/debug-pack](https://github.com/symfony/debug-pack) - A Symfony Pack for Symfony debug
 - [symfony/debug-bundle](https://github.com/symfony/debug-bundle) - Provides a tight integration of the Symfony VarDumper component and the ServerLogCommand from MonologBridge into the Symfony full-stack framework
-- [symfony/debug](https://github.com/symfony/debug) - The Debug component provides tools to ease debugging PHP code.
+- [symfony/debug](https://github.com/symfony/debug) - Provides tools to ease debugging PHP code
 - [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
@@ -3707,7 +3708,6 @@
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
-- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - [DEPRECATED] WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web s
 
 ## serverless 
 
@@ -3924,7 +3924,7 @@
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
-- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - [DEPRECATED] WebServerBundle provides commands for running applications using the PHP built-in web server. It simplifies your local development setup because you don't have to configure a proper web s
+- [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - Provides commands for running applications using the PHP built-in web server
 - [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
@@ -3952,7 +3952,7 @@
 - [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
 - [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
 - [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
-- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management.
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
 - [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
@@ -3974,7 +3974,7 @@
 - [symfony/dependency-injection](https://github.com/symfony/dependency-injection) - Allows you to standardize and centralize the way objects are constructed in your application
 - [symfony/debug-pack](https://github.com/symfony/debug-pack) - A Symfony Pack for Symfony debug
 - [symfony/debug-bundle](https://github.com/symfony/debug-bundle) - Provides a tight integration of the Symfony VarDumper component and the ServerLogCommand from MonologBridge into the Symfony full-stack framework
-- [symfony/debug](https://github.com/symfony/debug) - The Debug component provides tools to ease debugging PHP code.
+- [symfony/debug](https://github.com/symfony/debug) - Provides tools to ease debugging PHP code
 - [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
