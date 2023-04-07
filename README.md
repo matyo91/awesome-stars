@@ -1280,7 +1280,6 @@
 - [turanct/railway](https://github.com/turanct/railway) - :train: Railway Oriented Programming in PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group.
 - [schmittjoh/JMSJobQueueBundle](https://github.com/schmittjoh/JMSJobQueueBundle) - Run and Schedule Symfony Console Commands as Background Jobs
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) - A MySQL engine written in pure PHP
@@ -1697,7 +1696,7 @@
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [brian-the-dev/python-tradingview-ta](https://github.com/brian-the-dev/python-tradingview-ta) - Unofficial TradingView technical analysis API wrapper.
+- [folfcoder/python-tradingview-ta](https://github.com/folfcoder/python-tradingview-ta) - Unofficial TradingView technical analysis API wrapper.
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
@@ -1725,6 +1724,7 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
 - [dunglas/crypt-manager](https://github.com/dunglas/crypt-manager) - Automatically exported from code.google.com/p/crypt-manager
