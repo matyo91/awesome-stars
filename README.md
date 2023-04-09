@@ -181,7 +181,7 @@
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS ≧ 26.1用複数サイト同時配信プラグイン
+- [sorayuki/obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp) - OBS複数サイト同時配信プラグイン
 - [evanpurkhiser/keyfinder-cli](https://github.com/evanpurkhiser/keyfinder-cli) - A CLI wrapper for libkeyfinder. Making DJs lives easier.
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [Fenrirthviti/obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
