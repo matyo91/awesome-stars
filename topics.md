@@ -2849,7 +2849,7 @@
 - [jderusse/docker-gitsplit](https://github.com/jderusse/docker-gitsplit) - 
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [LLK/scratch-blocks](https://github.com/LLK/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
+- [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [LLK/scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [HackerPoet/YouTubeCommenter](https://github.com/HackerPoet/YouTubeCommenter) - AI to generate YouTube comments based on video title
 - [DataFire/Integrations](https://github.com/DataFire/Integrations) - Integration registry for DataFire
