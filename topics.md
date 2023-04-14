@@ -159,6 +159,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
+- [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -2200,7 +2201,7 @@
 - [mikepound/mazesolving](https://github.com/mikepound/mazesolving) - A variety of algorithms to solve mazes from an input image
 - [Mupsi/conferences](https://github.com/Mupsi/conferences) - Conference slides
 - [dapr/php-sdk](https://github.com/dapr/php-sdk) - Dapr SDK for PHP
-- [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail) - 
+- [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail) - Secure email that protects your privacy
 - [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
 - [afup/identity](https://github.com/afup/identity) - 
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
@@ -3401,6 +3402,10 @@
 ## programming 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+## project-management 
+
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
 ## publishing 
 
