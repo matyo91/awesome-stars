@@ -1997,7 +1997,7 @@
 
 - [freeotp/freeotp-ios](https://github.com/freeotp/freeotp-ios) - 
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
-- [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail) - 
+- [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail) - Secure email that protects your privacy
 - [schappim/macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
 - [yoannfleurydev/GitHub-Notifications](https://github.com/yoannfleurydev/GitHub-Notifications) - 🔔 Get GitHub's notifications directly on your Mac Status Bar
