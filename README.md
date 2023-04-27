@@ -1558,7 +1558,7 @@
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
 - [symfony/monolog-bridge](https://github.com/symfony/monolog-bridge) - Provides integration for Monolog with various Symfony components
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle
-- [symfony/intl](https://github.com/symfony/intl) - Provides a PHP replacement layer for the C intl extension that includes additional data from the ICU library
+- [symfony/intl](https://github.com/symfony/intl) - Provides access to the localization data of the ICU library
 - [symfony/inflector](https://github.com/symfony/inflector) - Converts words between their singular and plural forms (English only)
 - [symfony/http-kernel](https://github.com/symfony/http-kernel) - Provides a structured process for converting a Request into a Response
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) - Defines an object-oriented layer for the HTTP specification
@@ -1824,7 +1824,7 @@
 - [flexbox/classroom](https://github.com/flexbox/classroom) - 👉  Let's build together our own classroom HQ
 - [flexbox/codeless](https://github.com/flexbox/codeless) - 🚚✨ Advanced Middleman template with Sass, Slim & Yarn
 - [Hacktoberfest/hacktoberfest-2020](https://github.com/Hacktoberfest/hacktoberfest-2020) - Hacktoberfest - App to manage the annual open-source challenge, used for the 2019 & 2020 seasons.
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [orta/danger-junit](https://github.com/orta/danger-junit) - Lets you report your test suite problems back to the PR elegantly
 - [rtomayko/rack-cache](https://github.com/rtomayko/rack-cache) - Real HTTP Caching for Ruby Web Apps
 - [peterkeen/dokuen](https://github.com/peterkeen/dokuen) - A personal PaaS for mac and linux
@@ -1961,7 +1961,7 @@
 - [ramsey/composer-install](https://github.com/ramsey/composer-install) - :gift: A GitHub Action to streamline installation of PHP dependencies with Composer.
 - [madalinignisca/devcontainers](https://github.com/madalinignisca/devcontainers) - Devcontainers or Codespace with optimizations for PHP and Nodejs development. Laravel, Symfony, WordPress, Drupal etc.
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [Raulnet/php7-lua-install-script](https://github.com/Raulnet/php7-lua-install-script) - install script for php7 Lua
@@ -2030,7 +2030,7 @@
 ## TypeScript 
 
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An opinionated community data platform, built for developer tools.
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data for DevTool companies.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [flexbox/react-native-template-obytes](https://github.com/flexbox/react-native-template-obytes) - 📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,TailwindCSS, Husky, Lint-Staged, react-navigation, react-query, react-hook-form
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
