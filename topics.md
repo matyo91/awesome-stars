@@ -290,6 +290,7 @@
 
 ## api 
 
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
@@ -1494,6 +1495,7 @@
 
 ## javascript 
 
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) - Testing-library integration for Symfony UX
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data for DevTool companies.
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
@@ -3056,6 +3058,7 @@
 
 ## php 
 
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [SymfonyLive/paris-2023-talks](https://github.com/SymfonyLive/paris-2023-talks) - 
 - [picqer/php-barcode-generator](https://github.com/picqer/php-barcode-generator) - Barcode generator in PHP that is easy to use, non-bloated and framework independent.
 - [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
@@ -3740,6 +3743,7 @@
 
 ## serverless 
 
+- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
