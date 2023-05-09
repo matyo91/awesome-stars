@@ -1070,6 +1070,7 @@
 
 ## PHP 
 
+- [ismail1432/skeleton-bundle](https://github.com/ismail1432/skeleton-bundle) - 
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [swagindustries/drumkit](https://github.com/swagindustries/drumkit) - 
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary
@@ -1938,6 +1939,7 @@
 
 ## Shell 
 
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [markus-perl/ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) - The FFmpeg build script provides an easy way to build a static FFmpeg on OSX and Linux with non-free codecs included.
