@@ -275,6 +275,7 @@
 - [pgrimaud/action-shopify-theme-check](https://github.com/pgrimaud/action-shopify-theme-check) - Run Shopify Theme Check on GitHub Actions
 - [pocky/rymfony-docker](https://github.com/pocky/rymfony-docker) - Rymfony a in container
 - [blackfireio/docker](https://github.com/blackfireio/docker) - 
+- [soyuka/php-wasm](https://github.com/soyuka/php-wasm) - PHP WebAssembly binaries. Original Project by Oraoto and Sean Morris.
 - [satishbabariya/elastic-stack-docker](https://github.com/satishbabariya/elastic-stack-docker) - Elastic stack (ELK) on Docker (APM, Logging, Elasticsearch, Kibana, Beats)
 - [satishbabariya/swift-snapshots-docker](https://github.com/satishbabariya/swift-snapshots-docker) - Swift Development Snapshot Docker
 - [florianbelhomme/docker-symfony](https://github.com/florianbelhomme/docker-symfony) - Docker image with all the requirements for a Symfony project
@@ -557,7 +558,6 @@
 - [glayzzle/php-parser](https://github.com/glayzzle/php-parser) - :herb: NodeJS PHP Parser - extract AST or tokens
 - [CodingTrain/Wave-Function-Collapse](https://github.com/CodingTrain/Wave-Function-Collapse) - 
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [sanctuary-js/sanctuary-maybe](https://github.com/sanctuary-js/sanctuary-maybe) - :rainbow: Fantasy Land -compliant Maybe type
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -792,7 +792,6 @@
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [Arthelon/imgclip](https://github.com/Arthelon/imgclip) - Command line utility that extracts text from an image into the system clipboard.
 - [jplusplus/the-accountant](https://github.com/jplusplus/the-accountant) - Can you resist the sirens of easy money? Find out by playing The Good, The Bad and The Accountant
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [vuejs/vue-router](https://github.com/vuejs/vue-router) - 🚦 The official router for Vue 2
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [transcranial/keras-js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support using WebGL
@@ -877,7 +876,6 @@
 - [javanile/springboard](https://github.com/javanile/springboard) - 🌈 Your project's first place
 - [slashfan/docker-supervisor-php-workers](https://github.com/slashfan/docker-supervisor-php-workers) - Starting point configuration for running (PHP) workers inside Docker containers with Supervisor.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [soyuka/php-wasm](https://github.com/soyuka/php-wasm) - PHP WebAssembly binaries. Original Project by Oraoto and Sean Morris.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 
 ## Markdown 
@@ -945,7 +943,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars) - 🌟 A curated list of my GitHub stars!
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [gautamkrishnar/gautamkrishnar](https://github.com/gautamkrishnar/gautamkrishnar) - Yet another GitHub profile readme :smiley:
 - [kterra/kterra](https://github.com/kterra/kterra) - 
 - [PamelaRondina/PamelaRondina](https://github.com/PamelaRondina/PamelaRondina) - 
@@ -1073,6 +1070,7 @@
 
 ## PHP 
 
+- [igorw/retry](https://github.com/igorw/retry) - A tiny library for retrying failing operations.
 - [IngeniozIT/psr-http-message](https://github.com/IngeniozIT/psr-http-message) - An implementation of PSR-7 Http Message and PSR-17 Http Factories
 - [ismail1432/skeleton-bundle](https://github.com/ismail1432/skeleton-bundle) - 
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
@@ -1131,7 +1129,7 @@
 - [Streamlike/php-ws-sdk](https://github.com/Streamlike/php-ws-sdk) - 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [symfony/ux-react](https://github.com/symfony/ux-react) - Integrates React into Symfony applications
+- [symfony/ux-react](https://github.com/symfony/ux-react) - Integration of React in Symfony
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [soyuka/esql](https://github.com/soyuka/esql) - PHP Extended SQL
 - [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
@@ -1195,12 +1193,12 @@
 - [pgrimaud/git-stars](https://github.com/pgrimaud/git-stars) - Discover your ranking on GitHub
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (writ
 - [myclabs/php-enum](https://github.com/myclabs/php-enum) - The enum PHP is missing, inspired from SplEnum
-- [symfony/ux-live-component](https://github.com/symfony/ux-live-component) - Dynamic UI's with Twig and zero JavaScript
+- [symfony/ux-live-component](https://github.com/symfony/ux-live-component) - Live components for Symfony
 - [b-viguier/php-ncurses](https://github.com/b-viguier/php-ncurses) - 
 - [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/password-hasher](https://github.com/symfony/password-hasher) - Provides password hashing utilities
-- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) - Create reusable Twig components by combining a template + PHP class.
+- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) - Twig components for Symfony
 - [aeon-php/calendar](https://github.com/aeon-php/calendar) - 📅 PHP Date & Time library that solves common problems in object oriented, immutable way.
 - [yoanbernabeu/Airtable-Client-Bundle](https://github.com/yoanbernabeu/Airtable-Client-Bundle) - Simple Client for Airtable API
 - [BedrockStreaming/RateLimitBundle](https://github.com/BedrockStreaming/RateLimitBundle) - 
@@ -1707,7 +1705,6 @@
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [WebAssembly/component-model](https://github.com/WebAssembly/component-model) - Repository for design and specification of the Component Model
 - [robert/wavefunction-collapse](https://github.com/robert/wavefunction-collapse) - Source code for "The Wavefunction Collapse Algorithm explained very clearly"
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -2056,6 +2053,7 @@
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
@@ -2065,7 +2063,7 @@
 - [Jazys/nuag.e-lib](https://github.com/Jazys/nuag.e-lib) - Package for nuag.e provider to create VPS
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [ladifire-opensource/stylex](https://github.com/ladifire-opensource/stylex) - Write CSS-in-JS with atomic support. Like Facebook's Stylex!
 - [moltenform/vipercard](https://github.com/moltenform/vipercard) - An open source rewrite of 1987's HyperCard
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -2221,6 +2219,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
