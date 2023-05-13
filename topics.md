@@ -224,7 +224,7 @@
 
 ## ai 
 
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [GDQuest/godot-2d-space-game](https://github.com/GDQuest/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
@@ -298,7 +298,7 @@
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [marmelab/ra-supabase](https://github.com/marmelab/ra-supabase) - Supabase adapter for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
@@ -352,9 +352,7 @@
 ## awesome 
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars) - 🌟 A curated list of my GitHub stars!
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -373,9 +371,7 @@
 ## awesome-list 
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars) - 🌟 A curated list of my GitHub stars!
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
@@ -1512,7 +1508,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-- [symfony/ux-react](https://github.com/symfony/ux-react) - Integrates React into Symfony applications
+- [symfony/ux-react](https://github.com/symfony/ux-react) - Integration of React in Symfony
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
@@ -1531,6 +1527,8 @@
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
+- [symfony/ux-live-component](https://github.com/symfony/ux-live-component) - Live components for Symfony
+- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) - Twig components for Symfony
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [flexbox/app-store-reviews-to-csv](https://github.com/flexbox/app-store-reviews-to-csv) - Collecting reviews from apps.apple.com and export as a .csv
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -2087,6 +2085,7 @@
 
 ## others 
 
+- [igorw/retry](https://github.com/igorw/retry) - A tiny library for retrying failing operations.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [ismail1432/skeleton-bundle](https://github.com/ismail1432/skeleton-bundle) - 
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
@@ -2291,13 +2290,11 @@
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [wasmerio/docs.wasmer.io](https://github.com/wasmerio/docs.wasmer.io) - Wasmer Documentation (for standalone and embedded use cases)
 - [WebAssembly/interface-types](https://github.com/WebAssembly/interface-types) - 
-- [symfony/ux-live-component](https://github.com/symfony/ux-live-component) - Dynamic UI's with Twig and zero JavaScript
 - [b-viguier/php-ncurses](https://github.com/b-viguier/php-ncurses) - 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager
 - [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) - Create reusable Twig components by combining a template + PHP class.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [wasdk/WasmFiddle](https://github.com/wasdk/WasmFiddle) - WebAssembly Fiddle
@@ -3754,7 +3751,7 @@
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write, Deploy, and Scale Microservices with WebAssembly Functions
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [mnapoli/serverless-pdf-generator](https://github.com/mnapoli/serverless-pdf-generator) - Serverless PDF generator
@@ -3858,7 +3855,7 @@
 - [symfony/clock](https://github.com/symfony/clock) - Decouples applications from the system clock
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [a2lix/TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - Ease translations with some dedicated Symfony form types
-- [symfony/ux-react](https://github.com/symfony/ux-react) - Integrates React into Symfony applications
+- [symfony/ux-react](https://github.com/symfony/ux-react) - Integration of React in Symfony
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
@@ -3870,8 +3867,10 @@
 - [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - Symfony SMSC Notifier Bridge
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
 - [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Symfony Mailjet Notifier Bridge
+- [symfony/ux-live-component](https://github.com/symfony/ux-live-component) - Live components for Symfony
 - [hwi/HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony. Supports both OAuth1.0a and OAuth2.
 - [symfony/password-hasher](https://github.com/symfony/password-hasher) - Provides password hashing utilities
+- [symfony/ux-twig-component](https://github.com/symfony/ux-twig-component) - Twig components for Symfony
 - [yoanbernabeu/Airtable-Client-Bundle](https://github.com/yoanbernabeu/Airtable-Client-Bundle) - Simple Client for Airtable API
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
 - [qmachard/atomic-design-bundle](https://github.com/qmachard/atomic-design-bundle) - Atomic Design is a Storybook like made for Symfony and Twig
