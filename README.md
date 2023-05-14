@@ -448,6 +448,7 @@
 
 ## HTML 
 
+- [ismail1432/conferences](https://github.com/ismail1432/conferences) - 
 - [jobbsy-dev/jobbsy](https://github.com/jobbsy-dev/jobbsy) - Jobbsy - Job Board for Symfony
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -519,6 +520,7 @@
 
 ## Java 
 
+- [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
@@ -1398,7 +1400,7 @@
 - [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - 
 - [php-fig/http-factory](https://github.com/php-fig/http-factory) - Implementation of PSR-17 (HTTP Message Factories)
 - [php-http/promise](https://github.com/php-http/promise) - Promise used for asynchronous HTTP requests
-- [php-http/message-factory](https://github.com/php-http/message-factory) - Factory interfaces for PSR-7 HTTP Message
+- [php-http/message-factory](https://github.com/php-http/message-factory) - Abandoned: Httplug Factory interfaces for PSR-7 HTTP Message
 - [php-http/message](https://github.com/php-http/message) - HTTP Message related tools
 - [php-http/httplug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP
 - [php-http/discovery](https://github.com/php-http/discovery) - Finds installed clients and message factories
