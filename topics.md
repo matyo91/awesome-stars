@@ -2085,6 +2085,8 @@
 
 ## others 
 
+- [ismail1432/conferences](https://github.com/ismail1432/conferences) - 
+- [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [igorw/retry](https://github.com/igorw/retry) - A tiny library for retrying failing operations.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [ismail1432/skeleton-bundle](https://github.com/ismail1432/skeleton-bundle) - 
@@ -2643,7 +2645,7 @@
 - [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - 
 - [getsentry/sentry-php-sdk](https://github.com/getsentry/sentry-php-sdk) - This is a meta package to ship sentry-php with a recommend http client.
 - [php-http/promise](https://github.com/php-http/promise) - Promise used for asynchronous HTTP requests
-- [php-http/message-factory](https://github.com/php-http/message-factory) - Factory interfaces for PSR-7 HTTP Message
+- [php-http/message-factory](https://github.com/php-http/message-factory) - Abandoned: Httplug Factory interfaces for PSR-7 HTTP Message
 - [php-http/message](https://github.com/php-http/message) - HTTP Message related tools
 - [php-http/discovery](https://github.com/php-http/discovery) - Finds installed clients and message factories
 - [http-interop/http-factory-guzzle](https://github.com/http-interop/http-factory-guzzle) - HTTP factory implemented for Guzzle PSR7
