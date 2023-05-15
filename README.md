@@ -6,7 +6,6 @@
 ## Contents
 
 - [ApacheConf](#apacheconf)
-- [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Blade](#blade)
 - [C](#c)
@@ -79,10 +78,6 @@
 ## ApacheConf 
 
 - [dunglas/blog-client](https://github.com/dunglas/blog-client) - A demonstration blog client for the API Platform framework
-
-## Astro 
-
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## AutoHotkey 
 
@@ -2181,6 +2176,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
