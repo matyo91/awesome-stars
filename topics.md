@@ -1501,7 +1501,7 @@
 
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) - Testing-library integration for Symfony UX
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data for DevTool companies.
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
@@ -1553,7 +1553,7 @@
 - [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) - Stimulus integration bridge for Symfony projects
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+- [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -2094,6 +2094,9 @@
 
 ## others 
 
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+- [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
+- [alli83/AsyncDecoratorTrait_use_case](https://github.com/alli83/AsyncDecoratorTrait_use_case) - 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
 - [ismail1432/conferences](https://github.com/ismail1432/conferences) - 
@@ -3071,6 +3074,7 @@
 
 ## php 
 
+- [kpn13/generics-php](https://github.com/kpn13/generics-php) - This Repository contains some tests and use cases about generics.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [IngeniozIT/psr-http-message](https://github.com/IngeniozIT/psr-http-message) - An implementation of PSR-7 Http Message and PSR-17 Http Factories
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
@@ -3448,7 +3452,7 @@
 ## python 
 
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data for DevTool companies.
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
@@ -4122,7 +4126,7 @@
 ## typescript 
 
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data for DevTool companies.
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
@@ -4211,7 +4215,7 @@
 
 ## vue 
 
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data for DevTool companies.
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
