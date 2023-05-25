@@ -181,6 +181,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -250,6 +251,7 @@
 
 ## analytics 
 
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open-source platform to centralize community, product, and customer data in one place
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
@@ -307,7 +309,7 @@
 - [Taluu/Behapi](https://github.com/Taluu/Behapi) - Behat extension for those who want to write acceptances tests for apis
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
@@ -354,7 +356,9 @@
 ## awesome 
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars) - 🌟 A curated list of my GitHub stars!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -373,7 +377,9 @@
 ## awesome-list 
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars) - 🌟 A curated list of my GitHub stars!
+- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
@@ -503,6 +509,7 @@
 
 ## chatgpt 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
@@ -574,7 +581,7 @@
 
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code cloud development environments.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 
 ## compiler 
 
@@ -732,6 +739,8 @@
 
 ## deep-learning 
 
+- [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
@@ -798,6 +807,7 @@
 
 ## docker 
 
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker!
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
@@ -805,7 +815,7 @@
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [drupol/afup-day-lille-2021](https://github.com/drupol/afup-day-lille-2021) - This is the source of my talk 'Lazy Collection' for the AFUP Day 2021 event
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -1155,12 +1165,13 @@
 
 ## golang 
 
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
-- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write, Deploy, and Scale Microservices with WebAssembly Functions
+- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write Serverless Microservices with WebAssembly Functions
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
@@ -1258,7 +1269,7 @@
 - [harshil1712/register-slash-command](https://github.com/harshil1712/register-slash-command) - Add Interactions Endpoint URL for your Discord slash command via CLI
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
 - [scssphp/scssphp](https://github.com/scssphp/scssphp) - SCSS compiler written in PHP
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1301,7 +1312,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [kevin940726/remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - 🎩  Create CodeSandbox directly from code blocks
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [liuggio/fastest](https://github.com/liuggio/fastest) - Simple parallel testing execution... with some goodies for functional tests.
 - [satishbabariya/swift-boilerplate](https://github.com/satishbabariya/swift-boilerplate) - Clean Architecture for iOS projects (Swift + Programmatically UI + MVC + RxSwift + Auto Layout Visual Format + REST + JWT)
 - [nomuq/restyjs-example](https://github.com/nomuq/restyjs-example) - 
@@ -1400,6 +1411,7 @@
 
 ## haskell 
 
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 
 ## home-assistant 
@@ -1530,7 +1542,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
@@ -1567,7 +1579,7 @@
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [format-message/format-message](https://github.com/format-message/format-message) - Internationalization Made Easy
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -1695,7 +1707,7 @@
 ## kubernetes 
 
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -1999,7 +2011,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2011,7 +2023,7 @@
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
@@ -2102,6 +2114,7 @@
 
 ## others 
 
+- [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [iWaroz/HTML.JS](https://github.com/iWaroz/HTML.JS) - It's a javascript framework! However, you have to write frontend logic with HTML, and backend logic with HTML too. Have fun!
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
@@ -2656,7 +2669,6 @@
 - [sekey/sekey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication!
 - [stream-labs/facemask-plugin](https://github.com/stream-labs/facemask-plugin) - (sl)obs filter plug-in for detecting faces and drawing masks on them
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
-- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [linssen/country-flag-icons](https://github.com/linssen/country-flag-icons) - ISO country flags with licensing information
 - [lynckia/licode](https://github.com/lynckia/licode) - Open Source Communication Provider based on WebRTC and Cloud technologies
 - [madalinignisca/devcontainers](https://github.com/madalinignisca/devcontainers) - Devcontainers or Codespace with optimizations for PHP and Nodejs development. Laravel, Symfony, WordPress, Drupal etc.
@@ -2821,7 +2833,6 @@
 - [SkylerLipthay/mini-v8](https://github.com/SkylerLipthay/mini-v8) - A minimal embedded V8 JavaScript engine wrapper for Rust
 - [patchbay-pub/patchbay](https://github.com/patchbay-pub/patchbay) - Libary and CLI tools for interacting with patchbay servers
 - [patchbay-pub/patchbay.pub](https://github.com/patchbay-pub/patchbay.pub) - patchbay.pub static site
-- [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [nginxinc/nginx-wiki](https://github.com/nginxinc/nginx-wiki) - ARCHIVED -- Source for the now archived NGINX Wiki section of https://www.nginx.com
 - [Latitude-Archives/AIDungeon](https://github.com/Latitude-Archives/AIDungeon) - Infinite adventures await!
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
@@ -3429,7 +3440,7 @@
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -3567,7 +3578,7 @@
 - [welovedevs/react-ultimate-resume](https://github.com/welovedevs/react-ultimate-resume) - 💼 🎨 A modern software developer resume built with React and JSONResume
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [LePetitBloc/LePetitBloc](https://github.com/LePetitBloc/LePetitBloc) - :newspaper: LePetitBloc Website
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
@@ -3631,7 +3642,7 @@
 ## reactjs 
 
 - [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the https://tournesol.app platform. Meet the community on Discord https://discord.gg/WvcSG55Bf3
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
@@ -3687,6 +3698,7 @@
 
 ## rust 
 
+- [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -3770,6 +3782,27 @@
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 
+## self-hosted 
+
+- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
+- [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
+- [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [brainless/dwata](https://github.com/brainless/dwata) - Manage Databases without knowing SQL. Track User growth, find Sales insights or bottlenecks, share KPIs without engineering.
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [uniflow-io/uniflow](https://github.com/uniflow-io/uniflow) - Open fair-code distributed Flow based Workflow Automation Tool.
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
+
 ## server 
 
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
@@ -3784,7 +3817,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
-- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write, Deploy, and Scale Microservices with WebAssembly Functions
+- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Write Serverless Microservices with WebAssembly Functions
 - [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services cloud
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
@@ -4134,6 +4167,7 @@
 
 ## twitter 
 
+- [arikroc/most-influential-books](https://github.com/arikroc/most-influential-books) - 📚🐦 Patrick Collison on Twitter: Which five books have influenced you the most? (In terms of shaping your worldview.)
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111) - My awesome profile README
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
@@ -4152,7 +4186,7 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript.
@@ -4175,7 +4209,7 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
@@ -4262,7 +4296,7 @@
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [yannglt/yannglt.com](https://github.com/yannglt/yannglt.com) - 🏴 This repository contains my personal space
 - [dunglas/symfonycon-lisbon](https://github.com/dunglas/symfonycon-lisbon) - A joind.in clone built with Symfony 4 and Vue.js
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integration: Easily integrate you app with any external API
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111) - My awesome profile README
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
