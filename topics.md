@@ -2276,7 +2276,7 @@
 - [Shopify/shopify-api-php](https://github.com/Shopify/shopify-api-php) - 
 - [mickaelandrieu/little-cv-app](https://github.com/mickaelandrieu/little-cv-app) - For learning purposes only, don't use it in production
 - [JeremieDrazic/skyscraper](https://github.com/JeremieDrazic/skyscraper) - 
-- [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build a custom, production-ready documentation website in no time.
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [Ocramius/LazyMap](https://github.com/Ocramius/LazyMap) - :rainbow: A lazy-initializing high performance service map
 - [Drewbi/drewbi](https://github.com/Drewbi/drewbi) - My Bio
