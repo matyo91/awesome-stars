@@ -142,6 +142,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
+- [nosql](#nosql)
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
@@ -735,6 +736,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 
 ## deep-learning 
 
@@ -2045,6 +2047,10 @@
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
+## nosql 
+
+- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+
 ## npm 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -2327,7 +2333,7 @@
 - [loveOSS/github-event-parser](https://github.com/loveOSS/github-event-parser) - A PHP library to get a readable representation of events dispatched by Github API v3
 - [jimmybutton/react-tailwind-table](https://github.com/jimmybutton/react-tailwind-table) - Source code for my tutorial on how to build customizable table component with React Table and Tailwind CSS.
 - [Shopify/dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
-- [wasmerio/docs.wasmer.io](https://github.com/wasmerio/docs.wasmer.io) - Wasmer Documentation (for standalone and embedded use cases)
+- [wasmerio/old-docs.wasmer.io](https://github.com/wasmerio/old-docs.wasmer.io) - Wasmer Documentation (for standalone and embedded use cases)
 - [WebAssembly/interface-types](https://github.com/WebAssembly/interface-types) - 
 - [b-viguier/php-ncurses](https://github.com/b-viguier/php-ncurses) - 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -2408,6 +2414,7 @@
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [marmelab/pentago-symfony](https://github.com/marmelab/pentago-symfony) - 
 - [slashfan/docker-supervisor-php-workers](https://github.com/slashfan/docker-supervisor-php-workers) - Starting point configuration for running (PHP) workers inside Docker containers with Supervisor.
+- [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [yoannfleurydev/comments-on-stream](https://github.com/yoannfleurydev/comments-on-stream) - 
 - [Novactive/NovaeZFastlyImageOptimizerBundle](https://github.com/Novactive/NovaeZFastlyImageOptimizerBundle) - 
 - [pgrimaud/action-shopify-theme-check](https://github.com/pgrimaud/action-shopify-theme-check) - Run Shopify Theme Check on GitHub Actions
@@ -3040,7 +3047,6 @@
 - [SamyPesse/tv.js](https://github.com/SamyPesse/tv.js) - Apple TV for Torrent Streaming in JS (Node/Chrome)
 - [puphpet/puphpet](https://github.com/puphpet/puphpet) - Vagrant/Puppet GUI
 - [kasperisager/php-dockerized](https://github.com/kasperisager/php-dockerized) - Dockerized PHP development stack: Nginx, MySQL, MongoDB, PHP-FPM, HHVM, Memcached, Redis, Elasticsearch and RabbitMQ
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [ttscoff/nv](https://github.com/ttscoff/nv) - MultiMarkdown version of Notational Velocity with Markdown editing features and preview
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
