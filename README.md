@@ -221,7 +221,7 @@
 - [lavv17/lftp](https://github.com/lavv17/lftp) - sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
 - [darkwood-fr/z-mesh](https://github.com/darkwood-fr/z-mesh) - zMesh
 - [vjeux/jspp](https://github.com/vjeux/jspp) - C++ shaped into Javascript
-- [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+- [cocos2d/cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x &
 
 ## CSS 
 
