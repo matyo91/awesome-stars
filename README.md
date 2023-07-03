@@ -267,6 +267,7 @@
 
 ## Dockerfile 
 
+- [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme with Theme Kit on GitHub Actions
@@ -1086,6 +1087,8 @@
 
 ## PHP 
 
+- [spatie/ssh](https://github.com/spatie/ssh) - A lightweight package to execute commands over an SSH connection
+- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 DX oriented task runner and command launcher built with PHP.
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
@@ -2058,6 +2061,7 @@
 
 ## TypeScript 
 
+- [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Understand who is engaging with your open source project.
