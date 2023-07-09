@@ -1878,6 +1878,7 @@
 
 ## Rust 
 
+- [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
