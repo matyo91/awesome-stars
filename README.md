@@ -285,6 +285,7 @@
 
 ## Elixir 
 
+- [antonmi/kraken](https://github.com/antonmi/kraken) - Flow-based System Orchestration Framework
 - [antonmi/ALF](https://github.com/antonmi/ALF) - Flow-based Application Layer Framework
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [conradfr/LiveSongDemo](https://github.com/conradfr/LiveSongDemo) - Sources for the demo from the blog article https://conradfr.github.io/ProgRadio/
