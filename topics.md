@@ -2146,6 +2146,8 @@
 
 ## others 
 
+- [antonmi/kraken](https://github.com/antonmi/kraken) - Flow-based System Orchestration Framework
+- [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
 - [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) - LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS
