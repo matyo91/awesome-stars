@@ -2146,6 +2146,7 @@
 
 ## others 
 
+- [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [antonmi/kraken](https://github.com/antonmi/kraken) - Flow-based System Orchestration Framework
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
