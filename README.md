@@ -7,7 +7,6 @@
 
 - [ApacheConf](#apacheconf)
 - [AutoHotkey](#autohotkey)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -83,10 +82,6 @@
 ## AutoHotkey 
 
 - [stroebjo/autohotkey-windows-mac-keyboard](https://github.com/stroebjo/autohotkey-windows-mac-keyboard) - AutoHotkey Mappings to emulate OSX behaviour with a Mac keyboard on Windows
-
-## Blade 
-
-- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 ## C 
 
@@ -421,7 +416,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [eko/graphql-go-upload](https://github.com/eko/graphql-go-upload) - A middleware for GraphQL-Go to allow file upload and field data using multipart/form-data in mutations
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -1187,6 +1182,7 @@
 - [igorw/lambda-php](https://github.com/igorw/lambda-php) - Lambda calculus interpreter in PHP.
 - [FlorianLeMenn/Symfony-chat-mercure-poc](https://github.com/FlorianLeMenn/Symfony-chat-mercure-poc) - POC chat avec Mercure et Symfony
 - [spatie/period](https://github.com/spatie/period) - Complex period comparisons
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -1731,7 +1727,7 @@
 ## Python 
 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a leading open-source platform for building AI Logic into your applications using your existing developer skills. It's a Central Hub where you can Deploy and Manage Hundreds of AI Engines a
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested 
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -1769,7 +1765,7 @@
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
 - [dunglas/crypt-manager](https://github.com/dunglas/crypt-manager) - Automatically exported from code.google.com/p/crypt-manager
 - [dunglas/debian-hosting](https://github.com/dunglas/debian-hosting) - Automatically exported from code.google.com/p/debian-hosting
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Pierre-Sassoulas/shadok](https://github.com/Pierre-Sassoulas/shadok) - A python library that permit to unleash the full efficiency of shadok's logic.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
