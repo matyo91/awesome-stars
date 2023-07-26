@@ -329,7 +329,7 @@
 
 ## artificial-intelligence 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [ben74/IAMachineLearning](https://github.com/ben74/IAMachineLearning) - MachineLearning problems and resolutions
 - [GDQuest/godot-2d-space-game](https://github.com/GDQuest/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
 - [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
@@ -664,7 +664,7 @@
 
 ## csharp 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -875,7 +875,7 @@
 
 ## dotnet 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 
 ## education 
@@ -1261,7 +1261,7 @@
 
 ## hacktoberfest 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -1841,7 +1841,7 @@
 
 ## machine-learning 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1969,7 +1969,7 @@
 
 ## mysql 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -2012,7 +2012,7 @@
 
 ## nlp 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for long and short text alike
 - [Kyubyong/nlp_tasks](https://github.com/Kyubyong/nlp_tasks) - Natural Language Processing Tasks and References
@@ -3523,7 +3523,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [lava-nc/lava](https://github.com/lava-nc/lava) - A Software Framework for Neuromorphic Computing
@@ -3562,7 +3562,7 @@
 
 ## pytorch 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB’s AI database empowers world’s developers to build, deploy and automate Generative AI models for data-intensive applications.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
@@ -3836,7 +3836,7 @@
 ## self-hosted 
 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [posativ/isso](https://github.com/posativ/isso) - a Disqus alternative
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
@@ -4229,7 +4229,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
-- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
