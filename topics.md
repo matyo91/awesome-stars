@@ -297,7 +297,7 @@
 ## api 
 
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
-- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
+- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
@@ -407,7 +407,7 @@
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [async-aws/aws](https://github.com/async-aws/aws) - AWS SDK with readable code and async responses
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [aramalipoor/aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver) - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
@@ -669,7 +669,7 @@
 - [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 
 ## css 
 
@@ -1205,7 +1205,7 @@
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [dunglas/uri-template-tester](https://github.com/dunglas/uri-template-tester) - Test if a URI matches a given URI template (RFC6570)
@@ -1584,7 +1584,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony
 - [symfony/ux-turbo-mercure](https://github.com/symfony/ux-turbo-mercure) - Mercure bridge for Symfony UX Turbo
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
@@ -1764,7 +1764,7 @@
 
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
-- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
+- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [web-id-fr/radis](https://github.com/web-id-fr/radis) - 🍥 R.A.D.I.S. — Review Apps Deployed In Seconds
@@ -1999,7 +1999,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [thesobercoder/Intercom-Clone](https://github.com/thesobercoder/Intercom-Clone) - Intercom clone built with NextJS and TailwindCSS
 - [nfroidure/belotere](https://github.com/nfroidure/belotere) - A simple solo Belote game
@@ -2152,6 +2152,7 @@
 
 ## others 
 
+- [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - 
 - [vmware-labs/webassembly-language-runtimes](https://github.com/vmware-labs/webassembly-language-runtimes) - Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are
 - [dylibso/wasmstore](https://github.com/dylibso/wasmstore) - A content-addressable datastore for WebAssembly modules
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
@@ -3148,7 +3149,7 @@
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [SymfonyLive/paris-2023-talks](https://github.com/SymfonyLive/paris-2023-talks) - 
 - [picqer/php-barcode-generator](https://github.com/picqer/php-barcode-generator) - Barcode generator in PHP that is easy to use, non-bloated and framework independent.
-- [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
+- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
 - [openswoole/core](https://github.com/openswoole/core) - OpenSwoole core library [READ ONLY]
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
 - [openswoole/ext-openswoole](https://github.com/openswoole/ext-openswoole) - Programmatic server for PHP with async IO, coroutines and fibers
@@ -3529,7 +3530,7 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [fastai/nbdev](https://github.com/fastai/nbdev) - Create delightful software with Jupyter Notebooks
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -3693,7 +3694,7 @@
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
 - [marmelab/ra-supabase](https://github.com/marmelab/ra-supabase) - Supabase adapter for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
@@ -3873,7 +3874,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -4250,7 +4251,7 @@
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [ivan-dalmet/formiz](https://github.com/ivan-dalmet/formiz) - 🐜   React forms with ease! Composable, headless & with built-in multi steps
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
-- [sst/sst](https://github.com/sst/sst) - SST makes it easy to build full-stack apps on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
