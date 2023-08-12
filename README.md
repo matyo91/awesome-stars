@@ -2279,7 +2279,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [Jazys/FrontOpenMVPBox](https://github.com/Jazys/FrontOpenMVPBox) - 
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [yannglt/yannglt.com](https://github.com/yannglt/yannglt.com) - 🏴 This repository contains my personal space
 - [dunglas/test-again](https://github.com/dunglas/test-again) - 
 - [Imperiali/imperiali](https://github.com/Imperiali/imperiali) - My page, with a little about me, my work and my professional skills
