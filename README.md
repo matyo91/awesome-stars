@@ -1256,7 +1256,7 @@
 - [BedrockStreaming/PhpProcessManagerBundle](https://github.com/BedrockStreaming/PhpProcessManagerBundle) - :no_entry: DEPRECATED - PHP ProcessManagerBundle
 - [BedrockStreaming/DaemonBundle](https://github.com/BedrockStreaming/DaemonBundle) - Allows you to create daemonized commands. 😈
 - [Roave/psr-container-doctrine](https://github.com/Roave/psr-container-doctrine) - Doctrine Factories for PSR-11 Containers
-- [shopsys/shopsys](https://github.com/shopsys/shopsys) - Main repository for maintaining Shopsys Framework packages. Open for ISSUES and PULL REQUESTS.
+- [shopsys/shopsys](https://github.com/shopsys/shopsys) - Main repository for maintaining Shopsys Platform packages. Open for ISSUES and PULL REQUESTS.
 - [streamcommon/promise](https://github.com/streamcommon/promise) - PHP Promises/A+ implementation
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
@@ -1895,7 +1895,7 @@
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Modsurfer provides ops & dev teams with a system of record + diagnostics application to search, browse, and investigate WebAssembly modules.
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rust-console/gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
