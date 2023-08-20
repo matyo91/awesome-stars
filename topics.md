@@ -2186,7 +2186,7 @@
 - [ismail1432/conferences](https://github.com/ismail1432/conferences) - 
 - [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [igorw/retry](https://github.com/igorw/retry) - A tiny library for retrying failing operations.
-- [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - 🤗 Start Here! Discussions, issues, docs and roadmap
+- [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [ismail1432/skeleton-bundle](https://github.com/ismail1432/skeleton-bundle) - 
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [swagindustries/drumkit](https://github.com/swagindustries/drumkit) - 
