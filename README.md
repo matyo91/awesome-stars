@@ -33,6 +33,7 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kaitai Struct](#kaitai-struct)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
@@ -475,7 +476,6 @@
 - [fairsource/fairsource](https://github.com/fairsource/fairsource) - Not open source. Not closed source. The Fair Source License allows everyone to see the source code and makes the software free to use for a limited number of users in your organization. It offers some
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
-- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [nunomaduro/my-site](https://github.com/nunomaduro/my-site) - 
 - [GetLuko/Covid19-French-Auth](https://github.com/GetLuko/Covid19-French-Auth) - 
@@ -662,7 +662,6 @@
 - [qiuyaofan/datepicker](https://github.com/qiuyaofan/datepicker) - Support range selection, maximum and minimum settings, time format free conversion, UI good-looking, easy to use, refer to element-ui datePicker jQuery version
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [rauchg/blog](https://github.com/rauchg/blog) - 
 - [lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
@@ -858,6 +857,10 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
+## Just 
+
+- [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
+
 ## Kaitai Struct 
 
 - [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
@@ -885,6 +888,7 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [rauchg/blog](https://github.com/rauchg/blog) - 
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 
 ## Makefile 
