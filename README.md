@@ -895,7 +895,6 @@
 
 - [javanile/springboard](https://github.com/javanile/springboard) - 🌈 Your project's first place
 - [slashfan/docker-supervisor-php-workers](https://github.com/slashfan/docker-supervisor-php-workers) - Starting point configuration for running (PHP) workers inside Docker containers with Supervisor.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
 
 ## Markdown 
@@ -1015,6 +1014,7 @@
 - [simon-schubert/devpunk](https://github.com/simon-schubert/devpunk) - Collection of non-platform endorsed resources with focus on PHP
 - [RvNovae/rm-notifier-public](https://github.com/RvNovae/rm-notifier-public) - Browse documentation and report issues regarding RM-Notifier
 - [symfony/psr7-pack](https://github.com/symfony/psr7-pack) - A Symfony Pack for bridging PSR-7/17
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [RvNovae/us-ger](https://github.com/RvNovae/us-ger) - My personal keyboard layout
 - [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories) - :closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily
 - [Ocramius/.github](https://github.com/Ocramius/.github) - Common documentation about my work on projects that I make public on Github
@@ -1899,7 +1899,7 @@
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Modsurfer provides ops & dev teams with a system of record + diagnostics application to search, browse, and investigate WebAssembly modules.
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, call their functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rust-console/gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
