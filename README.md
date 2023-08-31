@@ -1740,6 +1740,7 @@
 
 ## Python 
 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
@@ -1974,7 +1975,7 @@
 ## SCSS 
 
 - [l-vo/slideshow-form](https://github.com/l-vo/slideshow-form) - Presentation at the Symfony Live french edition 2021
-- [sst/sst.dev](https://github.com/sst/sst.dev) - An open source guide for building and deploying full-stack apps using serverless and React on AWS.
+- [sst/sst.dev](https://github.com/sst/sst.dev) - Repo for sst.dev
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
@@ -2165,7 +2166,7 @@
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v2
-- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS.
+- [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [intuit/design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [jeremybarbet/react-native-modalize](https://github.com/jeremybarbet/react-native-modalize) - A highly customizable modal/bottom sheet that loves scrolling content.
