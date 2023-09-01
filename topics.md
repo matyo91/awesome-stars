@@ -2168,6 +2168,7 @@
 
 ## others 
 
+- [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
