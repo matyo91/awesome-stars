@@ -2344,7 +2344,6 @@
 - [wasmerio/.github](https://github.com/wasmerio/.github) - Github profile
 - [Shopify/shopify-api-php](https://github.com/Shopify/shopify-api-php) - 
 - [mickaelandrieu/little-cv-app](https://github.com/mickaelandrieu/little-cv-app) - For learning purposes only, don't use it in production
-- [JeremieDrazic/skyscraper](https://github.com/JeremieDrazic/skyscraper) - 
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [Ocramius/LazyMap](https://github.com/Ocramius/LazyMap) - :rainbow: A lazy-initializing high performance service map
 - [Drewbi/drewbi](https://github.com/Drewbi/drewbi) - My Bio
