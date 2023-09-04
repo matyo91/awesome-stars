@@ -1100,6 +1100,7 @@
 
 ## PHP 
 
+- [strangebuzz/MicroSymfony](https://github.com/strangebuzz/MicroSymfony) - Demo repository for the blog post
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
