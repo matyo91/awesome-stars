@@ -553,7 +553,7 @@
 
 ## JavaScript 
 
-- [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - 
+- [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [iWaroz/HTML.JS](https://github.com/iWaroz/HTML.JS) - It's a javascript framework! However, you have to write frontend logic with HTML, and backend logic with HTML too. Have fun!
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
