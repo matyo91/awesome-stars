@@ -1104,6 +1104,7 @@
 
 ## PHP 
 
+- [pi0/osticket-docker](https://github.com/pi0/osticket-docker) - osTicket Docker Image (unofficial)
 - [nox7/async-php-8-io-http](https://github.com/nox7/async-php-8-io-http) - True asynchronous PHP I/O and HTTP without frameworks, extensions, or annoying code. Uses PHP Fibers introduced in PHP 8.1
 - [strangebuzz/MicroSymfony](https://github.com/strangebuzz/MicroSymfony) - Demo repository for the blog post
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
