@@ -423,7 +423,7 @@
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
 - [jderusse/docker-gitsplit](https://github.com/jderusse/docker-gitsplit) - 
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [eko/graphql-go-upload](https://github.com/eko/graphql-go-upload) - A middleware for GraphQL-Go to allow file upload and field data using multipart/form-data in mutations
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
@@ -876,7 +876,6 @@
 - [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration) - Discord rich presence integration for all JetBrains IDEs
 - [pestphp/pest-intellij](https://github.com/pestphp/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
 - [jarroyoesp/KotlinMultiplatform_MVVM](https://github.com/jarroyoesp/KotlinMultiplatform_MVVM) - Android & iOS App using MVVM pattern and LiveData on the presentation layer + Clean Arch on the common shared code.
 - [jarroyoesp/KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform) - Kotlin MultiPlatform App (Android, iOS, JVM & JS). MVVM/MVP - Kotlin MultiPlatform
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -1104,6 +1103,8 @@
 
 ## PHP 
 
+- [mcaskill/composer-plugin-exclude-files](https://github.com/mcaskill/composer-plugin-exclude-files) - 📦 Composer plugin to exclude files required by packages using the 'files' autoloading mechanism.
+- [symplely/coroutine](https://github.com/symplely/coroutine) - Cooperative multitasking using generators. The basics of coroutines, async and await!
 - [pi0/osticket-docker](https://github.com/pi0/osticket-docker) - osTicket Docker Image (unofficial)
 - [nox7/async-php-8-io-http](https://github.com/nox7/async-php-8-io-http) - True asynchronous PHP I/O and HTTP without frameworks, extensions, or annoying code. Uses PHP Fibers introduced in PHP 8.1
 - [strangebuzz/MicroSymfony](https://github.com/strangebuzz/MicroSymfony) - Demo repository for the blog post
@@ -2320,6 +2321,7 @@
 - [wasmerio/old-docs.wasmer.io](https://github.com/wasmerio/old-docs.wasmer.io) - Wasmer Documentation (for standalone and embedded use cases)
 - [WebAssembly/interface-types](https://github.com/WebAssembly/interface-types) - 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine & Korlibs
 
 ## YARA 
 
