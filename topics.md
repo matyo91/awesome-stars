@@ -873,7 +873,7 @@
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [h-enk/doks](https://github.com/h-enk/doks) - Everything you need to build an outstanding documentation website. Fast, accessible, and easy-to-use.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, accessible, high-performance documentation websites
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
 - [PrestaShop/docs](https://github.com/PrestaShop/docs) - PrestaShop technical documentation
@@ -2106,7 +2106,7 @@
 ## npm 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [h-enk/doks](https://github.com/h-enk/doks) - Everything you need to build an outstanding documentation website. Fast, accessible, and easy-to-use.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, accessible, high-performance documentation websites
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. Original Project by Oraoto, ES6 & Clang Upgrades by Sean Morris.
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -2173,6 +2173,7 @@
 
 ## others 
 
+- [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
 - [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
 - [mcaskill/composer-plugin-exclude-files](https://github.com/mcaskill/composer-plugin-exclude-files) - 📦 Composer plugin to exclude files required by packages using the 'files' autoloading mechanism.
 - [pi0/osticket-docker](https://github.com/pi0/osticket-docker) - osTicket Docker Image (unofficial)
@@ -2184,7 +2185,7 @@
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [vmware-labs/webassembly-language-runtimes](https://github.com/vmware-labs/webassembly-language-runtimes) - Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are
 - [dylibso/wasmstore](https://github.com/dylibso/wasmstore) - A content-addressable datastore for WebAssembly modules
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
