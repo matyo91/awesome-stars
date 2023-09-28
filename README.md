@@ -1140,7 +1140,7 @@
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
 - [florentdestremau/symfonycon-turbo](https://github.com/florentdestremau/symfonycon-turbo) - A simple website to demonstrate symfony-ux turbo
 - [picqer/php-barcode-generator](https://github.com/picqer/php-barcode-generator) - Barcode generator in PHP that is easy to use, non-bloated and framework independent.
-- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠 (Formerly Sammyjo20/Saloon)
+- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 - [GromNaN/s3-zip](https://github.com/GromNaN/s3-zip) - Read partial ZIP on S3 (PHP)
@@ -1759,7 +1759,7 @@
 
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
@@ -2013,6 +2013,7 @@
 
 ## Shell 
 
+- [IngeniozIT/php-install](https://github.com/IngeniozIT/php-install) - Scripts to install PHP
 - [vmware-labs/webassembly-language-runtimes](https://github.com/vmware-labs/webassembly-language-runtimes) - Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
@@ -2108,6 +2109,8 @@
 
 ## TypeScript 
 
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [Natizyskunk/vscode-sftp](https://github.com/Natizyskunk/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
