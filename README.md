@@ -353,7 +353,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
-- [madflojo/tarmac](https://github.com/madflojo/tarmac) - Framework for writing functions, microservices, or monoliths with Web Assembly Functions
+- [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with Web Assembly
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l'instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
@@ -961,6 +961,7 @@
 
 ## Others 
 
+- [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - 
 - [gorosgobe/proposal-negated-in-instanceof](https://github.com/gorosgobe/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
@@ -1109,6 +1110,8 @@
 
 ## PHP 
 
+- [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build single static PHP binary, with PHP project together, with popular extensions included.
 - [schranz-search/schranz-search](https://github.com/schranz-search/schranz-search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://schranz-sear
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another!
@@ -1117,7 +1120,7 @@
 - [symplely/coroutine](https://github.com/symplely/coroutine) - Cooperative multitasking using generators. The basics of coroutines, async and await!
 - [pi0/osticket-docker](https://github.com/pi0/osticket-docker) - osTicket Docker Image (unofficial)
 - [nox7/async-php-8-io-http](https://github.com/nox7/async-php-8-io-http) - True asynchronous PHP I/O and HTTP without frameworks, extensions, or annoying code. Uses PHP Fibers introduced in PHP 8.1
-- [strangebuzz/MicroSymfony](https://github.com/strangebuzz/MicroSymfony) - Demo repository for the blog post
+- [strangebuzz/MicroSymfony](https://github.com/strangebuzz/MicroSymfony) - Template introduction, check out: https://www.strangebuzz.com/en/blog/introducing-the-microsymfony-application-template
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
@@ -1392,7 +1395,6 @@
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
 - [nealio82/absolute-beginners-guide-to-ddd-with-symfony](https://github.com/nealio82/absolute-beginners-guide-to-ddd-with-symfony) - Example application to go along with the "Absolute Beginner's Guide to DDD with Symfony" presentation
-- [web-auth/symfony-demo](https://github.com/web-auth/symfony-demo) - Demo Application using Symfony 6, Bootstrap 5 and Webauthn
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
@@ -1759,6 +1761,7 @@
 
 ## Python 
 
+- [LansburyCH/relightable-nr](https://github.com/LansburyCH/relightable-nr) - A Neural Rendering Framework for Free-Viewpoint Relighting (CVPR 2020)
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -2109,6 +2112,7 @@
 
 - [afsy/website](https://github.com/afsy/website) - 👩‍💻👨‍💻 afsy.fr website ✨
 - [Elao/elao_](https://github.com/Elao/elao_) - Elao website & blog
+- [web-auth/symfony-demo](https://github.com/web-auth/symfony-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn
 - [atlas-services/hermes](https://github.com/atlas-services/hermes) - CMS based on Bootstrap and Symfony
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request
 
@@ -2126,7 +2130,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - Effortlessly centralize community, product, and customer data in one database
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - An open source CDP to centralize community, product, and customer data
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [flexbox/react-native-template-obytes](https://github.com/flexbox/react-native-template-obytes) - 📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,TailwindCSS, Husky, Lint-Staged, react-navigation, react-query, react-hook-form
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -2154,12 +2158,12 @@
 - [Jazys/nuag.e-lib](https://github.com/Jazys/nuag.e-lib) - Package for nuag.e provider to create VPS
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
-- [ladifire-opensource/stylex](https://github.com/ladifire-opensource/stylex) - Write CSS-in-JS with atomic support. Like Facebook's Stylex!
+- [reacttips-dev/stylex](https://github.com/reacttips-dev/stylex) - Write CSS-in-JS with atomic support. Like Facebook's Stylex!
 - [moltenform/vipercard](https://github.com/moltenform/vipercard) - An open source rewrite of 1987's HyperCard
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
