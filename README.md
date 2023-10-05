@@ -151,6 +151,7 @@
 - [isakody/VJ_LaraCroftGo](https://github.com/isakody/VJ_LaraCroftGo) - 3D game imitation of the well-known mobile game Lara Croft Go made with Unity by a 2-person team in Scrum.
 - [Jellevermandere/4D-Raymarching](https://github.com/Jellevermandere/4D-Raymarching) - a Unity framework to create spacial 4 dimentional games, using raymarching
 - [dan200/Redirection](https://github.com/dan200/Redirection) - A puzzle game
+- [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 - [gregstein/AoE2Tools](https://github.com/gregstein/AoE2Tools) - A lightweight program that lets you easily play your Steam version of Age of Empires 2 HD in Voobly format. In addition to Mega Utilities
 - [brihernandez/TinyXWingClean](https://github.com/brihernandez/TinyXWingClean) - Tech demo for testing JSON-loaded game data
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
@@ -180,7 +181,6 @@
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
-- [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -354,7 +354,7 @@
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) - Framework for writing functions, microservices, or monoliths with Web Assembly
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l'instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [symfony-cli/terminal](https://github.com/symfony-cli/terminal) - 
@@ -962,7 +962,7 @@
 ## Others 
 
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - 
-- [tc39-transfer/proposal-negated-in-instanceof](https://github.com/tc39-transfer/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
+- [tc39/proposal-negated-in-instanceof](https://github.com/tc39/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac :tada: Open an issue here to give feedback or ask for help.
@@ -2112,7 +2112,7 @@
 
 - [afsy/website](https://github.com/afsy/website) - 👩‍💻👨‍💻 afsy.fr website ✨
 - [Elao/elao_](https://github.com/Elao/elao_) - Elao website & blog
-- [web-auth/symfony-demo](https://github.com/web-auth/symfony-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn
+- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn
 - [atlas-services/hermes](https://github.com/atlas-services/hermes) - CMS based on Bootstrap and Symfony
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request
 
@@ -2125,7 +2125,7 @@
 - [Natizyskunk/vscode-sftp](https://github.com/Natizyskunk/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
