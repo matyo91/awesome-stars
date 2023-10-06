@@ -1006,7 +1006,6 @@
 - [makers-for-life/makair](https://github.com/makers-for-life/makair) - 🫁 The world's first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).
 - [wasmerio/.github](https://github.com/wasmerio/.github) - Github profile
 - [Drewbi/drewbi](https://github.com/Drewbi/drewbi) - My Bio
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [darkwood-fr/.github](https://github.com/darkwood-fr/.github) - :octocat: Github Darkwood Profile
 - [emil14/fbp-book-ru](https://github.com/emil14/fbp-book-ru) - Russian translation of "Flow-Based Programming, 1st Edition: A New Approach to Application Development" by J. Paul Rodker Morrison
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
@@ -1850,7 +1849,7 @@
 - [fabpot/sphinx-php](https://github.com/fabpot/sphinx-php) - My Sphinx Extensions
 - [brouberol/marcel](https://github.com/brouberol/marcel) - Le docker français :whale: :fr:
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
-- [Latitude-Archives/AIDungeon](https://github.com/Latitude-Archives/AIDungeon) - Infinite adventures await!
+- [latitudegames/AIDungeon](https://github.com/latitudegames/AIDungeon) - Infinite adventures await!
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -1895,6 +1894,7 @@
 
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [github/licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
