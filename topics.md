@@ -290,7 +290,7 @@
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [dunglas/DunglasAngularCsrfBundle](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for JavaScript apps using a Symfony API
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
@@ -556,7 +556,7 @@
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 DX oriented task runner and command launcher built with PHP.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo GraphOS
 - [php-toolkit/pflag](https://github.com/php-toolkit/pflag) - Generic PHP command line flags parse library.
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
@@ -1294,6 +1294,7 @@
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 DX oriented task runner and command launcher built with PHP.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
+- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
@@ -1323,7 +1324,7 @@
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 - [l3mpire/lemverse](https://github.com/l3mpire/lemverse) - The first-ever coworking metaverse
 - [afsy/website](https://github.com/afsy/website) - 👩‍💻👨‍💻 afsy.fr website ✨
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration) - Discord rich presence integration for all JetBrains IDEs
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [harshil1712/register-slash-command](https://github.com/harshil1712/register-slash-command) - Add Interactions Endpoint URL for your Discord slash command via CLI
@@ -1408,7 +1409,6 @@
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [jgrossi/elephpant.me](https://github.com/jgrossi/elephpant.me) - 🐘 a simple website to help you to trade elePHPants 💥
@@ -1662,7 +1662,7 @@
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
@@ -2209,7 +2209,6 @@
 - [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - 
 - [LansburyCH/relightable-nr](https://github.com/LansburyCH/relightable-nr) - A Neural Rendering Framework for Free-Viewpoint Relighting (CVPR 2020)
-- [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
 - [tc39/proposal-negated-in-instanceof](https://github.com/tc39/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
 - [IngeniozIT/php-install](https://github.com/IngeniozIT/php-install) - Scripts to install PHP
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo:  https://demo.paisa.fyi
@@ -3725,7 +3724,7 @@
 - [btzr-io/Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [generativefm/generative.fm](https://github.com/generativefm/generative.fm) - A platform for playing generative music in the browser.
@@ -3836,6 +3835,7 @@
 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
+- [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
 - [flows-network/flows-connector](https://github.com/flows-network/flows-connector) - The SaaS connectors that flows.network supported
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
@@ -3990,7 +3990,7 @@
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -4284,7 +4284,7 @@
 
 ## terminal 
 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [curlpipe/ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!
@@ -4376,7 +4376,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [poteto/no.lol](https://github.com/poteto/no.lol) - 🍩 Lauren's personal blog
@@ -4430,7 +4430,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111) - My awesome profile README
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
-- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
+- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
 - [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
