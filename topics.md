@@ -21,7 +21,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
-- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bitcoin](#bitcoin)
@@ -433,14 +432,6 @@
 - [phabelio/phabel](https://github.com/phabelio/phabel) - PHP transpiler - Write and deploy modern PHP 8 code, today.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
-
-## backend 
-
-- [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
-- [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 
 ## bash 
 
@@ -2405,7 +2396,7 @@
 - [gaudiatech/demo2-asteroids](https://github.com/gaudiatech/demo2-asteroids) - demo for the katasdk python package
 - [emil14/fbp-book-ru](https://github.com/emil14/fbp-book-ru) - Russian translation of "Flow-Based Programming, 1st Edition: A New Approach to Application Development" by J. Paul Rodker Morrison
 - [djhi/svelte-admin](https://github.com/djhi/svelte-admin) - 
-- [Jam3/math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
+- [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
 - [Jazys/OpenMVPBox](https://github.com/Jazys/OpenMVPBox) - 
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
