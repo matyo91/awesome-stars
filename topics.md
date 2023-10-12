@@ -1340,6 +1340,7 @@
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - :abc: Microtypography fixer for the web
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+- [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [solaris-games/solaris](https://github.com/solaris-games/solaris) - A HTML5 game of strategy, intrigue and galactic conquest.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
@@ -2424,7 +2425,6 @@
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive
 - [phpservicebus/core](https://github.com/phpservicebus/core) - PHP Service Bus core library
 - [oleksandr/fbp](https://github.com/oleksandr/fbp) - A Go parser for .FBP DSL language from NoFlo
-- [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
 - [lumia2046/react-prism-editor](https://github.com/lumia2046/react-prism-editor) - 
 - [samuell/awesome-fbp](https://github.com/samuell/awesome-fbp) - Awesome Flow-Based Programming (FBP) Resources
 - [flowbased/fbp-protocol](https://github.com/flowbased/fbp-protocol) - Tests, schemas, and specifications for the Flow Based Programming Network Protocol
