@@ -564,6 +564,8 @@
 
 ## JavaScript 
 
+- [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
 - [EmNudge/watlings](https://github.com/EmNudge/watlings) - Learn WebAssembly by writing small programs!
 - [iWaroz/HTML.JS](https://github.com/iWaroz/HTML.JS) - It's a javascript framework! However, you have to write frontend logic with HTML, and backend logic with HTML too. Have fun!
@@ -967,6 +969,9 @@
 
 ## Others 
 
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [WebMamba/slide-php-forum-2023](https://github.com/WebMamba/slide-php-forum-2023) - Les slides de mon talk (Symfony se met au front, a votre tour maintenant). Que j'ai presenter au ForumPHP 2023!
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - 
 - [tc39/proposal-negated-in-instanceof](https://github.com/tc39/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
@@ -1115,6 +1120,7 @@
 
 ## PHP 
 
+- [pgrimaud/lametric-hall-of-fame](https://github.com/pgrimaud/lametric-hall-of-fame) - This is a list of the most popular developers for the LaMetric Time smart clock.
 - [dseguy/changedBehavior](https://github.com/dseguy/changedBehavior) - Museum of change behaviors in PHP
 - [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
@@ -1516,7 +1522,7 @@
 - [thephpleague/flysystem-memory](https://github.com/thephpleague/flysystem-memory) - Flysystem Memory Adapter
 - [Guikingone/SymfonyUidDoctrine](https://github.com/Guikingone/SymfonyUidDoctrine) - A small and fast library which aim to provide Symfony/Uid support in Doctrine as a custom type
 - [certificationy/certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
-- [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Invoke
+- [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Castor
 - [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [dbu/snake-bundle](https://github.com/dbu/snake-bundle) - The snake game implemented with the Symfony console
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
@@ -1767,6 +1773,7 @@
 
 ## Python 
 
+- [uvipen/Photomosaic-generator](https://github.com/uvipen/Photomosaic-generator) - photomosaic generator (image to image, video to video)
 - [LansburyCH/relightable-nr](https://github.com/LansburyCH/relightable-nr) - A Neural Rendering Framework for Free-Viewpoint Relighting (CVPR 2020)
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
@@ -2090,6 +2097,10 @@
 
 ## Swift 
 
+- [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
+- [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
+- [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
+- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [freeotp/freeotp-ios](https://github.com/freeotp/freeotp-ios) - 
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
 - [ProtonMail/ios-mail](https://github.com/ProtonMail/ios-mail) - Secure email that protects your privacy
@@ -2284,7 +2295,7 @@
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
-- [teambit/bit](https://github.com/teambit/bit) - A tool for development of composable software.
+- [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
