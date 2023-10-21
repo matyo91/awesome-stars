@@ -85,6 +85,7 @@
 
 ## Astro 
 
+- [creatures-dev/creatures.dev](https://github.com/creatures-dev/creatures.dev) - The creatures.dev website repo
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## AutoHotkey 
@@ -538,6 +539,7 @@
 
 ## Java 
 
+- [AurelienPillevesse/true-false](https://github.com/AurelienPillevesse/true-false) - Game made for an Android project during my studies at the IUT Clermont-Ferrand
 - [objectionary/eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Object-Oriented Programming Language Based on 𝜑-calculus
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
 - [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
@@ -564,6 +566,9 @@
 
 ## JavaScript 
 
+- [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
+- [AurelienPillevesse/tictacbro](https://github.com/AurelienPillevesse/tictacbro) - TicTacToe game made for a Java project during my studies at the IUT Clermont-Ferrand
+- [AurelienPillevesse/cupcaze-ball](https://github.com/AurelienPillevesse/cupcaze-ball) - Web game made with Canvas2D during my free time
 - [JeanDavidDaviet/lire-la-musique](https://github.com/JeanDavidDaviet/lire-la-musique) - 
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
@@ -1123,6 +1128,7 @@
 
 ## PHP 
 
+- [AurelienPillevesse/game-of-thrones-website](https://github.com/AurelienPillevesse/game-of-thrones-website) - Game of Thrones website made for a PHP/HTML/CSS project during my studies at the IUT Clermont-Ferrand ; Mark : 18/20
 - [froldev/froldev-symfony-pirats](https://github.com/froldev/froldev-symfony-pirats) - 
 - [brefphp/dev-server](https://github.com/brefphp/dev-server) - Local development server for serverless web apps
 - [pgrimaud/lametric-hall-of-fame](https://github.com/pgrimaud/lametric-hall-of-fame) - This is a list of the most popular developers for the LaMetric Time smart clock.
@@ -1785,7 +1791,7 @@
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🧚‍♀️ Automated tool for generating README files 👨‍🎨
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -2141,6 +2147,7 @@
 
 ## TypeScript 
 
+- [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - Demo flashcards app built with Next.js 13, Prisma and Chakra UI.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
