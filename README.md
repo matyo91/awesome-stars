@@ -98,6 +98,7 @@
 
 ## C 
 
+- [scienceetonnante/Fast-Inverse-Square-Root](https://github.com/scienceetonnante/Fast-Inverse-Square-Root) - Analyzing the fast inverse square root from Quake III Arena
 - [ponceto/xcpc-emulator](https://github.com/ponceto/xcpc-emulator) - Xcpc - Amstrad CPC emulator for Linux, BSD, Unix [this repository is a mirror]
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
@@ -566,6 +567,8 @@
 
 ## JavaScript 
 
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+- [matyo91/wysiwyl](https://github.com/matyo91/wysiwyl) - What you see is what you like
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
 - [AurelienPillevesse/tictacbro](https://github.com/AurelienPillevesse/tictacbro) - TicTacToe game made for a Java project during my studies at the IUT Clermont-Ferrand
 - [AurelienPillevesse/cupcaze-ball](https://github.com/AurelienPillevesse/cupcaze-ball) - Web game made with Canvas2D during my free time
@@ -1130,6 +1133,8 @@
 
 ## PHP 
 
+- [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) - Find leaking classes that you never use... and get rid of them.
+- [Pierstoval/rad](https://github.com/Pierstoval/rad) - 
 - [AurelienPillevesse/game-of-thrones-website](https://github.com/AurelienPillevesse/game-of-thrones-website) - Game of Thrones website made for a PHP/HTML/CSS project during my studies at the IUT Clermont-Ferrand ; Mark : 18/20
 - [froldev/froldev-symfony-pirats](https://github.com/froldev/froldev-symfony-pirats) - 
 - [brefphp/dev-server](https://github.com/brefphp/dev-server) - Local development server for serverless web apps
@@ -1793,7 +1798,7 @@
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI 🥷
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
