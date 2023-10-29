@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, queueing, and prioritization for modern workloads
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrun
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
@@ -544,6 +545,8 @@
 
 ## Java 
 
+- [green-code-initiative/ecoCode-php](https://github.com/green-code-initiative/ecoCode-php) - Reduce the environmental footprint of your PHP software programs
+- [green-code-initiative/ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software programs with SonarQube
 - [AurelienPillevesse/true-false](https://github.com/AurelienPillevesse/true-false) - Game made for an Android project during my studies at the IUT Clermont-Ferrand
 - [objectionary/eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Object-Oriented Programming Language Based on 𝜑-calculus
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
@@ -572,7 +575,7 @@
 ## JavaScript 
 
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [matyo91/wysiwyl](https://github.com/matyo91/wysiwyl) - What you see is what you like
+- [darkwood-fr/wysiwyl](https://github.com/darkwood-fr/wysiwyl) - What you see is what you like
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
 - [AurelienPillevesse/tictacbro](https://github.com/AurelienPillevesse/tictacbro) - TicTacToe game made for a Java project during my studies at the IUT Clermont-Ferrand
 - [AurelienPillevesse/cupcaze-ball](https://github.com/AurelienPillevesse/cupcaze-ball) - Web game made with Canvas2D during my free time
