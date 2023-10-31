@@ -350,6 +350,7 @@
 
 ## Go 
 
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, queueing, and prioritization for modern workloads
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrun
@@ -473,6 +474,7 @@
 
 ## HTML 
 
+- [getintorj/Link](https://github.com/getintorj/Link) - 
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [ponceto/aym-js](https://github.com/ponceto/aym-js) - AYM·JS a AY-3-8910 & YM2149 sound chip emulator written in JavaScript [this repository is a mirror]
 - [ismail1432/conferences](https://github.com/ismail1432/conferences) - 
@@ -575,6 +577,9 @@
 
 ## JavaScript 
 
+- [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
+- [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [viebel/data-oriented-programming](https://github.com/viebel/data-oriented-programming) - 
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [darkwood-fr/wysiwyl](https://github.com/darkwood-fr/wysiwyl) - What you see is what you like
@@ -988,6 +993,15 @@
 
 ## Others 
 
+- [qkrdmstlr3/qkrdmstlr3](https://github.com/qkrdmstlr3/qkrdmstlr3) - 
+- [TBadru/TBadru](https://github.com/TBadru/TBadru) - 
+- [Abhi1o/Abhi1o](https://github.com/Abhi1o/Abhi1o) - I'm Abhishek Kumar a Full stack web developer |
+- [lota-lutfunnahar/lota-lutfunnahar](https://github.com/lota-lutfunnahar/lota-lutfunnahar) - 
+- [cumsoft/cumsoft](https://github.com/cumsoft/cumsoft) - 
+- [Aejkatappaja/Aejkatappaja](https://github.com/Aejkatappaja/Aejkatappaja) - About Me
+- [mdsarfarazalam840/mdsarfarazalam840](https://github.com/mdsarfarazalam840/mdsarfarazalam840) - 
+- [prithvi2k2/prithvi2k2](https://github.com/prithvi2k2/prithvi2k2) - About Me
+- [getintorj/getintorj](https://github.com/getintorj/getintorj) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mnapoli/hard-mode](https://github.com/mnapoli/hard-mode) - PHP hard mode
@@ -1802,6 +1816,8 @@
 
 ## Python 
 
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 - [ThePorgs/Exegol-docs](https://github.com/ThePorgs/Exegol-docs) - Documentation for Exegol
 - [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
@@ -2169,6 +2185,7 @@
 
 ## TypeScript 
 
+- [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
 - [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - Demo flashcards app built with Next.js 13, Prisma and Chakra UI.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
