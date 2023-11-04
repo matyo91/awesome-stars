@@ -39,6 +39,7 @@
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -352,6 +353,7 @@
 
 ## Go 
 
+- [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -929,6 +931,10 @@
 
 - [evanpurkhiser/cleanUI](https://github.com/evanpurkhiser/cleanUI) - My old World of Warcraft UI
 
+## MATLAB 
+
+- [gpeyre/InfiniteZoom](https://github.com/gpeyre/InfiniteZoom) - Code to generate an infinite zoom animation.
+
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -1162,6 +1168,8 @@
 
 ## PHP 
 
+- [damien-louis/symfony-docker](https://github.com/damien-louis/symfony-docker) - An up to date clean Symfony based on docker (PHP, Caddy, Postgres) with QA and tests tools
+- [Blagues-API/blagues-api-php](https://github.com/Blagues-API/blagues-api-php) - 😂 Module PHP officiel de Blagues-API
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) - Symfony bundle integrating Flysystem into Symfony 4.2+ applications
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php) - Web Push library for PHP
@@ -1213,7 +1221,7 @@
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
 - [florentdestremau/symfonycon-turbo](https://github.com/florentdestremau/symfonycon-turbo) - A simple website to demonstrate symfony-ux turbo
 - [picqer/php-barcode-generator](https://github.com/picqer/php-barcode-generator) - Barcode generator in PHP that is easy to use, non-bloated and framework independent.
-- [saloonphp/saloon](https://github.com/saloonphp/saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
+- [saloonphp/saloon](https://github.com/saloonphp/saloon) - 🤠 Build beautiful API integrations and SDKs with Saloon
 - [openai-php/symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt CE Backend, a JSON API written with CakePHP
 - [GromNaN/s3-zip](https://github.com/GromNaN/s3-zip) - Read partial ZIP on S3 (PHP)
@@ -1842,7 +1850,7 @@
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - Generate beautiful README.md files from the terminal, powered by AI.
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -2213,6 +2221,7 @@
 
 ## TypeScript 
 
+- [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
