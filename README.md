@@ -619,6 +619,7 @@
 - [CodingTrain/Wave-Function-Collapse](https://github.com/CodingTrain/Wave-Function-Collapse) - 
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [sanctuary-js/sanctuary-maybe](https://github.com/sanctuary-js/sanctuary-maybe) - :rainbow: Fantasy Land -compliant Maybe type
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [Jazys/web3-initiation](https://github.com/Jazys/web3-initiation) - web3-initiation
 - [PresearchOfficial/presearch-packages](https://github.com/PresearchOfficial/presearch-packages) - Instant information packages for the Presearch engine
@@ -1838,6 +1839,7 @@
 
 ## Python 
 
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Visual effects applied to text in the terminal.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - :mag: A Complete Osint Tool
@@ -1851,7 +1853,7 @@
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
-- [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - 
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -2265,7 +2267,6 @@
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [darkwood-com/crypto-tracker](https://github.com/darkwood-com/crypto-tracker) - 🔍Track your crypto currencies and fill tax forms
 - [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
@@ -2308,7 +2309,7 @@
 - [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [phiresky/blog](https://github.com/phiresky/blog) - Source code of my personal blog
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
