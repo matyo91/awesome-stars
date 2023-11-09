@@ -236,6 +236,7 @@
 
 ## ai 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal, powered by AI 💫
@@ -558,6 +559,7 @@
 
 ## chatgpt 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -674,6 +676,7 @@
 
 ## computer-vision 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 - [google/mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
@@ -820,6 +823,7 @@
 
 ## deep-learning 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -1395,7 +1399,6 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
-- [saloonphp/saloon](https://github.com/saloonphp/saloon) - 🤠 Build beautiful API integrations and SDKs with Saloon
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
@@ -1410,7 +1413,6 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
-- [wasmCloud/examples](https://github.com/wasmCloud/examples) - Example actors, capability providers, and other demonstrations
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -1451,7 +1453,6 @@
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1929,6 +1930,7 @@
 
 ## laravel 
 
+- [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - New generation of TALL Stack Components.
 - [NativePHP/laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 - [opcodesio/log-viewer](https://github.com/opcodesio/log-viewer) - Fast and beautiful Log Viewer for Laravel
@@ -2079,6 +2081,7 @@
 
 ## markdown 
 
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2366,6 +2369,8 @@
 
 ## others 
 
+- [moreau-nicolas/sonar-challenge](https://github.com/moreau-nicolas/sonar-challenge) - 
+- [alexandre-daubois/monolog-processor-collection](https://github.com/alexandre-daubois/monolog-processor-collection) - A collection of Monolog processors
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - Visual effects applied to text in the terminal.
 - [gpeyre/InfiniteZoom](https://github.com/gpeyre/InfiniteZoom) - Code to generate an infinite zoom animation.
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) - Symfony bundle integrating Flysystem into Symfony 4.2+ applications
@@ -2429,7 +2434,7 @@
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - 
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -2519,6 +2524,7 @@
 - [lsegal/my_toy_compiler](https://github.com/lsegal/my_toy_compiler) - My Toy Compiler. Read about how I did it at the homepage URL
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [WebAssembly/component-model](https://github.com/WebAssembly/component-model) - Repository for design and specification of the Component Model
+- [wasmCloud/examples](https://github.com/wasmCloud/examples) - Example actors, capability providers, and other demonstrations
 - [robert/wavefunction-collapse](https://github.com/robert/wavefunction-collapse) - Source code for "The Wavefunction Collapse Algorithm explained very clearly"
 - [Matty9191/ssl-cert-check](https://github.com/Matty9191/ssl-cert-check) - Send notifications when SSL certificates are about to expire.
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
@@ -2660,6 +2666,7 @@
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [wasdk/WasmFiddle](https://github.com/wasdk/WasmFiddle) - WebAssembly Fiddle
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
 - [wasmCloud/wascc-host](https://github.com/wasmCloud/wascc-host) - Library for hosting actors and capability providers in a host process
 - [WebAssembly/meetings](https://github.com/WebAssembly/meetings) - WebAssembly meetings (VC or in-person), agendas, and notes
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
@@ -3416,6 +3423,7 @@
 
 ## php 
 
+- [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [Blagues-API/blagues-api-php](https://github.com/Blagues-API/blagues-api-php) - 😂 Module PHP officiel de Blagues-API
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [web-push-libs/web-push-php](https://github.com/web-push-libs/web-push-php) - Web Push library for PHP
@@ -3872,6 +3880,7 @@
 
 ## pytorch 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -4738,6 +4747,7 @@
 
 ## web 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that compiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
