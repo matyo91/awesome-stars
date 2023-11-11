@@ -585,13 +585,13 @@
 
 ## JavaScript 
 
+- [slack-samples/bolt-js-starter-template](https://github.com/slack-samples/bolt-js-starter-template) - A template for building Slack apps with Bolt for JavaScript
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [viebel/data-oriented-programming](https://github.com/viebel/data-oriented-programming) - 
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
 - [AurelienPillevesse/tictacbro](https://github.com/AurelienPillevesse/tictacbro) - TicTacToe game made for a Java project during my studies at the IUT Clermont-Ferrand
 - [AurelienPillevesse/cupcaze-ball](https://github.com/AurelienPillevesse/cupcaze-ball) - Web game made with Canvas2D during my free time
@@ -1312,7 +1312,7 @@
 - [Ocramius/LazyMap](https://github.com/Ocramius/LazyMap) - :rainbow: A lazy-initializing high performance service map
 - [phabelio/phabel](https://github.com/phabelio/phabel) - PHP transpiler - Write and deploy modern PHP 8 code, today.
 - [mrsuh/php-generics](https://github.com/mrsuh/php-generics) - PHP generics written in PHP
-- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [GrahamCampbell/Result-Type](https://github.com/GrahamCampbell/Result-Type) - An implementation of the result type
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - :abc: Microtypography fixer for the web
@@ -2241,6 +2241,7 @@
 - [gajus/redux-immutable](https://github.com/gajus/redux-immutable) - redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
+- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - Demo flashcards app built with Next.js 13, Prisma and Chakra UI.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
