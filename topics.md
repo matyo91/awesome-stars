@@ -239,7 +239,7 @@
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -565,7 +565,7 @@
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1324,6 +1324,7 @@
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 - [flowbase/flowbase](https://github.com/flowbase/flowbase) - A Flow-based Programming inspired micro-framework / un-framework for Go (Golang)
+- [scipipe/scipipe](https://github.com/scipipe/scipipe) - Robust, flexible and resource-efficient pipelines using Go and the commandline
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -2324,7 +2325,7 @@
 
 ## open-source 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -3564,7 +3565,7 @@
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
-- [symplify/symplify](https://github.com/symplify/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
+- [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
@@ -4420,7 +4421,7 @@
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
-- [symplify/symplify](https://github.com/symplify/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
+- [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
 - [dunglas/DunglasTorControlBundle](https://github.com/dunglas/DunglasTorControlBundle) - Integration of PHP TorControl library in Symfony
 - [dunglas/symfonycon-lisbon](https://github.com/dunglas/symfonycon-lisbon) - A joind.in clone built with Symfony 4 and Vue.js
@@ -4733,7 +4734,7 @@
 
 ## visual-studio-code 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
