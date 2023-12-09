@@ -1172,6 +1172,8 @@
 
 ## PHP 
 
+- [Guikingone/SymfonyConMeilisearch](https://github.com/Guikingone/SymfonyConMeilisearch) - 
+- [chr-hertel/symfonycon-bot-2023](https://github.com/chr-hertel/symfonycon-bot-2023) - Chatbot for SymfonyCon 2023 with Telegram integration
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [alexandre-daubois/monolog-processor-collection](https://github.com/alexandre-daubois/monolog-processor-collection) - A collection of Monolog processors
 - [damien-louis/symfony-docker](https://github.com/damien-louis/symfony-docker) - An up to date clean Symfony based on docker (PHP, Caddy, Postgres) with QA and tests tools
