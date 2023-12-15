@@ -188,7 +188,6 @@
 - [rust](#rust)
 - [sass](#sass)
 - [scala](#scala)
-- [scikit-learn](#scikit-learn)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -802,7 +801,6 @@
 
 ## data-structures 
 
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures
 
@@ -959,7 +957,6 @@
 
 - [bagder/mastering-libcurl](https://github.com/bagder/mastering-libcurl) - Materials related to the extensive video tutorial "mastering libcurl"
 - [ThePorgs/Exegol-docs](https://github.com/ThePorgs/Exegol-docs) - Documentation for Exegol
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
@@ -2039,7 +2036,6 @@
 
 ## machine-learning 
 
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -2061,6 +2057,7 @@
 
 ## macos 
 
+- [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [obhq/obliteration](https://github.com/obhq/obliteration) - Experimental PS4 emulator written in Rust for Windows, macOS and Linux
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
@@ -2421,7 +2418,7 @@
 - [qkrdmstlr3/qkrdmstlr3](https://github.com/qkrdmstlr3/qkrdmstlr3) - 
 - [TBadru/TBadru](https://github.com/TBadru/TBadru) - 
 - [lota-lutfunnahar/lota-lutfunnahar](https://github.com/lota-lutfunnahar/lota-lutfunnahar) - 
-- [cumsoft/cumsoft](https://github.com/cumsoft/cumsoft) - 
+- [cumsoft/cumsoft](https://github.com/cumsoft/cumsoft) - Github Profile Banner & Assets
 - [Aejkatappaja/Aejkatappaja](https://github.com/Aejkatappaja/Aejkatappaja) - About Me
 - [getintorj/Link](https://github.com/getintorj/Link) - 
 - [mdsarfarazalam840/mdsarfarazalam840](https://github.com/mdsarfarazalam840/mdsarfarazalam840) - 
@@ -3884,7 +3881,6 @@
 - [green-code-initiative/ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software programs with SonarQube
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -4217,10 +4213,6 @@
 - [zio/zio](https://github.com/zio/zio) - ZIO — A type-safe, composable library for async and concurrent programming in Scala
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 
-## scikit-learn 
-
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB. Bring AI to your database; integrate, train and manage any AI models and APIs directly with your database and your data.
-
 ## security 
 
 - [nette/forms](https://github.com/nette/forms) - 📝 Generating, validating and processing secure forms in PHP. Handy API, fully customizable, server & client side validation and mature design.
@@ -4374,6 +4366,7 @@
 
 ## svelte 
 
+- [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [matyunya/smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS
