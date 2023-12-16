@@ -162,7 +162,6 @@
 - [isakody/VJ_LaraCroftGo](https://github.com/isakody/VJ_LaraCroftGo) - 3D game imitation of the well-known mobile game Lara Croft Go made with Unity by a 2-person team in Scrum.
 - [Jellevermandere/4D-Raymarching](https://github.com/Jellevermandere/4D-Raymarching) - a Unity framework to create spacial 4 dimentional games, using raymarching
 - [dan200/Redirection](https://github.com/dan200/Redirection) - A puzzle game
-- [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 - [gregstein/AoE2Tools](https://github.com/gregstein/AoE2Tools) - A lightweight program that lets you easily play your Steam version of Age of Empires 2 HD in Voobly format. In addition to Mega Utilities
 - [brihernandez/TinyXWingClean](https://github.com/brihernandez/TinyXWingClean) - Tech demo for testing JSON-loaded game data
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
@@ -194,6 +193,7 @@
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
 - [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
+- [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
 - [huxingyi/dust3d](https://github.com/huxingyi/dust3d) - Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more.
 - [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
