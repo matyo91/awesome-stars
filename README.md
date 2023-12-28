@@ -255,7 +255,7 @@
 - [flexbox/hoooooo.fr](https://github.com/flexbox/hoooooo.fr) - A cool website to trap your friends
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2023
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [darkwood-com/2048-vnc](https://github.com/darkwood-com/2048-vnc) - A docker version of 2048 on VNC
 
 ## Clojure 
@@ -712,7 +712,7 @@
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [b-viguier/WebMidiPiano](https://github.com/b-viguier/WebMidiPiano) - :musical_keyboard: Online On-Screen Midi Piano
 - [qiuyaofan/datepicker](https://github.com/qiuyaofan/datepicker) - Support range selection, maximum and minimum settings, time format free conversion, UI good-looking, easy to use, refer to element-ui datePicker jQuery version
-- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [lukehaas/RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
