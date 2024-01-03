@@ -53,6 +53,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Processing](#processing)
+- [Pug](#pug)
 - [Python](#python)
 - [R](#r)
 - [Reason](#reason)
@@ -524,6 +525,7 @@
 - [thibault/strike-js](https://github.com/thibault/strike-js) - Pour aider votre site à faire grève
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
 - [jdorn/sql-formatter](https://github.com/jdorn/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
+- [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [DSchau/gatsby-mail](https://github.com/DSchau/gatsby-mail) - A Gatsby email *application*
@@ -1843,6 +1845,10 @@
 ## Processing 
 
 - [codygibb/animus-visualizer](https://github.com/codygibb/animus-visualizer) - real-time music visualization
+
+## Pug 
+
+- [StartBootstrap/startbootstrap-grayscale](https://github.com/StartBootstrap/startbootstrap-grayscale) - A multipurpose one page Bootstrap theme created by Start Bootstrap
 
 ## Python 
 
