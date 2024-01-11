@@ -52,6 +52,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Processing](#processing)
 - [Pug](#pug)
 - [Python](#python)
@@ -1843,6 +1844,10 @@
 - [asm89/twig-cache-extension](https://github.com/asm89/twig-cache-extension) - The missing cache extension for Twig. Caching template fragments with Twig.
 - [Kunstmaan/KunstmaanAdminBundle](https://github.com/Kunstmaan/KunstmaanAdminBundle) - [READ-ONLY] Subtree split of the Kunstmaan AdminBundle -- master at Kunstmaan/KunstmaanBundlesCMS
 
+## PowerShell 
+
+- [obsproject/obs-deps](https://github.com/obsproject/obs-deps) - 
+
 ## Processing 
 
 - [codygibb/animus-visualizer](https://github.com/codygibb/animus-visualizer) - real-time music visualization
@@ -2165,7 +2170,6 @@
 - [pocky/template-generator](https://github.com/pocky/template-generator) - Bash automation tool for templates
 - [blackfireio/docker](https://github.com/blackfireio/docker) - 
 - [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run netatalk (compatible Time Machine for OS X)
-- [obsproject/obs-deps](https://github.com/obsproject/obs-deps) - 
 - [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [flexbox/setup](https://github.com/flexbox/setup) - Automate the macOS setup for productive React Developer
