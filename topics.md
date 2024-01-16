@@ -2915,7 +2915,7 @@
 - [b-viguier/WebMidiPiano](https://github.com/b-viguier/WebMidiPiano) - :musical_keyboard: Online On-Screen Midi Piano
 - [async-aws/lambda](https://github.com/async-aws/lambda) - [READ ONLY] Lambda client
 - [qiuyaofan/datepicker](https://github.com/qiuyaofan/datepicker) - Support range selection, maximum and minimum settings, time format free conversion, UI good-looking, easy to use, refer to element-ui datePicker jQuery version
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [dino-lang/dino](https://github.com/dino-lang/dino) - The programming language DINO
 - [marmelab/argos](https://github.com/marmelab/argos) - docker monitoring experiment
 - [FabienTregan/autointerview-orateurs](https://github.com/FabienTregan/autointerview-orateurs) - Un repo pour parler du fait de parler dans les confs, pour permettre à ceux qui ne le font pas encore de se faire une idée.
