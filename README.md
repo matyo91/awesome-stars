@@ -496,7 +496,6 @@
 - [afup/identity](https://github.com/afup/identity) - 
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
-- [flexbox/github-bootcamp](https://github.com/flexbox/github-bootcamp) - Git x GitHub bootcamp challenges for productive developers
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [WebAssembly/meetings](https://github.com/WebAssembly/meetings) - WebAssembly meetings (VC or in-person), agendas, and notes
 - [Tom32i/talk-stenope](https://github.com/Tom32i/talk-stenope) - Présentation de Stenope
@@ -651,6 +650,7 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [tankarasu/TK_JS_Documentation](https://github.com/tankarasu/TK_JS_Documentation) - 
 - [getify/monio](https://github.com/getify/monio) - The most powerful IO monad implementation in JS, possibly in any language!
+- [flexbox/github-bootcamp](https://github.com/flexbox/github-bootcamp) - Git x GitHub bootcamp challenges for productive developers
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [lupyuen2/blockly-bl602](https://github.com/lupyuen2/blockly-bl602) - Blockly for BL602 / BL604 and Rhai Script
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -1431,7 +1431,7 @@
 - [symfony/messenger](https://github.com/symfony/messenger) - Helps applications send and receive messages to/from other applications or via message queues
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Symfony Doctrine Messenger Bridge
 - [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Symfony AMQP extension Messenger Bridge
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony
 - [estvoyage/phpTour2015](https://github.com/estvoyage/phpTour2015) - 
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
