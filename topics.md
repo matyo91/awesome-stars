@@ -3585,7 +3585,7 @@
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Symfony Doctrine Messenger Bridge
 - [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Symfony AMQP extension Messenger Bridge
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
 - [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
@@ -4458,7 +4458,7 @@
 - [symfony/doctrine-messenger](https://github.com/symfony/doctrine-messenger) - Symfony Doctrine Messenger Bridge
 - [symfony/amqp-messenger](https://github.com/symfony/amqp-messenger) - Symfony AMQP extension Messenger Bridge
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
-- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony Framework
+- [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
 - [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
