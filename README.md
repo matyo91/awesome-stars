@@ -408,7 +408,7 @@
 - [caddyserver/nginx-adapter](https://github.com/caddyserver/nginx-adapter) - Run Caddy with your NGINX config
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
-- [coinbase/rosetta-sdk-go](https://github.com/coinbase/rosetta-sdk-go) - Rosetta Client Go SDK
+- [coinbase/mesh-sdk-go](https://github.com/coinbase/mesh-sdk-go) - Rosetta Client Go SDK
 - [julieqiu/opensourcelive](https://github.com/julieqiu/opensourcelive) - [Tutorial] Level Up: Go Package Discovery and editor tooling
 - [fogleman/physarum](https://github.com/fogleman/physarum) - Physarum polycephalum slime mold simulation
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1204,7 +1204,7 @@
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
 - [dseguy/changedBehavior](https://github.com/dseguy/changedBehavior) - Museum of change behaviors in PHP
 - [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows(WIP), with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [schranz-search/schranz-search](https://github.com/schranz-search/schranz-search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, RediSearch, Solr, Typesense. Documentation: https://schranz-sear
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another!
@@ -1540,7 +1540,7 @@
 - [symfony/demo](https://github.com/symfony/demo) - Symfony Demo Application
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - Symfony extension for PHPStan
 - [symfony-cmf/Routing](https://github.com/symfony-cmf/Routing) - Routing component building on the Symfony Routing component
-- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly. Original Project by Oraoto, ES6 & Clang Upgrades by Sean Morris.
+- [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [symfony/rate-limiter](https://github.com/symfony/rate-limiter) - Provides a Token Bucket implementation to rate limit input and output in your application
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -2314,7 +2314,7 @@
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [halfnelson/svelte-native](https://github.com/halfnelson/svelte-native) - Svelte controlling native components via Nativescript
 - [Raathigesh/paper](https://github.com/Raathigesh/paper) - VSCode extension for taking code notes
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
