@@ -2071,7 +2071,7 @@
 - [apollographql/rover](https://github.com/apollographql/rover) - ✨🤖 🐶 The CLI for Apollo GraphOS
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - Low level tooling for WebAssembly in Rust
+- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud allows for simple, secure, distributed application development using WebAssembly actors and capability providers.
 - [wasmCloud/wascc-host](https://github.com/wasmCloud/wascc-host) - Library for hosting actors and capability providers in a host process
