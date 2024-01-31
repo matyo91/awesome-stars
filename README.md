@@ -1552,7 +1552,7 @@
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - 
+- [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - Symfony polyfill for uuid functions
 - [php-fig/http-factory](https://github.com/php-fig/http-factory) - Implementation of PSR-17 (HTTP Message Factories)
 - [php-http/promise](https://github.com/php-http/promise) - Promise used for asynchronous HTTP requests
 - [php-http/message-factory](https://github.com/php-http/message-factory) - Abandoned: Httplug Factory interfaces for PSR-7 HTTP Message
@@ -1575,9 +1575,9 @@
 - [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore!
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
-- [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - This component provides functions unavailable in releases prior to PHP 8.0.
-- [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
-- [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - This component provides a partial, native PHP implementation of the Grapheme functions from the Intl extension.
+- [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+- [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
+- [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - Symfony polyfill for intl's grapheme_* functions
 - [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
 - [php-fig/http-client](https://github.com/php-fig/http-client) - 
@@ -1710,12 +1710,12 @@
 - [symfony/property-info](https://github.com/symfony/property-info) - Extracts information about PHP class' properties using metadata of popular sources
 - [symfony/property-access](https://github.com/symfony/property-access) - Provides functions to read and write from/to an object or array using a simple string notation
 - [symfony/process](https://github.com/symfony/process) - Executes commands in sub-processes
-- [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - This component provides functions unavailable in releases prior to PHP 7.3.
-- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - This component provides functions added to PHP 7.2 core.
-- [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
-- [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - This component provides a partial, native PHP implementation for the Intl extension (IDN features).
-- [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
-- [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
+- [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions
+- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
+- [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
+- [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions
+- [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - Symfony polyfill for intl's ICU-related data and classes
+- [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - Symfony polyfill for ctype functions
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
 - [symfony/monolog-bundle](https://github.com/symfony/monolog-bundle) - Symfony Monolog Bundle
