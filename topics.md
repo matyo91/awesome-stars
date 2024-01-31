@@ -1795,8 +1795,12 @@
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [mayhemantt/mayhemantt](https://github.com/mayhemantt/mayhemantt) - Awesome Github Profile Readme. Github ReadMe Github Profile Readme Dynamic Github ReadMe Dynamic Github Profile ReadMe. Please Star and Fork
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - Symfony polyfill for uuid functions
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+- [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
+- [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - Symfony polyfill for intl's grapheme_* functions
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -1816,6 +1820,12 @@
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
+- [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions
+- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
+- [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
+- [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions
+- [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - Symfony polyfill for intl's ICU-related data and classes
+- [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - Symfony polyfill for ctype functions
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
@@ -3047,7 +3057,6 @@
 - [azimjohn/jprq](https://github.com/azimjohn/jprq) - join public router. quickly.
 - [FrictionalGames/AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
-- [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - 
 - [getsentry/sentry-php-sdk](https://github.com/getsentry/sentry-php-sdk) - This is a meta package to ship sentry-php with a recommend http client.
 - [php-http/promise](https://github.com/php-http/promise) - Promise used for asynchronous HTTP requests
 - [php-http/message-factory](https://github.com/php-http/message-factory) - Abandoned: Httplug Factory interfaces for PSR-7 HTTP Message
@@ -3226,8 +3235,6 @@
 - [wgao19/gatsby-starter-multiple-author](https://github.com/wgao19/gatsby-starter-multiple-author) - A Gatsby starter for multiple author blog.
 - [zendframework/zend-eventmanager](https://github.com/zendframework/zend-eventmanager) - Implement event systems, signal slots, intercepting filters, and observers.
 - [zendframework/zend-code](https://github.com/zendframework/zend-code) - 
-- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - This component provides functions added to PHP 7.2 core.
-- [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - This component provides a partial, native PHP implementation for the Intl extension (IDN features).
 - [symfony/maker-bundle](https://github.com/symfony/maker-bundle) - Symfony Maker Bundle
 - [ralouphie/getallheaders](https://github.com/ralouphie/getallheaders) - PHP getallheaders polyfill
 - [php-fig/log](https://github.com/php-fig/log) - 
@@ -3653,9 +3660,6 @@
 - [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - Intl support for Twig
 - [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
-- [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - This component provides functions unavailable in releases prior to PHP 8.0.
-- [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
-- [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - This component provides a partial, native PHP implementation of the Grapheme functions from the Intl extension.
 - [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
@@ -3731,10 +3735,6 @@
 - [symfony/property-access](https://github.com/symfony/property-access) - Provides functions to read and write from/to an object or array using a simple string notation
 - [symfony/profiler-pack](https://github.com/symfony/profiler-pack) - A Symfony Pack for Symfony profiler
 - [symfony/process](https://github.com/symfony/process) - Executes commands in sub-processes
-- [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - This component provides functions unavailable in releases prior to PHP 7.3.
-- [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
-- [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
-- [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
 - [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
@@ -4494,14 +4494,15 @@
 - [symfony/rate-limiter](https://github.com/symfony/rate-limiter) - Provides a Token Bucket implementation to rate limit input and output in your application
 - [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Symfony Sendinblue Notifier Bridge
 - [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
+- [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - Symfony polyfill for uuid functions
 - [SymfonyLive/paris-2020-talks](https://github.com/SymfonyLive/paris-2020-talks) - 
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
 - [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
-- [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - This component provides functions unavailable in releases prior to PHP 8.0.
-- [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - This component provides a fallback implementation for the Normalizer class provided by the Intl extension.
-- [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - This component provides a partial, native PHP implementation of the Grapheme functions from the Intl extension.
+- [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
+- [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
+- [symfony/polyfill-intl-grapheme](https://github.com/symfony/polyfill-intl-grapheme) - Symfony polyfill for intl's grapheme_* functions
 - [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in imagine manipulation using the imagine library
@@ -4557,10 +4558,12 @@
 - [symfony/property-access](https://github.com/symfony/property-access) - Provides functions to read and write from/to an object or array using a simple string notation
 - [symfony/profiler-pack](https://github.com/symfony/profiler-pack) - A Symfony Pack for Symfony profiler
 - [symfony/process](https://github.com/symfony/process) - Executes commands in sub-processes
-- [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - This component provides functions unavailable in releases prior to PHP 7.3.
-- [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - This component provides a partial, native PHP implementation for the Mbstring extension.
-- [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - This component provides a collection of functions/classes using the symfony/intl package when the Intl extension is not installed.
-- [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - This component provides a partial, native PHP implementation for the Ctype extension.
+- [symfony/polyfill-php73](https://github.com/symfony/polyfill-php73) - Symfony polyfill backporting some PHP 7.3+ features to lower PHP versions
+- [symfony/polyfill-php72](https://github.com/symfony/polyfill-php72) - Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
+- [symfony/polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - Symfony polyfill for the Mbstring extension
+- [symfony/polyfill-intl-idn](https://github.com/symfony/polyfill-intl-idn) - Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions
+- [symfony/polyfill-intl-icu](https://github.com/symfony/polyfill-intl-icu) - Symfony polyfill for intl's ICU-related data and classes
+- [symfony/polyfill-ctype](https://github.com/symfony/polyfill-ctype) - Symfony polyfill for ctype functions
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
 - [symfony/options-resolver](https://github.com/symfony/options-resolver) - Provides an improved replacement for the array_replace PHP function
