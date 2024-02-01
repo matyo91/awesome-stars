@@ -2377,7 +2377,7 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [lukasoppermann/design-tokens](https://github.com/lukasoppermann/design-tokens) - 🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [open-source-labs/reactime](https://github.com/open-source-labs/reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
+- [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [evanpurkhiser/prolink-nowplaying-txt](https://github.com/evanpurkhiser/prolink-nowplaying-txt) - Example program that uses prolink-connect to write a nowplaying txt file
