@@ -630,7 +630,6 @@
 - [Jazys/web3-initiation](https://github.com/Jazys/web3-initiation) - web3-initiation
 - [PresearchOfficial/presearch-packages](https://github.com/PresearchOfficial/presearch-packages) - Instant information packages for the Presearch engine
 - [HandyOSS/HandyHost](https://github.com/HandyOSS/HandyHost) - Host DVPN/HNS, Sia and Akash all in one UI.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [sentinel-official/sentinel](https://github.com/sentinel-official/sentinel) - Sentinel is an interoperable secure network layer offering the Sentinel Service Chain exclusively for distributed & decentralized native services like - dVPN, Sentrix (dChat and dVoIP) and more.
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
@@ -662,7 +661,7 @@
 - [jimmybutton/react-tailwind-table](https://github.com/jimmybutton/react-tailwind-table) - Source code for my tutorial on how to build customizable table component with React Table and Tailwind CSS.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [brainless/dwata](https://github.com/brainless/dwata) - Manage Databases without knowing SQL. Track User growth, find Sales insights or bottlenecks, share KPIs without engineering.
+- [brainless/dwata](https://github.com/brainless/dwata) - No-code desktop app to explore business data with reports, real-time collaboration, offline mode and GPT integration
 - [flexbox/app-store-reviews-to-csv](https://github.com/flexbox/app-store-reviews-to-csv) - Collecting reviews from apps.apple.com and export as a .csv
 - [wasdk/WasmFiddle](https://github.com/wasdk/WasmFiddle) - WebAssembly Fiddle
 - [soyuka/relieve](https://github.com/soyuka/relieve) - Ease the implementation of multi processing accross your microservices
@@ -1058,6 +1057,7 @@
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
 - [drupol/drupol](https://github.com/drupol/drupol) - 
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [harshil1712/oss-commit](https://github.com/harshil1712/oss-commit) - Track your open-source contributions
 - [vinodotdev/vino](https://github.com/vinodotdev/vino) - Vino releases
 - [docker/for-mac](https://github.com/docker/for-mac) - Bug reports for Docker Desktop for Mac
