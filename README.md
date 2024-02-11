@@ -174,7 +174,7 @@
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [openswoole/ext-openswoole](https://github.com/openswoole/ext-openswoole) - Programmatic server for PHP with async IO, coroutines and fibers
 - [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
