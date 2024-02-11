@@ -652,6 +652,7 @@
 
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 
 ## code-review 
@@ -1538,7 +1539,6 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [jolicode/docker-starter](https://github.com/jolicode/docker-starter) - 🏗️ A skeleton to start a new web project with PHP, Docker and Castor
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
@@ -2535,7 +2535,7 @@
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [swagindustries/drumkit](https://github.com/swagindustries/drumkit) - 
 - [PHP-FFMpeg/PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - An object oriented PHP driver for FFMpeg binary
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [w3c/w3c-website-frontend](https://github.com/w3c/w3c-website-frontend) - Frontend website for w3.org
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
