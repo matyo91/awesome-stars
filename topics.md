@@ -1282,7 +1282,7 @@
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [etf1/kafka-transformer](https://github.com/etf1/kafka-transformer) - kafka-transformer is a library for simplyfing message transformation tasks when using kafka
@@ -3536,7 +3536,7 @@
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server 🧟
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
 - [symfony/clock](https://github.com/symfony/clock) - Decouples applications from the system clock
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
