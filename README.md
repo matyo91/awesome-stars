@@ -459,7 +459,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
-- [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [fogleman/rush](https://github.com/fogleman/rush) - Rush Hour puzzle goodies!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -1061,7 +1061,7 @@
 - [jpaulm/fbp](https://github.com/jpaulm/fbp) - Flow-Based Programming (backbone repository)
 - [icodebyamanda/icodebyamanda](https://github.com/icodebyamanda/icodebyamanda) - My special README
 - [Mupsi/conferences](https://github.com/Mupsi/conferences) - Conference slides
-- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository. For issues, please use https://github.com/laurent22/joplin/issues
+- [joplin/plugins](https://github.com/joplin/plugins) - Joplin official plugin repository
 - [mpociot/mpociot](https://github.com/mpociot/mpociot) - 
 - [DavidSaintAnna/DavidSaintAnna](https://github.com/DavidSaintAnna/DavidSaintAnna) - 
 - [ninivehelen/ninivehelen](https://github.com/ninivehelen/ninivehelen) - 
