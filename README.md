@@ -662,7 +662,7 @@
 - [jimmybutton/react-tailwind-table](https://github.com/jimmybutton/react-tailwind-table) - Source code for my tutorial on how to build customizable table component with React Table and Tailwind CSS.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [brainless/dwata](https://github.com/brainless/dwata) - AI enabled Business Intelligence (desktop) app. Connect databases, API (like Stripe), CSV files, business email. Get insights and action items automatically. Run on own cloud for full privacy.
+- [brainless/dwata](https://github.com/brainless/dwata) - Chat with an AI about your business. Connect databases, API (like Stripe) or CSV files. Use AI to create insights, reports, action items.
 - [flexbox/app-store-reviews-to-csv](https://github.com/flexbox/app-store-reviews-to-csv) - Collecting reviews from apps.apple.com and export as a .csv
 - [wasdk/WasmFiddle](https://github.com/wasdk/WasmFiddle) - WebAssembly Fiddle
 - [soyuka/relieve](https://github.com/soyuka/relieve) - Ease the implementation of multi processing accross your microservices
