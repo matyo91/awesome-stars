@@ -1253,7 +1253,7 @@
 - [IngeniozIT/psr-container-edict](https://github.com/IngeniozIT/psr-container-edict) - Easy DI ConTainer is a slim, PSR 11, framework-agnostic dependency injection container.
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - Reactive extensions for PHP
 - [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022
-- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - AdapterMan for Workerman. Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
+- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
 - [ergebnis/clock](https://github.com/ergebnis/clock) - ⏰ Provides a composer package with abstractions of a clock.
 - [igorw/brainfuck-php](https://github.com/igorw/brainfuck-php) - Brainfuck implementation.
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book "The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer" by Jamis Buck.
