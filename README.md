@@ -686,7 +686,6 @@
 - [ishandeveloper/github-wrapped](https://github.com/ishandeveloper/github-wrapped) - Take a look back at all the contributions you as an individual made to the open-source community
 - [noflo/noflo-assembly](https://github.com/noflo/noflo-assembly) - Industrial approach to writing NoFlo applications
 - [ashugeo/set-game](https://github.com/ashugeo/set-game) - Set – Visual card game
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [dunglas/jquery.confirmExit](https://github.com/dunglas/jquery.confirmExit) - jQuery confirm before exit plugin
 - [dunglas/slides-sfPot-2015-01-15](https://github.com/dunglas/slides-sfPot-2015-01-15) - API-first et Linked Data avec Symfony
 - [dunglas/ajax-syntax-highlighter](https://github.com/dunglas/ajax-syntax-highlighter) - Automatically exported from code.google.com/p/ajax-syntax-highlighter
@@ -2361,6 +2360,7 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [fxpio/tug](https://github.com/fxpio/tug) - Private Composer registry for private PHP packages on AWS Serverless
 - [MakingSense/tsoa-api](https://github.com/MakingSense/tsoa-api) - express.js, tsoa, inversify, swagger, mongoose
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
