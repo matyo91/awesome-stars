@@ -3566,7 +3566,7 @@
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
-- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A QR code generator and reader with a user friendly API. PHP 7.4+
+- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [marcosh/php-validation-dsl](https://github.com/marcosh/php-validation-dsl) - A DSL for validating data in a functional fashion
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures
