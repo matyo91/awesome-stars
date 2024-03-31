@@ -2438,6 +2438,7 @@
 
 ## others 
 
+- [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [openai/grok](https://github.com/openai/grok) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
