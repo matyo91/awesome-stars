@@ -2949,7 +2949,7 @@
 - [Pierre-Sassoulas/shadok](https://github.com/Pierre-Sassoulas/shadok) - A python library that permit to unleash the full efficiency of shadok's logic.
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
-- [fairsource/fairsource](https://github.com/fairsource/fairsource) - Not open source. Not closed source. The Fair Source License allows everyone to see the source code and makes the software free to use for a limited number of users in your organization. It offers some
+- [fairsource/fairsource](https://github.com/fairsource/fairsource) - Not closed source. Not Open Source. Fair Source.
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [radicle-dev/radicle-upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for Radicle.
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
