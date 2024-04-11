@@ -2175,7 +2175,7 @@
 - [antalaron/action-splitsh](https://github.com/antalaron/action-splitsh) - Synchronises a subtree repository using splitsh-lite
 - [pocky/template-generator](https://github.com/pocky/template-generator) - Bash automation tool for templates
 - [blackfireio/docker](https://github.com/blackfireio/docker) - 
-- [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run netatalk (compatible Time Machine for OS X)
+- [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine) - Docker image to run Samba (compatible Time Machine for macOS)
 - [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [flexbox/setup](https://github.com/flexbox/setup) - Automate the macOS setup for productive React Developer
@@ -2256,6 +2256,7 @@
 
 ## TypeScript 
 
+- [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
