@@ -643,6 +643,7 @@
 ## clojure 
 
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
 - [Deep-Symmetry/afterglow](https://github.com/Deep-Symmetry/afterglow) - A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone.
@@ -2525,7 +2526,7 @@
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [vmware-labs/webassembly-language-runtimes](https://github.com/vmware-labs/webassembly-language-runtimes) - Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are
@@ -4876,7 +4877,6 @@
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright, 🐜 Formiz◽From the 🐻  BearStudio Team
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
