@@ -34,7 +34,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
-- [Kaitai Struct](#kaitai-struct)
 - [Kotlin](#kotlin)
 - [Liquid](#liquid)
 - [Lua](#lua)
@@ -578,6 +577,7 @@
 - [yuyakaido/CardStackView](https://github.com/yuyakaido/CardStackView) - 📱Tinder like swipeable card view for Android
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
 - [Deep-Symmetry/beat-link](https://github.com/Deep-Symmetry/beat-link) - Java library for synchronizing and communicating with Pioneer DJ Link equipment
 - [Haehnchen/idea-php-symfony2-plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin) - IntelliJ IDEA / PhpStorm Symfony Plugin
 - [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
@@ -910,10 +910,6 @@
 ## Just 
 
 - [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
-
-## Kaitai Struct 
-
-- [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
 
 ## Kotlin 
 
