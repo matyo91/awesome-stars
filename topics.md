@@ -2760,7 +2760,7 @@
 - [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager
 - [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [brainless/dwata](https://github.com/brainless/dwata) - Chat with any AI model; make your own assistant. Connect databases, API (like Stripe) or CSV files. Use AI to create insights, reports, action items.
+- [brainless/dwata](https://github.com/brainless/dwata) - AI studio for you and your business. Create assistants, connect databases, APIs (like Stripe) or CSV/Excel files. Use AI to create insights, workflows, action items.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
