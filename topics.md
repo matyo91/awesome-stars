@@ -2497,6 +2497,7 @@
 - [viebel/kids.klipse.tech](https://github.com/viebel/kids.klipse.tech) - An interactive functional programming course for children based on clojure and klipse
 - [viebel/data-oriented-programming](https://github.com/viebel/data-oriented-programming) - 
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
+- [siberfx/share](https://github.com/siberfx/share) - "siberfx/share" package unofficial upgrading
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
