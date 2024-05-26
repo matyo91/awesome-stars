@@ -2496,10 +2496,10 @@
 - [lota-lutfunnahar/lota-lutfunnahar](https://github.com/lota-lutfunnahar/lota-lutfunnahar) - 
 - [cumsoft/cumsoft](https://github.com/cumsoft/cumsoft) - Github Profile Banner & Assets
 - [Aejkatappaja/Aejkatappaja](https://github.com/Aejkatappaja/Aejkatappaja) - About Me
-- [getintorj/Link](https://github.com/getintorj/Link) - 
+- [jrohitofficial/Link](https://github.com/jrohitofficial/Link) - 
 - [mdsarfarazalam840/mdsarfarazalam840](https://github.com/mdsarfarazalam840/mdsarfarazalam840) - 
 - [prithvi2k2/prithvi2k2](https://github.com/prithvi2k2/prithvi2k2) - About Me
-- [getintorj/getintorj](https://github.com/getintorj/getintorj) - 
+- [jrohitofficial/jrohitofficial](https://github.com/jrohitofficial/jrohitofficial) - 
 - [viebel/kids.klipse.tech](https://github.com/viebel/kids.klipse.tech) - An interactive functional programming course for children based on clojure and klipse
 - [viebel/data-oriented-programming](https://github.com/viebel/data-oriented-programming) - 
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
