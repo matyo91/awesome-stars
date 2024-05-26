@@ -484,7 +484,7 @@
 ## HTML 
 
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
-- [getintorj/Link](https://github.com/getintorj/Link) - 
+- [jrohitofficial/Link](https://github.com/jrohitofficial/Link) - 
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [ponceto/aym-js](https://github.com/ponceto/aym-js) - AYM·JS a AY-3-8910 & YM2149 sound chip emulator written in JavaScript [this repository is a mirror]
 - [ismail1432/conferences](https://github.com/ismail1432/conferences) - 
@@ -1012,7 +1012,7 @@
 - [Aejkatappaja/Aejkatappaja](https://github.com/Aejkatappaja/Aejkatappaja) - About Me
 - [mdsarfarazalam840/mdsarfarazalam840](https://github.com/mdsarfarazalam840/mdsarfarazalam840) - 
 - [prithvi2k2/prithvi2k2](https://github.com/prithvi2k2/prithvi2k2) - About Me
-- [getintorj/getintorj](https://github.com/getintorj/getintorj) - 
+- [jrohitofficial/jrohitofficial](https://github.com/jrohitofficial/jrohitofficial) - 
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mnapoli/hard-mode](https://github.com/mnapoli/hard-mode) - PHP hard mode
