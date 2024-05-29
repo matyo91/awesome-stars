@@ -2456,6 +2456,7 @@
 
 ## others 
 
+- [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - Over 30 splash screens to use in Godot
 - [Twenga/twgit](https://github.com/Twenga/twgit) - Twgit is a free and open source assisting tools for managing features, hotfixes and releases on Git repositories. It provides simple, high-level commands to adopt the branching model describes in our 
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
