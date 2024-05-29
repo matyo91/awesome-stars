@@ -999,6 +999,7 @@
 
 ## Others 
 
+- [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - Over 30 splash screens to use in Godot
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [AlmosniShirley/JobsBuildRH](https://github.com/AlmosniShirley/JobsBuildRH) - Annonces Build RH
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
