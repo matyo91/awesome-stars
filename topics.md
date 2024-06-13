@@ -2281,7 +2281,7 @@
 
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
-- [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - Demo flashcards app built with Next.js 13, Prisma and Chakra UI.
+- [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - A flashcards app. `main` is old - currently working on the `v2` branch.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
@@ -3569,7 +3569,7 @@
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - ReactPHP's core reactor event loop that libraries can use for evented I/O.
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
 - [IngeniozIT/psr-container-edict](https://github.com/IngeniozIT/psr-container-edict) - Easy DI ConTainer is a slim, PSR 11, framework-agnostic dependency injection container.
-- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
+- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - Mainly a PHP Language Server with more features than you can shake a stick at
 - [SymfonyCon/2022-talks](https://github.com/SymfonyCon/2022-talks) - 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
@@ -4343,7 +4343,7 @@
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
+- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
@@ -4752,7 +4752,6 @@
 ## typescript 
 
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-- [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - Demo flashcards app built with Next.js 13, Prisma and Chakra UI.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
