@@ -1248,7 +1248,7 @@
 - [IngeniozIT/psr-container-edict](https://github.com/IngeniozIT/psr-container-edict) - Easy DI ConTainer is a slim, PSR 11, framework-agnostic dependency injection container.
 - [ReactiveX/RxPHP](https://github.com/ReactiveX/RxPHP) - Reactive extensions for PHP
 - [drupol/aoc2022](https://github.com/drupol/aoc2022) - Solutions of Advent Of Code 2022
-- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app. It's just plain PHP.
+- [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app.
 - [ergebnis/clock](https://github.com/ergebnis/clock) - ⏰ Provides a composer package with abstractions of a clock.
 - [igorw/brainfuck-php](https://github.com/igorw/brainfuck-php) - Brainfuck implementation.
 - [sebastianbergmann/raytracer](https://github.com/sebastianbergmann/raytracer) - Code written while reading the book "The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer" by Jamis Buck.
@@ -2267,7 +2267,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
-- [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - Demo flashcards app built with Next.js 13, Prisma and Chakra UI.
+- [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - A flashcards app. `main` is old - currently working on the `v2` branch.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
