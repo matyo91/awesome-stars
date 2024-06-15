@@ -237,6 +237,7 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -251,7 +252,7 @@
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database! Build, deploy and manage any AI application directly with your existing data infrastructure, without moving your data. Including streaming inference, scalabl
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README file generator, powered by large language model APIs.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
@@ -581,7 +582,7 @@
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2052,7 +2053,7 @@
 
 ## llm 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -2399,7 +2400,7 @@
 
 ## open-source 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -2552,7 +2553,6 @@
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
-- [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) - LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [iWaroz/HTML.JS](https://github.com/iWaroz/HTML.JS) - It's a javascript framework! However, you have to write frontend logic with HTML, and backend logic with HTML too. Have fun!
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
@@ -4840,7 +4840,7 @@
 
 ## visual-studio-code 
 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -4976,6 +4976,14 @@
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
+
+## zig 
+
+- [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) - LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [lupyuen/zig-lvgl-nuttx](https://github.com/lupyuen/zig-lvgl-nuttx) - Zig LVGL Touchscreen App on Apache NuttX RTOS
 
 
 ## License
