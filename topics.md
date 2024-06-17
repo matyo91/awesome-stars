@@ -46,6 +46,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -757,6 +758,15 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [LePetitBloc/LePetitBloc](https://github.com/LePetitBloc/LePetitBloc) - :newspaper: LePetitBloc Website
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
+- [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
+
+## cryptography 
+
+- [conduition/secp](https://github.com/conduition/secp) - Flexible secp256k1 curve math library.
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+- [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
+- [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
+- [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 
 ## csharp 
@@ -2487,7 +2497,6 @@
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
 - [php-youtubers/directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
-- [conduition/secp](https://github.com/conduition/secp) - Flexible secp256k1 curve math library.
 - [superfly/fly-log-shipper](https://github.com/superfly/fly-log-shipper) - Ship logs from fly to other providers
 - [syrusakbary/landscape](https://github.com/syrusakbary/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.
