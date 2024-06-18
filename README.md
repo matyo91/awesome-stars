@@ -407,7 +407,7 @@
 - [caddyserver/nginx-adapter](https://github.com/caddyserver/nginx-adapter) - Run Caddy with your NGINX config
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy
 - [golang/net](https://github.com/golang/net) - [mirror] Go supplementary network libraries
-- [coinbase/mesh-sdk-go](https://github.com/coinbase/mesh-sdk-go) - Rosetta Client Go SDK
+- [coinbase/mesh-sdk-go](https://github.com/coinbase/mesh-sdk-go) - Mesh Client Go SDK
 - [julieqiu/opensourcelive](https://github.com/julieqiu/opensourcelive) - [Tutorial] Level Up: Go Package Discovery and editor tooling
 - [fogleman/physarum](https://github.com/fogleman/physarum) - Physarum polycephalum slime mold simulation
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
