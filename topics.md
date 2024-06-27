@@ -2937,7 +2937,7 @@
 - [dunglas/dunglas](https://github.com/dunglas/dunglas) - My GitHub profile!
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk.
 - [qmachard/developers-blog](https://github.com/qmachard/developers-blog) - Every developer needs a simple blog
-- [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
 - [MakingSense/tsoa-api](https://github.com/MakingSense/tsoa-api) - express.js, tsoa, inversify, swagger, mongoose
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
