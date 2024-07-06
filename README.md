@@ -72,6 +72,7 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
@@ -2476,6 +2477,10 @@
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+
+## Typst 
+
+- [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
 
 ## V 
 
