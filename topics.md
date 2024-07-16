@@ -4376,7 +4376,6 @@
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) - Write as Functions, Deploy as a Monolith or Microservice with WebAssembly
-- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro Services
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [mnapoli/serverless-pdf-generator](https://github.com/mnapoli/serverless-pdf-generator) - Serverless PDF generator
