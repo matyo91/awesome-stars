@@ -2542,7 +2542,6 @@
 - [AurelienPillevesse/tictacbro](https://github.com/AurelienPillevesse/tictacbro) - TicTacToe game made for a Java project during my studies at the IUT Clermont-Ferrand
 - [AurelienPillevesse/game-of-thrones-website](https://github.com/AurelienPillevesse/game-of-thrones-website) - Game of Thrones website made for a PHP/HTML/CSS project during my studies at the IUT Clermont-Ferrand ; Mark : 18/20
 - [AurelienPillevesse/cupcaze-ball](https://github.com/AurelienPillevesse/cupcaze-ball) - Web game made with Canvas2D during my free time
-- [froldev/froldev-symfony-pirats](https://github.com/froldev/froldev-symfony-pirats) - 
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [brefphp/dev-server](https://github.com/brefphp/dev-server) - Local development server for serverless web apps
 - [oppo-us-research/NeuRBF](https://github.com/oppo-us-research/NeuRBF) - 
