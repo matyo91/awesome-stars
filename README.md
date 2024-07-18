@@ -582,6 +582,7 @@
 - [airbnb/native-navigation](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [JetBrains/phpstorm-phpstan-plugin](https://github.com/JetBrains/phpstorm-phpstan-plugin) - PHPStan plugin for PhpStorm
 - [yuyakaido/CardStackView](https://github.com/yuyakaido/CardStackView) - 📱Tinder like swipeable card view for Android
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
@@ -1152,7 +1153,6 @@
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [gazr-io/gazr](https://github.com/gazr-io/gazr) - gazr, pronounced "Gather", is an opinionated way to launch common tasks on your project.
 - [SymfonyCon/2019-talks](https://github.com/SymfonyCon/2019-talks) - 
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [Kyubyong/nlp_tasks](https://github.com/Kyubyong/nlp_tasks) - Natural Language Processing Tasks and References
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
