@@ -707,6 +707,7 @@
 - [hapi-swagger/hapi-swagger](https://github.com/hapi-swagger/hapi-swagger) - A Swagger interface for hapi
 - [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
 - [matyo91/uniflow-admin](https://github.com/matyo91/uniflow-admin) - Generated uniflow crud
+- [matyo91/everdream](https://github.com/matyo91/everdream) - 
 - [romiljain5/Notes-App](https://github.com/romiljain5/Notes-App) - Note taking app build with node.js
 - [brunoimbrizi/triangle-wasm](https://github.com/brunoimbrizi/triangle-wasm) - Javascript wrapper around Triangle - A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
@@ -895,6 +896,7 @@
 ## Jupyter Notebook 
 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - 
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1196,7 +1198,6 @@
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) - Find leaking classes that you never use... and get rid of them.
 - [Pierstoval/rad](https://github.com/Pierstoval/rad) - 
-- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [AurelienPillevesse/game-of-thrones-website](https://github.com/AurelienPillevesse/game-of-thrones-website) - Game of Thrones website made for a PHP/HTML/CSS project during my studies at the IUT Clermont-Ferrand ; Mark : 18/20
 - [brefphp/dev-server](https://github.com/brefphp/dev-server) - Local development server for serverless web apps
 - [pgrimaud/lametric-hall-of-fame](https://github.com/pgrimaud/lametric-hall-of-fame) - This is a list of the most popular developers for the LaMetric Time smart clock.
@@ -1861,7 +1862,6 @@
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [openai/grok](https://github.com/openai/grok) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
