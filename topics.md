@@ -2533,7 +2533,6 @@
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [Pierstoval/rad](https://github.com/Pierstoval/rad) - 
 - [scienceetonnante/Fast-Inverse-Square-Root](https://github.com/scienceetonnante/Fast-Inverse-Square-Root) - Analyzing the fast inverse square root from Quake III Arena
-- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [creatures-sh/creatures.sh](https://github.com/creatures-sh/creatures.sh) - The creatures.sh website repo
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
 - [AurelienPillevesse/true-false](https://github.com/AurelienPillevesse/true-false) - Game made for an Android project during my studies at the IUT Clermont-Ferrand
@@ -2961,6 +2960,7 @@
 - [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine.
 - [matyo91/uniflow-admin](https://github.com/matyo91/uniflow-admin) - Generated uniflow crud
 - [matyo91/spray](https://github.com/matyo91/spray) - Github spray
+- [matyo91/everdream](https://github.com/matyo91/everdream) - 
 - [matyo91/adventofcode](https://github.com/matyo91/adventofcode) - 
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
 - [darkwood-com/dj-stream](https://github.com/darkwood-com/dj-stream) - 🎛 Setup for DJ to stream online
