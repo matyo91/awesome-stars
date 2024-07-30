@@ -2083,7 +2083,7 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - An extendible wasm host enabling wasm-native orchestration; run components on any cloud, any k8s, or any edge - including your own.
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud) - wasmCloud is an open source project from the Cloud Native Computing Foundation (CNCF) that enables teams to build polyglot applications composed of reusable Wasm components and run them—resiliently an
 - [wasmCloud/wascc-host](https://github.com/wasmCloud/wascc-host) - Library for hosting actors and capability providers in a host process
 - [wasmerio/wapm-cli](https://github.com/wasmerio/wapm-cli) - 📦 WebAssembly Package Manager (CLI)
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
