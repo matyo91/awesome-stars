@@ -2481,6 +2481,7 @@
 
 ## others 
 
+- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
 - [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - 70 splash screens and logos for use in Godot
 - [Twenga/twgit](https://github.com/Twenga/twgit) - Twgit is a free and open source assisting tools for managing features, hotfixes and releases on Git repositories. It provides simple, high-level commands to adopt the branching model describes in our 
