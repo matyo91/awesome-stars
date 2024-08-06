@@ -1178,6 +1178,7 @@
 
 ## PHP 
 
+- [wazum/symfony-messenger-batch](https://github.com/wazum/symfony-messenger-batch) - Handling messages in batches with Symfony Messenger
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [Twenga/twgit](https://github.com/Twenga/twgit) - Twgit is a free and open source assisting tools for managing features, hotfixes and releases on Git repositories. It provides simple, high-level commands to adopt the branching model describes in our 
 - [qdequippe-tech/pappers-php-api](https://github.com/qdequippe-tech/pappers-php-api) - PHP client for Pappers's API
@@ -1442,7 +1443,7 @@
 - [turanct/railway](https://github.com/turanct/railway) - :train: Railway Oriented Programming in PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group. https://github.com/nextcloud-releases/groupfolders
 - [schmittjoh/JMSJobQueueBundle](https://github.com/schmittjoh/JMSJobQueueBundle) - Run and Schedule Symfony Console Commands as Background Jobs
-- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
+- [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) - A MySQL engine written in pure PHP
 - [brefphp/micro](https://github.com/brefphp/micro) - μ − EXPERIMENTAL
@@ -2440,10 +2441,10 @@
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [rapid-sensemaking-framework/noflo-rsf](https://github.com/rapid-sensemaking-framework/noflo-rsf) - ENTER HERE, and README.  the Rapid Sensemaking Framework is designed for cross-platform, cross-protocol social processes of ideation and structured conversation! Design it, run it, harvest it.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
-- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+- [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [algolia/npm-search](https://github.com/algolia/npm-search) - 🗿 npm ↔️ Algolia replication tool :skier: :snail: :artificial_satellite:
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
