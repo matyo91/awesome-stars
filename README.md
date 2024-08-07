@@ -33,6 +33,7 @@
 - [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
 - [Kotlin](#kotlin)
@@ -88,6 +89,7 @@
 ## Astro 
 
 - [creatures-sh/creatures.sh](https://github.com/creatures-sh/creatures.sh) - The creatures.sh website repo
+- [fairsource/fair.io](https://github.com/fairsource/fair.io) - Software sharing for modern businesses. Engage the developer community with your core products.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## AutoHotkey 
@@ -506,7 +508,6 @@
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 - [darkwood-com/dj-stream](https://github.com/darkwood-com/dj-stream) - 🎛 Setup for DJ to stream online
 - [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
-- [fairsource/fair.io](https://github.com/fairsource/fair.io) - Fair Source is software sharing that is fair for companies and developers alike.
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -760,7 +761,6 @@
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [darkwood-com/serverless-starter](https://github.com/darkwood-com/serverless-starter) - 
 - [darkwood-com/darkwood-com](https://github.com/darkwood-com/darkwood-com) - 🖤 Darkwood website
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
@@ -893,6 +893,10 @@
 - [cocos2d/cocos2d-html5](https://github.com/cocos2d/cocos2d-html5) - Cocos2d for Web Browsers. Built using JavaScript.
 - [bolinfest/chickenfoot](https://github.com/bolinfest/chickenfoot) - Firefox extension to enable end-users to automate and customize the Web
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+## Julia 
+
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## Jupyter Notebook 
 
@@ -2456,7 +2460,7 @@
 - [apollographql/apollo-link-state](https://github.com/apollographql/apollo-link-state) - ✨ Manage your application's state with Apollo!
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
