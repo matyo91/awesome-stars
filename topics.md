@@ -2481,6 +2481,7 @@
 
 ## others 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [TomasVotruba/editorconfig-fixer](https://github.com/TomasVotruba/editorconfig-fixer) - 
 - [wazum/symfony-messenger-batch](https://github.com/wazum/symfony-messenger-batch) - Handling messages in batches with Symfony Messenger
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
