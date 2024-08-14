@@ -1866,7 +1866,7 @@
 
 ## Python 
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
