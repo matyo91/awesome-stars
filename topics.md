@@ -363,14 +363,14 @@
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [pgrimaud/ratp-api-rest](https://github.com/pgrimaud/ratp-api-rest) - This project turnkey is distributed as a middleware to expose RATP realtime data as REST resources
 - [DataFire/DataFire](https://github.com/DataFire/DataFire) - A framework for building integrations and APIs
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 
 ## artificial-intelligence 
@@ -1182,7 +1182,7 @@
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 
@@ -1434,12 +1434,12 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 ## gulp 
 
@@ -1610,7 +1610,7 @@
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [doctrine/data-fixtures](https://github.com/doctrine/data-fixtures) - Doctrine2 ORM Data Fixtures Extensions
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [pgrimaud/ratp-api-rest](https://github.com/pgrimaud/ratp-api-rest) - This project turnkey is distributed as a middleware to expose RATP realtime data as REST resources
@@ -2326,7 +2326,7 @@
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 ## nlp 
 
@@ -3893,7 +3893,7 @@
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) - SEO friendly Symfony paginator to sort and paginate
 - [symfony/skeleton](https://github.com/symfony/skeleton) - The Symfony skeleton
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -4141,7 +4141,7 @@
 - [paypal/glamorous](https://github.com/paypal/glamorous) - DEPRECATED: 💄 Maintainable CSS with React
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
@@ -4203,7 +4203,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [api-platform/admin](https://github.com/api-platform/admin) - A beautiful and fully-featured administration interface builder for hypermedia APIs
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - Fast and idiomatic client-driven REST APIs.
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
 - [DataFire/DataFire](https://github.com/DataFire/DataFire) - A framework for building integrations and APIs
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Open Source eCommerce Framework on Symfony
 
@@ -4707,7 +4707,7 @@
 - [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony
 - [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) - SEO friendly Symfony paginator to sort and paginate
 - [symfony/skeleton](https://github.com/symfony/skeleton) - The Symfony skeleton
-- [api-platform/api-platform](https://github.com/api-platform/api-platform) - Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [symfony/polyfill](https://github.com/symfony/polyfill) - PHP polyfills
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
