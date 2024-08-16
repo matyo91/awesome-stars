@@ -174,6 +174,7 @@
 
 ## C++ 
 
+- [calincru/Y-Combinator](https://github.com/calincru/Y-Combinator) - Playing around with different Y Combinator implementations
 - [shish/rosettaboy](https://github.com/shish/rosettaboy) - A gameboy emulator in several different languages
 - [cnr-isti-vclab/vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
@@ -901,6 +902,7 @@
 
 ## Jupyter Notebook 
 
+- [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - 
@@ -1182,6 +1184,7 @@
 
 ## PHP 
 
+- [WebMamba/workshop-finish](https://github.com/WebMamba/workshop-finish) - 
 - [TomasVotruba/editorconfig-fixer](https://github.com/TomasVotruba/editorconfig-fixer) - 
 - [wazum/symfony-messenger-batch](https://github.com/wazum/symfony-messenger-batch) - Handling messages in batches with Symfony Messenger
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
