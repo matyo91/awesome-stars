@@ -416,6 +416,7 @@
 
 ## awesome 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses & certifications.
@@ -498,6 +499,7 @@
 
 ## backend 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -725,6 +727,7 @@
 
 ## computer-science 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [symplely/coroutine](https://github.com/symplely/coroutine) - Cooperative multitasking using generators. The basics of coroutines, async and await!
@@ -915,7 +918,6 @@
 - [manicman1999/StyleGAN2-Tensorflow-2.0](https://github.com/manicman1999/StyleGAN2-Tensorflow-2.0) - StyleGAN 2 in Tensorflow 2.0
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
@@ -2156,7 +2158,6 @@
 - [davidbau/rewriting](https://github.com/davidbau/rewriting) - Rewriting a Deep Generative Model, ECCV 2020 (oral).  Interactive tool to directly edit the rules of a GAN to synthesize scenes with objects added, removed, or altered.  Change StyleGANv2 to make extr
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -2515,6 +2516,7 @@
 
 ## others 
 
+- [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [cowchimp/chunk-scatter](https://github.com/cowchimp/chunk-scatter) - Analyze and visualize HTTP responses that use chunked encoding
 - [glutinum-org/cli](https://github.com/glutinum-org/cli) - 
 - [WebMamba/workshop-finish](https://github.com/WebMamba/workshop-finish) - 
@@ -2596,7 +2598,6 @@
 - [IngeniozIT/php-install](https://github.com/IngeniozIT/php-install) - Scripts to install PHP
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrun
-- [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another!
 - [ponceto/aym-js](https://github.com/ponceto/aym-js) - AYM·JS a AY-3-8910 & YM2149 sound chip emulator written in JavaScript [this repository is a mirror]
 - [AbanteAI/mentat](https://github.com/AbanteAI/mentat) - Mentat - The AI Coding Assistant
 - [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
@@ -3205,7 +3206,6 @@
 - [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs...
 - [darkwood-com/serverless-starter](https://github.com/darkwood-com/serverless-starter) - 
 - [darkwood-com/darkwood-com](https://github.com/darkwood-com/darkwood-com) - 🖤 Darkwood website
-- [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore!
 - [php-fig/http-client](https://github.com/php-fig/http-client) - 
 - [michelf/php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
@@ -3224,7 +3224,6 @@
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [thephpleague/oauth2-facebook](https://github.com/thephpleague/oauth2-facebook) - Facebook Provider for the OAuth 2.0 Client
-- [knpuniversity/oauth2-client-bundle](https://github.com/knpuniversity/oauth2-client-bundle) - Easily talk to an OAuth2 server for social functionality in Symfony
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [Nemo64/serverless-symfony](https://github.com/Nemo64/serverless-symfony) - 
 - [MaximeHerpin/modular_tree](https://github.com/MaximeHerpin/modular_tree) - 
@@ -4549,6 +4548,7 @@
 - [damien-louis/symfony-docker](https://github.com/damien-louis/symfony-docker) - An up to date clean Symfony based on docker (PHP, Caddy, Postgres) with QA and tests tools
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
+- [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another!
 - [strangebuzz/MicroSymfony](https://github.com/strangebuzz/MicroSymfony) - Template introduction, check out: https://www.strangebuzz.com/en/blog/introducing-the-microsymfony-application-template
 - [SymfonyLive/paris-2023-talks](https://github.com/SymfonyLive/paris-2023-talks) - 
 - [symfony/stimulus-testing](https://github.com/symfony/stimulus-testing) - Testing-library integration for Symfony UX
@@ -4631,6 +4631,7 @@
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
 - [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
+- [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
 - [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
 - [symfony/polyfill-intl-normalizer](https://github.com/symfony/polyfill-intl-normalizer) - Symfony polyfill for intl's Normalizer class and related functions
@@ -4639,6 +4640,7 @@
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
 - [liip/LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - Symfony Bundle to assist in image manipulation using the imagine library
 - [Orbitale/Rymfony](https://github.com/Orbitale/Rymfony) - A command-line tool built in Rust to run an HTTP+PHP server for development (and production? 😉)
+- [knpuniversity/oauth2-client-bundle](https://github.com/knpuniversity/oauth2-client-bundle) - Easily talk to an OAuth2 server for social functionality in Symfony
 - [symfony/semaphore](https://github.com/symfony/semaphore) - Symfony Semaphore Component
 - [certificationy/certificationy](https://github.com/certificationy/certificationy) - The core library to create tests and certifications
 - [symfony/deprecation-contracts](https://github.com/symfony/deprecation-contracts) - A generic function and convention to trigger deprecation notices
