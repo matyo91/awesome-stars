@@ -251,6 +251,7 @@
 
 ## CSS 
 
+- [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [syrusakbary/landscape](https://github.com/syrusakbary/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [wasmCloud/examples](https://github.com/wasmCloud/examples) - ARCHIVED: This repository contains examples for pre-1.0 versions of wasmCloud. All examples are now located in the main wasmCloud repository https://github.com/wasmCloud/wasmCloud/tree/main/examples.
 - [yoanbernabeu/SymForm](https://github.com/yoanbernabeu/SymForm) - Projet à vocation pédagogique : Génération d'un site statique avec un Backend Notion pour la chaine YouTube https://www.youtube.com/c/yoandevco
@@ -571,6 +572,7 @@
 
 ## Java 
 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [moreau-nicolas/sonar-challenge](https://github.com/moreau-nicolas/sonar-challenge) - 
 - [green-code-initiative/ecoCode-php](https://github.com/green-code-initiative/ecoCode-php) - Reduce the environmental footprint of your PHP software programs
 - [green-code-initiative/ecoCode](https://github.com/green-code-initiative/ecoCode) - Reduce the environmental footprint of your software programs with SonarQube
@@ -1991,7 +1993,6 @@
 - [latitudegames/AIDungeon](https://github.com/latitudegames/AIDungeon) - Infinite adventures await!
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [HackerPoet/YouTubeCommenter](https://github.com/HackerPoet/YouTubeCommenter) - AI to generate YouTube comments based on video title
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
