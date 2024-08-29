@@ -1200,6 +1200,8 @@
 
 ## PHP 
 
+- [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
+- [jrmgx/wikireveal.com](https://github.com/jrmgx/wikireveal.com) - A daily browser game where the user tries to determine the subject of a random obfuscated Wikipedia
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis
 - [alexandre-daubois/phikl](https://github.com/alexandre-daubois/phikl) - 🥒 Apple's Pkl bridge for PHP
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
@@ -2111,7 +2113,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [apollographql/rover](https://github.com/apollographql/rover) - The CLI for Apollo GraphOS
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-- [pixlie/dwata](https://github.com/pixlie/dwata) - AI assisted app for our private data
+- [pixlie/dwata](https://github.com/pixlie/dwata) - One app for your emails, calendars, contacts, files, Slack, blogs and much more. Fast, private and local. AI assistance and phone apps coming soon.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -2338,7 +2340,7 @@
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
