@@ -256,6 +256,7 @@
 
 ## CSS 
 
+- [katorlys/prism-theme-github](https://github.com/katorlys/prism-theme-github) - 🎨 Real Github themes for prism.js
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [syrusakbary/landscape](https://github.com/syrusakbary/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [wasmCloud/examples](https://github.com/wasmCloud/examples) - ARCHIVED: This repository contains examples for pre-1.0 versions of wasmCloud. All examples are now located in the main wasmCloud repository https://github.com/wasmCloud/wasmCloud/tree/main/examples.
@@ -502,6 +503,7 @@
 
 ## HTML 
 
+- [keithamus/i-html](https://github.com/keithamus/i-html) - 
 - [bastnic/dette-technique-le-livre](https://github.com/bastnic/dette-technique-le-livre) - 
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [jrohitofficial/Link](https://github.com/jrohitofficial/Link) - 
@@ -610,6 +612,7 @@
 
 ## JavaScript 
 
+- [hsablonniere/activity-graph](https://github.com/hsablonniere/activity-graph) - A low level and stylable Web Component to display an activity graph.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
 - [parmentf/node-sentence-tokenizer](https://github.com/parmentf/node-sentence-tokenizer) - Tokenize paragraphs into sentences, and smaller tokens.
@@ -1036,6 +1039,7 @@
 
 ## Others 
 
+- [open-thought/system-2-research](https://github.com/open-thought/system-2-research) - System 2 Reasoning Link Collection
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - 70 splash screens and logos for use in Godot
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
@@ -1205,6 +1209,7 @@
 
 ## PHP 
 
+- [phasync/http-client](https://github.com/phasync/http-client) - An asynchronous HTTP client implementation with the standard PSR-18 interface using Fibers.
 - [b-viguier/Siglot](https://github.com/b-viguier/Siglot) - 
 - [nicolas-grekas/test-double-submit](https://github.com/nicolas-grekas/test-double-submit) - 
 - [matyo91/test-webatrio](https://github.com/matyo91/test-webatrio) - 
@@ -2123,7 +2128,6 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [apollographql/rover](https://github.com/apollographql/rover) - The CLI for Apollo GraphOS
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-- [pixlie/dwata](https://github.com/pixlie/dwata) - One app for your emails, calendars, contacts, files, Slack, blogs and much more. Fast, private and local. AI assistance and phone apps coming soon.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -2302,6 +2306,7 @@
 
 ## TypeScript 
 
+- [J0SUKE/ASCII-postprocessing](https://github.com/J0SUKE/ASCII-postprocessing) - 
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, react-admin, and Supabase.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
@@ -2389,6 +2394,7 @@
 - [flowbased/fbp-graph](https://github.com/flowbased/fbp-graph) - FBP graph library for JavaScript
 - [formium/formium](https://github.com/formium/formium) - The headless form builder for the modern web.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [pixlie/dwata](https://github.com/pixlie/dwata) - One app for your emails, calendars, contacts, files, Slack, blogs and much more. Fast, private and local. AI assistance and phone apps coming soon.
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
