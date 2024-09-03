@@ -926,6 +926,7 @@
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - 
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1917,7 +1918,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
