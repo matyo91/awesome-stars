@@ -990,6 +990,7 @@
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mathematica 
 
@@ -1175,7 +1176,6 @@
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
 - [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs...
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
@@ -1210,6 +1210,8 @@
 
 ## PHP 
 
+- [nikic/iter](https://github.com/nikic/iter) - Iteration primitives using generators
+- [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility
 - [phasync/http-client](https://github.com/phasync/http-client) - An asynchronous HTTP client implementation with the standard PSR-18 interface using Fibers.
 - [b-viguier/Siglot](https://github.com/b-viguier/Siglot) - 
 - [nicolas-grekas/test-double-submit](https://github.com/nicolas-grekas/test-double-submit) - 
@@ -2091,6 +2093,7 @@
 
 ## Rust 
 
+- [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -2306,6 +2309,7 @@
 
 ## TypeScript 
 
+- [nikolovlazar/bife](https://github.com/nikolovlazar/bife) - A URL shortener built with Next.js
 - [J0SUKE/ASCII-postprocessing](https://github.com/J0SUKE/ASCII-postprocessing) - 
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, react-admin, and Supabase.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
@@ -2485,7 +2489,7 @@
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
