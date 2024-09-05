@@ -547,7 +547,6 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [DSchau/gatsby-mail](https://github.com/DSchau/gatsby-mail) - A Gatsby email *application*
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
@@ -926,7 +925,7 @@
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inferenc
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, 
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - 
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1210,6 +1209,7 @@
 
 ## PHP 
 
+- [sblondeau/heroquest](https://github.com/sblondeau/heroquest) - 
 - [nikic/iter](https://github.com/nikic/iter) - Iteration primitives using generators
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility
 - [phasync/http-client](https://github.com/phasync/http-client) - An asynchronous HTTP client implementation with the standard PSR-18 interface using Fibers.
@@ -1857,6 +1857,7 @@
 - [php-http/client-common](https://github.com/php-http/client-common) - Common HTTP Client implementations and tools for HTTPlug
 - [symfony/mime](https://github.com/symfony/mime) - Allows manipulating MIME messages
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [sensiolabs/SensioDistributionBundle](https://github.com/sensiolabs/SensioDistributionBundle) - Base bundle for Symfony Distributions
