@@ -53,6 +53,7 @@
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [PowerShell](#powershell)
 - [Processing](#processing)
 - [Pug](#pug)
@@ -611,6 +612,7 @@
 
 ## JavaScript 
 
+- [Trismegiste/WamBundle](https://github.com/Trismegiste/WamBundle) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP standalone and Symfony 2.3
 - [hsablonniere/activity-graph](https://github.com/hsablonniere/activity-graph) - A low level and stylable Web Component to display an activity graph.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
@@ -1013,6 +1015,7 @@
 
 ## OCaml 
 
+- [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to Javascript.
 - [dylibso/wasmstore](https://github.com/dylibso/wasmstore) - A content-addressable datastore for WebAssembly modules
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
@@ -1209,6 +1212,9 @@
 
 ## PHP 
 
+- [Trismegiste/Mondrian](https://github.com/Trismegiste/Mondrian) - A static php code analysis tool using the Graph Theory
+- [paragi/PHP-websocket-client](https://github.com/paragi/PHP-websocket-client) - 
+- [Trismegiste/Prolog](https://github.com/Trismegiste/Prolog) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
 - [sblondeau/heroquest](https://github.com/sblondeau/heroquest) - 
 - [nikic/iter](https://github.com/nikic/iter) - Iteration primitives using generators
 - [soyuka/pmu](https://github.com/soyuka/pmu) - PHP Monorepo Utility
@@ -1894,6 +1900,10 @@
 - [asm89/twig-cache-extension](https://github.com/asm89/twig-cache-extension) - The missing cache extension for Twig. Caching template fragments with Twig.
 - [Kunstmaan/KunstmaanAdminBundle](https://github.com/Kunstmaan/KunstmaanAdminBundle) - [READ-ONLY] Subtree split of the Kunstmaan AdminBundle -- master at Kunstmaan/KunstmaanBundlesCMS
 
+## PLpgSQL 
+
+- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
+
 ## PowerShell 
 
 - [obsproject/obs-deps](https://github.com/obsproject/obs-deps) - 
@@ -1908,6 +1918,7 @@
 
 ## Python 
 
+- [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformer
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [dvlab-research/ControlNeXt](https://github.com/dvlab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA
@@ -2458,7 +2469,7 @@
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [nomuq/restyjs-example](https://github.com/nomuq/restyjs-example) - 
