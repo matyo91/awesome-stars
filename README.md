@@ -257,6 +257,8 @@
 
 ## CSS 
 
+- [eilgin/php-the-right-way](https://github.com/eilgin/php-the-right-way) - La version française de "PHP: The Right Way" qui est un condensé des meilleures pratiques sur le développement PHP (conventions, liens vers les tutoriels qui font référence, etc)
+- [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [katorlys/prism-theme-github](https://github.com/katorlys/prism-theme-github) - 🎨 Real Github themes for prism.js
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [syrusakbary/landscape](https://github.com/syrusakbary/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
@@ -374,6 +376,7 @@
 
 ## Go 
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
@@ -457,7 +460,6 @@
 - [docker-archive/compose-cli](https://github.com/docker-archive/compose-cli) - Easily run your Compose application to the cloud with compose-cli
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [dunglas/httpsfv](https://github.com/dunglas/httpsfv) - A Go library to parse and serialize HTTP structured field values
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
@@ -612,6 +614,7 @@
 
 ## JavaScript 
 
+- [codeguy/modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 - [Trismegiste/WamBundle](https://github.com/Trismegiste/WamBundle) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP standalone and Symfony 2.3
 - [hsablonniere/activity-graph](https://github.com/hsablonniere/activity-graph) - A low level and stylable Web Component to display an activity graph.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
@@ -1212,6 +1215,9 @@
 
 ## PHP 
 
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
+- [FeatheredSnek/phpwfc](https://github.com/FeatheredSnek/phpwfc) - Tiled Wave Function Collapse in PHP
 - [Trismegiste/Mondrian](https://github.com/Trismegiste/Mondrian) - A static php code analysis tool using the Graph Theory
 - [paragi/PHP-websocket-client](https://github.com/paragi/PHP-websocket-client) - 
 - [Trismegiste/Prolog](https://github.com/Trismegiste/Prolog) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
@@ -1918,6 +1924,7 @@
 
 ## Python 
 
+- [goabonga/broccoli](https://github.com/goabonga/broccoli) - 
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformer
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
@@ -2498,6 +2505,7 @@
 - [gatsbyjs/desktop](https://github.com/gatsbyjs/desktop) - 
 - [aramalipoor/aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver) - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
