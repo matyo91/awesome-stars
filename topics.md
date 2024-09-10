@@ -118,6 +118,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -231,6 +232,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -304,6 +306,7 @@
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, web... Fast, private and local. Team plan coming soon
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
 - [github/covid19-dashboard](https://github.com/github/covid19-dashboard) - A site that displays up to date COVID-19 stats, powered by fastpages.
@@ -348,6 +351,7 @@
 
 ## api 
 
+- [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [revoltchat/backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services.
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
@@ -1500,6 +1504,7 @@
 
 ## hacktoberfest 
 
+- [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
@@ -1764,6 +1769,11 @@
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 
+## instagram 
+
+- [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+
 ## ios 
 
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
@@ -1986,6 +1996,7 @@
 
 ## json 
 
+- [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
@@ -2063,6 +2074,7 @@
 
 ## laravel 
 
+- [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
@@ -2549,14 +2561,18 @@
 
 ## others 
 
-- [goabonga/broccoli](https://github.com/goabonga/broccoli) - 
+- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
+- [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
+- [wesbos/bg-remover](https://github.com/wesbos/bg-remover) - 100% client side background remover
+- [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.
+- [Crell/MiDy](https://github.com/Crell/MiDy) - A tool for building Mildly Dynamic websites
 - [codeguy/modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [Trismegiste/Mondrian](https://github.com/Trismegiste/Mondrian) - A static php code analysis tool using the Graph Theory
 - [paragi/PHP-websocket-client](https://github.com/paragi/PHP-websocket-client) - 
 - [Trismegiste/Prolog](https://github.com/Trismegiste/Prolog) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP
 - [Trismegiste/WamBundle](https://github.com/Trismegiste/WamBundle) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP standalone and Symfony 2.3
-- [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformer
+- [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [sblondeau/heroquest](https://github.com/sblondeau/heroquest) - 
 - [nikic/iter](https://github.com/nikic/iter) - Iteration primitives using generators
 - [nikolovlazar/bife](https://github.com/nikolovlazar/bife) - A URL shortener built with Next.js
@@ -2895,7 +2911,6 @@
 - [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager
 - [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-- [pixlie/dwata](https://github.com/pixlie/dwata) - One app for your emails, calendars, contacts, files, Slack, blogs and much more. Fast, private and local. AI assistance and phone apps coming soon.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
@@ -3653,6 +3668,8 @@
 
 ## php 
 
+- [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
+- [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [eilgin/php-the-right-way](https://github.com/eilgin/php-the-right-way) - La version française de "PHP: The Right Way" qui est un condensé des meilleures pratiques sur le développement PHP (conventions, liens vers les tutoriels qui font référence, etc)
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
 - [FeatheredSnek/phpwfc](https://github.com/FeatheredSnek/phpwfc) - Tiled Wave Function Collapse in PHP
@@ -4619,6 +4636,7 @@
 
 ## symfony 
 
+- [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
 - [damien-louis/symfony-docker](https://github.com/damien-louis/symfony-docker) - An up to date clean Symfony based on docker (PHP, Caddy, Postgres) with QA and tests tools
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
@@ -4987,6 +5005,10 @@
 ## ubuntu 
 
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+
+## unity 
+
+- [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 
 ## vagrant 
 
