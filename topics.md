@@ -2561,6 +2561,8 @@
 
 ## others 
 
+- [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
 - [wesbos/bg-remover](https://github.com/wesbos/bg-remover) - 100% client side background remover
