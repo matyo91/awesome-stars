@@ -928,6 +928,7 @@
 
 ## Jupyter Notebook 
 
+- [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1217,6 +1218,7 @@
 
 ## PHP 
 
+- [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
 - [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
 - [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [Crell/MiDy](https://github.com/Crell/MiDy) - A tool for building Mildly Dynamic websites
