@@ -1218,6 +1218,7 @@
 
 ## PHP 
 
+- [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [dantleech/fink](https://github.com/dantleech/fink) - PHP Link Checker
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
@@ -2249,7 +2250,7 @@
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
 - [riderx/lemverse-deploy](https://github.com/riderx/lemverse-deploy) - docker deploy instruction for lemverse
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [aitorroma/n8n-traefik](https://github.com/aitorroma/n8n-traefik) - 🔶 Deploy N8N usando traefik o Caddy con dominio personalizado y Letsencrypt.
 - [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
