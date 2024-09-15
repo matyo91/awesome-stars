@@ -657,7 +657,7 @@
 
 ## cli 
 
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
@@ -1708,6 +1708,7 @@
 
 ## html 
 
+- [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [nette/forms](https://github.com/nette/forms) - 📝 Generating, validating and processing secure forms in PHP. Handy API, fully customizable, server & client side validation and mature design.
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [StartBootstrap/startbootstrap-grayscale](https://github.com/StartBootstrap/startbootstrap-grayscale) - A multipurpose one page Bootstrap theme created by Start Bootstrap
@@ -2254,6 +2255,7 @@
 
 ## markdown 
 
+- [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -2565,6 +2567,7 @@
 
 ## others 
 
+- [sensiolabs/StorybookBundle](https://github.com/sensiolabs/StorybookBundle) - 
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
@@ -3674,6 +3677,7 @@
 
 ## php 
 
+- [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [dantleech/fink](https://github.com/dantleech/fink) - PHP Link Checker
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - PHP TUI
@@ -4374,7 +4378,7 @@
 
 ## rust 
 
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
@@ -4646,6 +4650,7 @@
 
 ## symfony 
 
+- [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
 - [sulu/SuluFormBundle](https://github.com/sulu/SuluFormBundle) - Form Bundle for handling Dynamic and Symfony Forms in https://sulu.io
 - [damien-louis/symfony-docker](https://github.com/damien-louis/symfony-docker) - An up to date clean Symfony based on docker (PHP, Caddy, Postgres) with QA and tests tools
@@ -4893,7 +4898,7 @@
 
 ## terminal 
 
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
