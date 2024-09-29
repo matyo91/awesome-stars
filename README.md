@@ -162,6 +162,7 @@
 
 ## C# # 
 
+- [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [GarnetKane99/WaveFunctionCollapse](https://github.com/GarnetKane99/WaveFunctionCollapse) - Easy Wave Function Collapse from my YouTube series.
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -1242,7 +1243,6 @@
 - [phasync/http-client](https://github.com/phasync/http-client) - An asynchronous HTTP client implementation with the standard PSR-18 interface using Fibers.
 - [b-viguier/Siglot](https://github.com/b-viguier/Siglot) - 
 - [nicolas-grekas/test-double-submit](https://github.com/nicolas-grekas/test-double-submit) - 
-- [matyo91/test-webatrio](https://github.com/matyo91/test-webatrio) - 
 - [matyo91/flow-live](https://github.com/matyo91/flow-live) - Flow demonstration in live
 - [joetannenbaum/php-mac-automator](https://github.com/joetannenbaum/php-mac-automator) - A PHP library to do script automation on your Mac
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
@@ -1369,7 +1369,6 @@
 - [symfony-cmf/routing-bundle](https://github.com/symfony-cmf/routing-bundle) - Symfony bundle to provide the CMF chain router to handle multiple routers, and the dynamic router to load routes from a database or other sources.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API.
-- [matyo91/technical-test-web-forum](https://github.com/matyo91/technical-test-web-forum) - Test technique - forum de discussion
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [matyo91/warship](https://github.com/matyo91/warship) - Wharship game
 - [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) - 
@@ -1938,6 +1937,7 @@
 
 ## Python 
 
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
@@ -2166,7 +2166,6 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [apollographql/rover](https://github.com/apollographql/rover) - The CLI for Apollo GraphOS
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-- [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools) - CLI and Rust libraries for low-level manipulation of WebAssembly modules
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
@@ -2436,6 +2435,7 @@
 - [flowbased/fbp-graph](https://github.com/flowbased/fbp-graph) - FBP graph library for JavaScript
 - [formium/formium](https://github.com/formium/formium) - The headless form builder for the modern web.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
