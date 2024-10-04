@@ -592,7 +592,7 @@
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
 - [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, Zapier, RunDeck, Camunda, ...
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [jpaulm/drawfbp](https://github.com/jpaulm/drawfbp) - Tool for Creating and Exploring Flow-Based Programming Diagram Hierarchies
 - [jpaulm/javafbp](https://github.com/jpaulm/javafbp) - Java Implementation of Flow-Based Programming (FBP)
@@ -2175,7 +2175,7 @@
 - [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit) - delegated, decentralized, capabilities based authorization token
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -2380,7 +2380,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [flexbox/react-native-template-obytes](https://github.com/flexbox/react-native-template-obytes) - 📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,TailwindCSS, Husky, Lint-Staged, react-navigation, react-query, react-hook-form
