@@ -592,7 +592,7 @@
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
 - [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, Zapier, RunDeck, Camunda, ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, n8n, RunDeck, Camunda, Jenkins...
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [jpaulm/drawfbp](https://github.com/jpaulm/drawfbp) - Tool for Creating and Exploring Flow-Based Programming Diagram Hierarchies
 - [jpaulm/javafbp](https://github.com/jpaulm/javafbp) - Java Implementation of Flow-Based Programming (FBP)
@@ -833,7 +833,7 @@
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [google/blockly-games](https://github.com/google/blockly-games) - Games for tomorrow's programmers.
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
-- [A9T9/RPA](https://github.com/A9T9/RPA) - UI.Vision: Open-Source RPA Software (formerly Kantu) - Modern Robotic Process Automation with Selenium IDE++
+- [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision: Open-Source RPA Software - Modern Robotic Process Automation with Computer Vision and OCR, Selenium IDE compatible.
 - [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [scratchfoundation/scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [DataFire/Integrations](https://github.com/DataFire/Integrations) - Integration registry for DataFire
