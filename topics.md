@@ -295,6 +295,7 @@
 
 ## amphp 
 
+- [amphp/parallel-functions](https://github.com/amphp/parallel-functions) - Simplified parallel processing for PHP based on Amp.
 - [jolicode/asynit](https://github.com/jolicode/asynit) - :stars: Asynchronous HTTP Request Testing Library for API or more...
 - [amphp/process](https://github.com/amphp/process) - An async process dispatcher for Amp.
 - [amphp/websocket](https://github.com/amphp/websocket) - Shared code for websocket servers and clients.
@@ -359,7 +360,6 @@
 - [apioo/fusio](https://github.com/apioo/fusio) - Open source API management platform
 - [saloonphp/saloon](https://github.com/saloonphp/saloon) - 🤠 Build beautiful API integrations and SDKs with Saloon
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
 - [Blagues-API/blagues-api](https://github.com/Blagues-API/blagues-api) - 😂 API de Blagues française et Open Source
@@ -1059,6 +1059,7 @@
 - [ThePorgs/Exegol-docs](https://github.com/ThePorgs/Exegol-docs) - Documentation for Exegol
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
@@ -1526,7 +1527,6 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cycle/database](https://github.com/cycle/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders
@@ -1608,6 +1608,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [nfroidure/belotere](https://github.com/nfroidure/belotere) - A simple solo Belote game
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
@@ -2605,6 +2606,10 @@
 
 ## others 
 
+- [afup/pufa](https://github.com/afup/pufa) - 
+- [afup/jeu-apero-communautaire-forum-php-2023](https://github.com/afup/jeu-apero-communautaire-forum-php-2023) - 
+- [afup/hermes](https://github.com/afup/hermes) - 
+- [monsieurbiz/SyliusPluginMaker](https://github.com/monsieurbiz/SyliusPluginMaker) - Create a Sylius plugin with ease
 - [whitecube/laravel-cookie-consent](https://github.com/whitecube/laravel-cookie-consent) - Register, configure and ask for cookies consent in a EU-compliant way
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [GarnetKane99/WaveFunction3D](https://github.com/GarnetKane99/WaveFunction3D) - 3D wave function collapse tutorial from my YouTube video
@@ -3068,7 +3073,7 @@
 - [redirectionio/libredirectionio](https://github.com/redirectionio/libredirectionio) - RedirectionIO redirect and filtering api (used in agent, proxies and web assembly module)
 - [brefphp/micro](https://github.com/brefphp/micro) - μ − EXPERIMENTAL
 - [noflo/noflo-assembly](https://github.com/noflo/noflo-assembly) - Industrial approach to writing NoFlo applications
-- [ashugeo/set-game](https://github.com/ashugeo/set-game) - Set – Visual card game
+- [hugosaintemarie/set-game](https://github.com/hugosaintemarie/set-game) - Set – Visual card game
 - [phpstan/extension-installer](https://github.com/phpstan/extension-installer) - Composer plugin for automatic installation of PHPStan extensions.
 - [FriendsOfPHP/proxy-manager-lts](https://github.com/FriendsOfPHP/proxy-manager-lts) - Adding support for a wider range of PHP versions to ocramius/proxy-manager.
 - [ismail1432/simple-health-check](https://github.com/ismail1432/simple-health-check) - This application allows us to monitor a web server and send a notification if a server is down
@@ -3119,7 +3124,7 @@
 - [dunglas/dunglas](https://github.com/dunglas/dunglas) - My GitHub profile!
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk.
 - [qmachard/developers-blog](https://github.com/qmachard/developers-blog) - Every developer needs a simple blog
-- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
+- [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [MakingSense/tsoa-api](https://github.com/MakingSense/tsoa-api) - express.js, tsoa, inversify, swagger, mongoose
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
@@ -3718,6 +3723,8 @@
 
 ## php 
 
+- [amphp/parallel-functions](https://github.com/amphp/parallel-functions) - Simplified parallel processing for PHP based on Amp.
+- [pielonet/concurrency](https://github.com/pielonet/concurrency) - PHP/parallel programming tutorial and examples
 - [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [dantleech/fink](https://github.com/dantleech/fink) - PHP Link Checker
@@ -4386,6 +4393,7 @@
 
 ## rest-api 
 
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
 - [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
