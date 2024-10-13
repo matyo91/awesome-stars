@@ -1222,6 +1222,10 @@
 
 ## PHP 
 
+- [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
+- [akeneo/BatchBundle](https://github.com/akeneo/BatchBundle) - [READ-ONLY] Batch architecture bundle inspired by Spring Batch
+- [php-etl/pipeline](https://github.com/php-etl/pipeline) - The bandmaster of your data processing, heart of the ETL
+- [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
 - [afup/jeu-apero-communautaire-forum-php-2023](https://github.com/afup/jeu-apero-communautaire-forum-php-2023) - 
 - [afup/hermes](https://github.com/afup/hermes) - 
 - [amphp/parallel-functions](https://github.com/amphp/parallel-functions) - Simplified parallel processing for PHP based on Amp.
