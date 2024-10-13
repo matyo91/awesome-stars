@@ -1519,6 +1519,7 @@
 
 ## hacktoberfest 
 
+- [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
@@ -2606,6 +2607,8 @@
 
 ## others 
 
+- [akeneo/BatchBundle](https://github.com/akeneo/BatchBundle) - [READ-ONLY] Batch architecture bundle inspired by Spring Batch
+- [php-etl/pipeline](https://github.com/php-etl/pipeline) - The bandmaster of your data processing, heart of the ETL
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [afup/jeu-apero-communautaire-forum-php-2023](https://github.com/afup/jeu-apero-communautaire-forum-php-2023) - 
 - [afup/hermes](https://github.com/afup/hermes) - 
@@ -3723,6 +3726,8 @@
 
 ## php 
 
+- [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
+- [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
 - [amphp/parallel-functions](https://github.com/amphp/parallel-functions) - Simplified parallel processing for PHP based on Amp.
 - [pielonet/concurrency](https://github.com/pielonet/concurrency) - PHP/parallel programming tutorial and examples
 - [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
