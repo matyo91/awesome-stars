@@ -286,6 +286,7 @@
 
 ## algorithm 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 
@@ -972,6 +973,7 @@
 
 ## devops 
 
+- [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
@@ -1077,6 +1079,7 @@
 
 ## education 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
@@ -1518,6 +1521,7 @@
 
 ## hacktoberfest 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
@@ -2606,6 +2610,11 @@
 
 ## others 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
+- [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
+- [kapolos/pramda](https://github.com/kapolos/pramda) - Practical Functional Programming in PHP
+- [lstrojny/functional-php](https://github.com/lstrojny/functional-php) - Primitives for functional programming in PHP
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
 - [apoorvnandan/tensor.h](https://github.com/apoorvnandan/tensor.h) - creating a tiny tensor library in raw C
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -4162,6 +4171,7 @@
 
 ## python 
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
