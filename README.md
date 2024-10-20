@@ -378,6 +378,7 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
@@ -571,6 +572,7 @@
 
 ## Haskell 
 
+- [philipschwarz/code-kata-game-of-life-haskell](https://github.com/philipschwarz/code-kata-game-of-life-haskell) - 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -617,6 +619,7 @@
 
 ## JavaScript 
 
+- [carlini/js13k2019-yet-another-doom-clone](https://github.com/carlini/js13k2019-yet-another-doom-clone) - Yet another doom clone (in 13kb of JavaScript)
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
@@ -1227,6 +1230,11 @@
 
 ## PHP 
 
+- [kambo-1st/langchain-php](https://github.com/kambo-1st/langchain-php) - ⚡ Building applications with LLMs through composability in PHP ⚡
+- [chesslablab/php-chess](https://github.com/chesslablab/php-chess) - A chess library for PHP.
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+- [arawa/divims](https://github.com/arawa/divims) - DiViM-S (or divims) is an opensource orchestrator and autoscaler for BigBlueButton pools behind a Scalelite server
+- [realFlowControl/1brc](https://github.com/realFlowControl/1brc) - 
 - [kapolos/pramda](https://github.com/kapolos/pramda) - Practical Functional Programming in PHP
 - [lstrojny/functional-php](https://github.com/lstrojny/functional-php) - Primitives for functional programming in PHP
 - [clue/framework-x](https://github.com/clue/framework-x) - Framework X – the simple and fast micro framework for building reactive web applications that run anywhere.
@@ -1954,6 +1962,12 @@
 
 ## Python 
 
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
@@ -2366,6 +2380,11 @@
 
 ## TypeScript 
 
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [afup/pufa](https://github.com/afup/pufa) - 
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [sensiolabs/StorybookBundle](https://github.com/sensiolabs/StorybookBundle) - 
