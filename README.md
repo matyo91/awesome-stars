@@ -572,6 +572,7 @@
 
 ## Haskell 
 
+- [facet-lang/facet](https://github.com/facet-lang/facet) - a functional programming language with algebraic effects and handlers
 - [philipschwarz/code-kata-game-of-life-haskell](https://github.com/philipschwarz/code-kata-game-of-life-haskell) - 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -934,6 +935,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
@@ -1057,6 +1059,8 @@
 
 ## Others 
 
+- [certificationy/php-pack](https://github.com/certificationy/php-pack) - A series of questions to prepare for the Zend PHP certification
+- [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification
 - [gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api) - Drawing graphics efficiently on Apple Vision using the Metal rendering API
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
 - [open-thought/system-2-research](https://github.com/open-thought/system-2-research) - System 2 Reasoning Link Collection
@@ -1230,6 +1234,7 @@
 
 ## PHP 
 
+- [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [kambo-1st/langchain-php](https://github.com/kambo-1st/langchain-php) - ⚡ Building applications with LLMs through composability in PHP ⚡
 - [chesslablab/php-chess](https://github.com/chesslablab/php-chess) - A chess library for PHP.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
@@ -2380,6 +2385,7 @@
 
 ## TypeScript 
 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
