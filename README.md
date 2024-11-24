@@ -586,6 +586,7 @@
 
 ## Haxe 
 
+- [motion-twin/WebGamesArchives](https://github.com/motion-twin/WebGamesArchives) - 
 - [zenturi/zenflo](https://github.com/zenturi/zenflo) - Flow Based Programming Kit.
 
 ## JSON 
@@ -1243,6 +1244,7 @@
 
 ## PHP 
 
+- [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan
 - [Jeckel-Lab/etl](https://github.com/Jeckel-Lab/etl) - ETL (Extract - Transform - Load) pattern implementation
 - [phpgl/visu](https://github.com/phpgl/visu) - A PHP Game Engine as a Modern OpenGL Component Framework.
 - [lyrixx/db-to-rabbitmq-to-messenger](https://github.com/lyrixx/db-to-rabbitmq-to-messenger) - Record DB changes to RabbitMQ, and then process them with Symfony Messenger
@@ -2190,6 +2192,7 @@
 
 ## Rust 
 
+- [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
