@@ -2701,6 +2701,7 @@
 
 ## others 
 
+- [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [f2r/f2r.github.io](https://github.com/f2r/f2r.github.io) - 
 - [motion-twin/WebGamesArchives](https://github.com/motion-twin/WebGamesArchives) - 
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan
@@ -3850,6 +3851,7 @@
 
 ## php 
 
+- [chesslablab/chess-server](https://github.com/chesslablab/chess-server) - Asynchronous PHP server that provides chess services over a WebSocket connection.
 - [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [theodo-group/LLPhant](https://github.com/theodo-group/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
@@ -4722,6 +4724,7 @@
 
 ## server 
 
+- [chesslablab/chess-server](https://github.com/chesslablab/chess-server) - Asynchronous PHP server that provides chess services over a WebSocket connection.
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
