@@ -2329,6 +2329,7 @@
 
 ## Shell 
 
+- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [superfly/fly-log-shipper](https://github.com/superfly/fly-log-shipper) - Ship logs from fly to other providers
