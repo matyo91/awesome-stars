@@ -399,7 +399,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -642,7 +642,6 @@
 
 - [xosofox/TURTED](https://github.com/xosofox/TURTED) - The Ultimate Real Time Event Dispatcher
 - [dgreenheck/isometric-rpg](https://github.com/dgreenheck/isometric-rpg) - 
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [carlini/js13k2019-yet-another-doom-clone](https://github.com/carlini/js13k2019-yet-another-doom-clone) - Yet another doom clone (in 13kb of JavaScript)
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
@@ -1081,6 +1080,7 @@
 
 ## Others 
 
+- [SymfonyCon/2024-talks](https://github.com/SymfonyCon/2024-talks) - 
 - [f2r/f2r.github.io](https://github.com/f2r/f2r.github.io) - 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
@@ -1813,7 +1813,7 @@
 - [the-fast-track/book-5.0-1](https://github.com/the-fast-track/book-5.0-1) - The Symfony 5 book source: The Fast Track
 - [KnpLabs/DoctrineBehaviors](https://github.com/KnpLabs/DoctrineBehaviors) - Doctrine2 behavior traits that help handling Blameable, Loggable, Sluggable, SoftDeletable, Uuidable, Timestampable, Translatable, Tree behavior
 - [KnpLabs/php-github-api](https://github.com/KnpLabs/php-github-api) - A simple PHP GitHub API client, Object Oriented, tested and documented.
-- [crater-invoice/crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
+- [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [symfony/security](https://github.com/symfony/security) - Provides a complete security system for your web application
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
@@ -2013,11 +2013,12 @@
 - [Vers-AI/versusai-sc2-bot-template](https://github.com/Vers-AI/versusai-sc2-bot-template) - A simple python StarCraft 2 Bot Template that uses the Python-SC2 framework
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
@@ -2436,6 +2437,7 @@
 
 ## TypeScript 
 
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [arnolanglade/mikado-app](https://github.com/arnolanglade/mikado-app) - MikadoApp is an open-source tool to simplify the Mikado graph creation and sharing.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
