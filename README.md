@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Mewgood/mercury](https://github.com/Mewgood/mercury) - An emulation of the Diablo II Expansion client.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
@@ -527,7 +528,7 @@
 ## HCL 
 
 - [cirruslabs/macos-image-templates](https://github.com/cirruslabs/macos-image-templates) - 
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 
 ## HTML 
 
@@ -970,6 +971,7 @@
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - 
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1267,6 +1269,7 @@
 
 ## PHP 
 
+- [lyrixx/private-stuff](https://github.com/lyrixx/private-stuff) - 
 - [Ibsciss/php-functional](https://github.com/Ibsciss/php-functional) - functional tools implementation in PHP
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) - Shopware APP SDK Independent of Frameworks
@@ -1698,7 +1701,7 @@
 - [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [wasmerio/wasmer-php](https://github.com/wasmerio/wasmer-php) - 🐘🕸️ WebAssembly runtime for PHP
-- [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis client for PHP.
+- [predis/predis](https://github.com/predis/predis) - A flexible and feature-complete Redis/Valkey client for PHP.
 - [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Symfony Sendinblue Notifier Bridge
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
@@ -2015,6 +2018,7 @@
 
 ## Python 
 
+- [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - 
 - [argilla-io/synthetic-data-generator](https://github.com/argilla-io/synthetic-data-generator) - Build datasets using natural language
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -2054,7 +2058,6 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
