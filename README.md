@@ -172,7 +172,7 @@
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
-- [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-level feature flag platform that you can self-host. Get started - free.
+- [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 - [isakody/VJ_LaraCroftGo](https://github.com/isakody/VJ_LaraCroftGo) - 3D game imitation of the well-known mobile game Lara Croft Go made with Unity by a 2-person team in Scrum.
@@ -408,7 +408,6 @@
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
@@ -646,7 +645,6 @@
 ## JavaScript 
 
 - [addyosmani/firew0rks](https://github.com/addyosmani/firew0rks) - Fireworks in your terminal 🎆
-- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [xosofox/TURTED](https://github.com/xosofox/TURTED) - The Ultimate Real Time Event Dispatcher
 - [dgreenheck/isometric-rpg](https://github.com/dgreenheck/isometric-rpg) - 
 - [carlini/js13k2019-yet-another-doom-clone](https://github.com/carlini/js13k2019-yet-another-doom-clone) - Yet another doom clone (in 13kb of JavaScript)
@@ -665,6 +663,7 @@
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [slack-samples/bolt-js-starter-template](https://github.com/slack-samples/bolt-js-starter-template) - A template for building Slack apps with Bolt for JavaScript
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lupyuen/nuttx-ox64](https://github.com/lupyuen/nuttx-ox64) - Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -2457,6 +2456,7 @@
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [arnolanglade/mikado-app](https://github.com/arnolanglade/mikado-app) - MikadoApp is an open-source tool to simplify the Mikado graph creation and sharing.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
