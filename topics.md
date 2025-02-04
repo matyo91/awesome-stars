@@ -84,6 +84,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1237,6 +1238,10 @@
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
+
+## facebook 
+
+- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 
 ## finance 
 
