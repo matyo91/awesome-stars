@@ -151,7 +151,6 @@
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [moby/hyperkit](https://github.com/moby/hyperkit) - A toolkit for embedding hypervisor capabilities in your application
-- [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
@@ -252,6 +251,7 @@
 - [evanpurkhiser/keyfinder-py](https://github.com/evanpurkhiser/keyfinder-py) - Basic python 3 bindings for libkeyfinder
 - [ibsh/libKeyFinder](https://github.com/ibsh/libKeyFinder) - Musical key detection for digital audio, GPL v3
 - [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx) - Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+- [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [phpv8/v8js](https://github.com/phpv8/v8js) - V8 Javascript Engine for PHP — This PHP extension embeds the Google V8 Javascript Engine
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
@@ -645,6 +645,7 @@
 
 ## JavaScript 
 
+- [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [addyosmani/firew0rks](https://github.com/addyosmani/firew0rks) - Fireworks in your terminal 🎆
 - [xosofox/TURTED](https://github.com/xosofox/TURTED) - The Ultimate Real Time Event Dispatcher
 - [dgreenheck/isometric-rpg](https://github.com/dgreenheck/isometric-rpg) - 
@@ -2206,7 +2207,7 @@
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
-- [github/licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
+- [licensee/licensed](https://github.com/licensee/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
