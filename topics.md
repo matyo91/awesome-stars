@@ -272,7 +272,7 @@
 - [BurnySc2/python-sc2](https://github.com/BurnySc2/python-sc2) - A StarCraft II bot api client library for Python 3
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
 - [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -4172,7 +4172,7 @@
 - [symfony/translation](https://github.com/symfony/translation) - Provides tools to internationalize your application
 - [auth0/symfony](https://github.com/auth0/symfony) - Symfony SDK for Auth0 Authentication and Management APIs.
 - [slevomat/coding-standard](https://github.com/slevomat/coding-standard) - Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs
-- [qossmic/deptrac](https://github.com/qossmic/deptrac) - Keep your architecture clean.
+- [deptrac/deptrac](https://github.com/deptrac/deptrac) - Keep your architecture clean.
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [oraoto/pib](https://github.com/oraoto/pib) - PHP in Browser (powered by WebAssembly)
 - [jolicode/elastically](https://github.com/jolicode/elastically) - 🔍 JoliCode's Elastica wrapper to bootstrap Elasticsearch PHP integrations
@@ -4379,7 +4379,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -4826,7 +4826,7 @@
 - [joanhey/AdapterMan](https://github.com/joanhey/AdapterMan) - Run almost any PHP app faster and asynchronously with Workerman, without touch 1 line of code in your fw or app. Also use it as Serverless.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+- [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [tarmac-project/tarmac](https://github.com/tarmac-project/tarmac) - Write as Functions, Deploy as a Monolith or Microservice with WebAssembly
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
