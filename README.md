@@ -539,7 +539,6 @@
 ## HTML 
 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [f2r/f2r.github.io](https://github.com/f2r/f2r.github.io) - 
 - [keithamus/i-html](https://github.com/keithamus/i-html) - 
 - [bastnic/dette-technique-le-livre](https://github.com/bastnic/dette-technique-le-livre) - 
@@ -2034,6 +2033,7 @@
 - [matyo91/prime-ai-answer](https://github.com/matyo91/prime-ai-answer) - 🤖 AI Auto-Responder for Social Media
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - 
 - [argilla-io/synthetic-data-generator](https://github.com/argilla-io/synthetic-data-generator) - Build datasets using natural language
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -2057,7 +2057,7 @@
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
-- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
+- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - [CVPR 2025] StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [dvlab-research/ControlNeXt](https://github.com/dvlab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
