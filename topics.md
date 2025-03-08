@@ -234,6 +234,7 @@
 - [termux-hacking](#termux-hacking)
 - [terraform](#terraform)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -2844,7 +2845,7 @@
 - [open-thought/system-2-research](https://github.com/open-thought/system-2-research) - System 2 Reasoning Link Collection
 - [nicolas-grekas/test-double-submit](https://github.com/nicolas-grekas/test-double-submit) - 
 - [bastnic/dette-technique-le-livre](https://github.com/bastnic/dette-technique-le-livre) - 
-- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
+- [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - [CVPR 2025] StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [matyo91/flow-live](https://github.com/matyo91/flow-live) - Flow demonstration in live
 - [jrmgx/wikireveal.com](https://github.com/jrmgx/wikireveal.com) - A daily browser game where the user tries to determine the subject of a random obfuscated Wikipedia
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
@@ -5247,6 +5248,11 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library
+
+## trading 
+
+- [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## twitter 
 
