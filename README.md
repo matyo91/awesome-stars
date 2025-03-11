@@ -1289,7 +1289,6 @@
 - [xosofox/codesound](https://github.com/xosofox/codesound) - PHP Library to create sound files (with sox)
 - [CodeWithKyrian/whisper.php](https://github.com/CodeWithKyrian/whisper.php) - Local Speech to Text in PHP made easy thanks to Whisper.cpp and OpenAI
 - [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) - Symfony Bundle for Shopware App Backend
-- [chesslablab/chess-server](https://github.com/chesslablab/chess-server) - Asynchronous PHP server that provides chess services over a WebSocket connection.
 - [twigstan/twigstan](https://github.com/twigstan/twigstan) - TwigStan is a static analyzer for Twig templates powered by PHPStan
 - [Jeckel-Lab/etl](https://github.com/Jeckel-Lab/etl) - ETL (Extract - Transform - Load) pattern implementation
 - [phpgl/visu](https://github.com/phpgl/visu) - A PHP Game Engine as a Modern OpenGL Component Framework.
@@ -1300,7 +1299,6 @@
 - [pyrech/rag-ai-documentation](https://github.com/pyrech/rag-ai-documentation) - Just a POC
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [kambo-1st/langchain-php](https://github.com/kambo-1st/langchain-php) - ⚡ Building applications with LLMs through composability in PHP ⚡
-- [chesslablab/php-chess](https://github.com/chesslablab/php-chess) - A chess library offering move validation, common formats, multiple variants, UCI engine support, explanation of chess positions, image recognition, PGN parsing and knowledge extraction from games.
 - [arawa/divims](https://github.com/arawa/divims) - DiViM-S (or divims) is an opensource orchestrator and autoscaler for BigBlueButton pools behind a Scalelite server
 - [realFlowControl/1brc](https://github.com/realFlowControl/1brc) - 
 - [kapolos/pramda](https://github.com/kapolos/pramda) - Practical Functional Programming in PHP
@@ -2030,6 +2028,7 @@
 
 ## Python 
 
+- [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [matyo91/prime-ai-answer](https://github.com/matyo91/prime-ai-answer) - 🤖 AI Auto-Responder for Social Media
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - 
 - [argilla-io/synthetic-data-generator](https://github.com/argilla-io/synthetic-data-generator) - Build datasets using natural language
@@ -2090,8 +2089,8 @@
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over federated data.
-- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
+- [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
