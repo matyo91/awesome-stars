@@ -328,7 +328,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [almarklein/mypaas](https://github.com/almarklein/mypaas) - Run your own PaaS using Docker, Traefik, and great analytics
@@ -1678,7 +1678,7 @@
 - [solaris-games/solaris](https://github.com/solaris-games/solaris) - A HTML5 game of strategy, intrigue and galactic conquest.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with 🟦 TypeScript, ⚛️ React, ⚫️ NextJS, ⚡️ Chakra UI, 🟦 tRPC, 🔐 Lucia Auth,  ▲ Prisma, 🏖️ TanStack Query, 📕 Storybook, 🎭 Playwright,📋 React Hook Form,◽Fro
 - [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
 - [pgrimaud/git-stars](https://github.com/pgrimaud/git-stars) - Discover your ranking on GitHub
@@ -2447,7 +2447,7 @@
 ## mobile 
 
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -2503,7 +2503,7 @@
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
@@ -2746,6 +2746,7 @@
 
 ## others 
 
+- [tromp/AIT](https://github.com/tromp/AIT) - Algorithmic Information Theory, using Binary Lambda Calculus
 - [matyo91/prime-ai-answer](https://github.com/matyo91/prime-ai-answer) - 🤖 AI Auto-Responder for Social Media
 - [Villane/lambdacalculus](https://github.com/Villane/lambdacalculus) - Lambda calculus implementation in Scala
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -4036,7 +4037,7 @@
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 - [mtownsend5512/remove-bg](https://github.com/mtownsend5512/remove-bg) - Programmatically remove backgrounds from your images using the remove.bg api
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - Symfony SMSC Notifier Bridge
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
 - [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Symfony Mailjet Notifier Bridge
@@ -4336,7 +4337,7 @@
 
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -4757,7 +4758,7 @@
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -5462,7 +5463,7 @@
 ## website 
 
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
