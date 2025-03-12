@@ -601,6 +601,7 @@
 
 ## Haskell 
 
+- [tromp/AIT](https://github.com/tromp/AIT) - Algorithmic Information Theory, using Binary Lambda Calculus
 - [facet-lang/facet](https://github.com/facet-lang/facet) - a functional programming language with algebraic effects and handlers
 - [philipschwarz/code-kata-game-of-life-haskell](https://github.com/philipschwarz/code-kata-game-of-life-haskell) - 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1505,7 +1506,7 @@
 - [ipdata/php](https://github.com/ipdata/php) - Official PHP client library for the ipdata API
 - [alexandresalome/mailcatcher](https://github.com/alexandresalome/mailcatcher) - A library to manipulate Mailcatcher API
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - Symfony SMSC Notifier Bridge
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
 - [symfony-tools/recipes-checker](https://github.com/symfony-tools/recipes-checker) - 
