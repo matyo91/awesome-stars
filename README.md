@@ -169,6 +169,9 @@
 
 ## C# # 
 
+- [johnklipi/PolyModUI](https://github.com/johnklipi/PolyModUI) - 
+- [johnklipi/PolyPlus](https://github.com/johnklipi/PolyPlus) - Polytopia rebalance mod, aimed to improve game's overall balance
+- [PolyModdingTeam/PolyMod](https://github.com/PolyModdingTeam/PolyMod) - The Battle of Polytopia's mod loader.
 - [GarnetKane99/WaveFunction3D](https://github.com/GarnetKane99/WaveFunction3D) - 3D wave function collapse tutorial from my YouTube video
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [GarnetKane99/WaveFunctionCollapse](https://github.com/GarnetKane99/WaveFunctionCollapse) - Easy Wave Function Collapse from my YouTube series.
@@ -189,6 +192,7 @@
 
 ## C++ 
 
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [Mewgood/mercury](https://github.com/Mewgood/mercury) - An emulation of the Diablo II Expansion client.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -217,7 +221,7 @@
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware.
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
@@ -232,7 +236,7 @@
 - [evanpurkhiser/keyfinder-cli](https://github.com/evanpurkhiser/keyfinder-cli) - A CLI wrapper for libkeyfinder. Making DJs lives easier.
 - [solemnwarning/rehex](https://github.com/solemnwarning/rehex) - Reverse Engineers' Hex Editor
 - [Fenrirthviti/obs-virtual-cam](https://github.com/Fenrirthviti/obs-virtual-cam) - obs-studio plugin to simulate a directshow webcam
-- [stream-labs/facemask-plugin](https://github.com/stream-labs/facemask-plugin) - (sl)obs filter plug-in for detecting faces and drawing masks on them
+- [streamlabs/facemask-plugin](https://github.com/streamlabs/facemask-plugin) - (sl)obs filter plug-in for detecting faces and drawing masks on them
 - [lynckia/licode](https://github.com/lynckia/licode) - Open Source Communication Provider based on WebRTC and Cloud technologies
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [FrictionalGames/AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent) - 
@@ -324,6 +328,7 @@
 
 ## Dockerfile 
 
+- [Sylius/docker-images](https://github.com/Sylius/docker-images) - Ready to use base Docker images for Sylius projects.
 - [OskarStark/php-cs-fixer-ga](https://github.com/OskarStark/php-cs-fixer-ga) - GithubAction for PHP-CS-Fixer
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
@@ -369,6 +374,7 @@
 
 ## GDScript 
 
+- [squrious/godot-fastnoiselite-configurator-plugin](https://github.com/squrious/godot-fastnoiselite-configurator-plugin) - A simple plugin to configure FastNoiseLite noise with a live preview
 - [KenneyNL/Starter-Kit-City-Builder](https://github.com/KenneyNL/Starter-Kit-City-Builder) - 
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
 - [theshaggydev/unto-deepest-depths-prototype](https://github.com/theshaggydev/unto-deepest-depths-prototype) - This is early prototype code for the core game loop of Unto Deepest Depths, provided as a learning example on how I structure turn-based games in Godot 4.
@@ -408,9 +414,9 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
-- [stateful/runme](https://github.com/stateful/runme) - DevOps Notebooks Built with Markdown
+- [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -584,6 +590,7 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [DSchau/gatsby-mail](https://github.com/DSchau/gatsby-mail) - A Gatsby email *application*
+- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -619,6 +626,7 @@
 
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
@@ -651,6 +659,10 @@
 
 ## JavaScript 
 
+- [rjanot/webauthn-sflive2025](https://github.com/rjanot/webauthn-sflive2025) - 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [IonDen/ion.rangeSlider](https://github.com/IonDen/ion.rangeSlider) - jQuery only range slider
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [addyosmani/firew0rks](https://github.com/addyosmani/firew0rks) - Fireworks in your terminal 🎆
 - [xosofox/TURTED](https://github.com/xosofox/TURTED) - The Ultimate Real Time Event Dispatcher
@@ -669,7 +681,6 @@
 - [cowchimp/chunk-scatter](https://github.com/cowchimp/chunk-scatter) - Analyze and visualize HTTP responses that use chunked encoding
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [slack-samples/bolt-js-starter-template](https://github.com/slack-samples/bolt-js-starter-template) - A template for building Slack apps with Bolt for JavaScript
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lupyuen/nuttx-ox64](https://github.com/lupyuen/nuttx-ox64) - Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)
@@ -876,7 +887,7 @@
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [google/blockly-games](https://github.com/google/blockly-games) - Games for tomorrow's programmers.
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
-- [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use. Selenium IDE  import/export.
+- [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
 - [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
 - [scratchfoundation/scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 - [DataFire/Integrations](https://github.com/DataFire/Integrations) - Integration registry for DataFire
@@ -948,7 +959,6 @@
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 - [redkite-labs/RedKiteCms](https://github.com/redkite-labs/RedKiteCms) - Content Management System built on top of Symfony2, Knockout, Jquery, Twitter Bootstrap frameworks.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
-- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [noflo/noflo](https://github.com/noflo/noflo) - Flow-based programming for JavaScript
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
@@ -971,13 +981,13 @@
 
 ## Jupyter Notebook 
 
+- [tweag/monad-bayes](https://github.com/tweag/monad-bayes) - A library for probabilistic programming in Haskell.
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - Demonstration of the grokking phenomenon in machine learning in a simple case
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -1099,6 +1109,9 @@
 
 ## Others 
 
+- [sterrien/try_git](https://github.com/sterrien/try_git) - 
+- [CleverCloud/awesome-clever-cloud](https://github.com/CleverCloud/awesome-clever-cloud) - Curated list of awesome Clever Cloud resources
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [SymfonyCon/2024-talks](https://github.com/SymfonyCon/2024-talks) - 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
@@ -1276,6 +1289,19 @@
 
 ## PHP 
 
+- [JJarrie/xdebug-exploit](https://github.com/JJarrie/xdebug-exploit) - 
+- [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [acseo/SyliusAIToolsPlugin](https://github.com/acseo/SyliusAIToolsPlugin) - 
+- [CleverCloud/frankenphp-kv-json-example](https://github.com/CleverCloud/frankenphp-kv-json-example) - PHP app using FrankenPHP runtime and MateriaKV JSON commands on Clever Cloud
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Open Source eCommerce Application on top of Symfony
+- [lyrixx/async-messenger-mercure](https://github.com/lyrixx/async-messenger-mercure) - Demo for Symfony Messenger + Mercure
+- [mtarld/apip-ddd](https://github.com/mtarld/apip-ddd) - An example of hexagonal API Platform 3 implementation
+- [igorw/yolo](https://github.com/igorw/yolo) - The microframework with swag.
+- [dbu/postgres-json](https://github.com/dbu/postgres-json) - Demo and experiments for Postgres JSON support
+- [phpacker/phpacker](https://github.com/phpacker/phpacker) - Package any PHP script or PHAR into a standalone, cross-platform executable
+- [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - Analyzes php-code for side-effects.
+- [spatie/error-solutions](https://github.com/spatie/error-solutions) - Solutions for your PHP and Laravel errors
+- [symfony/polyfill-php82](https://github.com/symfony/polyfill-php82) - Symfony polyfill backporting some PHP 8.2+ features to lower PHP versions
 - [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [jakubledl/dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis written in pure PHP.
@@ -1434,7 +1460,7 @@
 - [Crell/fp](https://github.com/Crell/fp) - Utilities for functional tasks in PHP, especially pipelining
 - [parsica-php/parsica](https://github.com/parsica-php/parsica) - Parsica - PHP Parser Combinators - The easiest way to build robust parsers.
 - [symfony/clock](https://github.com/symfony/clock) - Decouples applications from the system clock
-- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations
+- [nelmio/NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from attributes
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
 - [Crell/AttributeUtils](https://github.com/Crell/AttributeUtils) - Utilities to help ease parsing and manging of attributes
@@ -1978,7 +2004,7 @@
 - [symfony/recipes](https://github.com/symfony/recipes) - Symfony Recipes Repository
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [sensiolabs/SensioDistributionBundle](https://github.com/sensiolabs/SensioDistributionBundle) - Base bundle for Symfony Distributions
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
 - [sonata-project/SonataCoreBundle](https://github.com/sonata-project/SonataCoreBundle) - [deprecated] SonataCoreBundle
 - [tgalopin/html-sanitizer](https://github.com/tgalopin/html-sanitizer) - Sanitize untrustworthy HTML user input
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony
@@ -2029,9 +2055,12 @@
 
 ## Python 
 
+- [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic Data SDK ✨
+- [SigmaHQ/pySigma](https://github.com/SigmaHQ/pySigma) - Python library to parse and convert Sigma rules into queries (and whatever else you could imagine)
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [matyo91/prime-ai-answer](https://github.com/matyo91/prime-ai-answer) - 🤖 AI Auto-Responder for Social Media
-- [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - 
+- [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
 - [argilla-io/synthetic-data-generator](https://github.com/argilla-io/synthetic-data-generator) - Build datasets using natural language
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -2044,15 +2073,15 @@
 - [Vers-AI/versusai-sc2-bot-template](https://github.com/Vers-AI/versusai-sc2-bot-template) - A simple python StarCraft 2 Bot Template that uses the Python-SC2 framework
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
@@ -2070,6 +2099,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
@@ -2210,6 +2240,7 @@
 
 ## Ruby 
 
+- [tomstuart/nothing](https://github.com/tomstuart/nothing) - Programming with Nothing
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
@@ -2232,7 +2263,6 @@
 - [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
-- [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
 - [fgrehm/vagrant-cachier](https://github.com/fgrehm/vagrant-cachier) - Caffeine reducer
 - [scttnlsn/dandelion](https://github.com/scttnlsn/dandelion) - Incremental Git repository deployment.
@@ -2350,6 +2380,7 @@
 
 ## Scala 
 
+- [MAIF/otoroshi](https://github.com/MAIF/otoroshi) - Lightweight api management on top of a modern http reverse proxy
 - [Villane/lambdacalculus](https://github.com/Villane/lambdacalculus) - Lambda calculus implementation in Scala
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [typelevel/cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
@@ -2377,7 +2408,7 @@
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [aitorroma/n8n-traefik](https://github.com/aitorroma/n8n-traefik) - 🔶 Deploy N8N usando traefik o Caddy con dominio personalizado y Letsencrypt.
-- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager
+- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager [maintainer=LOOKING FOR A MAINTAINER! SUBMIT A PULL REQUEST TO THE INFRASTRUCTURE REPOSITORY!]
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
 - [antalaron/action-splitsh](https://github.com/antalaron/action-splitsh) - Synchronises a subtree repository using splitsh-lite
 - [php/systems](https://github.com/php/systems) - Hooks and Cronjobs for PHP Infrastructure
@@ -2466,6 +2497,10 @@
 
 ## TypeScript 
 
+- [Sylius/ReactFrontPOC](https://github.com/Sylius/ReactFrontPOC) - 
+- [JJarrie/ai-snake-js](https://github.com/JJarrie/ai-snake-js) - 
+- [conference-hall/conference-hall](https://github.com/conference-hall/conference-hall) - Open SaaS platform to manage CFPs
+- [matklad/matklad.github.io](https://github.com/matklad/matklad.github.io) - My coding related blog
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [NVIDIA/ChatRTX](https://github.com/NVIDIA/ChatRTX) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
@@ -2479,7 +2514,7 @@
 - [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -2491,12 +2526,13 @@
 - [nikolovlazar/bife](https://github.com/nikolovlazar/bife) - A URL shortener built with Next.js
 - [J0SUKE/ASCII-postprocessing](https://github.com/J0SUKE/ASCII-postprocessing) - 
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, react-admin, and Supabase.
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework r
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
@@ -2521,7 +2557,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Management
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - LFX Community Data Platform (CDP)
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [flexbox/react-native-template-obytes](https://github.com/flexbox/react-native-template-obytes) - 📱 A template for your next React Native project 🚀, Made with developer experience and performance first: Expo,TypeScript,TailwindCSS, Husky, Lint-Staged, react-navigation, react-query, react-hook-form
@@ -2656,7 +2692,7 @@
 - [ondras/qr](https://github.com/ondras/qr) - Generate QR code based on the Referer header
 - [flexbox/inspiration](https://github.com/flexbox/inspiration) - ⚛ Popular quotes from humans working in the web industry
 - [recksjs/recks](https://github.com/recksjs/recks) - 🐶 React-like RxJS-based framework
-- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
+- [streamlabs/desktop](https://github.com/streamlabs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [julie-desvaux/react_pokedex](https://github.com/julie-desvaux/react_pokedex) - Pokedex en React
@@ -2716,6 +2752,7 @@
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
 ## Typst 
 
@@ -2736,6 +2773,8 @@
 
 ## Vue 
 
+- [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
+- [alpsify/lychen](https://github.com/alpsify/lychen) - 🌱 Environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory
 - [Kalaxia/game-front](https://github.com/Kalaxia/game-front) - VueJS + Nuxt SPA for Kalaxia game
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
@@ -2757,6 +2796,7 @@
 
 ## Zig 
 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) - LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS
