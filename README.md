@@ -323,7 +323,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted platform for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted platform for photos, videos and 2FA secrets.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [nomuq/flutter-jsonplaceholder](https://github.com/nomuq/flutter-jsonplaceholder) - 
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -411,6 +411,7 @@
 
 ## Go 
 
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
 - [datastax/terraform-provider-astra](https://github.com/datastax/terraform-provider-astra) - A project that allows DataStax Astra users to manage their full database lifecycle for Astra Serverless databases (built on Apache Cassandra(TM)) using Terraform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -646,7 +647,7 @@
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
 - [quentin-js/kestra-demo](https://github.com/quentin-js/kestra-demo) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [jpaulm/drawfbp](https://github.com/jpaulm/drawfbp) - Tool for Creating and Exploring Flow-Based Programming Diagram Hierarchies
 - [jpaulm/javafbp](https://github.com/jpaulm/javafbp) - Java Implementation of Flow-Based Programming (FBP)
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
@@ -667,6 +668,9 @@
 
 ## JavaScript 
 
+- [ai-driven-dev/prompts](https://github.com/ai-driven-dev/prompts) - 
+- [theonemule/x86box-docker](https://github.com/theonemule/x86box-docker) - A container image for running x86box in a Docker container and streaming the results back to the browser.
+- [theonemule/qemu-docker](https://github.com/theonemule/qemu-docker) - Run VMs in a Docker Container and Connect To Them With a Browser!
 - [rioj7/select-by](https://github.com/rioj7/select-by) - Visual Studio Code extension to select text by criteria like Regular Expressions
 - [rioj7/command-variable](https://github.com/rioj7/command-variable) - Visual Studio Code extension for variable substitution via ${command:commandID}
 - [rioj7/remove-comments](https://github.com/rioj7/remove-comments) - Visual Studio Code extension to remove comments from files.
@@ -1125,6 +1129,9 @@
 
 ## Others 
 
+- [ai-driven-dev/agents](https://github.com/ai-driven-dev/agents) - 
+- [ManUtopiK/awesome-stars](https://github.com/ManUtopiK/awesome-stars) - ⭑ A curated list of my GitHub stars! ⭑
+- [Schrank/mage-attack](https://github.com/Schrank/mage-attack) - Build a tool (based on behat/mink?) to attack a magento installation aka check for the most common problems, readable local.xml, etc.
 - [tylerprogramming/n8n-full-beginner-course](https://github.com/tylerprogramming/n8n-full-beginner-course) - 
 - [laurieontech/laurieontech](https://github.com/laurieontech/laurieontech) - 
 - [SymfonyLive/paris-2025-talks](https://github.com/SymfonyLive/paris-2025-talks) - 
@@ -1309,6 +1316,11 @@
 
 ## PHP 
 
+- [Acksop/SAND-framework](https://github.com/Acksop/SAND-framework) - Framework Multi-Modules MVC (Vues : Twig ou Blade, et possible SPA [SinglePageApplication] Vue.js ou React.js ...) en PHP
+- [jwage/phpamqplib-messenger](https://github.com/jwage/phpamqplib-messenger) - 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
+- [Kameleoon/openfeature-php](https://github.com/Kameleoon/openfeature-php) - KameleoonProvider for OpenFeature PHP
+- [Kameleoon/client-php](https://github.com/Kameleoon/client-php) - 
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator
 - [simonhamp/cronikl](https://github.com/simonhamp/cronikl) - A scheduled task manager
 - [simonhamp/laravel-nova-csv-import](https://github.com/simonhamp/laravel-nova-csv-import) - The best CSV import component for Laravel Nova
@@ -2088,6 +2100,10 @@
 
 ## Python 
 
+- [Connor9994/LinkedIn-Follower-Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) - Automates the process of following accounts on LinkedIn
+- [Moeshra/personal_assistant](https://github.com/Moeshra/personal_assistant) - 
+- [shiragannavar/Testing-RAG](https://github.com/shiragannavar/Testing-RAG) - 
+- [Neuro-kiran/AI-Investment-Agent](https://github.com/Neuro-kiran/AI-Investment-Agent) - 
 - [bcgameProject/bitcoinbook](https://github.com/bcgameProject/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 - [matheusccastroo/nowplaying](https://github.com/matheusccastroo/nowplaying) - 
 - [tylerprogramming/ai](https://github.com/tylerprogramming/ai) - This repository will have different projects using AutoGen and Tutorials
@@ -2343,7 +2359,7 @@
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Devtools to validate, audit and investigate WebAssembly binaries.
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [rust-console/gba](https://github.com/rust-console/gba) - A crate that helps you make GBA games
@@ -2541,6 +2557,9 @@
 
 ## TypeScript 
 
+- [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
+- [Kameleoon/bouncing-ball](https://github.com/Kameleoon/bouncing-ball) - bouncing-ball
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
