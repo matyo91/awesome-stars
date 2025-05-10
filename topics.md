@@ -728,6 +728,7 @@
 
 ## cli 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [datastax/astra-cli](https://github.com/datastax/astra-cli) - Command Line Interface for DataStax Astra
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -1001,7 +1002,7 @@
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [moby/datakit](https://github.com/moby/datakit) - Connect processes into powerful data pipelines with a simple git-like filesystem interface
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## deep-learning 
 
@@ -1435,6 +1436,7 @@
 
 ## git 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -2202,6 +2204,7 @@
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [jplusplus/the-accountant](https://github.com/jplusplus/the-accountant) - Can you resist the sirens of easy money? Find out by playing The Good, The Bad and The Accountant
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## julia 
 
@@ -2741,7 +2744,7 @@
 ## nosql 
 
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## npm 
 
@@ -2797,6 +2800,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## openai 
 
@@ -2851,6 +2855,8 @@
 
 ## others 
 
+- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) - GitHub Action to parallelize a PHPUnit test suite over multiple GitHub Action jobs.
 - [arungpro/adodb](https://github.com/arungpro/adodb) - adodb + php + docker
 - [anticorrelator/grumpy](https://github.com/anticorrelator/grumpy) - 
 - [anticorrelator/game_of_life](https://github.com/anticorrelator/game_of_life) - 
@@ -3292,7 +3298,6 @@
 - [spatie/period](https://github.com/spatie/period) - Complex period comparisons
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [calebporzio/sushi](https://github.com/calebporzio/sushi) - Eloquent's missing "array" driver.
-- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [tankarasu/tankarasu](https://github.com/tankarasu/tankarasu) - 
 - [jessicakuijer/react-portfolio](https://github.com/jessicakuijer/react-portfolio) - portfolio react version for jessicakuijer.com
 - [yoanbernabeu/SymForm](https://github.com/yoanbernabeu/SymForm) - Projet à vocation pédagogique : Génération d'un site statique avec un Backend Notion pour la chaine YouTube https://www.youtube.com/c/yoandevco
@@ -5172,6 +5177,7 @@
 
 ## symfony 
 
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - The Official PHP MongoDB ORM/ODM
 - [Setono/SyliusSchedulerPlugin](https://github.com/Setono/SyliusSchedulerPlugin) - 
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
@@ -5683,6 +5689,7 @@
 ## web-development 
 
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
+- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 
 ## webapp 
 
