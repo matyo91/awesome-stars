@@ -163,7 +163,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [evanw/thinscript](https://github.com/evanw/thinscript) - A low-level programming language inspired by TypeScript
 - [machyve/xhyve](https://github.com/machyve/xhyve) - xhyve, a lightweight OS X virtualization solution
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [ttscoff/nv](https://github.com/ttscoff/nv) - MultiMarkdown version of Notational Velocity with Markdown editing features and preview
 - [MoSync/MoSync](https://github.com/MoSync/MoSync) - Cross-Platform SDK for mobile phones
 - [autopilot-rs/autopy-legacy](https://github.com/autopilot-rs/autopy-legacy) - DEPRECATED: Replaced by https://github.com/autopilot-rs/autopy
@@ -1137,6 +1137,7 @@
 
 ## Others 
 
+- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
 - [acantarero/generate_service](https://github.com/acantarero/generate_service) - 
 - [acantarero/site-crawler](https://github.com/acantarero/site-crawler) - 
 - [AdryBailly/job-board-php](https://github.com/AdryBailly/job-board-php) - 
@@ -1327,6 +1328,8 @@
 
 ## PHP 
 
+- [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
+- [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) - GitHub Action to parallelize a PHPUnit test suite over multiple GitHub Action jobs.
 - [arungpro/adodb](https://github.com/arungpro/adodb) - adodb + php + docker
 - [matyo91/recherche-entreprise-mcp-server](https://github.com/matyo91/recherche-entreprise-mcp-server) - Supercharge Your Job Search: Automate with MCP, Astra, and Arize
 - [natewiebe13/php-lucide](https://github.com/natewiebe13/php-lucide) - 
@@ -2353,6 +2356,7 @@
 
 ## Rust 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [drupol/markdown-code-runner](https://github.com/drupol/markdown-code-runner) - Execute and optionally rewrite code blocks in Markdown files based on external commands
 - [trashware/as3935-rs](https://github.com/trashware/as3935-rs) - Rust I²C/SPI driver for AS3935 Franklin Lightning Sensor IC
 - [trashware/mcp3xxx-rs](https://github.com/trashware/mcp3xxx-rs) - Rust SPI driver for MCP3xxx family of 10-13-Bit A/D converters.
@@ -2423,7 +2427,6 @@
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [jmjoy/fastcgi-client-rs](https://github.com/jmjoy/fastcgi-client-rs) - Fastcgi client implemented for Rust.
 - [SergioBenitez/RustFS](https://github.com/SergioBenitez/RustFS) - A virtual file system written in Rust.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
@@ -2888,6 +2891,7 @@
 - [wasmerio/old-docs.wasmer.io](https://github.com/wasmerio/old-docs.wasmer.io) - Wasmer Documentation (for standalone and embedded use cases)
 - [WebAssembly/interface-types](https://github.com/WebAssembly/interface-types) - 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 
 ## YARA 
 
