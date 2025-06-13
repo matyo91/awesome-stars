@@ -1420,7 +1420,6 @@
 - [akeneo/BatchBundle](https://github.com/akeneo/BatchBundle) - [READ-ONLY] Batch architecture bundle inspired by Spring Batch
 - [php-etl/pipeline](https://github.com/php-etl/pipeline) - The bandmaster of your data processing, heart of the ETL
 - [php-etl/satellite](https://github.com/php-etl/satellite) - A micro-service compilation tool for data stream processing in the cloud
-- [afup/jeu-apero-communautaire-forum-php-2023](https://github.com/afup/jeu-apero-communautaire-forum-php-2023) - 
 - [afup/hermes](https://github.com/afup/hermes) - 
 - [amphp/parallel-functions](https://github.com/amphp/parallel-functions) - Simplified parallel processing for PHP based on Amp.
 - [pielonet/concurrency](https://github.com/pielonet/concurrency) - PHP/parallel programming tutorial and examples
@@ -2140,7 +2139,7 @@
 ## Python 
 
 - [AI-Phil/KineticConstructs](https://github.com/AI-Phil/KineticConstructs) - A fake company with a Product Catalog application
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
 - [anticorrelator/grumpy](https://github.com/anticorrelator/grumpy) - 
 - [anticorrelator/game_of_life](https://github.com/anticorrelator/game_of_life) - 
@@ -2242,7 +2241,7 @@
 - [robert/wavefunction-collapse](https://github.com/robert/wavefunction-collapse) - The Wavefunction Collapse Algorithm explained very clearly
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [CosiNull/minesweeperBot](https://github.com/CosiNull/minesweeperBot) - Python bot destroys Google Minesweeper
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [sebastianhaberey/ctax](https://github.com/sebastianhaberey/ctax) - Crypto currency tax calculator
 - [mikepound/mazesolving](https://github.com/mikepound/mazesolving) - A variety of algorithms to solve mazes from an input image
 - [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the https://tournesol.app platform. Meet the community on Discord https://discord.gg/WvcSG55Bf3
@@ -2574,6 +2573,7 @@
 
 ## Swift 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
