@@ -121,6 +121,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [information-gathering](#information-gathering)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -296,7 +297,7 @@
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -304,7 +305,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [gdquest-demos/godot-2d-space-game](https://github.com/gdquest-demos/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
@@ -354,7 +355,7 @@
 
 ## android 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
@@ -437,7 +438,7 @@
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [ben74/IAMachineLearning](https://github.com/ben74/IAMachineLearning) - MachineLearning problems and resolutions
 - [gdquest-demos/godot-2d-space-game](https://github.com/gdquest-demos/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
@@ -697,7 +698,7 @@
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [mustvlad/ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -1001,7 +1002,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [portphp/portphp](https://github.com/portphp/portphp) - Data import/export framework for PHP
 - [code-rhapsodie/dataflow-bundle](https://github.com/code-rhapsodie/dataflow-bundle) - Data processing framework inspired by PortPHP
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -1043,7 +1044,7 @@
 - [oyetanishq/tic-tac-toe-readme](https://github.com/oyetanishq/tic-tac-toe-readme) - 😮 Play tic tac toe in repo's readme.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## deployment 
@@ -1092,7 +1093,7 @@
 - [Almighty-Alpaca/JetBrains-Discord-Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration) - Discord rich presence integration for all JetBrains IDEs
 - [harshil1712/register-slash-command](https://github.com/harshil1712/register-slash-command) - Add Interactions Endpoint URL for your Discord slash command via CLI
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
-- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - 🎅 The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 
 ## django 
 
@@ -1216,7 +1217,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
@@ -1306,7 +1307,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [cben/mathdown](https://github.com/cben/mathdown) - Collaborative markdown with math
 
 ## firefox 
@@ -1323,7 +1324,7 @@
 
 ## flutter 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -1445,7 +1446,7 @@
 ## git 
 
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -1570,7 +1571,7 @@
 ## golang 
 
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -1674,7 +1675,7 @@
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Sylius app skeleton
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [BurnySc2/python-sc2](https://github.com/BurnySc2/python-sc2) - A StarCraft II bot api client library for Python 3
 - [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim) - 
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
@@ -1734,7 +1735,7 @@
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
 - [scssphp/scssphp](https://github.com/scssphp/scssphp) - SCSS compiler written in PHP
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
-- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - 🎅 The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [GrahamCampbell/Result-Type](https://github.com/GrahamCampbell/Result-Type) - An implementation of the result type
@@ -1821,7 +1822,7 @@
 - [cben/mathdown](https://github.com/cben/mathdown) - Collaborative markdown with math
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [jolicode/slack-php-api](https://github.com/jolicode/slack-php-api) - :hash: PHP Slack Client based on the official OpenAPI specification
+- [jolicode/slack-php-api](https://github.com/jolicode/slack-php-api) - #️⃣ PHP Slack Client based on the official OpenAPI specification
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [pgrimaud/horaires-ratp-api](https://github.com/pgrimaud/horaires-ratp-api) - Webservice pour les horaires et trafic RATP en temps réel
@@ -1951,6 +1952,10 @@
 - [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
 - [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 
+## information-gathering 
+
+- [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+
 ## instagram 
 
 - [pgrimaud/instagram-user-feed](https://github.com/pgrimaud/instagram-user-feed) - This is a scrapper to easily fetch any feed and interact with Instagram (like, follow, etc.) without OAuth for PHP.
@@ -1959,7 +1964,7 @@
 ## ios 
 
 - [apache/cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
@@ -2096,7 +2101,7 @@
 - [scurker/currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [format-message/format-message](https://github.com/format-message/format-message) - Internationalization Made Easy
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -2393,7 +2398,7 @@
 
 ## login 
 
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 ## low-code 
 
@@ -2589,7 +2594,7 @@
 
 ## music 
 
-- [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
+- [bytedance/SALMONN](https://github.com/bytedance/SALMONN) - SALMONN family: A suite of advanced multi-modal LLMs
 - [JeanDavidDaviet/lire-la-musique](https://github.com/JeanDavidDaviet/lire-la-musique) - 
 - [maximecb/noisecraft](https://github.com/maximecb/noisecraft) - Browser-based visual programming language and platform for sound synthesis.
 - [evanpurkhiser/prolink-connect](https://github.com/evanpurkhiser/prolink-connect) - A Typescript / JavaScript library that is able to talk to Pioneer PROLINK enabled DJ equipment
@@ -2657,7 +2662,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [thesobercoder/Intercom-Clone](https://github.com/thesobercoder/Intercom-Clone) - Intercom clone built with NextJS and TailwindCSS.
 - [nfroidure/belotere](https://github.com/nfroidure/belotere) - A simple solo Belote game
@@ -2697,7 +2702,7 @@
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
@@ -2731,7 +2736,7 @@
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
-- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
@@ -2869,8 +2874,9 @@
 
 ## others 
 
+- [matyo91/cursor-slack](https://github.com/matyo91/cursor-slack) - 
 - [php-llm/mcp-sdk](https://github.com/php-llm/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [atournayre/rector-auto-upgrade](https://github.com/atournayre/rector-auto-upgrade) - Composer plugin to auto-upgrade using Rector
 - [discord/getting-started-activity](https://github.com/discord/getting-started-activity) - This template is used in the Building An Activity tutorial in the Discord Developer Docs.
 - [mieslep/insight-sync](https://github.com/mieslep/insight-sync) - InsightSync - An AI-powered communication assistant that monitors and analyzes messages across multiple channels
@@ -2886,7 +2892,7 @@
 - [matyo91/thumbnail-mcp](https://github.com/matyo91/thumbnail-mcp) - Automatically Generate Custom Ghibli-Style YouTube Thumbnails with PHP and AI
 - [php-llm/ecosystem](https://github.com/php-llm/ecosystem) - A list of AI & LLM frameworks and libraries in PHP
 - [drupol/taguette-nix-service](https://github.com/drupol/taguette-nix-service) - 
-- [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or (mightyiam)'s personal Nix-powered IT infrastructure repository
+- [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
 - [matyo91/composio-mcp](https://github.com/matyo91/composio-mcp) - Composio PHP MCP server
 - [jakubkulhan/js2php](https://github.com/jakubkulhan/js2php) - Javascript parser, compiler and interpreter written in PHP
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
@@ -2943,7 +2949,7 @@
 - [php/pie](https://github.com/php/pie) - The PHP Installer for Extensions
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 - [tylerprogramming/n8n-full-beginner-course](https://github.com/tylerprogramming/n8n-full-beginner-course) - 
-- [google-a2a/A2A](https://github.com/google-a2a/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [imjoshin/imjosh.in](https://github.com/imjoshin/imjosh.in) - imjoshin's homepage built with Gatsby.
 - [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
 - [laurieontech/laurieontech](https://github.com/laurieontech/laurieontech) - 
@@ -2957,7 +2963,7 @@
 - [php-llm/mcp-bundle](https://github.com/php-llm/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via php-llm/mcp-sdk)
 - [lunapark/demo](https://github.com/lunapark/demo) - 
 - [johnklipi/PolyModUI](https://github.com/johnklipi/PolyModUI) - 
-- [johnklipi/PolyPlus](https://github.com/johnklipi/PolyPlus) - Polytopia rebalance mod, aimed to improve game's overall balance
+- [johnklipi/PolyPlus](https://github.com/johnklipi/PolyPlus) - The Battle of Polytopia rebalance mod, aimed to improve game's overall balance.
 - [PolyModdingTeam/PolyMod](https://github.com/PolyModdingTeam/PolyMod) - The Battle of Polytopia's mod loader.
 - [squrious/godot-fastnoiselite-configurator-plugin](https://github.com/squrious/godot-fastnoiselite-configurator-plugin) - A simple plugin to configure FastNoiseLite noise with a live preview
 - [JJarrie/xdebug-exploit](https://github.com/JJarrie/xdebug-exploit) - 
@@ -3179,7 +3185,7 @@
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [vmware-labs/webassembly-language-runtimes](https://github.com/vmware-labs/webassembly-language-runtimes) - Wasm Language Runtimes provides popular language runtimes (Ruby, Python, …) precompiled to WebAssembly that are tested for compatibility and kept up to date when new versions of upstream languages are
@@ -3659,7 +3665,6 @@
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [loomio/loomio](https://github.com/loomio/loomio) - Loomio is a collaborative decision making tool
 - [phpspec/prophecy-phpunit](https://github.com/phpspec/prophecy-phpunit) - Integrating Prophecy in PHPUnit test cases
-- [hamlet-framework/type](https://github.com/hamlet-framework/type) - Hamlet Framework / Type
 - [Behatch/contexts](https://github.com/Behatch/contexts) - Behat extension with most custom helper steps
 - [FriendsOfBehat/PageObjectExtension](https://github.com/FriendsOfBehat/PageObjectExtension) - :pager: Default classes for Page object pattern in Behat
 - [nomuq/nextjs-tailwind-example](https://github.com/nomuq/nextjs-tailwind-example) - 
@@ -4177,7 +4182,7 @@
 - [phpacker/phpacker](https://github.com/phpacker/phpacker) - Package any PHP script or PHAR into a standalone, cross-platform executable
 - [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) - Symfony Bundle for Shopware App Backend
 - [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
@@ -4217,7 +4222,7 @@
 - [green-code-initiative/creedengo-php](https://github.com/green-code-initiative/creedengo-php) - Reduce the environmental footprint of your PHP software programs
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) - Find leaking classes that you never use... and get rid of them.
 - [mnapoli/hard-mode](https://github.com/mnapoli/hard-mode) - PHP hard mode
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binary on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-c
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [IngeniozIT/php-skeleton](https://github.com/IngeniozIT/php-skeleton) - A clean new PHP project
@@ -4569,7 +4574,7 @@
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
@@ -4586,7 +4591,7 @@
 
 ## privacy 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -4601,7 +4606,7 @@
 
 ## productivity 
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [alyssaxuu/later](https://github.com/alyssaxuu/later) - Save all your Mac apps for later with one click 🖱️
@@ -5087,7 +5092,7 @@
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 
@@ -5243,7 +5248,7 @@
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Sylius app skeleton
 - [symfony/polyfill-php82](https://github.com/symfony/polyfill-php82) - Symfony polyfill backporting some PHP 8.2+ features to lower PHP versions
 - [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification
@@ -5272,7 +5277,7 @@
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [symfony/sms77-notifier](https://github.com/symfony/sms77-notifier) - Symfony sms77 Notifier Bridge
 - [FlorianLeMenn/Symfony-chat-mercure-poc](https://github.com/FlorianLeMenn/Symfony-chat-mercure-poc) - POC chat avec Mercure et Symfony
-- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - :santa: The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
+- [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - 🎅 The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
 - [symfony/smsc-notifier](https://github.com/symfony/smsc-notifier) - Symfony SMSC Notifier Bridge
 - [certificationy/certificationy-cli](https://github.com/certificationy/certificationy-cli) - The CLI tool to train certifications
 - [symfony/mailjet-notifier](https://github.com/symfony/mailjet-notifier) - Symfony Mailjet Notifier Bridge
@@ -5543,6 +5548,7 @@
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - Symfony extension for PHPStan
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+- [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library
@@ -5565,12 +5571,12 @@
 
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
-- [ente-io/ente](https://github.com/ente-io/ente) - ✨ End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -5727,7 +5733,7 @@
 
 ## vuejs 
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [dunglas/symfonycon-lisbon](https://github.com/dunglas/symfonycon-lisbon) - A joind.in clone built with Symfony 4 and Vue.js
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
