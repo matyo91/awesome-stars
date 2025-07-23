@@ -530,7 +530,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
+- [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -553,7 +553,6 @@
 ## HCL 
 
 - [cirruslabs/macos-image-templates](https://github.com/cirruslabs/macos-image-templates) - 
-- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 
 ## HTML 
 
@@ -564,7 +563,7 @@
 - [f2r/f2r.github.io](https://github.com/f2r/f2r.github.io) - 
 - [keithamus/i-html](https://github.com/keithamus/i-html) - 
 - [bastnic/dette-technique-le-livre](https://github.com/bastnic/dette-technique-le-livre) - 
-- [simonw/tools](https://github.com/simonw/tools) - Assorted tools
+- [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
 - [jrohitofficial/Link](https://github.com/jrohitofficial/Link) - 
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [ponceto/aym-js](https://github.com/ponceto/aym-js) - AYM·JS a AY-3-8910 & YM2149 sound chip emulator written in JavaScript [this repository is a mirror]
@@ -678,6 +677,7 @@
 
 ## JavaScript 
 
+- [MathieuGaudron/Puissance_4](https://github.com/MathieuGaudron/Puissance_4) - 
 - [discord/getting-started-activity](https://github.com/discord/getting-started-activity) - This template is used in the Building An Activity tutorial in the Discord Developer Docs.
 - [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [ai-driven-dev/prompts](https://github.com/ai-driven-dev/prompts) - 
@@ -983,7 +983,7 @@
 - [darkwood-com/darkwood-app](https://github.com/darkwood-com/darkwood-app) - Darkwood native application
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [chirashijs/chirashi](https://github.com/chirashijs/chirashi) - Fast, modular, lightweight and simple DOM and events manipulation
-- [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+- [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
@@ -1380,7 +1380,7 @@
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 - [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - :link: [Deprecated] Adapter to provide ext-mongo interface on top of mongo-php-library
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
-- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit to build customizable, production-ready Agentic applications. Connect components (models, vector DBs, file converters) to workflows or agents that can interact with your 
 - [Setono/SyliusSchedulerPlugin](https://github.com/Setono/SyliusSchedulerPlugin) - 
 - [php-llm/mcp-bundle](https://github.com/php-llm/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via php-llm/mcp-sdk)
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
@@ -2642,6 +2642,7 @@
 - [conference-hall/conference-hall](https://github.com/conference-hall/conference-hall) - Open SaaS platform to manage CFPs
 - [matklad/matklad.github.io](https://github.com/matklad/matklad.github.io) - My coding related blog
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [alpsify/lychen](https://github.com/alpsify/lychen) - 🌱 Environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
@@ -2674,7 +2675,7 @@
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
@@ -2798,6 +2799,7 @@
 - [uniflow-io/uniflow](https://github.com/uniflow-io/uniflow) - Open fair-code distributed Flow based Workflow Automation Tool.
 - [danilowoz/I-don-t-know-how-to-name-my-function](https://github.com/danilowoz/I-don-t-know-how-to-name-my-function) - 🤔  Development can be more challenging than you think. It is not about algorithms or data structures, but about naming functions and variables!
 - [edbentley/replay](https://github.com/edbentley/replay) - A cross-platform JS game engine inspired by React
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
@@ -2916,7 +2918,6 @@
 ## Vue 
 
 - [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
-- [alpsify/lychen](https://github.com/alpsify/lychen) - 🌱 Environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory
 - [Kalaxia/game-front](https://github.com/Kalaxia/game-front) - VueJS + Nuxt SPA for Kalaxia game
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
