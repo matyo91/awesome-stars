@@ -665,7 +665,7 @@
 - [airbnb/native-navigation](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [JetBrains/phpstorm-phpstan-plugin](https://github.com/JetBrains/phpstorm-phpstan-plugin) - PHPStan plugin for PhpStorm
 - [yuyakaido/CardStackView](https://github.com/yuyakaido/CardStackView) - 📱Tinder like swipeable card view for Android
-- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [clojure/clojure](https://github.com/clojure/clojure) - The Clojure programming language
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [Deep-Symmetry/crate-digger](https://github.com/Deep-Symmetry/crate-digger) - Java library for fetching and parsing rekordbox exports and track analysis files.
