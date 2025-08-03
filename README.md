@@ -1341,6 +1341,7 @@
 
 ## PHP 
 
+- [Guiziweb/redmine-mcp](https://github.com/Guiziweb/redmine-mcp) - 
 - [EdouardCourty/mcp-server-bundle](https://github.com/EdouardCourty/mcp-server-bundle) - A Symfony Bundle to create MCP servers
 - [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - 
 - [symfony/ai](https://github.com/symfony/ai) - 
@@ -2510,6 +2511,7 @@
 
 ## Shell 
 
+- [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
