@@ -340,6 +340,7 @@
 - [Sylius/docker-images](https://github.com/Sylius/docker-images) - Ready to use base Docker images for Sylius projects.
 - [OskarStark/php-cs-fixer-ga](https://github.com/OskarStark/php-cs-fixer-ga) - GithubAction for PHP-CS-Fixer
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
+- [IngeniozIT/php-skeleton](https://github.com/IngeniozIT/php-skeleton) - A clean new PHP project
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
@@ -429,11 +430,12 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
@@ -713,7 +715,6 @@
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [slack-samples/bolt-js-starter-template](https://github.com/slack-samples/bolt-js-starter-template) - A template for building Slack apps with Bolt for JavaScript
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lupyuen/nuttx-ox64](https://github.com/lupyuen/nuttx-ox64) - Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -1149,7 +1150,7 @@
 - [mieslep/insight-sync](https://github.com/mieslep/insight-sync) - InsightSync - An AI-powered communication assistant that monitors and analyzes messages across multiple channels
 - [php-llm/ecosystem](https://github.com/php-llm/ecosystem) - A list of AI & LLM frameworks and libraries in PHP
 - [garyblankenship/mcp-php](https://github.com/garyblankenship/mcp-php) - model context protocol or mcp for php laravel
-- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Public bugreports for anything ppa:ondrej/*
+- [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Migrated to https://codeberg.org/oerdnj/deb.sury.org
 - [acantarero/generate_service](https://github.com/acantarero/generate_service) - 
 - [acantarero/site-crawler](https://github.com/acantarero/site-crawler) - 
 - [AdryBailly/job-board-php](https://github.com/AdryBailly/job-board-php) - 
@@ -1250,6 +1251,7 @@
 - [priximmo/sommaire-xavki-devops-fr](https://github.com/priximmo/sommaire-xavki-devops-fr) - 
 - [codacy/tools-for-code-review-engineers](https://github.com/codacy/tools-for-code-review-engineers) - A list of tools to improve the git workflow for code review engineers.
 - [steeve/france.code-civil](https://github.com/steeve/france.code-civil) - Le code civil français sous git
+- [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -1382,7 +1384,7 @@
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 - [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - :link: [Deprecated] Adapter to provide ext-mongo interface on top of mongo-php-library
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
-- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit to build customizable, production-ready Agentic applications. Connect components (models, vector DBs, file converters) to workflows or agents that can interact with your 
+- [inspector-apm/neuron-ai](https://github.com/inspector-apm/neuron-ai) - The PHP Agent Development Kit to build production-ready Agentic applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it
 - [Setono/SyliusSchedulerPlugin](https://github.com/Setono/SyliusSchedulerPlugin) - 
 - [php-llm/mcp-bundle](https://github.com/php-llm/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via php-llm/mcp-sdk)
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
@@ -1400,6 +1402,7 @@
 - [staabm/side-effects-detector](https://github.com/staabm/side-effects-detector) - Analyzes php-code for side-effects.
 - [spatie/error-solutions](https://github.com/spatie/error-solutions) - Solutions for your PHP and Laravel errors
 - [symfony/polyfill-php82](https://github.com/symfony/polyfill-php82) - Symfony polyfill backporting some PHP 8.2+ features to lower PHP versions
+- [alpsify/lychen](https://github.com/alpsify/lychen) - 🌱 Environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory
 - [craue/CraueFormFlowBundle](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms for your Symfony project.
 - [amphp/parallel](https://github.com/amphp/parallel) - An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.
 - [jakubledl/dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis written in pure PHP.
@@ -1499,7 +1502,6 @@
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-c
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another!
-- [IngeniozIT/php-skeleton](https://github.com/IngeniozIT/php-skeleton) - A clean new PHP project
 - [mcaskill/composer-plugin-exclude-files](https://github.com/mcaskill/composer-plugin-exclude-files) - 📦 Composer plugin to exclude files required by packages using the 'files' autoloading mechanism.
 - [symplely/coroutine](https://github.com/symplely/coroutine) - Cooperative multitasking using generators. The basics of coroutines, async and await!
 - [pi0/osticket-docker](https://github.com/pi0/osticket-docker) - osTicket Docker Image (unofficial)
@@ -2151,6 +2153,7 @@
 
 ## Python 
 
+- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [AI-Phil/KineticConstructs](https://github.com/AI-Phil/KineticConstructs) - A fake company with a Product Catalog application
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
@@ -2758,7 +2761,6 @@
 - [flowbased/fbp-graph](https://github.com/flowbased/fbp-graph) - FBP graph library for JavaScript
 - [formium/formium](https://github.com/formium/formium) - The headless form builder for the modern web.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -2921,7 +2923,6 @@
 ## Vue 
 
 - [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
-- [alpsify/lychen](https://github.com/alpsify/lychen) - 🌱 Environmental and agricultural symbiosis platform aiming to connect diverse actors across the local territory
 - [Kalaxia/game-front](https://github.com/Kalaxia/game-front) - VueJS + Nuxt SPA for Kalaxia game
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
