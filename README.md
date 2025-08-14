@@ -189,7 +189,7 @@
 - [gregstein/AoE2Tools](https://github.com/gregstein/AoE2Tools) - A lightweight program that lets you easily play your Steam version of Age of Empires 2 HD in Voobly format. In addition to Mega Utilities
 - [brihernandez/TinyXWingClean](https://github.com/brihernandez/TinyXWingClean) - Tech demo for testing JSON-loaded game data
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
-- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
+- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## C++ 
 
@@ -1019,7 +1019,7 @@
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [camenduru/stable-video-diffusion-colab](https://github.com/camenduru/stable-video-diffusion-colab) - 
 - [ESA-PhiLab/Major-TOM](https://github.com/ESA-PhiLab/Major-TOM) - Expandable Datasets for Earth Observation
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [scienceetonnante/grokking](https://github.com/scienceetonnante/grokking) - Demonstration of the grokking phenomenon in machine learning in a simple case
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -2681,7 +2681,7 @@
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
