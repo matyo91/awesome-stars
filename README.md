@@ -1015,6 +1015,7 @@
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [datastaxdevs/build_accurate_ai_langflow_arize](https://github.com/datastaxdevs/build_accurate_ai_langflow_arize) - Flows, code and datasets for Livestream "Build More Accurate AI Apps with Langflow + Arize"
 - [tweag/monad-bayes](https://github.com/tweag/monad-bayes) - A library for probabilistic programming in Haskell.
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
@@ -1346,6 +1347,7 @@
 
 ## PHP 
 
+- [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
 - [Guiziweb/redmine-mcp](https://github.com/Guiziweb/redmine-mcp) - 
 - [EdouardCourty/mcp-server-bundle](https://github.com/EdouardCourty/mcp-server-bundle) - A Symfony Bundle to create MCP servers
@@ -2195,7 +2197,6 @@
 - [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 - [BurnySc2/python-sc2](https://github.com/BurnySc2/python-sc2) - A StarCraft II bot api client library for Python 3
 - [Vers-AI/versusai-sc2-bot-template](https://github.com/Vers-AI/versusai-sc2-bot-template) - A simple python StarCraft 2 Bot Template that uses the Python-SC2 framework
-- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -2520,6 +2521,7 @@
 
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
+- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
 - [superfly/fly-log-shipper](https://github.com/superfly/fly-log-shipper) - Ship logs from fly to other providers
@@ -2952,7 +2954,6 @@
 ## Zig 
 
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
-- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) - LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
