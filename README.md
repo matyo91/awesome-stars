@@ -2160,6 +2160,7 @@
 
 ## Python 
 
+- [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
 - [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [AI-Phil/KineticConstructs](https://github.com/AI-Phil/KineticConstructs) - A fake company with a Product Catalog application
