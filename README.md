@@ -376,6 +376,7 @@
 
 ## F# # 
 
+- [echatav/Dojo-Canopy-2048](https://github.com/echatav/Dojo-Canopy-2048) - Create a simple bot to play the game "2048", using the web testing framework Canopy!
 - [glutinum-org/cli](https://github.com/glutinum-org/cli) - 
 - [fable-compiler/Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, Python, Rust and Dart Compiler
 
@@ -632,6 +633,10 @@
 
 ## Haskell 
 
+- [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
+- [Gabriella439/Haskell-Total-Library](https://github.com/Gabriella439/Haskell-Total-Library) - Exhaustive pattern matching using lenses, traversals, and prisms
+- [echatav/Haskell-Total-Library](https://github.com/echatav/Haskell-Total-Library) - Exhaustive pattern matching using lenses, traversals, and prisms
+- [morphismtech/distributors](https://github.com/morphismtech/distributors) - Distributors - Unifying Parsers, Printers & Grammars
 - [tromp/AIT](https://github.com/tromp/AIT) - Algorithmic Information Theory, using Binary Lambda Calculus
 - [facet-lang/facet](https://github.com/facet-lang/facet) - a functional programming language with algebraic effects and handlers
 - [philipschwarz/code-kata-game-of-life-haskell](https://github.com/philipschwarz/code-kata-game-of-life-haskell) - 
@@ -2681,7 +2686,7 @@
 - [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
