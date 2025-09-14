@@ -288,6 +288,8 @@
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The Operating System for Agents
+- [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [ai-driven-dev/agents](https://github.com/ai-driven-dev/agents) - 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
@@ -307,6 +309,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -749,6 +752,7 @@
 
 ## cli 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [datastax/astra-cli](https://github.com/datastax/astra-cli) - Command Line Interface for DataStax Astra
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -2453,6 +2457,7 @@
 
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The Operating System for Agents
+- [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [shiragannavar/Testing-RAG](https://github.com/shiragannavar/Testing-RAG) - 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
@@ -2963,6 +2968,9 @@
 
 ## others 
 
+- [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
+- [saasykit/laravel-open-graphy](https://github.com/saasykit/laravel-open-graphy) - An awesome open graph (social cards) image generator package for Laravel.
+- [langchain-ai/langchain-community](https://github.com/langchain-ai/langchain-community) - Community-maintained LangChain integrations
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [Gabriella439/Haskell-Total-Library](https://github.com/Gabriella439/Haskell-Total-Library) - Exhaustive pattern matching using lenses, traversals, and prisms
@@ -2984,8 +2992,6 @@
 - [EdouardCourty/mcp-server-bundle](https://github.com/EdouardCourty/mcp-server-bundle) - A Symfony Bundle to create MCP servers
 - [MathieuGaudron/Puissance_4](https://github.com/MathieuGaudron/Puissance_4) - 
 - [gxalpha/obs-mac-backgroundremoval](https://github.com/gxalpha/obs-mac-backgroundremoval) - Background removal plugin using macOS' system APIs
-- [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - 
-- [symfony/ai](https://github.com/symfony/ai) - 
 - [matyo91/php-pipe-operator](https://github.com/matyo91/php-pipe-operator) - 
 - [matyo91/cursor-slack-symfony](https://github.com/matyo91/cursor-slack-symfony) - 
 - [matyo91/cursor-slack](https://github.com/matyo91/cursor-slack) - 
@@ -4271,6 +4277,7 @@
 
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [Sylius/SyliusDemo](https://github.com/Sylius/SyliusDemo) - Official Sylius demo application.
 - [ADOdb/ADOdb](https://github.com/ADOdb/ADOdb) - ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch th
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
@@ -4756,6 +4763,7 @@
 
 ## python 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [datastax/astrapy](https://github.com/datastax/astrapy) - AstraPy is a Pythonic interface for DataStax Astra DB and the Data API
@@ -5355,6 +5363,8 @@
 
 ## symfony 
 
+- [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
+- [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin) - Sylius plugin to import / export data
 - [Sylius/SyliusDemo](https://github.com/Sylius/SyliusDemo) - Official Sylius demo application.
 - [zenstruck/foundry](https://github.com/zenstruck/foundry) - A model factory library for creating expressive, auto-completable, on-demand dev/test fixtures with Symfony and Doctrine.
