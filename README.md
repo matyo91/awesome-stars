@@ -54,7 +54,6 @@
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Odin](#odin)
-- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -487,6 +486,7 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [dunglas/calavera](https://github.com/dunglas/calavera) - A (static) Single Page Application generator using Markdown files
@@ -878,7 +878,6 @@
 - [flexbox/starter-express](https://github.com/flexbox/starter-express) - Starter project for using Remix with Express
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [monsieurluge/typing-test](https://github.com/monsieurluge/typing-test) - A distraction free and minimalistic typing test
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [dseguy/photo-famille-afup-2020](https://github.com/dseguy/photo-famille-afup-2020) - Photo de famille des elephpants, au forum AFUP 2020 (https://event.afup.org/forum-php-2020/)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
@@ -1087,7 +1086,7 @@
 ## MDX 
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [rauchg/blog](https://github.com/rauchg/blog) - 
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
@@ -1155,10 +1154,6 @@
 ## Odin 
 
 - [bones-ai/odin-mnist-nn](https://github.com/bones-ai/odin-mnist-nn) - A MNIST neural network written from scratch in Odin, visualised with Raylib
-
-## OpenSCAD 
-
-- [kumy/Automatic-Chicken-Coop-Door-Opener](https://github.com/kumy/Automatic-Chicken-Coop-Door-Opener) - Automatic Chicken Coop Door Opener with direct control button, a simple web interface with camera support and can be controlled via `MQTT` protocol.
 
 ## Others 
 
@@ -1362,6 +1357,7 @@
 
 ## PHP 
 
+- [bitExpert/phpstan-sylius](https://github.com/bitExpert/phpstan-sylius) - Sylius-specific extensions for PHPStan
 - [shipmonk-rnd/composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) - 🚀 Fast detection of composer dependency issues (unused dependencies, shadow dependencies, misplaced dependencies)
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
@@ -1520,7 +1516,7 @@
 - [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
 - [dseguy/changedBehavior](https://github.com/dseguy/changedBehavior) - Museum of change behaviors in PHP
 - [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
-- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
+- [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, FreeBSD, Windows, with PHP project together, with popular extensions included.
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-c
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [SymfonyCasts/micro-mapper](https://github.com/SymfonyCasts/micro-mapper) - A tiny, underwhelming data mapper for Symfony to map one object to another!
@@ -2225,7 +2221,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
@@ -2282,6 +2278,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [CosiNull/minesweeperBot](https://github.com/CosiNull/minesweeperBot) - Python bot destroys Google Minesweeper
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
+- [kumy/Automatic-Chicken-Coop-Door-Opener](https://github.com/kumy/Automatic-Chicken-Coop-Door-Opener) - Automatic Chicken Coop Door Opener with direct control button, a simple web interface with camera support and can be controlled via `MQTT` protocol.
 - [sebastianhaberey/ctax](https://github.com/sebastianhaberey/ctax) - Crypto currency tax calculator
 - [mikepound/mazesolving](https://github.com/mikepound/mazesolving) - A variety of algorithms to solve mazes from an input image
 - [tournesol-app/tournesol](https://github.com/tournesol-app/tournesol) - Free and open source code of the https://tournesol.app platform. Meet the community on Discord https://discord.gg/WvcSG55Bf3
@@ -2299,7 +2296,6 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
@@ -2871,6 +2867,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [fairnesscoop/permacoop](https://github.com/fairnesscoop/permacoop) - Open source and eco-designed ERP solution for worker-owned businesses.
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game
 - [ondras/qr](https://github.com/ondras/qr) - Generate QR code based on the Referer header
 - [flexbox/inspiration](https://github.com/flexbox/inspiration) - ⚛ Popular quotes from humans working in the web industry
