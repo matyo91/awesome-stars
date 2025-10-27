@@ -1529,7 +1529,7 @@
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
 - [spatie/ssh](https://github.com/spatie/ssh) - A lightweight package to execute commands over an SSH connection
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem — enabling you to write concis
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
 - [kpn13/generics-php](https://github.com/kpn13/generics-php) - This Repository contains some tests and use cases about generics.
@@ -2861,7 +2861,7 @@
 - [benjaminwaterlot/dactil.io](https://github.com/benjaminwaterlot/dactil.io) - Just started a keyboard performance tracking project!
 - [remix-run/starter-express](https://github.com/remix-run/starter-express) - Starter project for using Remix with Express
 - [Nikoms/eco-logic](https://github.com/Nikoms/eco-logic) - 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
 - [AppAndFlow/react-native-safe-area-context](https://github.com/AppAndFlow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
