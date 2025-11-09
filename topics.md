@@ -321,7 +321,7 @@
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
@@ -377,7 +377,7 @@
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
@@ -648,7 +648,6 @@
 
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [conduition/musig2](https://github.com/conduition/musig2) - Flexible Rust implementation of the MuSig2 multisignature protocol, compatible with Bitcoin.
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
@@ -785,7 +784,7 @@
 - [twitter/twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -1161,7 +1160,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -1810,7 +1809,7 @@
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cycle/database](https://github.com/cycle/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders
@@ -2521,7 +2520,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -2725,7 +2724,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -2944,7 +2943,7 @@
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -3029,6 +3028,8 @@
 
 ## others 
 
+- [jess-hammer/dual-grid-tilemap-system-godot](https://github.com/jess-hammer/dual-grid-tilemap-system-godot) - 
+- [HearthSim/SabberStone](https://github.com/HearthSim/SabberStone) - Just another Hearthstone Simulator in C# .Net Core, with some A.I. approaches!
 - [AlteisGroupe/hagreed-bundle](https://github.com/AlteisGroupe/hagreed-bundle) - Hagreed integration for Symfony – Easily manage user consents and cookies in your application, leveraging the Hagreed system.
 - [bitExpert/phpstan-sylius](https://github.com/bitExpert/phpstan-sylius) - Sylius-specific extensions for PHPStan
 - [matyo91/darkwaar](https://github.com/matyo91/darkwaar) - 
@@ -3045,10 +3046,10 @@
 - [morphismtech/distributors](https://github.com/morphismtech/distributors) - Distributors - Unifying Parsers, Printers & Grammars
 - [Puliczek/mcp-memory](https://github.com/Puliczek/mcp-memory) - 🔥🖥️ MCP Memory is a MCP Server that gives MCP Clients (Cursor, Claude, Windsurf and more) the ability to remember information about users (preferences, behaviors) across conversations.
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text server.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
 - [seanmorris/vrzno](https://github.com/seanmorris/vrzno) - C-lang PHP extension thats allows you to access javascript from PHP code that runs in the browser.
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
 - [Halleck45/ast-metrics](https://github.com/Halleck45/ast-metrics) - AST Metrics is a language-agnostic static code analyzer.
 - [julienlucas/julienlucas](https://github.com/julienlucas/julienlucas) - 
@@ -4121,7 +4122,7 @@
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [HackerPoet/Trackpad](https://github.com/HackerPoet/Trackpad) - Turns a Keyboard into a Trackpad
-- [google/blockly-games](https://github.com/google/blockly-games) - Games for tomorrow's programmers.
+- [maribethb/blockly-games](https://github.com/maribethb/blockly-games) - Games for tomorrow's programmers.
 - [jderusse/docker-gitsplit](https://github.com/jderusse/docker-gitsplit) - 
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
@@ -4225,7 +4226,7 @@
 - [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 - [sampart/BreadcrumbsBundle](https://github.com/sampart/BreadcrumbsBundle) - A small breadcrumbs bundle for Symfony
 - [VerbalExpressions/PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - PHP Regular expressions made easy
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
+- [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [rayfranco/bourgeon](https://github.com/rayfranco/bourgeon) - Bourgeon is an opinionated-featured VueJS 2.0 setup for Webpack
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
