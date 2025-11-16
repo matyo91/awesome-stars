@@ -3031,6 +3031,7 @@
 
 ## others 
 
+- [qdrant/one-person-unicorn-starter](https://github.com/qdrant/one-person-unicorn-starter) - Every self-running company needs memory. This repo helps you give your AI startup one—using Qdrant for fast, production-ready vector search. Fork it, index your data, and let your agents think with co
 - [jess-hammer/dual-grid-tilemap-system-godot](https://github.com/jess-hammer/dual-grid-tilemap-system-godot) - 
 - [HearthSim/SabberStone](https://github.com/HearthSim/SabberStone) - Just another Hearthstone Simulator in C# .Net Core, with some A.I. approaches!
 - [AlteisGroupe/hagreed-bundle](https://github.com/AlteisGroupe/hagreed-bundle) - Hagreed integration for Symfony – Easily manage user consents and cookies in your application, leveraging the Hagreed system.
