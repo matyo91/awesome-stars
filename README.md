@@ -2177,6 +2177,7 @@
 
 ## Python 
 
+- [qdrant/one-person-unicorn-starter](https://github.com/qdrant/one-person-unicorn-starter) - Every self-running company needs memory. This repo helps you give your AI startup one—using Qdrant for fast, production-ready vector search. Fork it, index your data, and let your agents think with co
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [webagent-cloud/webagent](https://github.com/webagent-cloud/webagent) - 🚀 Fast AI web browser agent to automate repetitive tasks
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
