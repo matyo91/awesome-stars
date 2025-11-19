@@ -304,7 +304,6 @@
 - [tylerprogramming/ai](https://github.com/tylerprogramming/ai) - This repository will have different projects using AutoGen and Tutorials
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [php-llm/llm-chain](https://github.com/php-llm/llm-chain) - PHP library for building LLM-based and AI-based features and applications.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -3031,6 +3030,7 @@
 
 ## others 
 
+- [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle) - Symfony Bundle for invoice and credit note management compliant with French legal regulations
 - [qdrant/one-person-unicorn-starter](https://github.com/qdrant/one-person-unicorn-starter) - Every self-running company needs memory. This repo helps you give your AI startup one—using Qdrant for fast, production-ready vector search. Fork it, index your data, and let your agents think with co
 - [jess-hammer/dual-grid-tilemap-system-godot](https://github.com/jess-hammer/dual-grid-tilemap-system-godot) - 
 - [HearthSim/SabberStone](https://github.com/HearthSim/SabberStone) - Just another Hearthstone Simulator in C# .Net Core, with some A.I. approaches!
@@ -3118,7 +3118,7 @@
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [theonemule/x86box-docker](https://github.com/theonemule/x86box-docker) - A container image for running x86box in a Docker container and streaming the results back to the browser.
 - [theonemule/qemu-docker](https://github.com/theonemule/qemu-docker) - Run VMs in a Docker Container and Connect To Them With a Browser!
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [Connor9994/LinkedIn-Follower-Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) - Automates the process of following accounts on LinkedIn
 - [jwage/phpamqplib-messenger](https://github.com/jwage/phpamqplib-messenger) - 
 - [Moeshra/personal_assistant](https://github.com/Moeshra/personal_assistant) - 
@@ -3224,7 +3224,7 @@
 - [OskarStark/OskarStark](https://github.com/OskarStark/OskarStark) - 
 - [pyrech/rag-ai-documentation](https://github.com/pyrech/rag-ai-documentation) - Just a POC
 - [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
 - [philipschwarz/code-kata-game-of-life-haskell](https://github.com/philipschwarz/code-kata-game-of-life-haskell) - 
 - [kambo-1st/langchain-php](https://github.com/kambo-1st/langchain-php) - ⚡ Building applications with LLMs through composability in PHP ⚡
 - [carlini/js13k2019-yet-another-doom-clone](https://github.com/carlini/js13k2019-yet-another-doom-clone) - Yet another doom clone (in 13kb of JavaScript)
@@ -4342,6 +4342,7 @@
 
 ## php 
 
+- [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
@@ -5454,6 +5455,7 @@
 
 ## symfony 
 
+- [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin) - Sylius plugin to import / export data
