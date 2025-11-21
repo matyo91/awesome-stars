@@ -488,7 +488,6 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [dunglas/calavera](https://github.com/dunglas/calavera) - A (static) Single Page Application generator using Markdown files
@@ -1360,6 +1359,7 @@
 
 ## PHP 
 
+- [maxbeckers/php-yaml-parser](https://github.com/maxbeckers/php-yaml-parser) - A PHP implementation of a YAML parser.
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle) - Symfony Bundle for invoice and credit note management compliant with French legal regulations
 - [AlteisGroupe/hagreed-bundle](https://github.com/AlteisGroupe/hagreed-bundle) - Hagreed integration for Symfony – Easily manage user consents and cookies in your application, leveraging the Hagreed system.
@@ -2178,7 +2178,6 @@
 
 ## Python 
 
-- [qdrant/one-person-unicorn-starter](https://github.com/qdrant/one-person-unicorn-starter) - Every self-running company needs memory. This repo helps you give your AI startup one—using Qdrant for fast, production-ready vector search. Fork it, index your data, and let your agents think with co
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [webagent-cloud/webagent](https://github.com/webagent-cloud/webagent) - 🚀 Fast AI web browser agent to automate repetitive tasks
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
@@ -2305,6 +2304,7 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
@@ -2549,6 +2549,7 @@
 ## Shell 
 
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
@@ -2680,7 +2681,6 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [imjoshin/imjosh.in](https://github.com/imjoshin/imjosh.in) - imjoshin's homepage built with Gatsby.
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
