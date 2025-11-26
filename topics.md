@@ -117,6 +117,7 @@
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -271,6 +272,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -292,6 +294,7 @@
 
 ## ai 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
@@ -1109,6 +1112,7 @@
 
 ## deep-learning 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -1770,6 +1774,13 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+
+## gui 
+
+- [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
+- [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
 ## hacking 
 
@@ -2979,6 +2990,7 @@
 
 ## openai 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
@@ -3383,7 +3395,7 @@
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
 - [CodinGame/SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
-- [iWaroz/HTML.JS](https://github.com/iWaroz/HTML.JS) - It's a javascript framework! However, you have to write frontend logic with HTML, and backend logic with HTML too. Have fun!
+- [Magmaya/HTML.JS](https://github.com/Magmaya/HTML.JS) - It's a javascript framework! However, you have to write frontend logic with HTML, and backend logic with HTML too. Have fun!
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator.
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
@@ -3486,7 +3498,6 @@
 - [Jazys/FrontOpenMVPBox](https://github.com/Jazys/FrontOpenMVPBox) - 
 - [matyo91/warship](https://github.com/matyo91/warship) - Wharship game
 - [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) - 
-- [RunOnFlux/fluxd](https://github.com/RunOnFlux/fluxd) - Flux Daemon
 - [harshil1712/oss-commit](https://github.com/harshil1712/oss-commit) - Track your open-source contributions
 - [symfony-cli/console](https://github.com/symfony-cli/console) - 
 - [symfony-cli/terminal](https://github.com/symfony-cli/terminal) - 
@@ -4852,6 +4863,7 @@
 
 ## python 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
@@ -4921,6 +4933,7 @@
 
 ## python3 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
 - [vietnh1009/Photomosaic-generator](https://github.com/vietnh1009/Photomosaic-generator) - photomosaic generator (image to image, video to video)
 - [sebastianhaberey/ctax](https://github.com/sebastianhaberey/ctax) - Crypto currency tax calculator
@@ -4930,6 +4943,7 @@
 
 ## pytorch 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -5118,6 +5132,7 @@
 
 ## reinforcement-learning 
 
+- [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
 - [tensorflow/agents](https://github.com/tensorflow/agents) - TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
@@ -6010,6 +6025,13 @@
 
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
+
+## web3 
+
+- [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
+- [RunOnFlux/fluxd](https://github.com/RunOnFlux/fluxd) - Flux Daemon
+- [RunOnFlux/flux](https://github.com/RunOnFlux/flux) - Flux, Your Gateway to a Decentralized World. https://home.runonflux.io https://api.runonflux.io https://docs.runonflux.io https://source.runonflux.io https://wiki.runonflux.io
+- [l3mpire/lemverse](https://github.com/l3mpire/lemverse) - The first-ever coworking metaverse
 
 ## webapp 
 
