@@ -11,6 +11,7 @@
 - [ajax](#ajax)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
+- [algorithms](#algorithms)
 - [amphp](#amphp)
 - [analytics](#analytics)
 - [android](#android)
@@ -46,6 +47,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -329,6 +331,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
@@ -365,6 +368,11 @@
 ## algorithmic-trading 
 
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+
+## algorithms 
+
+- [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
+- [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
 
 ## amphp 
 
@@ -887,6 +895,22 @@
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+
+## command-line 
+
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
+- [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
+- [php-toolkit/pflag](https://github.com/php-toolkit/pflag) - Generic PHP command line flags parse library.
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [Arthelon/imgclip](https://github.com/Arthelon/imgclip) - Command line utility that extracts text from an image into the system clipboard.
 
 ## compiler 
 
@@ -2046,6 +2070,7 @@
 - [jolicode/asynit](https://github.com/jolicode/asynit) - :stars: Asynchronous HTTP Request Testing Library for API or more...
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -3227,7 +3252,6 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [Jeckel-Lab/etl](https://github.com/Jeckel-Lab/etl) - ETL (Extract - Transform - Load) pattern implementation
 - [zwometer/Godot4MultiplayerMVP](https://github.com/zwometer/Godot4MultiplayerMVP) - A minimal working prototype for Godot 4 multiplayer using ENetMultiplayerPeer.
-- [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 - [krakjoe/parallel](https://github.com/krakjoe/parallel) - A succinct parallel concurrency API for PHP8
 - [phpgl/visu](https://github.com/phpgl/visu) - A PHP Game Engine as a Modern OpenGL Component Framework.
 - [lyrixx/db-to-rabbitmq-to-messenger](https://github.com/lyrixx/db-to-rabbitmq-to-messenger) - Record DB changes to RabbitMQ, and then process them with Symfony Messenger
@@ -3599,7 +3623,7 @@
 - [WebAssembly/interface-types](https://github.com/WebAssembly/interface-types) - 
 - [b-viguier/php-ncurses](https://github.com/b-viguier/php-ncurses) - 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager [maintainer=LOOKING FOR A MAINTAINER! SUBMIT A PULL REQUEST TO THE INFRASTRUCTURE REPOSITORY!]
+- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager [maintainer=@Rusydy]
 - [doctrine/deprecations](https://github.com/doctrine/deprecations) - Thin library around different deprecation strategies
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
@@ -3608,7 +3632,6 @@
 - [wasdk/WasmFiddle](https://github.com/wasdk/WasmFiddle) - WebAssembly Fiddle
 - [wasmCloud/wascc-host](https://github.com/wasmCloud/wascc-host) - Library for hosting actors and capability providers in a host process
 - [WebAssembly/meetings](https://github.com/WebAssembly/meetings) - WebAssembly meetings (VC or in-person), agendas, and notes
-- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [BedrockStreaming/RateLimitBundle](https://github.com/BedrockStreaming/RateLimitBundle) - 
 - [dkwavetech/sflive-bundle-outils](https://github.com/dkwavetech/sflive-bundle-outils) - symfony live 2019 - meilleurs bundles et outils
