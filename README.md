@@ -757,7 +757,7 @@
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [andrew/first-pr](https://github.com/andrew/first-pr) - :octocat: What was the first pull request you sent on GitHub?
+- [andrew/first-pr](https://github.com/andrew/first-pr) - What was the first pull request you sent on GitHub?
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [PamelaRondina/step-by-step](https://github.com/PamelaRondina/step-by-step) - Repositórios com o passo a passo do que venho aprendendo + Readme Profile: consiste em um passo a passo de inclusão de cabeçalho, ícones de linguagens, softwares, imagens e emojis.
