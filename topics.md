@@ -3079,6 +3079,7 @@
 
 ## others 
 
+- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
 - [maxbeckers/php-yaml-parser](https://github.com/maxbeckers/php-yaml-parser) - A PHP implementation of a YAML parser.
 - [CorentinBoutillier/invoice-bundle](https://github.com/CorentinBoutillier/invoice-bundle) - Symfony Bundle for invoice and credit note management compliant with French legal regulations
 - [jess-hammer/dual-grid-tilemap-system-godot](https://github.com/jess-hammer/dual-grid-tilemap-system-godot) - 
