@@ -722,7 +722,6 @@
 - [carlini/js13k2019-yet-another-doom-clone](https://github.com/carlini/js13k2019-yet-another-doom-clone) - Yet another doom clone (in 13kb of JavaScript)
 - [ninsuo/twigfiddle](https://github.com/ninsuo/twigfiddle) - twigfiddle.com provides a small development environment to develop, run, store and access Twig code online.
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [codeguy/modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 - [Trismegiste/WamBundle](https://github.com/Trismegiste/WamBundle) - Warren Abstract Machine - A embedded Prolog compiler and virtual machine for PHP standalone and Symfony 2.3
@@ -2868,7 +2867,6 @@
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
@@ -2975,6 +2973,7 @@
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
 - [Kalaxia/game-front](https://github.com/Kalaxia/game-front) - VueJS + Nuxt SPA for Kalaxia game
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [stevebauman/showcode](https://github.com/stevebauman/showcode) - Create beautiful images of code.
 - [one-click-studio/gabin](https://github.com/one-click-studio/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
