@@ -477,7 +477,6 @@
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [Los-Crackitos/Excelante](https://github.com/Los-Crackitos/Excelante) - Excelante is an API used to read and write Excel files through HTTP requests
 - [api-platform/api-doc-parser](https://github.com/api-platform/api-doc-parser) - Transforms a Hydra API doc in an intermediate representation that can be used for various tasks such as creating smart API clients, scaffolding code or building administration interfaces.
@@ -524,7 +523,7 @@
 - [flows-network/flows-connector](https://github.com/flows-network/flows-connector) - The SaaS connectors that flows.network supported
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [kxxt/chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
@@ -635,7 +634,6 @@
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 
 ## bash 
 
@@ -1192,6 +1190,7 @@
 
 ## design 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
@@ -1235,7 +1234,7 @@
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [run-x/opta](https://github.com/run-x/opta) - The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
@@ -1446,7 +1445,6 @@
 - [arb/celebrate](https://github.com/arb/celebrate) - A joi validation middleware for Express.
 - [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -1892,7 +1890,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
 - [gitonomy/gitlib](https://github.com/gitonomy/gitlib) - Library for accessing Git repositories with PHP
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -2183,7 +2181,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [objectionary/eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [jpaulm/javafbp](https://github.com/jpaulm/javafbp) - Java Implementation of Flow-Based Programming (FBP)
@@ -2200,6 +2198,7 @@
 
 ## javascript 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [julienlucas/codingame-puzzles](https://github.com/julienlucas/codingame-puzzles) - Solutions for CodinGame puzzles in JavaScript
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -2610,7 +2609,7 @@
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -2887,6 +2886,7 @@
 
 ## no-code 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
@@ -2919,6 +2919,7 @@
 
 ## nodejs 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [apache/cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
@@ -2946,7 +2947,6 @@
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
 - [fairnesscoop/permacoop](https://github.com/fairnesscoop/permacoop) - Open source and eco-designed ERP solution for worker-owned businesses.
@@ -5920,7 +5920,6 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
 - [bymi15/express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) - Boilerplate code to get started with building RESTful API Services (Express, TypeORM MongoDB stack)
-- [aionic-org/aionic-core](https://github.com/aionic-org/aionic-core) - The core API required for all other Aionic applications
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [restyjs/resty](https://github.com/restyjs/resty) - A Node.js framework
 - [satishbabariya/nodejs-boilerplate](https://github.com/satishbabariya/nodejs-boilerplate) - Clean Architecture for node.js projects (Typescript + Express + TypeORM + Typedi)
