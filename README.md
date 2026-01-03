@@ -2534,7 +2534,7 @@
 
 - [viebel/kids.klipse.tech](https://github.com/viebel/kids.klipse.tech) - An interactive functional programming course for children based on clojure and klipse
 - [l-vo/slideshow-form](https://github.com/l-vo/slideshow-form) - Presentation at the Symfony Live french edition 2021
-- [sst/guide](https://github.com/sst/guide) - Repo for guide.sst.dev
+- [anomalyco/guide](https://github.com/anomalyco/guide) - Repo for guide.sst.dev
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
@@ -2829,7 +2829,7 @@
 - [BearStudio/formiz](https://github.com/BearStudio/formiz) - 🐜   React forms with ease! Composable, headless & with built-in multi steps
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v2
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [intuit/design-systems-cli](https://github.com/intuit/design-systems-cli) - A CLI toolbox for creating design systems.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
