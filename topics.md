@@ -608,7 +608,7 @@
 - [MatteoGioioso/serverless-pg](https://github.com/MatteoGioioso/serverless-pg) - A package for managing PostgreSQL connections at SERVERLESS scale
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [aramalipoor/aws-cost-saver](https://github.com/aramalipoor/aws-cost-saver) - A tiny CLI tool to help save costs in development environments when you're asleep and don't need them!
-- [sst/guide](https://github.com/sst/guide) - Repo for guide.sst.dev
+- [anomalyco/guide](https://github.com/anomalyco/guide) - Repo for guide.sst.dev
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [lufzle/chromda](https://github.com/lufzle/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -3715,7 +3715,7 @@
 - [jamesmoriarty/cfn-cheapest-nat](https://github.com/jamesmoriarty/cfn-cheapest-nat) - Cheapest AWS VPC NAT.
 - [SimpleBus/SimpleBus](https://github.com/SimpleBus/SimpleBus) - Main repository of SimpleBus
 - [typelevel/cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
-- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [zairigimad/messagebird](https://github.com/zairigimad/messagebird) - MessageBird Symfony Notifier Bridge
 - [sebastianbergmann/version](https://github.com/sebastianbergmann/version) - Library that helps with managing the version number of Git-hosted PHP projects
 - [sebastianbergmann/type](https://github.com/sebastianbergmann/type) - Collection of value objects that represent the types of the PHP type system
@@ -5198,7 +5198,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [open-source-labs/Reactime](https://github.com/open-source-labs/Reactime) - Developer tool for time travel debugging and performance monitoring in React applications.
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
-- [sst/guide](https://github.com/sst/guide) - Repo for guide.sst.dev
+- [anomalyco/guide](https://github.com/anomalyco/guide) - Repo for guide.sst.dev
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 
@@ -5439,7 +5439,7 @@
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [netlify/next-on-netlify](https://github.com/netlify/next-on-netlify) - Build and deploy Next.js applications with Server-Side Rendering on Netlify!
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
-- [sst/guide](https://github.com/sst/guide) - Repo for guide.sst.dev
+- [anomalyco/guide](https://github.com/anomalyco/guide) - Repo for guide.sst.dev
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [lufzle/chromda](https://github.com/lufzle/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
