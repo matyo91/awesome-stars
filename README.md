@@ -1269,7 +1269,7 @@
 - [priximmo/sommaire-xavki-devops-fr](https://github.com/priximmo/sommaire-xavki-devops-fr) - 
 - [codacy/tools-for-code-review-engineers](https://github.com/codacy/tools-for-code-review-engineers) - A list of tools to improve the git workflow for code review engineers.
 - [steeve/france.code-civil](https://github.com/steeve/france.code-civil) - Le code civil français sous git
-- [pixlie/dwata](https://github.com/pixlie/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
+- [brainless/dwata](https://github.com/brainless/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
