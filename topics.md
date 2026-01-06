@@ -3376,7 +3376,7 @@
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner
 - [parmentf/node-sentence-tokenizer](https://github.com/parmentf/node-sentence-tokenizer) - Tokenize paragraphs into sentences, and smaller tokens.
-- [dvlab-research/ControlNeXt](https://github.com/dvlab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA
+- [JIA-Lab-research/ControlNeXt](https://github.com/JIA-Lab-research/ControlNeXt) - Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA
 - [clementtalleu/php-redis-om](https://github.com/clementtalleu/php-redis-om) - A PHP object mapper for redis
 - [mitsuhiko/teetty](https://github.com/mitsuhiko/teetty) - A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process
 - [cowchimp/chunk-scatter](https://github.com/cowchimp/chunk-scatter) - Analyze and visualize HTTP responses that use chunked encoding
