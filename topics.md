@@ -569,7 +569,7 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 
@@ -593,7 +593,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1360,7 +1360,7 @@
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [mortbopet/Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 
 ## electron 
@@ -1673,7 +1673,7 @@
 - [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profil
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
 - [lauthieb/code-notes](https://github.com/lauthieb/code-notes) - (No longer maintained) A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
@@ -2422,7 +2422,7 @@
 
 ## julia 
 
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 
 ## jupyter-notebook 
 
@@ -6068,7 +6068,7 @@
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
+- [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
