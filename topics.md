@@ -420,7 +420,7 @@
 
 ## android 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) - 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -1269,6 +1269,7 @@
 
 ## docker 
 
+- [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1490,7 +1491,7 @@
 
 ## flutter 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -1751,7 +1752,7 @@
 ## golang 
 
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -1929,7 +1930,7 @@
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [jolicode/JoliTypo](https://github.com/jolicode/JoliTypo) - 🔤 Microtypography fixer for the web
 - [chrome-php/chrome](https://github.com/chrome-php/chrome) - Instrument headless chrome/chromium instances from PHP
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 Beastudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 B
@@ -2021,7 +2022,6 @@
 - [Jean85/pretty-package-versions](https://github.com/Jean85/pretty-package-versions) - A small, independent wrapper to get pretty versions strings
 - [doctrine/persistence](https://github.com/doctrine/persistence) - The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 - [doctrine/data-fixtures](https://github.com/doctrine/data-fixtures) - Doctrine2 ORM Data Fixtures Extensions
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser
 - [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
@@ -2152,7 +2152,7 @@
 ## ios 
 
 - [apache/cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -2183,6 +2183,7 @@
 
 ## java 
 
+- [blacktop/docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
@@ -2623,7 +2624,7 @@
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2923,7 +2924,7 @@
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [saltcorn/saltcorn](https://github.com/saltcorn/saltcorn) - Free and open source no-code application builder
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -3129,6 +3130,14 @@
 
 ## others 
 
+- [matyo91/overtone](https://github.com/matyo91/overtone) - Testing overtone
+- [matyo91/joplin-api](https://github.com/matyo91/joplin-api) - 
+- [matyo91/bleu-libellule](https://github.com/matyo91/bleu-libellule) - 
+- [matyo91/darkwaar4](https://github.com/matyo91/darkwaar4) - darkwaar4 Prototype
+- [matyo91/darkwaar3](https://github.com/matyo91/darkwaar3) - darkwaar3 Prototype
+- [matyo91/darkwaar2](https://github.com/matyo91/darkwaar2) - Darkwaar2 Prototype
+- [matyo91/darkwaar1](https://github.com/matyo91/darkwaar1) - Darkwaar1 Prototype
+- [RachelfTech/procedural-terrain-generation](https://github.com/RachelfTech/procedural-terrain-generation) - p5.js Perlin noise based terrain generation
 - [loophp/path-hasher](https://github.com/loophp/path-hasher) - Library to serialize a filesystem path
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
@@ -4854,7 +4863,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -4875,7 +4884,7 @@
 
 ## privacy 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
@@ -5240,7 +5249,7 @@
 ## rest-api 
 
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
 - [kogosoftwarellc/open-api](https://github.com/kogosoftwarellc/open-api) - A Monorepo of various packages to power OpenAPI in node
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
@@ -5520,7 +5529,7 @@
 - [cycle/database](https://github.com/cycle/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [doctrine/dbal](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
@@ -5921,7 +5930,7 @@
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
