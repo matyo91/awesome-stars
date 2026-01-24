@@ -1528,7 +1528,6 @@
 - [silexphp/Silex](https://github.com/silexphp/Silex) - [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
-- [symfony/serializer](https://github.com/symfony/serializer) - The Symfony PHP framework
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
@@ -4602,7 +4601,7 @@
 - [Guikingone/SchedulerBundle](https://github.com/Guikingone/SchedulerBundle) - Repetitive tasks as a breath in Symfony
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
 - [darkwood-com/flow](https://github.com/darkwood-com/flow) - 💧Flow
@@ -4746,7 +4745,7 @@
 - [symfony/swiftmailer-bundle](https://github.com/symfony/swiftmailer-bundle) - Symfony Swiftmailer Bundle
 - [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
 - [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
-- [symfony/serializer](https://github.com/symfony/serializer) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
 - [symfony/security-guard](https://github.com/symfony/security-guard) - Symfony Security Component - Guard
 - [symfony/security-csrf](https://github.com/symfony/security-csrf) - Symfony Security Component - CSRF Library
@@ -5427,7 +5426,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [uniflow-io/uniflow](https://github.com/uniflow-io/uniflow) - Open fair-code distributed Flow based Workflow Automation Tool.
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -5639,7 +5638,7 @@
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
 - [Guikingone/SchedulerBundle](https://github.com/Guikingone/SchedulerBundle) - Repetitive tasks as a breath in Symfony
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
 - [darkwood-com/flow](https://github.com/darkwood-com/flow) - 💧Flow
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony
@@ -5737,7 +5736,7 @@
 - [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
 - [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
 - [symfony/serializer-pack](https://github.com/symfony/serializer-pack) - A Symfony Pack for Symfony Serializer
-- [symfony/serializer](https://github.com/symfony/serializer) - The Symfony PHP framework
+- [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
 - [symfony/security-guard](https://github.com/symfony/security-guard) - Symfony Security Component - Guard
 - [symfony/security-csrf](https://github.com/symfony/security-csrf) - Symfony Security Component - CSRF Library
