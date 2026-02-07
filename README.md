@@ -2218,7 +2218,7 @@
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
 - [anticorrelator/grumpy](https://github.com/anticorrelator/grumpy) - 
 - [anticorrelator/game_of_life](https://github.com/anticorrelator/game_of_life) - 
-- [Arize-ai/client_python](https://github.com/Arize-ai/client_python) - A python library to send data to Arize AI!
+- [Arize-ai/client_python](https://github.com/Arize-ai/client_python) - A Python client to interact with Arize API
 - [acantarero/embedding_service](https://github.com/acantarero/embedding_service) - FastAPI service to generate text embeddings.  Currently supports instructor models and has GPU support.
 - [acantarero/news-server](https://github.com/acantarero/news-server) - 
 - [acantarero/wikipedia_demo](https://github.com/acantarero/wikipedia_demo) - Real-time document Q&A using Pulsar, Cassandra, and langchain
