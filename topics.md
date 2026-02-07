@@ -3210,7 +3210,7 @@
 - [anticorrelator/grumpy](https://github.com/anticorrelator/grumpy) - 
 - [anticorrelator/game_of_life](https://github.com/anticorrelator/game_of_life) - 
 - [anticorrelator/tictactoe](https://github.com/anticorrelator/tictactoe) - 
-- [Arize-ai/client_python](https://github.com/Arize-ai/client_python) - A python library to send data to Arize AI!
+- [Arize-ai/client_python](https://github.com/Arize-ai/client_python) - A Python client to interact with Arize API
 - [acantarero/embedding_service](https://github.com/acantarero/embedding_service) - FastAPI service to generate text embeddings.  Currently supports instructor models and has GPU support.
 - [acantarero/generate_service](https://github.com/acantarero/generate_service) - 
 - [acantarero/news-server](https://github.com/acantarero/news-server) - 
