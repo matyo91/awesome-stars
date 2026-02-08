@@ -599,7 +599,6 @@
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [jpaulm/jpaulm.github.io](https://github.com/jpaulm/jpaulm.github.io) - Personal repo for jpaulm
 - [afup/identity](https://github.com/afup/identity) - 
-- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [WebAssembly/meetings](https://github.com/WebAssembly/meetings) - WebAssembly meetings (VC or in-person), agendas, and notes
@@ -800,6 +799,7 @@
 - [l3mpire/lemverse](https://github.com/l3mpire/lemverse) - The first-ever coworking metaverse
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [jerosoler/Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library 🖥️🖱️
+- [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [jessicakuijer/react-portfolio](https://github.com/jessicakuijer/react-portfolio) - portfolio react version for jessicakuijer.com
 - [harshil1712/register-slash-command](https://github.com/harshil1712/register-slash-command) - Add Interactions Endpoint URL for your Discord slash command via CLI
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
@@ -1380,6 +1380,7 @@
 
 ## PHP 
 
+- [bitExpert/sylius-2fa](https://github.com/bitExpert/sylius-2fa) - Sylius 2FA plugin
 - [matyo91/joplin-api](https://github.com/matyo91/joplin-api) - 
 - [pentiminax/ux-datatables](https://github.com/pentiminax/ux-datatables) - UX DataTables is a Symfony bundle integrating the DataTables library in Symfony applications.
 - [loophp/path-hasher](https://github.com/loophp/path-hasher) - Library to serialize a filesystem path
@@ -2202,6 +2203,7 @@
 
 ## Python 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [alondmnt/joplin-mcp](https://github.com/alondmnt/joplin-mcp) - MCP server for the Joplin note taking app
 - [dweigend/joplin-mcp-server](https://github.com/dweigend/joplin-mcp-server) - A Model Context Protocol (MCP) Server for https://joplinapp.org/ that enables note access through the https://modelcontextprotocol.io. Perfect for integration with AI assistants like Claude.
 - [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
