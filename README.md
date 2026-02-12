@@ -433,7 +433,6 @@
 
 ## Gherkin 
 
-- [psalm/psalm-plugin-symfony](https://github.com/psalm/psalm-plugin-symfony) - Psalm Plugin for Symfony
 - [FriendsOfBehat/VariadicExtension](https://github.com/FriendsOfBehat/VariadicExtension) - 🍺 Extension adding variadic arguments support to Behat steps definitions
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) - :musical_score: Extension integrating Behat with Symfony.
 - [Behatch/contexts](https://github.com/Behatch/contexts) - Behat extension with most custom helper steps
@@ -1780,6 +1779,7 @@
 - [turanct/railway](https://github.com/turanct/railway) - :train: Railway Oriented Programming in PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group or team. https://github.com/nextcloud-releases/groupfolders
 - [schmittjoh/JMSJobQueueBundle](https://github.com/schmittjoh/JMSJobQueueBundle) - Run and Schedule Symfony Console Commands as Background Jobs
+- [psalm/psalm-plugin-symfony](https://github.com/psalm/psalm-plugin-symfony) - Psalm Plugin for Symfony
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) - A MySQL engine written in pure PHP
@@ -2834,7 +2834,7 @@
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [marmelab/ra-supabase](https://github.com/marmelab/ra-supabase) - Supabase adapter for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [evanpurkhiser/tooling-personal](https://github.com/evanpurkhiser/tooling-personal) - Software specific to my workflows
 - [flowbased/fbp-graph](https://github.com/flowbased/fbp-graph) - FBP graph library for JavaScript
 - [formium/formium](https://github.com/formium/formium) - The headless form builder for the modern web.
