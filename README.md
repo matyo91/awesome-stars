@@ -1377,6 +1377,7 @@
 
 ## PHP 
 
+- [darkwood-com/ia-exception-bundle](https://github.com/darkwood-com/ia-exception-bundle) - 🚨 Darkwood IA Exception Bundle for Symfony
 - [bitExpert/sylius-2fa](https://github.com/bitExpert/sylius-2fa) - Sylius 2FA plugin
 - [matyo91/joplin-api](https://github.com/matyo91/joplin-api) - 
 - [pentiminax/ux-datatables](https://github.com/pentiminax/ux-datatables) - UX DataTables is a Symfony bundle integrating the DataTables library in Symfony applications.
@@ -2678,7 +2679,6 @@
 
 ## Twig 
 
-- [darkwood-com/ia-exception-bundle](https://github.com/darkwood-com/ia-exception-bundle) - 🚨 Darkwood IA Exception Bundle for Symfony
 - [monsieurbiz/SyliusPluginMaker](https://github.com/monsieurbiz/SyliusPluginMaker) - Create a Sylius plugin with ease
 - [afsy/website](https://github.com/afsy/website) - 👩‍💻👨‍💻 afsy.fr website ✨
 - [Elao/elao_](https://github.com/Elao/elao_) - Elao website & blog
