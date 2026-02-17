@@ -2258,7 +2258,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build multi-agent systems that learn and improve with every interaction.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation
@@ -2697,7 +2697,7 @@
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [julienlucas/codingame-puzzles](https://github.com/julienlucas/codingame-puzzles) - Solutions for CodinGame puzzles in JavaScript
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
