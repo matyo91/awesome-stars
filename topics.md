@@ -823,6 +823,7 @@
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
@@ -1891,7 +1892,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [cycle/database](https://github.com/cycle/database) - Database Abstraction Layer, Schema Introspection, Schema Generation, Query Builders
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - Analyzes PHPStan baseline files and creates aggregated error trend-reports
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -2102,7 +2102,6 @@
 
 - [MAIF/otoroshi](https://github.com/MAIF/otoroshi) - Lightweight api management on top of a modern http reverse proxy
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [jolicode/asynit](https://github.com/jolicode/asynit) - :stars: Asynchronous HTTP Request Testing Library for API or more...
@@ -5320,7 +5319,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [obhq/obliteration](https://github.com/obhq/obliteration) - Experimental free and open-source PlayStation 4 kernel
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A MITM Proxy 🧑‍💻! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities. Learning Project.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [httpmock/httpmock](https://github.com/httpmock/httpmock) - HTTP mocking library for Rust
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -5932,6 +5931,7 @@
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
 - [curlpipe/ox](https://github.com/curlpipe/ox) - The simple but flexible text editor
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
