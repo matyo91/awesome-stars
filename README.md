@@ -258,6 +258,7 @@
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [HackerPoet/Trackpad](https://github.com/HackerPoet/Trackpad) - Turns a Keyboard into a Trackpad
 - [nathanlo99/wordblitz](https://github.com/nathanlo99/wordblitz) - Fast Word Blitz player with auto-clicker
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
@@ -496,6 +497,7 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [dunglas/calavera](https://github.com/dunglas/calavera) - A (static) Single Page Application generator using Markdown files
@@ -2331,7 +2333,6 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
@@ -2438,7 +2439,6 @@
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [cantino/twitter_to_csv](https://github.com/cantino/twitter_to_csv) - Dump the Twitter stream to JSON and CSV, then apply filters, reject non-English content, do sentiment analysis, and more.
 - [prontolabs/pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
