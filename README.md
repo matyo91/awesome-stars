@@ -2899,7 +2899,7 @@
 - [evanpurkhiser/prolink-connect](https://github.com/evanpurkhiser/prolink-connect) - A Typescript / JavaScript library that is able to talk to Pioneer PROLINK enabled DJ equipment
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
