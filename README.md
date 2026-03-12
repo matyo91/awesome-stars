@@ -497,6 +497,7 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [dunglas/calavera](https://github.com/dunglas/calavera) - A (static) Single Page Application generator using Markdown files
@@ -783,6 +784,7 @@
 - [glayzzle/php-parser](https://github.com/glayzzle/php-parser) - :herb: NodeJS PHP Parser - extract AST or tokens
 - [CodingTrain/Wave-Function-Collapse](https://github.com/CodingTrain/Wave-Function-Collapse) - 
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [sanctuary-js/sanctuary-maybe](https://github.com/sanctuary-js/sanctuary-maybe) - :rainbow: Fantasy Land -compliant Maybe type
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [Jazys/web3-initiation](https://github.com/Jazys/web3-initiation) - web3-initiation
@@ -2334,7 +2336,6 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
@@ -2804,7 +2805,6 @@
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [justinribeiro/lite-youtube](https://github.com/justinribeiro/lite-youtube) - The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed.
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
