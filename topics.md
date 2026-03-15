@@ -3180,7 +3180,7 @@
 - [echatav/Dojo-Canopy-2048](https://github.com/echatav/Dojo-Canopy-2048) - Create a simple bot to play the game "2048", using the web testing framework Canopy!
 - [morphismtech/distributors](https://github.com/morphismtech/distributors) - Distributors - Unifying Parsers, Printers & Grammars
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text model
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text models
 - [seanmorris/vrzno](https://github.com/seanmorris/vrzno) - C-lang PHP extension thats allows you to access javascript from PHP code that runs in the browser.
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
@@ -3755,7 +3755,7 @@
 - [l-vo/slideshow-form](https://github.com/l-vo/slideshow-form) - Presentation at the Symfony Live french edition 2021
 - [thecodingmachine/workadventure-php-community-map](https://github.com/thecodingmachine/workadventure-php-community-map) - A map for the PHP community on WorkAdventure
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) - :computer: Parallel testing for PHPUnit
-- [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v2
+- [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v3
 - [php/systems](https://github.com/php/systems) - Hooks and Cronjobs for PHP Infrastructure
 - [composer/metadata-minifier](https://github.com/composer/metadata-minifier) - Small utility library that handles metadata minification and expansion.
 - [jamesmoriarty/cfn-cheapest-nat](https://github.com/jamesmoriarty/cfn-cheapest-nat) - Cheapest AWS VPC NAT.
