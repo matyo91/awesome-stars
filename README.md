@@ -2690,6 +2690,7 @@
 
 ## TypeScript 
 
+- [gmoigneu/signal](https://github.com/gmoigneu/signal) - My own tech review dashboard
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [alondmnt/joplin-plugin-tag-navigator](https://github.com/alondmnt/joplin-plugin-tag-navigator) - A PKM system to organise, search, browse and convert inline tags, front matter and tasks in Joplin
