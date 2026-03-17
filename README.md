@@ -1626,7 +1626,7 @@
 - [Streamlike/php-api-sdk](https://github.com/Streamlike/php-api-sdk) - 
 - [Streamlike/php-ws-sdk](https://github.com/Streamlike/php-ws-sdk) - 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [symfony/ux-react](https://github.com/symfony/ux-react) - Integration of React in Symfony
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [soyuka/esql](https://github.com/soyuka/esql) - PHP Extended SQL
