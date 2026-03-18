@@ -424,7 +424,7 @@
 - [gdquest-demos/godot-2d-space-game](https://github.com/gdquest-demos/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
 - [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [w84death/Tanks-of-Freedom](https://github.com/w84death/Tanks-of-Freedom) - Indie Turn Based Strategy in Isometric Pixel Art
-- [heroiclabs/nakama-godot](https://github.com/heroiclabs/nakama-godot) - Godot client for Nakama server written in GDScript.
+- [heroiclabs/nakama-godot](https://github.com/heroiclabs/nakama-godot) - Nakama Godot Client SDK
 - [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
 
 ## GDShader 
@@ -1342,7 +1342,7 @@
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
 - [github/archive-program](https://github.com/github/archive-program) - The GitHub Archive Program & Arctic Code Vault
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) - Notable events of PHP history
 - [ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat) - 🚀 Zipcall- Acquired @ 250k users 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.
 - [fabpot-graveyard/Create-Your-Framework](https://github.com/fabpot-graveyard/Create-Your-Framework) - [OBSOLETE] Create your own framework on top of Symfony
@@ -2754,7 +2754,7 @@
 - [nikolovlazar/bife](https://github.com/nikolovlazar/bife) - A URL shortener built with Next.js
 - [J0SUKE/ASCII-postprocessing](https://github.com/J0SUKE/ASCII-postprocessing) - 
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, shadcn/ui, and Supabase.
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
