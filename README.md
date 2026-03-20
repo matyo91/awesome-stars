@@ -114,7 +114,6 @@
 
 - [seanmorris/vrzno](https://github.com/seanmorris/vrzno) - C-lang PHP extension thats allows you to access javascript from PHP code that runs in the browser.
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
-- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [krakjoe/parallel](https://github.com/krakjoe/parallel) - A succinct parallel concurrency API for PHP8
 - [mario-deluna/php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP. 🔋Batteries included (Math Functions, Texture Loaders, etc..)
@@ -205,6 +204,7 @@
 - [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 - [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [Mewgood/mercury](https://github.com/Mewgood/mercury) - An emulation of the Diablo II Expansion client.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
@@ -280,7 +280,6 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [Blizzard/s2client-api](https://github.com/Blizzard/s2client-api) - StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.
 - [nidium/Nidium](https://github.com/nidium/Nidium) - nidium is an ongoing effort for a mobile hw-accelerated rendering engine to create apps and games. Embedding Mozilla JavaScript VM, Google Skia, Facebook Yoga.  https://twitter.com/nidiumproject for u
-- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 - [lavv17/lftp](https://github.com/lavv17/lftp) - sophisticated command line file transfer program (ftp, http, sftp, fish, torrent)
@@ -1376,6 +1375,8 @@
 
 ## PHP 
 
+- [WendellAdriel/slidewire](https://github.com/WendellAdriel/slidewire) - Create beautiful presentations powered by Livewire
+- [joshembling/artisan-browse](https://github.com/joshembling/artisan-browse) - 🔎 Artisan Browse provides an interactive terminal UI for discovering, searching, and executing all Laravel Artisan commands.
 - [darkwood-com/darkwood-publish-article-mcp-apps](https://github.com/darkwood-com/darkwood-publish-article-mcp-apps) - 
 - [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) - A tool to automatically fix Twig Coding Standards issues
 - [darkwood-com/flowvox](https://github.com/darkwood-com/flowvox) - A PHP-based voice transcription engine built with Symfony, Flow orchestration and whisper.cpp. Local audio recording, stateful recorder management, and modular pipeline architecture.
@@ -2673,6 +2674,7 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [evanpurkhiser/magnetic](https://github.com/evanpurkhiser/magnetic) - An iOS app to send magnet links and torrent files to a Transmission server
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 
 ## TeX 
 
@@ -2901,7 +2903,7 @@
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [nomuq/restyjs-example](https://github.com/nomuq/restyjs-example) - 
