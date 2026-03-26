@@ -332,7 +332,6 @@
 - [tylerprogramming/ai](https://github.com/tylerprogramming/ai) - This repository will have different projects using AutoGen and Tutorials
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [php-llm/llm-chain](https://github.com/php-llm/llm-chain) - PHP library for building LLM-based and AI-based features and applications.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -1128,7 +1127,7 @@
 
 ## data-structures 
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [marcosh/lamphpda](https://github.com/marcosh/lamphpda) - A collection of type-safe functional data structures
 
 ## data-visualization 
@@ -2077,7 +2076,7 @@
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [nette/forms](https://github.com/nette/forms) - 📝 Generating, validating and processing secure forms in PHP. Handy API, fully customizable, server & client side validation and mature design.
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [StartBootstrap/startbootstrap-grayscale](https://github.com/StartBootstrap/startbootstrap-grayscale) - A multipurpose one page Bootstrap theme created by Start Bootstrap
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [qmachard/atomic-design-bundle](https://github.com/qmachard/atomic-design-bundle) - Atomic Design is a Storybook like made for Symfony and Twig
@@ -2416,7 +2415,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [cerbero90/lazy-json-pages](https://github.com/cerbero90/lazy-json-pages) - 📜 Framework-agnostic API scraper to load items from any paginated JSON API into a Laravel lazy collection via async HTTP requests.
 - [Crell/Serde](https://github.com/Crell/Serde) - Robust Serde (serialization/deserialization) library for PHP 8.
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [jaxon-php/jaxon-core](https://github.com/jaxon-php/jaxon-core) - The Jaxon core library
 - [dunglas/php-to-json-schema](https://github.com/dunglas/php-to-json-schema) - Creates a JSON Schema from a PHP class
@@ -2781,7 +2780,6 @@
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [trashware/mcp3xxx-rs](https://github.com/trashware/mcp3xxx-rs) - Rust SPI driver for MCP3xxx family of 10-13-Bit A/D converters.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -4585,7 +4583,7 @@
 - [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense) - PHP intellisense for Visual Studio Code
 - [amphp/process](https://github.com/amphp/process) - An async process dispatcher for Amp.
 - [amphp/websocket](https://github.com/amphp/websocket) - Shared code for websocket servers and clients.
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [yceruto/symfony-ddd-skeleton](https://github.com/yceruto/symfony-ddd-skeleton) - Organize and Manage Multiple Applications with Kernel Contexts.
 - [SymfonyLive/paris-2022-talks](https://github.com/SymfonyLive/paris-2022-talks) - 
@@ -5512,7 +5510,7 @@
 ## shell 
 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
