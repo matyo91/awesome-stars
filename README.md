@@ -366,7 +366,6 @@
 - [satishbabariya/swift-snapshots-docker](https://github.com/satishbabariya/swift-snapshots-docker) - Swift Development Snapshot Docker
 - [madalinignisca/devcontainers](https://github.com/madalinignisca/devcontainers) - Devcontainers or Codespace with optimizations for PHP and Nodejs development. Laravel, Symfony, WordPress, Drupal etc.
 - [flobb/docker-symfony](https://github.com/flobb/docker-symfony) - Docker image with all the requirements for a Symfony project
-- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [cvergne/actions](https://github.com/cvergne/actions) - Collection of GitHub Actions
 - [eko/docker-symfony](https://github.com/eko/docker-symfony) - Run a Symfony application using Docker & docker-compose
@@ -1195,7 +1194,6 @@
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [sterrien/try_git](https://github.com/sterrien/try_git) - 
 - [CleverCloud/awesome-clever-cloud](https://github.com/CleverCloud/awesome-clever-cloud) - Curated list of awesome Clever Cloud resources
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [SymfonyCon/2024-talks](https://github.com/SymfonyCon/2024-talks) - 
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [OskarStark/OskarStark](https://github.com/OskarStark/OskarStark) - 
@@ -1630,7 +1628,7 @@
 - [Streamlike/php-api-sdk](https://github.com/Streamlike/php-api-sdk) - 
 - [Streamlike/php-ws-sdk](https://github.com/Streamlike/php-ws-sdk) - 
 - [coduo/php-matcher](https://github.com/coduo/php-matcher) - The easiest way to match data structures like JSON/PlainText/XML against readable patterns. Sandbox:
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [symfony/ux-react](https://github.com/symfony/ux-react) - Integration of React in Symfony
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [soyuka/esql](https://github.com/soyuka/esql) - PHP Extended SQL
@@ -2622,6 +2620,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [Raulnet/php7-lua-install-script](https://github.com/Raulnet/php7-lua-install-script) - install script for php7 Lua
 - [ezsystems/ezplatform](https://github.com/ezsystems/ezplatform) - Meta repository that pulls in all dependencies for clean distribution of Ibexa Platform.
+- [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
 - [ypereirareis/docker-satis](https://github.com/ypereirareis/docker-satis) - Docker image to run Satis (private packagist) with Satisfy User Interface. Crontab and manual build possibility
 - [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
