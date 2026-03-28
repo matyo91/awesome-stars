@@ -78,6 +78,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -1268,6 +1269,17 @@
 - [harshil1712/register-slash-command](https://github.com/harshil1712/register-slash-command) - Add Interactions Endpoint URL for your Discord slash command via CLI
 - [harshil1712/build-discord-bot](https://github.com/harshil1712/build-discord-bot) - An npm package to get started with your Discord bot
 - [jolicode/secret-santa](https://github.com/jolicode/secret-santa) - 🎅 The code behind Secret Santa, the holiday bot for Slack / Discord / Webex
+
+## distributed-systems 
+
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+- [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
+- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
+- [commsor/titanoboa](https://github.com/commsor/titanoboa) - Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 
 ## django 
 
@@ -2606,6 +2618,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -3147,6 +3160,9 @@
 
 ## others 
 
+- [GromNaN/symfony-tui-games](https://github.com/GromNaN/symfony-tui-games) - Terminal games built with the Symfony TUI component
+- [darkwood-com/navi](https://github.com/darkwood-com/navi) - ⚡️Navi : personnal assistant
+- [darkwood-com/crypto-trade](https://github.com/darkwood-com/crypto-trade) - 🤑 Easy win money
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [darkwood-com/darkwood-trailer](https://github.com/darkwood-com/darkwood-trailer) - 🎬 Darkwood trailer generator
 - [bitExpert-forks/ai](https://github.com/bitExpert-forks/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
@@ -3428,7 +3444,7 @@
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [TomasVotruba/editorconfig-fixer](https://github.com/TomasVotruba/editorconfig-fixer) - 
 - [wazum/symfony-messenger-batch](https://github.com/wazum/symfony-messenger-batch) - Handling messages in batches with Symfony Messenger
-- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - What you see is what you like
+- [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - ❤️ What you see is what you like
 - [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
 - [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - 70 splash screens and logos for use in Godot
 - [Twenga/twgit](https://github.com/Twenga/twgit) - Twgit is a free and open source assisting tools for managing features, hotfixes and releases on Git repositories. It provides simple, high-level commands to adopt the branching model describes in our 
@@ -3493,7 +3509,6 @@
 - [WebMamba/slide-php-forum-2023](https://github.com/WebMamba/slide-php-forum-2023) - Les slides de mon talk (Symfony se met au front, a votre tour maintenant). Que j'ai presenter au ForumPHP 2023!
 - [dseguy/changedBehavior](https://github.com/dseguy/changedBehavior) - Museum of change behaviors in PHP
 - [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
-- [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
 - [LansburyCH/relightable-nr](https://github.com/LansburyCH/relightable-nr) - A Neural Rendering Framework for Free-Viewpoint Relighting (CVPR 2020)
 - [tc39/proposal-negated-in-instanceof](https://github.com/tc39/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
 - [IngeniozIT/php-install](https://github.com/IngeniozIT/php-install) - Scripts to install PHP
@@ -3794,7 +3809,6 @@
 - [ismail1432/who-are-you](https://github.com/ismail1432/who-are-you) - Repository to allow beginners who want create a Pull Request 🔥
 - [simon-schubert/devpunk](https://github.com/simon-schubert/devpunk) - Collection of non-platform endorsed resources with focus on PHP
 - [jubianchi/async-generator](https://github.com/jubianchi/async-generator) - Non-blocking tasks with only PHP and generators
-- [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [marmelab/pentago-symfony](https://github.com/marmelab/pentago-symfony) - 
 - [slashfan/docker-supervisor-php-workers](https://github.com/slashfan/docker-supervisor-php-workers) - Starting point configuration for running (PHP) workers inside Docker containers with Supervisor.
