@@ -748,7 +748,6 @@
 - [parmentf/node-sentence-tokenizer](https://github.com/parmentf/node-sentence-tokenizer) - Tokenize paragraphs into sentences, and smaller tokens.
 - [cowchimp/chunk-scatter](https://github.com/cowchimp/chunk-scatter) - Analyze and visualize HTTP responses that use chunked encoding
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - ❤️ What you see is what you like
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [slack-samples/bolt-js-starter-template](https://github.com/slack-samples/bolt-js-starter-template) - A template for building Slack apps with Bolt for JavaScript
 - [lupyuen/nuttx-ox64](https://github.com/lupyuen/nuttx-ox64) - Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
@@ -2767,6 +2766,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
