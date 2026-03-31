@@ -3160,6 +3160,9 @@
 
 ## others 
 
+- [nicolas-grekas/Patchwork](https://github.com/nicolas-grekas/Patchwork) - PHP research framework
+- [matyo91/hellcats-over-the-pacific](https://github.com/matyo91/hellcats-over-the-pacific) - Port Hellcats Over the Pacific to Godot
+- [EdouardCourty/friendsepisodepicker](https://github.com/EdouardCourty/friendsepisodepicker) - Your best way of chosing what episode of Friends you're gonna watch tonight.
 - [matyo91/darkwood-showreel](https://github.com/matyo91/darkwood-showreel) - 🎨 Darkwood showreel
 - [GromNaN/symfony-tui-games](https://github.com/GromNaN/symfony-tui-games) - Terminal games built with the Symfony TUI component
 - [darkwood-com/navi](https://github.com/darkwood-com/navi) - ⚡️Navi : personnal assistant
