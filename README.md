@@ -834,7 +834,6 @@
 - [thecodingmachine/workadventure-php-community-map](https://github.com/thecodingmachine/workadventure-php-community-map) - A map for the PHP community on WorkAdventure
 - [luruke/aladino](https://github.com/luruke/aladino) - 🧞‍♂️  Your magic WebGL carpet
 - [yoannfleurydev/comments-on-stream](https://github.com/yoannfleurydev/comments-on-stream) - 
-- [Yousign/blog](https://github.com/Yousign/blog) - Yousign par ceux qui le construisent
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [Noleli/EncodeMightyThings](https://github.com/Noleli/EncodeMightyThings) - 
 - [thesobercoder/Intercom-Clone](https://github.com/thesobercoder/Intercom-Clone) - Intercom clone built with NextJS and TailwindCSS.
@@ -1291,6 +1290,7 @@
 - [ismail1432/who-are-you](https://github.com/ismail1432/who-are-you) - Repository to allow beginners who want create a Pull Request 🔥
 - [simon-schubert/devpunk](https://github.com/simon-schubert/devpunk) - Collection of non-platform endorsed resources with focus on PHP
 - [RvNovae/rm-notifier-public](https://github.com/RvNovae/rm-notifier-public) - Browse documentation and report issues regarding RM-Notifier
+- [Yousign/blog](https://github.com/Yousign/blog) - Yousign par ceux qui le construisent
 - [symfony/psr7-pack](https://github.com/symfony/psr7-pack) - A Symfony Pack for bridging PSR-7/17
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [RvNovae/us-ger](https://github.com/RvNovae/us-ger) - My personal keyboard layout
@@ -2725,7 +2725,7 @@
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [Kameleoon/bouncing-ball](https://github.com/Kameleoon/bouncing-ball) - bouncing-ball
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [imjoshin/imjosh.in](https://github.com/imjoshin/imjosh.in) - imjoshin's homepage built with Gatsby.
