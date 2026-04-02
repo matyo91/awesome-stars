@@ -1192,6 +1192,7 @@
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [sterrien/try_git](https://github.com/sterrien/try_git) - 
 - [CleverCloud/awesome-clever-cloud](https://github.com/CleverCloud/awesome-clever-cloud) - Curated list of awesome Clever Cloud resources
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [SymfonyCon/2024-talks](https://github.com/SymfonyCon/2024-talks) - 
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [OskarStark/OskarStark](https://github.com/OskarStark/OskarStark) - 
@@ -1290,7 +1291,6 @@
 - [ismail1432/who-are-you](https://github.com/ismail1432/who-are-you) - Repository to allow beginners who want create a Pull Request 🔥
 - [simon-schubert/devpunk](https://github.com/simon-schubert/devpunk) - Collection of non-platform endorsed resources with focus on PHP
 - [RvNovae/rm-notifier-public](https://github.com/RvNovae/rm-notifier-public) - Browse documentation and report issues regarding RM-Notifier
-- [Yousign/blog](https://github.com/Yousign/blog) - Yousign par ceux qui le construisent
 - [symfony/psr7-pack](https://github.com/symfony/psr7-pack) - A Symfony Pack for bridging PSR-7/17
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [RvNovae/us-ger](https://github.com/RvNovae/us-ger) - My personal keyboard layout
