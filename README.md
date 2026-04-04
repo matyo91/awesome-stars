@@ -748,6 +748,7 @@
 - [parmentf/node-sentence-tokenizer](https://github.com/parmentf/node-sentence-tokenizer) - Tokenize paragraphs into sentences, and smaller tokens.
 - [cowchimp/chunk-scatter](https://github.com/cowchimp/chunk-scatter) - Analyze and visualize HTTP responses that use chunked encoding
 - [darkwood-com/wysiwyl](https://github.com/darkwood-com/wysiwyl) - ❤️ What you see is what you like
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [slack-samples/bolt-js-starter-template](https://github.com/slack-samples/bolt-js-starter-template) - A template for building Slack apps with Bolt for JavaScript
 - [lupyuen/nuttx-ox64](https://github.com/lupyuen/nuttx-ox64) - Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
@@ -1211,7 +1212,6 @@
 - [Abhi1o/Abhi1o](https://github.com/Abhi1o/Abhi1o) - I'm Abhishek Kumar a Full stack web developer |
 - [lota-lutfunnahar/lota-lutfunnahar](https://github.com/lota-lutfunnahar/lota-lutfunnahar) - 
 - [cumsoft/cumsoft](https://github.com/cumsoft/cumsoft) - Github Profile Banner & Assets
-- [Aejkatappaja/Aejkatappaja](https://github.com/Aejkatappaja/Aejkatappaja) - About Me
 - [prithvi2k2/prithvi2k2](https://github.com/prithvi2k2/prithvi2k2) - About Me
 - [jrohitofficial/jrohitofficial](https://github.com/jrohitofficial/jrohitofficial) - 
 - [ThePorgs/Exegol-docs](https://github.com/ThePorgs/Exegol-docs) - Documentation for Exegol
@@ -1373,6 +1373,7 @@
 
 ## PHP 
 
+- [matyo91/sketchup-shape](https://github.com/matyo91/sketchup-shape) - 
 - [nicolas-grekas/Patchwork](https://github.com/nicolas-grekas/Patchwork) - PHP research framework
 - [EdouardCourty/friendsepisodepicker](https://github.com/EdouardCourty/friendsepisodepicker) - Your best way of chosing what episode of Friends you're gonna watch tonight.
 - [matyo91/darkwood-showreel](https://github.com/matyo91/darkwood-showreel) - 🎨 Darkwood showreel
@@ -1430,8 +1431,8 @@
 - [Acksop/SAND-framework](https://github.com/Acksop/SAND-framework) - Framework Multi-Modules MVC (Vues : Twig ou Blade, et possible SPA [SinglePageApplication] Vue.js ou React.js ...) en PHP
 - [jwage/phpamqplib-messenger](https://github.com/jwage/phpamqplib-messenger) - 
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
-- [Kameleoon/openfeature-php](https://github.com/Kameleoon/openfeature-php) - KameleoonProvider for OpenFeature PHP
-- [Kameleoon/client-php](https://github.com/Kameleoon/client-php) - 
+- [Kameleoon-new/openfeature-php](https://github.com/Kameleoon-new/openfeature-php) - KameleoonProvider for OpenFeature PHP
+- [Kameleoon-new/client-php](https://github.com/Kameleoon-new/client-php) - 
 - [simonhamp/the-og](https://github.com/simonhamp/the-og) - A pure PHP OpenGraph Image Generator
 - [simonhamp/cronikl](https://github.com/simonhamp/cronikl) - A scheduled task manager
 - [simonhamp/laravel-nova-csv-import](https://github.com/simonhamp/laravel-nova-csv-import) - The best CSV import component for Laravel Nova
@@ -2699,6 +2700,7 @@
 
 ## TypeScript 
 
+- [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [gmoigneu/signal](https://github.com/gmoigneu/signal) - My own tech review dashboard
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
@@ -2723,7 +2725,7 @@
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
-- [Kameleoon/bouncing-ball](https://github.com/Kameleoon/bouncing-ball) - bouncing-ball
+- [Kameleoon-new/bouncing-ball](https://github.com/Kameleoon-new/bouncing-ball) - bouncing-ball
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
@@ -2768,7 +2770,6 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -2911,7 +2912,7 @@
 - [adrienharnay/website](https://github.com/adrienharnay/website) - Personal website
 - [yuanqing/vdx](https://github.com/yuanqing/vdx) - :film_strip: An intuitive CLI for processing video, powered by FFmpeg
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Build product integrations with AI.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [nomuq/swift-vscode](https://github.com/nomuq/swift-vscode) - 
 - [satishbabariya/minimal-react-ssr-typescript](https://github.com/satishbabariya/minimal-react-ssr-typescript) - a minimal sample of server side rendering using typescript + react
 - [nomuq/restyjs-example](https://github.com/nomuq/restyjs-example) - 
