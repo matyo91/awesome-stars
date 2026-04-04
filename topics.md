@@ -819,7 +819,6 @@
 
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [datastax/astra-cli](https://github.com/datastax/astra-cli) - Command Line Interface for DataStax Astra
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -1648,7 +1647,6 @@
 
 ## git 
 
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1899,7 +1897,6 @@
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 - [bastien70/dbsaver](https://github.com/bastien70/dbsaver) - A Symfony application for managing and automating regular backups of MySQL databases.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [temporalio/sdk-php](https://github.com/temporalio/sdk-php) - Temporal PHP SDK
 - [jolicode/automapper](https://github.com/jolicode/automapper) - :rocket: Very FAST :rocket: PHP AutoMapper with on the fly code generation
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -3256,6 +3253,7 @@
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
 - [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org) - Migrated to https://codeberg.org/oerdnj/deb.sury.org
 - [staabm/phpunit-github-action-matrix](https://github.com/staabm/phpunit-github-action-matrix) - GitHub Action to parallelize a PHPUnit test suite over multiple GitHub Action jobs.
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [arungpro/adodb](https://github.com/arungpro/adodb) - adodb + php + docker
 - [anticorrelator/grumpy](https://github.com/anticorrelator/grumpy) - 
 - [anticorrelator/game_of_life](https://github.com/anticorrelator/game_of_life) - 
@@ -3285,9 +3283,9 @@
 - [jwage/phpamqplib-messenger](https://github.com/jwage/phpamqplib-messenger) - 
 - [Moeshra/personal_assistant](https://github.com/Moeshra/personal_assistant) - 
 - [Schrank/mage-attack](https://github.com/Schrank/mage-attack) - Build a tool (based on behat/mink?) to attack a magento installation aka check for the most common problems, readable local.xml, etc.
-- [Kameleoon/openfeature-php](https://github.com/Kameleoon/openfeature-php) - KameleoonProvider for OpenFeature PHP
-- [Kameleoon/client-php](https://github.com/Kameleoon/client-php) - 
-- [Kameleoon/bouncing-ball](https://github.com/Kameleoon/bouncing-ball) - bouncing-ball
+- [Kameleoon-new/openfeature-php](https://github.com/Kameleoon-new/openfeature-php) - KameleoonProvider for OpenFeature PHP
+- [Kameleoon-new/client-php](https://github.com/Kameleoon-new/client-php) - 
+- [Kameleoon-new/bouncing-ball](https://github.com/Kameleoon-new/bouncing-ball) - bouncing-ball
 - [Neuro-kiran/AI-Investment-Agent](https://github.com/Neuro-kiran/AI-Investment-Agent) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [simonhamp/laravel-nova-csv-import](https://github.com/simonhamp/laravel-nova-csv-import) - The best CSV import component for Laravel Nova
