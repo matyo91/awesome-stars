@@ -3217,7 +3217,6 @@
 - [Halleck45/ast-metrics](https://github.com/Halleck45/ast-metrics) - See the invisible structure of your code
 - [julienlucas/julienlucas](https://github.com/julienlucas/julienlucas) - 
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
-- [Guiziweb/mcp-project-management](https://github.com/Guiziweb/mcp-project-management) - 
 - [jmfayard/hire-me](https://github.com/jmfayard/hire-me) - Hire me !
 - [EdouardCourty/mcp-server-bundle](https://github.com/EdouardCourty/mcp-server-bundle) - A Symfony Bundle to create MCP servers
 - [MathieuGaudron/Puissance_4](https://github.com/MathieuGaudron/Puissance_4) - 
