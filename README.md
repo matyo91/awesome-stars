@@ -112,6 +112,7 @@
 
 ## C 
 
+- [matyo91/hellcats-over-the-pacific](https://github.com/matyo91/hellcats-over-the-pacific) - Port Hellcats Over the Pacific to Godot
 - [seanmorris/vrzno](https://github.com/seanmorris/vrzno) - C-lang PHP extension thats allows you to access javascript from PHP code that runs in the browser.
 - [NoiseByNorthwest/php-spx](https://github.com/NoiseByNorthwest/php-spx) - A simple & straight-to-the-point PHP profiling extension with its built-in web UI
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -398,7 +399,6 @@
 
 ## GDScript 
 
-- [matyo91/hellcats-over-the-pacific](https://github.com/matyo91/hellcats-over-the-pacific) - Port Hellcats Over the Pacific to Godot
 - [matyo91/darkwaar2](https://github.com/matyo91/darkwaar2) - Darkwaar2 Prototype
 - [matyo91/darkwaar1](https://github.com/matyo91/darkwaar1) - Darkwaar1 Prototype
 - [matyo91/darkwaar](https://github.com/matyo91/darkwaar) - 
@@ -1193,6 +1193,7 @@
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [sterrien/try_git](https://github.com/sterrien/try_git) - 
 - [CleverCloud/awesome-clever-cloud](https://github.com/CleverCloud/awesome-clever-cloud) - Curated list of awesome Clever Cloud resources
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [SymfonyCon/2024-talks](https://github.com/SymfonyCon/2024-talks) - 
 - [ThomasBerends/symfony-certification-preparation-list](https://github.com/ThomasBerends/symfony-certification-preparation-list) - List of topic-specific resources to help you prepare for Symfony certification
 - [OskarStark/OskarStark](https://github.com/OskarStark/OskarStark) - 
