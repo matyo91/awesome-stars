@@ -1413,7 +1413,7 @@
 - [FriendsOfSylius/SyliusImportExportPlugin](https://github.com/FriendsOfSylius/SyliusImportExportPlugin) - Sylius plugin to import / export data
 - [Sylius/SyliusRecipes](https://github.com/Sylius/SyliusRecipes) - 
 - [Sylius/TwigHooks](https://github.com/Sylius/TwigHooks) - [READ-ONLY] Composable Twig layouts
-- [FLUX-SE/SyliusPayumStripePlugin](https://github.com/FLUX-SE/SyliusPayumStripePlugin) - Sylius Payum Stripe gateway plugin (with SCA support)
+- [Sylius/PayumStripePlugin](https://github.com/Sylius/PayumStripePlugin) - Sylius Payum Stripe gateway plugin (with SCA support)
 - [Sylius/SyliusDemo](https://github.com/Sylius/SyliusDemo) - Official Sylius demo application.
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) - Simpler CRUD for Symfony applications
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
@@ -2728,7 +2728,7 @@
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [Kameleoon-new/bouncing-ball](https://github.com/Kameleoon-new/bouncing-ball) - bouncing-ball
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [imjoshin/imjosh.in](https://github.com/imjoshin/imjosh.in) - imjoshin's homepage built with Gatsby.
