@@ -1040,7 +1040,6 @@
 ## Jupyter Notebook 
 
 - [acantarero/genai-notebooks](https://github.com/acantarero/genai-notebooks) - Collection of generative AI notebooks
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [datastaxdevs/build_accurate_ai_langflow_arize](https://github.com/datastaxdevs/build_accurate_ai_langflow_arize) - Flows, code and datasets for Livestream "Build More Accurate AI Apps with Langflow + Arize"
 - [tweag/monad-bayes](https://github.com/tweag/monad-bayes) - A library for probabilistic programming in Haskell.
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
@@ -2234,6 +2233,7 @@
 - [acantarero/news-server](https://github.com/acantarero/news-server) - 
 - [acantarero/wikipedia_demo](https://github.com/acantarero/wikipedia_demo) - Real-time document Q&A using Pulsar, Cassandra, and langchain
 - [acantarero/rag-playground](https://github.com/acantarero/rag-playground) - 
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [Connor9994/LinkedIn-Follower-Bot](https://github.com/Connor9994/LinkedIn-Follower-Bot) - Automates the process of following accounts on LinkedIn
 - [Moeshra/personal_assistant](https://github.com/Moeshra/personal_assistant) - 
 - [shiragannavar/Testing-RAG](https://github.com/shiragannavar/Testing-RAG) - 
@@ -2747,7 +2747,7 @@
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
-- [arnolanglade/mikado-app](https://github.com/arnolanglade/mikado-app) - MikadoApp is an open-source tool to simplify the Mikado graph creation and sharing.
+- [arnolanglade/mikado-app](https://github.com/arnolanglade/mikado-app) - [POC] MikadoApp is an open-source tool to simplify the Mikado graph creation and sharing.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -2857,7 +2857,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [api-platform/create-client](https://github.com/api-platform/create-client) - Generate React or Vue.js-based Progressive Web Apps from an Hydra-enabled API. Also support React Native.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
