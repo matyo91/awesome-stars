@@ -123,6 +123,7 @@
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -358,6 +359,7 @@
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [gdquest-demos/godot-2d-space-game](https://github.com/gdquest-demos/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
@@ -369,6 +371,7 @@
 
 ## ai-agents 
 
+- [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
@@ -1320,7 +1323,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
 - [soyuka/php-wasm](https://github.com/soyuka/php-wasm) - PHP WebAssembly docker image. Original Project by Oraoto and Sean Morris.
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [satishbabariya/swift-docker-builder](https://github.com/satishbabariya/swift-docker-builder) - Swift Dockerfile Builder written in Go
 - [satishbabariya/elastic-stack-docker](https://github.com/satishbabariya/elastic-stack-docker) - Elastic stack (ELK) on Docker (APM, Logging, Elasticsearch, Kibana, Beats)
 - [satishbabariya/swift-snapshots-docker](https://github.com/satishbabariya/swift-snapshots-docker) - Swift Development Snapshot Docker
@@ -1861,6 +1864,10 @@
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 
+## hack 
+
+- [facebook/hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+
 ## hacking 
 
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
@@ -1872,6 +1879,7 @@
 
 ## hacktoberfest 
 
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [Sylius/SyliusDemo](https://github.com/Sylius/SyliusDemo) - Official Sylius demo application.
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) - Simpler CRUD for Symfony applications
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -2222,6 +2230,7 @@
 
 ## javascript 
 
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2508,6 +2517,7 @@
 
 ## laravel 
 
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [WendellAdriel/slidewire](https://github.com/WendellAdriel/slidewire) - Create beautiful presentations powered by Livewire
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
@@ -2794,6 +2804,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
@@ -2918,7 +2929,6 @@
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -3157,6 +3167,9 @@
 
 ## others 
 
+- [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
+- [aiautomatedbusinesssolutions-del/Fibonacci-Friend](https://github.com/aiautomatedbusinesssolutions-del/Fibonacci-Friend) - Fibonacci ratio toll for beginner investors
 - [matyo91/connect-flow](https://github.com/matyo91/connect-flow) - 🤩 Unleach connectors - From Tools to Language
 - [alexadark/ghl-cli](https://github.com/alexadark/ghl-cli) - 
 - [matyo91/sketchup-shape](https://github.com/matyo91/sketchup-shape) - 
@@ -4487,6 +4500,7 @@
 
 ## php 
 
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [darkwood-com/ia-exception-bundle](https://github.com/darkwood-com/ia-exception-bundle) - 🚨 Darkwood IA Exception Bundle for Symfony
 - [pentiminax/ux-datatables](https://github.com/pentiminax/ux-datatables) - UX DataTables is a Symfony bundle integrating the DataTables library in Symfony applications.
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
@@ -4999,7 +5013,7 @@
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 - [Sylius/FrontWing](https://github.com/Sylius/FrontWing) - React.js shop front
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [generativefm/generative.fm](https://github.com/generativefm/generative.fm) - A platform for playing generative music in the browser.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -5007,6 +5021,7 @@
 
 ## python 
 
+- [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 - [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
@@ -5878,6 +5893,7 @@
 ## tailwindcss 
 
 - [Assios/chessguessr](https://github.com/Assios/chessguessr) - Guess the continuation of a chess game
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -6066,7 +6082,7 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [ypereirareis/docker-satis](https://github.com/ypereirareis/docker-satis) - Docker image to run Satis (private packagist) with Satisfy User Interface. Crontab and manual build possibility
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
