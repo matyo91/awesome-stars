@@ -565,7 +565,6 @@
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -589,7 +588,6 @@
 ## awesome-list 
 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -1915,7 +1913,6 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [staabm/phpstan-baseline-analysis](https://github.com/staabm/phpstan-baseline-analysis) - Analyzes PHPStan baseline files and creates aggregated error trend-reports
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
 - [PHP-CMSIG/search](https://github.com/PHP-CMSIG/search) - Search abstraction over different search engines written in PHP. Currently implemented Elasticsearch, Opensearch, Algolia, Meilisearch, Loupe, RediSearch, Solr, Typesense. Documentation: https://php-c
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
@@ -2550,7 +2547,6 @@
 
 ## learning 
 
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [EmNudge/watlings](https://github.com/EmNudge/watlings) - Learn WebAssembly by writing small programs!
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [loophp/church-encoding](https://github.com/loophp/church-encoding) - Church encoding in PHP
@@ -2815,7 +2811,7 @@
 
 ## microsoft 
 
-- [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## mobile 
@@ -3167,6 +3163,7 @@
 
 ## others 
 
+- [matyo91/omer-quotes](https://github.com/matyo91/omer-quotes) - This projet help compare Message oriented VS Data oriented
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [aiautomatedbusinesssolutions-del/Fibonacci-Friend](https://github.com/aiautomatedbusinesssolutions-del/Fibonacci-Friend) - Fibonacci ratio toll for beginner investors
