@@ -2213,6 +2213,10 @@
 
 ## Python 
 
+- [mrzdevcore/ai-harness](https://github.com/mrzdevcore/ai-harness) - 
+- [mrzdevcore/polars-bench](https://github.com/mrzdevcore/polars-bench) - 
+- [Nisseya/hackathon_april](https://github.com/Nisseya/hackathon_april) - 
+- [Nisseya/submission_example](https://github.com/Nisseya/submission_example) - 
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 - [gmoigneu/n6](https://github.com/gmoigneu/n6) - 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
