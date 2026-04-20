@@ -706,6 +706,7 @@
 
 ## JavaScript 
 
+- [mrzdevcore/multisite-boiler-plate](https://github.com/mrzdevcore/multisite-boiler-plate) - Frontend boiler plate to build multi-site in one project
 - [matyo91/darkwaar3](https://github.com/matyo91/darkwaar3) - darkwaar3 Prototype
 - [RachelfTech/procedural-terrain-generation](https://github.com/RachelfTech/procedural-terrain-generation) - p5.js Perlin noise based terrain generation
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -1373,6 +1374,7 @@
 
 ## PHP 
 
+- [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
 - [matyo91/omer-quotes](https://github.com/matyo91/omer-quotes) - This projet help compare Message oriented VS Data oriented
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [matyo91/connect-flow](https://github.com/matyo91/connect-flow) - 🤩 Unleach connectors - From Tools to Language
@@ -1571,7 +1573,7 @@
 - [alexandre-daubois/lazy-stream](https://github.com/alexandre-daubois/lazy-stream) - Write and read data to and from streams, only when it is really needed to
 - [spatie/ssh](https://github.com/spatie/ssh) - A lightweight package to execute commands over an SSH connection
 - [jolicode/castor](https://github.com/jolicode/castor) - 🦫 A lightweight and modern task runner for Automation, CI/CD & DevOps.
-- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - Phel is a functional, Lisp-inspired programming language that compiles to PHP. It brings the expressive power of Clojure and the simplicity of Janet to the PHP ecosystem.
+- [phel-lang/phel-lang](https://github.com/phel-lang/phel-lang) - A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem.
 - [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
 - [kpn13/generics-php](https://github.com/kpn13/generics-php) - This Repository contains some tests and use cases about generics.
@@ -2469,6 +2471,7 @@
 
 ## Rust 
 
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [supabase/etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
@@ -2709,6 +2712,7 @@
 
 ## TypeScript 
 
+- [Wassist/cli](https://github.com/Wassist/cli) - Wassist CLI – manage your WhatsApp from the terminal
 - [aiautomatedbusinesssolutions-del/Fibonacci-Friend](https://github.com/aiautomatedbusinesssolutions-del/Fibonacci-Friend) - Fibonacci ratio toll for beginner investors
 - [alexadark/ghl-cli](https://github.com/alexadark/ghl-cli) - 
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
