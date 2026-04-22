@@ -439,6 +439,8 @@
 
 ## Go 
 
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
+- [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [LeonardoTrapani/hyprvoice](https://github.com/LeonardoTrapani/hyprvoice) - Voice‑powered typing for Wayland/Hyprland desktops
 - [Halleck45/ast-metrics](https://github.com/Halleck45/ast-metrics) - See the invisible structure of your code
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -2215,6 +2217,7 @@
 
 ## Python 
 
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [mrzdevcore/ai-harness](https://github.com/mrzdevcore/ai-harness) - 
 - [mrzdevcore/polars-bench](https://github.com/mrzdevcore/polars-bench) - 
 - [Nisseya/hackathon_april](https://github.com/Nisseya/hackathon_april) - 
@@ -2712,6 +2715,7 @@
 
 ## TypeScript 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [Wassist/cli](https://github.com/Wassist/cli) - Wassist CLI – manage your WhatsApp from the terminal
 - [aiautomatedbusinesssolutions-del/Fibonacci-Friend](https://github.com/aiautomatedbusinesssolutions-del/Fibonacci-Friend) - Fibonacci ratio toll for beginner investors
