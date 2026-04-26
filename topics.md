@@ -1844,6 +1844,7 @@
 
 ## google 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 
@@ -3187,6 +3188,8 @@
 
 ## others 
 
+- [poperigby/better-blood](https://github.com/poperigby/better-blood) - 
+- [OminousIndustries/SocialRobot](https://github.com/OminousIndustries/SocialRobot) - 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [Wassist/cli](https://github.com/Wassist/cli) - Wassist CLI – manage your WhatsApp from the terminal
 - [mrzdevcore/ai-harness](https://github.com/mrzdevcore/ai-harness) - 
