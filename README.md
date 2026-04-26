@@ -1090,6 +1090,7 @@
 
 ## Lua 
 
+- [poperigby/better-blood](https://github.com/poperigby/better-blood) - 
 - [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse
 - [evanpurkhiser/cleanUI](https://github.com/evanpurkhiser/cleanUI) - My old World of Warcraft UI
 
@@ -1173,6 +1174,7 @@
 
 ## Others 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 - [matyo91/darkwaar4](https://github.com/matyo91/darkwaar4) - darkwaar4 Prototype
@@ -2217,6 +2219,7 @@
 
 ## Python 
 
+- [OminousIndustries/SocialRobot](https://github.com/OminousIndustries/SocialRobot) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [mrzdevcore/ai-harness](https://github.com/mrzdevcore/ai-harness) - 
 - [mrzdevcore/polars-bench](https://github.com/mrzdevcore/polars-bench) - 
