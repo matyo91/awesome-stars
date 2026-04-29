@@ -502,6 +502,7 @@
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 - [dunglas/stack2slack](https://github.com/dunglas/stack2slack) - A Slack bot to monitor StackOverflow/StackExchange tags
 - [dunglas/calavera](https://github.com/dunglas/calavera) - A (static) Single Page Application generator using Markdown files
+- [dunglas/uri-template-tester](https://github.com/dunglas/uri-template-tester) - Test if a URI matches a given URI template (RFC6570)
 - [blang/vfs](https://github.com/blang/vfs) - Virtual filesystem library written in golang
 - [kragniz/tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -607,7 +608,6 @@
 - [WebAssembly/meetings](https://github.com/WebAssembly/meetings) - WebAssembly meetings (VC or in-person), agendas, and notes
 - [Tom32i/talk-stenope](https://github.com/Tom32i/talk-stenope) - Présentation de Stenope
 - [flexbox/vercel-101](https://github.com/flexbox/vercel-101) - 
-- [dunglas/uri-template-tester](https://github.com/dunglas/uri-template-tester) - Test if a URI matches a given URI template (RFC6570)
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 - [darkwood-com/dj-stream](https://github.com/darkwood-com/dj-stream) - 🎛 Setup for DJ to stream online
 - [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
@@ -1232,7 +1232,7 @@
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
 - [tc39/proposal-negated-in-instanceof](https://github.com/tc39/proposal-negated-in-instanceof) - A proposal to introduce negated in and instanceof operators to JavaScript
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
 - [arikroc/most-influential-books](https://github.com/arikroc/most-influential-books) - 📚🐦 Patrick Collison on Twitter: Which five books have influenced you the most? (In terms of shaping your worldview.)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
@@ -2287,7 +2287,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
