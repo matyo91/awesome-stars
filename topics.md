@@ -3190,6 +3190,10 @@
 
 ## others 
 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 
+- [alexadark/audit-codebase-skill](https://github.com/alexadark/audit-codebase-skill) - Codebase health audit for Claude Code — AI-readiness scoring, bug detection (Assay), and optional Codex deep adversarial pass with synthesis
+- [cursor/cookbook](https://github.com/cursor/cookbook) - 
+- [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [matyo91/llm-game-of-life](https://github.com/matyo91/llm-game-of-life) - 
 - [matyo91/slidewire](https://github.com/matyo91/slidewire) - Slides de support pour les présentations Darkwood
 - [poperigby/better-blood](https://github.com/poperigby/better-blood) - 
@@ -3215,7 +3219,7 @@
 - [darkwood-com/navi](https://github.com/darkwood-com/navi) - ⚡️Navi : personnal assistant
 - [darkwood-com/crypto-trade](https://github.com/darkwood-com/crypto-trade) - 🤑 Easy win money
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
-- [darkwood-com/darkwood-trailer](https://github.com/darkwood-com/darkwood-trailer) - 🎬 Darkwood trailer generator
+- [darkwood-com/media-bundle](https://github.com/darkwood-com/media-bundle) - 🎬 Darkwood trailer generator
 - [bitExpert-forks/ai](https://github.com/bitExpert-forks/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [joshembling/artisan-browse](https://github.com/joshembling/artisan-browse) - 🔎 Artisan Browse provides an interactive terminal UI for discovering, searching, and executing all Laravel Artisan commands.
 - [gmoigneu/signal](https://github.com/gmoigneu/signal) - My own tech review dashboard
