@@ -1175,6 +1175,7 @@
 
 ## Others 
 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
@@ -1390,7 +1391,7 @@
 - [matyo91/darkwood-showreel](https://github.com/matyo91/darkwood-showreel) - 🎨 Darkwood showreel
 - [GromNaN/symfony-tui-games](https://github.com/GromNaN/symfony-tui-games) - Terminal games built with the Symfony TUI component
 - [darkwood-com/navi](https://github.com/darkwood-com/navi) - ⚡️Navi : personnal assistant
-- [darkwood-com/darkwood-trailer](https://github.com/darkwood-com/darkwood-trailer) - 🎬 Darkwood trailer generator
+- [darkwood-com/media-bundle](https://github.com/darkwood-com/media-bundle) - 🎬 Darkwood trailer generator
 - [bitExpert-forks/ai](https://github.com/bitExpert-forks/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [WendellAdriel/slidewire](https://github.com/WendellAdriel/slidewire) - Create beautiful presentations powered by Livewire
 - [joshembling/artisan-browse](https://github.com/joshembling/artisan-browse) - 🔎 Artisan Browse provides an interactive terminal UI for discovering, searching, and executing all Laravel Artisan commands.
@@ -2607,6 +2608,7 @@
 
 ## Shell 
 
+- [alexadark/audit-codebase-skill](https://github.com/alexadark/audit-codebase-skill) - Codebase health audit for Claude Code — AI-readiness scoring, bug detection (Assay), and optional Codex deep adversarial pass with synthesis
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
@@ -2721,6 +2723,8 @@
 
 ## TypeScript 
 
+- [cursor/cookbook](https://github.com/cursor/cookbook) - 
+- [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [Wassist/cli](https://github.com/Wassist/cli) - Wassist CLI – manage your WhatsApp from the terminal
