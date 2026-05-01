@@ -319,6 +319,7 @@
 
 ## ai 
 
+- [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -344,7 +345,7 @@
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [BurnySc2/python-sc2](https://github.com/BurnySc2/python-sc2) - A StarCraft II bot api client library for Python 3
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -383,7 +384,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -1237,7 +1238,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1387,6 +1388,7 @@
 
 ## dotfiles 
 
+- [doaso/dotfiles](https://github.com/doaso/dotfiles) - My dotfiles 😼
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
@@ -2257,7 +2259,7 @@
 - [julienlucas/codingame-puzzles](https://github.com/julienlucas/codingame-puzzles) - Solutions for CodinGame puzzles in JavaScript
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [fredmaiaarantes/simpletasks](https://github.com/fredmaiaarantes/simpletasks) - Simple Tasks with Meteor 3.0 + Chakra UI + RHF + MongoDB
+- [fredmaiaarantes/simpletasks](https://github.com/fredmaiaarantes/simpletasks) - Simple Tasks with Meteor 3.4.1 + Chakra UI + RHF + MongoDB
 - [apache/cordova-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [symfony/polyfill-php82](https://github.com/symfony/polyfill-php82) - Symfony polyfill backporting some PHP 8.2+ features to lower PHP versions
@@ -2809,6 +2811,7 @@
 
 ## mcp 
 
+- [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2854,7 +2857,7 @@
 
 ## mongodb 
 
-- [fredmaiaarantes/simpletasks](https://github.com/fredmaiaarantes/simpletasks) - Simple Tasks with Meteor 3.0 + Chakra UI + RHF + MongoDB
+- [fredmaiaarantes/simpletasks](https://github.com/fredmaiaarantes/simpletasks) - Simple Tasks with Meteor 3.4.1 + Chakra UI + RHF + MongoDB
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [doctrine/mongodb-odm](https://github.com/doctrine/mongodb-odm) - The Official PHP MongoDB ORM/ODM
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
@@ -3190,6 +3193,11 @@
 
 ## others 
 
+- [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
+- [m4rise/docker-stack](https://github.com/m4rise/docker-stack) - 
+- [matyo91/nolife-agency](https://github.com/matyo91/nolife-agency) - 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+- [gmoigneu/the-a-team](https://github.com/gmoigneu/the-a-team) - 
 - [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 
 - [alexadark/audit-codebase-skill](https://github.com/alexadark/audit-codebase-skill) - Codebase health audit for Claude Code — AI-readiness scoring, bug detection (Assay), and optional Codex deep adversarial pass with synthesis
 - [cursor/cookbook](https://github.com/cursor/cookbook) - 
@@ -4834,7 +4842,7 @@
 - [symfony/yaml](https://github.com/symfony/yaml) - Loads and dumps YAML files
 - [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - Provides commands for running applications using the PHP built-in web server
 - [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) - Allows exporting any serializable PHP data structure to plain PHP code
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) - Provides tools to export, instantiate, hydrate, clone and lazy-load PHP objects
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
@@ -5076,7 +5084,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -5313,7 +5321,7 @@
 ## reactjs 
 
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [fredmaiaarantes/simpletasks](https://github.com/fredmaiaarantes/simpletasks) - Simple Tasks with Meteor 3.0 + Chakra UI + RHF + MongoDB
+- [fredmaiaarantes/simpletasks](https://github.com/fredmaiaarantes/simpletasks) - Simple Tasks with Meteor 3.4.1 + Chakra UI + RHF + MongoDB
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [Sylius/FrontWing](https://github.com/Sylius/FrontWing) - React.js shop front
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
@@ -5836,7 +5844,7 @@
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
 - [symfony/web-server-bundle](https://github.com/symfony/web-server-bundle) - Provides commands for running applications using the PHP built-in web server
 - [symfony/web-link](https://github.com/symfony/web-link) - Manages links between resources
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) - Allows exporting any serializable PHP data structure to plain PHP code
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) - Provides tools to export, instantiate, hydrate, clone and lazy-load PHP objects
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
