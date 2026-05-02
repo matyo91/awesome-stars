@@ -1934,9 +1934,9 @@
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [webimpress/safe-writer](https://github.com/webimpress/safe-writer) - Write files safely, to avoid race conditions
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
-- [twigphp/string-extra](https://github.com/twigphp/string-extra) - Unicode/String support for Twig
-- [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - Intl support for Twig
-- [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
+- [twigphp/string-extra](https://github.com/twigphp/string-extra) - A Twig extension for Symfony String
+- [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - A Twig extension for Intl
+- [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - A Symfony bundle for extra Twig extensions
 - [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony
 - [symfony/webpack-encore-bundle](https://github.com/symfony/webpack-encore-bundle) - Symfony integration with Webpack Encore!
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
@@ -2039,7 +2039,7 @@
 - [symfony/security](https://github.com/symfony/security) - Provides a complete security system for your web application
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [sebastianbergmann/diff](https://github.com/sebastianbergmann/diff) - Diff implementation
-- [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - A set of HTTP client abstractions extracted out of the Symfony components
+- [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - Generic abstractions related to HTTP clients
 - [symfony/http-client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously
 - [php-fig/event-dispatcher](https://github.com/php-fig/event-dispatcher) - 
 - [theodo/phpunit-extra](https://github.com/theodo/phpunit-extra) - Improve the performance of your PHPUnit test suite
@@ -2061,10 +2061,10 @@
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation
 - [symfony/swiftmailer-bundle](https://github.com/symfony/swiftmailer-bundle) - Symfony Swiftmailer Bundle
 - [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
-- [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
+- [symfony/service-contracts](https://github.com/symfony/service-contracts) - Generic abstractions related to writing services
 - [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
 - [symfony/security-guard](https://github.com/symfony/security-guard) - Symfony Security Component - Guard
@@ -2094,7 +2094,7 @@
 - [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
 - [symfony/filesystem](https://github.com/symfony/filesystem) - Provides basic utilities for the filesystem
 - [symfony/expression-language](https://github.com/symfony/expression-language) - Provides an engine that can compile and evaluate expressions
-- [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - A set of event dispatcher abstractions extracted out of the Symfony components
+- [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - Generic abstractions related to dispatching event
 - [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
 - [symfony/dotenv](https://github.com/symfony/dotenv) - Registers environment variables from a .env file
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
@@ -2105,7 +2105,7 @@
 - [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
-- [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - A set of cache abstractions extracted out of the Symfony components
+- [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - Generic abstractions related to caching
 - [symfony/cache](https://github.com/symfony/cache) - Provides extended PSR-6, PSR-16 (and tags) implementations
 - [symfony/browser-kit](https://github.com/symfony/browser-kit) - Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically
 - [symfony/asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files
@@ -2763,7 +2763,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [Kameleoon-new/bouncing-ball](https://github.com/Kameleoon-new/bouncing-ball) - bouncing-ball
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
