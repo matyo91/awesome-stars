@@ -382,6 +382,7 @@
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
@@ -1236,7 +1237,6 @@
 ## developer-tools 
 
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -2122,6 +2122,7 @@
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [flexbox/davidl](https://github.com/flexbox/davidl) - 💎 Designer & front-end developer website
+- [twigphp/string-extra](https://github.com/twigphp/string-extra) - A Twig extension for Symfony String
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
@@ -2664,7 +2665,7 @@
 ## low-code 
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
@@ -2979,7 +2980,7 @@
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -4784,9 +4785,9 @@
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [webimpress/safe-writer](https://github.com/webimpress/safe-writer) - Write files safely, to avoid race conditions
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
-- [twigphp/string-extra](https://github.com/twigphp/string-extra) - Unicode/String support for Twig
-- [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - Intl support for Twig
-- [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
+- [twigphp/string-extra](https://github.com/twigphp/string-extra) - A Twig extension for Symfony String
+- [twigphp/intl-extra](https://github.com/twigphp/intl-extra) - A Twig extension for Intl
+- [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - A Symfony bundle for extra Twig extensions
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
 - [symfony/notifier](https://github.com/symfony/notifier) - Sends notifications via one or more channels (email, SMS, ...)
 - [symfony/mailer](https://github.com/symfony/mailer) - Helps sending emails
@@ -4834,7 +4835,7 @@
 - [symfony/security](https://github.com/symfony/security) - Provides a complete security system for your web application
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [SymfonyCon/2019-talks](https://github.com/SymfonyCon/2019-talks) - 
-- [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - A set of HTTP client abstractions extracted out of the Symfony components
+- [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - Generic abstractions related to HTTP clients
 - [symfony/http-client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously
 - [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
 - [dunglas/symfony-docker](https://github.com/dunglas/symfony-docker) - A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.
@@ -4847,11 +4848,11 @@
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation
 - [symfony/test-pack](https://github.com/symfony/test-pack) - A Symfony Pack for functional testing
 - [symfony/swiftmailer-bundle](https://github.com/symfony/swiftmailer-bundle) - Symfony Swiftmailer Bundle
 - [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
-- [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
+- [symfony/service-contracts](https://github.com/symfony/service-contracts) - Generic abstractions related to writing services
 - [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
 - [symfony/security-guard](https://github.com/symfony/security-guard) - Symfony Security Component - Guard
@@ -4877,7 +4878,7 @@
 - [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
 - [symfony/filesystem](https://github.com/symfony/filesystem) - Provides basic utilities for the filesystem
 - [symfony/expression-language](https://github.com/symfony/expression-language) - Provides an engine that can compile and evaluate expressions
-- [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - A set of event dispatcher abstractions extracted out of the Symfony components
+- [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - Generic abstractions related to dispatching event
 - [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
 - [symfony/dotenv](https://github.com/symfony/dotenv) - Registers environment variables from a .env file
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
@@ -4889,7 +4890,7 @@
 - [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
-- [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - A set of cache abstractions extracted out of the Symfony components
+- [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - Generic abstractions related to caching
 - [symfony/cache](https://github.com/symfony/cache) - Provides extended PSR-6, PSR-16 (and tags) implementations
 - [symfony/browser-kit](https://github.com/symfony/browser-kit) - Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically
 - [symfony/asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files
@@ -5040,7 +5041,7 @@
 
 ## project-management 
 
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 
@@ -5526,7 +5527,7 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
@@ -5804,7 +5805,6 @@
 - [SymfonyLive/paris-2020-talks](https://github.com/SymfonyLive/paris-2020-talks) - 
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐
 - [dustin10/VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) - A simple Symfony bundle to ease file uploads with ORM entities and ODM documents.
-- [twigphp/twig-extra-bundle](https://github.com/twigphp/twig-extra-bundle) - The Twig bundle for official extra extensions
 - [SymfonyCasts/verify-email-bundle](https://github.com/SymfonyCasts/verify-email-bundle) - Simple, stylish Email Verification for Symfony
 - [symfony/templating](https://github.com/symfony/templating) - Provides all the tools needed to build any kind of template system
 - [symfony/polyfill-php80](https://github.com/symfony/polyfill-php80) - Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions
@@ -5835,7 +5835,7 @@
 - [symfony/security](https://github.com/symfony/security) - Provides a complete security system for your web application
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [SymfonyCon/2019-talks](https://github.com/SymfonyCon/2019-talks) - 
-- [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - A set of HTTP client abstractions extracted out of the Symfony components
+- [symfony/http-client-contracts](https://github.com/symfony/http-client-contracts) - Generic abstractions related to HTTP clients
 - [symfony/http-client](https://github.com/symfony/http-client) - Provides powerful methods to fetch HTTP resources synchronously or asynchronously
 - [awoimbee/sf4_updater](https://github.com/awoimbee/sf4_updater) - Helper for migrating from symfony 3 to symfony 4. Scans and removes deprecations
 - [symfony/error-handler](https://github.com/symfony/error-handler) - Provides tools to manage errors and ease debugging PHP code
@@ -5849,11 +5849,11 @@
 - [symfony/validator](https://github.com/symfony/validator) - Provides tools to validate values
 - [symfony/twig-bundle](https://github.com/symfony/twig-bundle) - Provides a tight integration of Twig into the Symfony full-stack framework
 - [symfony/twig-bridge](https://github.com/symfony/twig-bridge) - Provides integration for Twig with various Symfony components
-- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - A set of translation abstractions extracted out of the Symfony components
+- [symfony/translation-contracts](https://github.com/symfony/translation-contracts) - Generic abstractions related to translation
 - [symfony/test-pack](https://github.com/symfony/test-pack) - A Symfony Pack for functional testing
 - [symfony/swiftmailer-bundle](https://github.com/symfony/swiftmailer-bundle) - Symfony Swiftmailer Bundle
 - [symfony/stopwatch](https://github.com/symfony/stopwatch) - Provides a way to profile code
-- [symfony/service-contracts](https://github.com/symfony/service-contracts) - A set of service abstractions extracted out of the Symfony components
+- [symfony/service-contracts](https://github.com/symfony/service-contracts) - Generic abstractions related to writing services
 - [symfony/serializer-pack](https://github.com/symfony/serializer-pack) - A Symfony Pack for Symfony Serializer
 - [symfony/serializer](https://github.com/symfony/serializer) - Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.
 - [symfony/security-http](https://github.com/symfony/security-http) - Symfony Security Component - HTTP Integration
@@ -5886,7 +5886,7 @@
 - [symfony/finder](https://github.com/symfony/finder) - Finds files and directories via an intuitive fluent interface
 - [symfony/filesystem](https://github.com/symfony/filesystem) - Provides basic utilities for the filesystem
 - [symfony/expression-language](https://github.com/symfony/expression-language) - Provides an engine that can compile and evaluate expressions
-- [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - A set of event dispatcher abstractions extracted out of the Symfony components
+- [symfony/event-dispatcher-contracts](https://github.com/symfony/event-dispatcher-contracts) - Generic abstractions related to dispatching event
 - [symfony/event-dispatcher](https://github.com/symfony/event-dispatcher) - Provides tools that allow your application components to communicate with each other by dispatching events and listening to them
 - [symfony/dotenv](https://github.com/symfony/dotenv) - Registers environment variables from a .env file
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - Eases DOM navigation for HTML and XML documents
@@ -5898,7 +5898,7 @@
 - [symfony/css-selector](https://github.com/symfony/css-selector) - Converts CSS selectors to XPath expressions
 - [symfony/console](https://github.com/symfony/console) - Eases the creation of beautiful and testable command line interfaces
 - [symfony/config](https://github.com/symfony/config) - Helps you find, load, combine, autofill and validate configuration values of any kind
-- [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - A set of cache abstractions extracted out of the Symfony components
+- [symfony/cache-contracts](https://github.com/symfony/cache-contracts) - Generic abstractions related to caching
 - [symfony/cache](https://github.com/symfony/cache) - Provides extended PSR-6, PSR-16 (and tags) implementations
 - [symfony/browser-kit](https://github.com/symfony/browser-kit) - Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically
 - [symfony/asset](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files
