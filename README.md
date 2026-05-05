@@ -35,7 +35,6 @@
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -671,10 +670,6 @@
 - [motion-twin/WebGamesArchives](https://github.com/motion-twin/WebGamesArchives) - 
 - [zenturi/zenflo](https://github.com/zenturi/zenflo) - Flow Based Programming Kit.
 
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
 ## Java 
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -1125,6 +1120,7 @@
 - [lightning/bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Mathematica 
@@ -1386,6 +1382,7 @@
 
 ## PHP 
 
+- [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [matyo91/nolife-agency](https://github.com/matyo91/nolife-agency) - 
 - [matyo91/llm-game-of-life](https://github.com/matyo91/llm-game-of-life) - 
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
