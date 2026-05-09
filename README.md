@@ -402,6 +402,9 @@
 
 ## GDScript 
 
+- [yoloyee1/SMB-clone-made-by-Godot](https://github.com/yoloyee1/SMB-clone-made-by-Godot) - 
+- [charpurrr/SuperMarioSolarEngine](https://github.com/charpurrr/SuperMarioSolarEngine) - An open source fanmade 2D Mario engine that implements elements from all the mainline 3D titles
+- [Axelrpg/Super-Mario-Bros-Godot](https://github.com/Axelrpg/Super-Mario-Bros-Godot) - 
 - [wchen02/platformer](https://github.com/wchen02/platformer) - Super Mario Replica platformer game built with godot
 - [matyo91/darkwaar2](https://github.com/matyo91/darkwaar2) - Darkwaar2 Prototype
 - [matyo91/darkwaar1](https://github.com/matyo91/darkwaar1) - Darkwaar1 Prototype
@@ -925,7 +928,7 @@
 - [Annihil/github-spray](https://github.com/Annihil/github-spray) - :octocat: Draw on your GitHub contribution graph ░▒▓█
 - [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
-- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
+- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Notebooks
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - The Observable standard library.
 - [bijection/nearley-playground](https://github.com/bijection/nearley-playground) - ⛹ Write Grammars for the Nearley Parser!
 - [jherr/virus-simulator](https://github.com/jherr/virus-simulator) - Virus simulator
@@ -1387,6 +1390,7 @@
 
 ## PHP 
 
+- [matyo91/mario-orquestration](https://github.com/matyo91/mario-orquestration) - 
 - [playwright-php/playwright](https://github.com/playwright-php/playwright) - Playwright PHP library for browser automation: navigation, E2E tests, assertions, screenshots, and so much more!
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [matyo91/nolife-agency](https://github.com/matyo91/nolife-agency) - 
@@ -2232,6 +2236,7 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
 - [OminousIndustries/SocialRobot](https://github.com/OminousIndustries/SocialRobot) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -2790,7 +2795,7 @@
 - [arnolanglade/mikado-app](https://github.com/arnolanglade/mikado-app) - [POC] MikadoApp is an open-source tool to simplify the Mikado graph creation and sharing.
 - [mrousavy/FaceBlurApp](https://github.com/mrousavy/FaceBlurApp) - An app that blurs faces in realtime using VisionCamera, Skia and MLKit 😷
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [webdevcody/survive-the-night-sim](https://github.com/webdevcody/survive-the-night-sim) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
