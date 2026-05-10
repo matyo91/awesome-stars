@@ -3228,6 +3228,7 @@
 
 ## others 
 
+- [fastify/fast-uri](https://github.com/fastify/fast-uri) - Dependency-free RFC 3986 URI toolbox
 - [matyo91/mario-orquestration](https://github.com/matyo91/mario-orquestration) - 
 - [yoloyee1/SMB-clone-made-by-Godot](https://github.com/yoloyee1/SMB-clone-made-by-Godot) - 
 - [Axelrpg/Super-Mario-Bros-Godot](https://github.com/Axelrpg/Super-Mario-Bros-Godot) - 
@@ -5740,6 +5741,7 @@
 
 ## symfony 
 
+- [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
 - [darkwood-com/ia-exception-bundle](https://github.com/darkwood-com/ia-exception-bundle) - 🚨 Darkwood IA Exception Bundle for Symfony
@@ -6047,6 +6049,7 @@
 
 ## testing 
 
+- [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [IngeniozIT/php-skeleton](https://github.com/IngeniozIT/php-skeleton) - A clean new PHP project
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
