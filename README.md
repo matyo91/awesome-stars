@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [svatostop/anthrax-ai](https://github.com/svatostop/anthrax-ai) - 
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [ponceto/another-world-interpreter](https://github.com/ponceto/another-world-interpreter) - Yet Another World Bytecode Interpreter [this repository is a mirror]
@@ -446,6 +447,7 @@
 
 ## Go 
 
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
 - [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
@@ -1185,7 +1187,6 @@
 - [resend/resend-openapi](https://github.com/resend/resend-openapi) - Resend's OpenAPI Spec
 - [BaratiLab/Material-Database-Agent](https://github.com/BaratiLab/Material-Database-Agent) - 
 - [gmoigneu/the-a-team](https://github.com/gmoigneu/the-a-team) - 
-- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
@@ -1395,6 +1396,7 @@
 - [playwright-php/playwright](https://github.com/playwright-php/playwright) - Playwright PHP library for browser automation: navigation, E2E tests, assertions, screenshots, and so much more!
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [matyo91/nolife-agency](https://github.com/matyo91/nolife-agency) - 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 
 - [matyo91/llm-game-of-life](https://github.com/matyo91/llm-game-of-life) - 
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
 - [matyo91/omer-quotes](https://github.com/matyo91/omer-quotes) - This projet help compare Message oriented VS Data oriented
@@ -2237,6 +2239,7 @@
 
 ## Python 
 
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
 - [OminousIndustries/SocialRobot](https://github.com/OminousIndustries/SocialRobot) - 
@@ -2741,6 +2744,7 @@
 
 ## TypeScript 
 
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [cursor/cookbook](https://github.com/cursor/cookbook) - 
 - [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
