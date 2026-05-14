@@ -447,6 +447,7 @@
 
 ## Go 
 
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
 - [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
@@ -713,6 +714,7 @@
 
 ## JavaScript 
 
+- [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [fastify/fast-uri](https://github.com/fastify/fast-uri) - Dependency-free RFC 3986 URI toolbox
 - [BerserkerVV/BerserkerVV](https://github.com/BerserkerVV/BerserkerVV) - 
 - [mrzdevcore/multisite-boiler-plate](https://github.com/mrzdevcore/multisite-boiler-plate) - Frontend boiler plate to build multi-site in one project
@@ -977,7 +979,7 @@
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [webpack/watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [noflo/noflo-mclighting](https://github.com/noflo/noflo-mclighting) - NoFlo components for interacting with McLighting
 - [c-base/c-blinken](https://github.com/c-base/c-blinken) - IoT animations manager for c-base and c-flo
@@ -1391,6 +1393,7 @@
 
 ## PHP 
 
+- [matyo91/nolife-models](https://github.com/matyo91/nolife-models) - 
 - [php-fig/simple-cache](https://github.com/php-fig/simple-cache) - 
 - [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
 - [matyo91/mario-orquestration](https://github.com/matyo91/mario-orquestration) - 
@@ -2240,6 +2243,8 @@
 
 ## Python 
 
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
+- [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🧪 An application designed to test and compare Local LLM using Ollama.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
@@ -2746,6 +2751,8 @@
 
 ## TypeScript 
 
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
+- [davrous/musicalJARVIB](https://github.com/davrous/musicalJARVIB) - An AI Agent running in a Teams meeting transforming viola notes and prompts in a 3D interactive scene!
 - [SonicDMG/openrag-langflow-app](https://github.com/SonicDMG/openrag-langflow-app) - 
 - [cursor/cookbook](https://github.com/cursor/cookbook) - 
 - [NousResearch/hermes-paperclip-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
