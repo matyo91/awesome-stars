@@ -429,7 +429,7 @@
 - [tomankirilov/VPainter](https://github.com/tomankirilov/VPainter) - A vertex painting addon for the Godot game engine.
 - [btzr-io/gwj-25](https://github.com/btzr-io/gwj-25) - 
 - [gdquest-demos/godot-2d-space-game](https://github.com/gdquest-demos/godot-2d-space-game) - A 2D space exploration and mining game made with Godot and our AI framework
-- [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
+- [gdquest-demos/godot-4-procedural-generation](https://github.com/gdquest-demos/godot-4-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [w84death/Tanks-of-Freedom](https://github.com/w84death/Tanks-of-Freedom) - Indie Turn Based Strategy in Isometric Pixel Art
 - [heroiclabs/nakama-godot](https://github.com/heroiclabs/nakama-godot) - Nakama Godot Client SDK
 - [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
