@@ -715,6 +715,7 @@
 
 ## JavaScript 
 
+- [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [fastify/fast-uri](https://github.com/fastify/fast-uri) - Dependency-free RFC 3986 URI toolbox
 - [BerserkerVV/BerserkerVV](https://github.com/BerserkerVV/BerserkerVV) - 
@@ -1189,7 +1190,6 @@
 - [resend/resend-openapi](https://github.com/resend/resend-openapi) - Resend's OpenAPI Spec
 - [BaratiLab/Material-Database-Agent](https://github.com/BaratiLab/Material-Database-Agent) - 
 - [gmoigneu/the-a-team](https://github.com/gmoigneu/the-a-team) - 
-- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
 - [matyo91/darkwaar4](https://github.com/matyo91/darkwaar4) - darkwaar4 Prototype
@@ -2252,6 +2252,7 @@
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [OminousIndustries/SocialRobot](https://github.com/OminousIndustries/SocialRobot) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [mrzdevcore/ai-harness](https://github.com/mrzdevcore/ai-harness) - 
@@ -2512,6 +2513,7 @@
 
 ## Rust 
 
+- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — 100% Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
