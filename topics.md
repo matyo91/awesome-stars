@@ -3239,6 +3239,8 @@
 
 ## others 
 
+- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — 100% Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
+- [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [matyo91/flowvox-ios](https://github.com/matyo91/flowvox-ios) - 
 - [future-agi/n8n-nodes-futureagi](https://github.com/future-agi/n8n-nodes-futureagi) - 
