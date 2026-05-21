@@ -2243,6 +2243,7 @@
 
 ## Python 
 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
@@ -2760,6 +2761,8 @@
 
 ## TypeScript 
 
+- [SonicDMG/rag-to-model-compare](https://github.com/SonicDMG/rag-to-model-compare) - 
+- [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero) - The free, open collection of cinematic video hero sections Browse, preview, copy & download production-ready backgrounds - instantly.
 - [future-agi/n8n-nodes-futureagi](https://github.com/future-agi/n8n-nodes-futureagi) - 
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [davrous/musicalJARVIB](https://github.com/davrous/musicalJARVIB) - An AI Agent running in a Teams meeting transforming viola notes and prompts in a 3D interactive scene!
