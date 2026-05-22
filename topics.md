@@ -3243,6 +3243,12 @@
 
 ## others 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.
+- [goabonga/multicz-action](https://github.com/goabonga/multicz-action) - GitHub Action that installs multicz - a multi-component versioning tool for monorepos.
+- [goabonga/multicz](https://github.com/goabonga/multicz) - Multi-component versioning for monorepos: bump apps, charts, and images independently from conventional commits.
+- [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
+- [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [SonicDMG/rag-to-model-compare](https://github.com/SonicDMG/rag-to-model-compare) - 
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — 100% Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
 - [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
