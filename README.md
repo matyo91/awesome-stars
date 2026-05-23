@@ -715,6 +715,7 @@
 
 ## JavaScript 
 
+- [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - A variety of custom ComfyUI nodes and workflows
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
 - [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
@@ -1395,6 +1396,8 @@
 
 ## PHP 
 
+- [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
+- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works.
 - [matyo91/nolife-models](https://github.com/matyo91/nolife-models) - 
 - [php-fig/simple-cache](https://github.com/php-fig/simple-cache) - 
 - [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
@@ -2245,6 +2248,7 @@
 
 ## Python 
 
+- [apple/ml-lito](https://github.com/apple/ml-lito) - [ICLR 2026] LiTo: Surface Light Field Tokenization
 - [goabonga/multicz](https://github.com/goabonga/multicz) - Multi-component versioning for monorepos: bump apps, charts, and images independently from conventional commits.
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
