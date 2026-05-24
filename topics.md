@@ -511,6 +511,7 @@
 
 ## api 
 
+- [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [webagent-cloud/webagent](https://github.com/webagent-cloud/webagent) - 🚀 Fast AI web browser agent to automate repetitive tasks
@@ -927,6 +928,7 @@
 
 ## cloud 
 
+- [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
@@ -3243,6 +3245,9 @@
 
 ## others 
 
+- [apple/ml-lito](https://github.com/apple/ml-lito) - [ICLR 2026] LiTo: Surface Light Field Tokenization
+- [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - A variety of custom ComfyUI nodes and workflows
+- [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.
 - [goabonga/multicz-action](https://github.com/goabonga/multicz-action) - GitHub Action that installs multicz - a multi-component versioning tool for monorepos.
@@ -3257,7 +3262,7 @@
 - [future-agi/n8n-nodes-futureagi](https://github.com/future-agi/n8n-nodes-futureagi) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [symfony/models-dev](https://github.com/symfony/models-dev) - 
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk pro
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🧪 An application designed to test and compare Local LLM using Ollama.
 - [matyo91/nolife-models](https://github.com/matyo91/nolife-models) - 
@@ -4626,6 +4631,7 @@
 
 ## php 
 
+- [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [php-fig/simple-cache](https://github.com/php-fig/simple-cache) - 
 - [symfonycorp/security-checker-action](https://github.com/symfonycorp/security-checker-action) - The PHP Security Checker
