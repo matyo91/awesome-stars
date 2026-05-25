@@ -1396,6 +1396,7 @@
 
 ## PHP 
 
+- [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead co
 - [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
 - [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works.
 - [matyo91/nolife-models](https://github.com/matyo91/nolife-models) - 
@@ -1405,7 +1406,7 @@
 - [playwright-php/playwright](https://github.com/playwright-php/playwright) - Playwright PHP library for browser automation: navigation, E2E tests, assertions, screenshots, and so much more!
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [matyo91/nolife-agency](https://github.com/matyo91/nolife-agency) - 
-- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - The Darkwood PHP framework
 - [matyo91/llm-game-of-life](https://github.com/matyo91/llm-game-of-life) - 
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
 - [matyo91/omer-quotes](https://github.com/matyo91/omer-quotes) - This projet help compare Message oriented VS Data oriented
@@ -1563,7 +1564,6 @@
 - [alexandre-daubois/phikl](https://github.com/alexandre-daubois/phikl) - 🥒 Apple's Pkl bridge for PHP
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP's built-in reflection API.
 - [WebMamba/workshop-finish](https://github.com/WebMamba/workshop-finish) - 
-- [TomasVotruba/editorconfig-fixer](https://github.com/TomasVotruba/editorconfig-fixer) - 
 - [wazum/symfony-messenger-batch](https://github.com/wazum/symfony-messenger-batch) - Handling messages in batches with Symfony Messenger
 - [Twenga/twgit](https://github.com/Twenga/twgit) - Twgit is a free and open source assisting tools for managing features, hotfixes and releases on Git repositories. It provides simple, high-level commands to adopt the branching model describes in our 
 - [qdequippe-tech/pappers-php-api](https://github.com/qdequippe-tech/pappers-php-api) - PHP client for Pappers's API
@@ -2248,6 +2248,7 @@
 
 ## Python 
 
+- [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [apple/ml-lito](https://github.com/apple/ml-lito) - [ICLR 2026] LiTo: Surface Light Field Tokenization
 - [goabonga/multicz](https://github.com/goabonga/multicz) - Multi-component versioning for monorepos: bump apps, charts, and images independently from conventional commits.
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
@@ -2546,7 +2547,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [obhq/obliteration](https://github.com/obhq/obliteration) - Experimental free and open-source PlayStation 4 kernel
-- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI.
+- [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
 - [stoatchat/stoatchat](https://github.com/stoatchat/stoatchat) - The software powering Stoat
 - [httpmock/httpmock](https://github.com/httpmock/httpmock) - HTTP mocking library for Rust
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
@@ -2770,6 +2771,7 @@
 
 ## TypeScript 
 
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.
 - [SonicDMG/rag-to-model-compare](https://github.com/SonicDMG/rag-to-model-compare) - 
 - [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero) - The free, open collection of cinematic video hero sections Browse, preview, copy & download production-ready backgrounds - instantly.
