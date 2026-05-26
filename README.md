@@ -293,7 +293,7 @@
 
 ## CMake 
 
-- [gxalpha/obs-mac-backgroundremoval](https://github.com/gxalpha/obs-mac-backgroundremoval) - Background removal plugin using macOS' system APIs
+- [sebastian-s-beckmann/obs-mac-backgroundremoval](https://github.com/sebastian-s-beckmann/obs-mac-backgroundremoval) - Background removal plugin using macOS' system APIs
 
 ## CSS 
 
@@ -1396,6 +1396,7 @@
 
 ## PHP 
 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - The Darkwood PHP framework
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead co
 - [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
 - [nunomaduro/pokio](https://github.com/nunomaduro/pokio) - Pokio is a dead simple Asynchronous API for PHP that just works.
@@ -1406,7 +1407,6 @@
 - [playwright-php/playwright](https://github.com/playwright-php/playwright) - Playwright PHP library for browser automation: navigation, E2E tests, assertions, screenshots, and so much more!
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [matyo91/nolife-agency](https://github.com/matyo91/nolife-agency) - 
-- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - The Darkwood PHP framework
 - [matyo91/llm-game-of-life](https://github.com/matyo91/llm-game-of-life) - 
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
 - [matyo91/omer-quotes](https://github.com/matyo91/omer-quotes) - This projet help compare Message oriented VS Data oriented
@@ -2524,7 +2524,7 @@
 ## Rust 
 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — 100% Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
+- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
