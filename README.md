@@ -1188,6 +1188,7 @@
 
 ## Others 
 
+- [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) - Opinionated CS checks, Symfony style
 - [goabonga/multicz-action](https://github.com/goabonga/multicz-action) - GitHub Action that installs multicz - a multi-component versioning tool for monorepos.
 - [symfonycorp/security-checker-action](https://github.com/symfonycorp/security-checker-action) - The PHP Security Checker
 - [resend/resend-openapi](https://github.com/resend/resend-openapi) - Resend's OpenAPI Spec
@@ -2279,7 +2280,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [webagent-cloud/webagent](https://github.com/webagent-cloud/webagent) - 🚀 Fast AI web browser agent to automate repetitive tasks
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
-- [langchain-ai/langchain-community](https://github.com/langchain-ai/langchain-community) - Community-maintained LangChain integrations
+- [langchain-ai/langchain-community](https://github.com/langchain-ai/langchain-community) - ⚠️ No longer maintained, see linked issue
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text models
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
