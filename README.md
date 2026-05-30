@@ -597,7 +597,7 @@
 
 - [darkwood-com/crypto-trade](https://github.com/darkwood-com/crypto-trade) - 🤑 Easy win money
 - [Puliczek/mcp-memory](https://github.com/Puliczek/mcp-memory) - 🔥🖥️ MCP Memory is a MCP Server that gives MCP Clients (Cursor, Claude, Windsurf and more) the ability to remember information about users (preferences, behaviors) across conversations.
-- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
+- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [platformsh/platformsh-docs](https://github.com/platformsh/platformsh-docs) - Platform.sh documentation. Templates available at https://github.com/platformsh-templates/
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog.
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
@@ -724,7 +724,6 @@
 - [mrzdevcore/multisite-boiler-plate](https://github.com/mrzdevcore/multisite-boiler-plate) - Frontend boiler plate to build multi-site in one project
 - [matyo91/darkwaar3](https://github.com/matyo91/darkwaar3) - darkwaar3 Prototype
 - [RachelfTech/procedural-terrain-generation](https://github.com/RachelfTech/procedural-terrain-generation) - p5.js Perlin noise based terrain generation
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -2524,6 +2523,7 @@
 
 ## Rust 
 
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
@@ -2772,6 +2772,7 @@
 
 ## TypeScript 
 
+- [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [hasanharman/isomiddleearth](https://github.com/hasanharman/isomiddleearth) - An isometric world‑builder set in Tolkien’s Middle‑earth, where you create and shape your own landscapes inspired by its iconic lands and lore.
 - [SonicDMG/rag-to-model-compare](https://github.com/SonicDMG/rag-to-model-compare) - 
@@ -2794,6 +2795,7 @@
 - [alondmnt/joplin-plugin-tag-navigator](https://github.com/alondmnt/joplin-plugin-tag-navigator) - A PKM system to organise, search, browse and convert inline tags, front matter and tasks in Joplin
 - [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
 - [mirkobozzetto/whisper-audio-converter](https://github.com/mirkobozzetto/whisper-audio-converter) - Converts any audio format to Whisper-optimized MP3 with automatic bitrate   standardization via REST API
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -3074,7 +3076,7 @@
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [evanpurkhiser/tune-manager](https://github.com/evanpurkhiser/tune-manager) - web app to sort, organize, import, and manage my DJ music collection
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
