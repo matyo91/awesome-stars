@@ -1100,7 +1100,6 @@
 
 ## Lua 
 
-- [doaso/dotfiles](https://github.com/doaso/dotfiles) - My dotfiles 😼
 - [poperigby/better-blood](https://github.com/poperigby/better-blood) - 
 - [BlankSourceCode/obs-zoom-to-mouse](https://github.com/BlankSourceCode/obs-zoom-to-mouse) - An OBS lua script to zoom a display-capture source to focus on the mouse
 - [evanpurkhiser/cleanUI](https://github.com/evanpurkhiser/cleanUI) - My old World of Warcraft UI
