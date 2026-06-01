@@ -1424,7 +1424,6 @@
 
 ## dotfiles 
 
-- [doaso/dotfiles](https://github.com/doaso/dotfiles) - My dotfiles 😼
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
