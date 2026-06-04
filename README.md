@@ -92,6 +92,7 @@
 
 ## Astro 
 
+- [FabienSalles/website](https://github.com/FabienSalles/website) - 
 - [creatures-sh/creatures.sh](https://github.com/creatures-sh/creatures.sh) - The creatures.sh website repo
 - [fairsource/fair.io](https://github.com/fairsource/fair.io) - Software sharing for modern businesses. Engage the developer community with your core products.
 - [evanpurkhiser/purkhiser.com](https://github.com/evanpurkhiser/purkhiser.com) - Purkhiser Electronics business website
@@ -466,7 +467,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
@@ -724,6 +725,7 @@
 - [mrzdevcore/multisite-boiler-plate](https://github.com/mrzdevcore/multisite-boiler-plate) - Frontend boiler plate to build multi-site in one project
 - [matyo91/darkwaar3](https://github.com/matyo91/darkwaar3) - darkwaar3 Prototype
 - [RachelfTech/procedural-terrain-generation](https://github.com/RachelfTech/procedural-terrain-generation) - p5.js Perlin noise based terrain generation
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -964,7 +966,7 @@
 - [wgao19/gatsby-starter-multiple-author](https://github.com/wgao19/gatsby-starter-multiple-author) - A Gatsby starter for multiple author blog.
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
 - [mourner/bullshit.js](https://github.com/mourner/bullshit.js) - A bookmarklet for translating marketing speak into human-readable text. :poop:
-- [maribethb/blockly-games](https://github.com/maribethb/blockly-games) - Games for tomorrow's programmers.
+- [blockly-games/blockly-games](https://github.com/blockly-games/blockly-games) - Games for tomorrow's programmers.
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
 - [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
@@ -1190,7 +1192,6 @@
 - [goabonga/multicz-action](https://github.com/goabonga/multicz-action) - GitHub Action that installs multicz - a multi-component versioning tool for monorepos.
 - [symfonycorp/security-checker-action](https://github.com/symfonycorp/security-checker-action) - The PHP Security Checker
 - [resend/resend-openapi](https://github.com/resend/resend-openapi) - Resend's OpenAPI Spec
-- [BaratiLab/Material-Database-Agent](https://github.com/BaratiLab/Material-Database-Agent) - 
 - [gmoigneu/the-a-team](https://github.com/gmoigneu/the-a-team) - 
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [joplin/web-app](https://github.com/joplin/web-app) - Joplin web app (beta)
@@ -2260,6 +2261,7 @@
 - [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🧪 An application designed to test and compare Local LLM using Ollama.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [BaratiLab/Material-Database-Agent](https://github.com/BaratiLab/Material-Database-Agent) - 
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [OminousIndustries/SocialRobot](https://github.com/OminousIndustries/SocialRobot) - 
@@ -2523,6 +2525,7 @@
 
 ## Rust 
 
+- [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Mobile voice notes app — Rust, Dioxus iOS, local-first (SQLite + LanceDB + RIG)
@@ -2557,7 +2560,7 @@
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
+- [RustAudio/cpal](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in Rust
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A tacit array programming language
 - [flows-network/flows-connector](https://github.com/flows-network/flows-connector) - The SaaS connectors that flows.network supported
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Devtools to validate, audit and investigate WebAssembly binaries.
@@ -2795,7 +2798,6 @@
 - [alondmnt/joplin-plugin-tag-navigator](https://github.com/alondmnt/joplin-plugin-tag-navigator) - A PKM system to organise, search, browse and convert inline tags, front matter and tasks in Joplin
 - [alondmnt/joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (GPT, Claude, Gemini, Ollama, Hugging Face)
 - [mirkobozzetto/whisper-audio-converter](https://github.com/mirkobozzetto/whisper-audio-converter) - Converts any audio format to Whisper-optimized MP3 with automatic bitrate   standardization via REST API
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -2817,7 +2819,7 @@
 - [Kameleoon-new/bouncing-ball](https://github.com/Kameleoon-new/bouncing-ball) - bouncing-ball
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
+- [supabase/mcp](https://github.com/supabase/mcp) - Connect Supabase to your AI assistants
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [imjoshin/imjosh.in](https://github.com/imjoshin/imjosh.in) - imjoshin's homepage built with Gatsby.
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
