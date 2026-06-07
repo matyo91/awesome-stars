@@ -1343,7 +1343,6 @@
 - [NaNoGenMo/2020](https://github.com/NaNoGenMo/2020) - National Novel Generation Month, 2020 edition.
 - [NaNoGenMo/2017](https://github.com/NaNoGenMo/2017) - National Novel Generation Month, 2017 edition.
 - [janober/test](https://github.com/janober/test) - 
-- [flexbox/community-starter-kit](https://github.com/flexbox/community-starter-kit) - 
 - [api-specification-toolbox/people](https://github.com/api-specification-toolbox/people) - This is a list of people who know about OpenAPI.
 - [mayhemantt/mayhemantt](https://github.com/mayhemantt/mayhemantt) - Awesome Github Profile Readme. Github ReadMe Github Profile Readme Dynamic Github ReadMe Dynamic Github Profile ReadMe. Please Star and Fork
 - [utilForever/DuelMaster](https://github.com/utilForever/DuelMaster) - Yu-Gi-Oh! simulator using Rust with some reinforcement learning - "Fair play Fair duel"
@@ -1357,7 +1356,6 @@
 - [jlondiche/job-board-php](https://github.com/jlondiche/job-board-php) - 
 - [TwanBox/TwanBox](https://github.com/TwanBox/TwanBox) - profile readme
 - [github/renaming](https://github.com/github/renaming) - Guidance for changing the default branch name for GitHub repositories
-- [TomasVotruba/awesome-php-migrations](https://github.com/TomasVotruba/awesome-php-migrations) - Awesome sources for PHP projects migrations - legacy, pattern refactoring, framework switches, temlates and configs...
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [NirantK/awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
@@ -1397,6 +1395,7 @@
 
 ## PHP 
 
+- [EdouardCourty/data-gouv-client](https://github.com/EdouardCourty/data-gouv-client) - A data.gouv.fr API client written in PHP
 - [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - The Darkwood PHP framework
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead co
 - [welcoMattic/clevercloud-php-sdk](https://github.com/welcoMattic/clevercloud-php-sdk) - PHP SDK for Clever Cloud APIs (v2 & v4)
@@ -2526,6 +2525,7 @@
 
 ## Rust 
 
+- [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
@@ -2726,6 +2726,7 @@
 
 ## Svelte 
 
+- [open-webui/computer](https://github.com/open-webui/computer) - Get more done. Away.
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
 - [djhi/svelte-admin](https://github.com/djhi/svelte-admin) - 
