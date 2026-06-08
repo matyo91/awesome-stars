@@ -873,6 +873,7 @@
 
 ## cli 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [datastax/astra-cli](https://github.com/datastax/astra-cli) - Command Line Interface for DataStax Astra
@@ -3253,6 +3254,7 @@
 
 ## others 
 
+- [Syntaxx-HQ/PHPX-TaskBoard](https://github.com/Syntaxx-HQ/PHPX-TaskBoard) - 
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [open-webui/computer](https://github.com/open-webui/computer) - Get more done. Away.
 - [EdouardCourty/data-gouv-client](https://github.com/EdouardCourty/data-gouv-client) - A data.gouv.fr API client written in PHP
@@ -3877,7 +3879,7 @@
 - [flowbased/fbp-protocol](https://github.com/flowbased/fbp-protocol) - Tests, schemas, and specifications for the Flow Based Programming Network Protocol
 - [octalmage/active-window](https://github.com/octalmage/active-window) - Get active window title in Node.js.
 - [ipdata/php](https://github.com/ipdata/php) - Official PHP client library for the ipdata API
-- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
+- [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [wkta/space-gatherer](https://github.com/wkta/space-gatherer) - basic arcade game, that uses python3.8 & pygame2
 - [alexandresalome/mailcatcher](https://github.com/alexandresalome/mailcatcher) - A library to manipulate Mailcatcher API
 - [pat-och/Craftsmanship-Software-Resources](https://github.com/pat-och/Craftsmanship-Software-Resources) - 
@@ -5174,6 +5176,7 @@
 
 ## python 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
@@ -6499,6 +6502,7 @@
 
 ## youtube 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
