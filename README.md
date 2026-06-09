@@ -361,6 +361,7 @@
 - [OskarStark/php-cs-fixer-ga](https://github.com/OskarStark/php-cs-fixer-ga) - GithubAction for PHP-CS-Fixer
 - [OskarStark/phpstan-ga](https://github.com/OskarStark/phpstan-ga) - GithubAction for PHPStan
 - [dunglas/php-dev-docker](https://github.com/dunglas/php-dev-docker) - Docker image to hack the PHP interpreter
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [swoole/docker-swoole](https://github.com/swoole/docker-swoole) - 🏄 Official Docker Image of Swoole
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [pgrimaud/action-shopify](https://github.com/pgrimaud/action-shopify) - Deploy Shopify theme with Theme Kit on GitHub Actions
@@ -1058,6 +1059,7 @@
 
 ## Jupyter Notebook 
 
+- [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
 - [acantarero/genai-notebooks](https://github.com/acantarero/genai-notebooks) - Collection of generative AI notebooks
 - [datastaxdevs/build_accurate_ai_langflow_arize](https://github.com/datastaxdevs/build_accurate_ai_langflow_arize) - Flows, code and datasets for Livestream "Build More Accurate AI Apps with Langflow + Arize"
 - [tweag/monad-bayes](https://github.com/tweag/monad-bayes) - A library for probabilistic programming in Haskell.
@@ -1190,6 +1192,8 @@
 
 ## Others 
 
+- [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
+- [4lxndr/super-octo-spork](https://github.com/4lxndr/super-octo-spork) - 
 - [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) - Opinionated CS checks, Symfony style
 - [goabonga/multicz-action](https://github.com/goabonga/multicz-action) - GitHub Action that installs multicz - a multi-component versioning tool for monorepos.
 - [symfonycorp/security-checker-action](https://github.com/symfonycorp/security-checker-action) - The PHP Security Checker
@@ -1396,6 +1400,11 @@
 
 ## PHP 
 
+- [jaem3l/AutoTuneLoader](https://github.com/jaem3l/AutoTuneLoader) - 
+- [jaem3l/TwigEvalExtension](https://github.com/jaem3l/TwigEvalExtension) - 
+- [nicklog/imgproxy](https://github.com/nicklog/imgproxy) - 
+- [shapecode/cron-bundle](https://github.com/shapecode/cron-bundle) - This bundle provides a simple interface for registering repeated scheduled tasks within your application.
+- [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [EdouardCourty/data-gouv-client](https://github.com/EdouardCourty/data-gouv-client) - A data.gouv.fr API client written in PHP
 - [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - The Darkwood PHP framework
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead co
@@ -2374,7 +2383,6 @@
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
