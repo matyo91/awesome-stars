@@ -550,7 +550,6 @@
 - [liamg/gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [onepanelio/onepanel](https://github.com/onepanelio/onepanel) - The open source, end-to-end computer vision platform. Label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises.
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -639,6 +638,7 @@
 - [GetLuko/Covid19-French-Auth](https://github.com/GetLuko/Covid19-French-Auth) - 
 - [vanoix/vanoix.com](https://github.com/vanoix/vanoix.com) - Vanoix's Amazing Website
 - [phar-io/phar.io](https://github.com/phar-io/phar.io) - Website of the phar.io project
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [doctrine/sql-formatter](https://github.com/doctrine/sql-formatter) - A lightweight php class for formatting sql statements. Handles automatic indentation and syntax highlighting.
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [twigphp/twig-perf](https://github.com/twigphp/twig-perf) - 
@@ -2372,6 +2372,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -2385,7 +2386,6 @@
 - [LansburyCH/relightable-nr](https://github.com/LansburyCH/relightable-nr) - A Neural Rendering Framework for Free-Viewpoint Relighting (CVPR 2020)
 - [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) - 
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [angeluriot/Generative_adversarial_network](https://github.com/angeluriot/Generative_adversarial_network) - A deep learning model that can create high quality images by training on a dataset.
@@ -2581,6 +2581,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in Rust
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A tacit array programming language
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [flows-network/flows-connector](https://github.com/flows-network/flows-connector) - The SaaS connectors that flows.network supported
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Devtools to validate, audit and investigate WebAssembly binaries.
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
@@ -2880,14 +2881,13 @@
 - [marmelab/atomic-crm](https://github.com/marmelab/atomic-crm) - A full-featured CRM built with React, shadcn/ui, and Supabase.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Pioneering open-source coding agent
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
