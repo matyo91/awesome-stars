@@ -726,7 +726,6 @@
 
 - [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - A variety of custom ComfyUI nodes and workflows
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
-- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)
 - [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [fastify/fast-uri](https://github.com/fastify/fast-uri) - Dependency-free RFC 3986 URI toolbox
@@ -2548,6 +2547,7 @@
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
