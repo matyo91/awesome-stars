@@ -1495,7 +1495,7 @@
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 - [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - :link: [Deprecated] Adapter to provide ext-mongo interface on top of mongo-php-library
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [Setono/SyliusSchedulerPlugin](https://github.com/Setono/SyliusSchedulerPlugin) - 
 - [php-llm/mcp-bundle](https://github.com/php-llm/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via php-llm/mcp-sdk)
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
@@ -2327,7 +2327,7 @@
 - [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic Data SDK ✨
 - [SigmaHQ/pySigma](https://github.com/SigmaHQ/pySigma) - Python library to parse and convert Sigma rules into queries (and whatever else you could imagine)
 - [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [matyo91/prime-ai-answer](https://github.com/matyo91/prime-ai-answer) - 🤖 AI Auto-Responder for Social Media
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
