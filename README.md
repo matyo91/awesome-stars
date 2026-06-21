@@ -454,6 +454,7 @@
 
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
@@ -1008,7 +1009,6 @@
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [intoli/remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
-- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 - [bigyouth/gulp-dev](https://github.com/bigyouth/gulp-dev) - A gulp.js plug in that allows you to toggle html comments so that you can enable functionality for dev vs. production
 - [bigyouth/gulp-useref](https://github.com/bigyouth/gulp-useref) - Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.
@@ -2272,7 +2272,6 @@
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
-- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [symfony/models-dev](https://github.com/symfony/models-dev) - 
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
@@ -3097,6 +3096,7 @@
 - [HearthSim/Joust](https://github.com/HearthSim/Joust) - 🍿 Hearthstone replays in your browser.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [nodeca/js-yaml](https://github.com/nodeca/js-yaml) - JavaScript YAML parser and dumper. Very fast.
 - [evanpurkhiser/tune-manager](https://github.com/evanpurkhiser/tune-manager) - web app to sort, organize, import, and manage my DJ music collection
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
