@@ -922,7 +922,7 @@
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [flexbox/inspiration-native](https://github.com/flexbox/inspiration-native) - ⚛ Curated Quotes from Tech Conferences for Startup Pitch Decks
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profil
+- [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profile
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [btzr-io/Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
@@ -1499,7 +1499,7 @@
 - [mongodb/mongo-php-library](https://github.com/mongodb/mongo-php-library) - The Official MongoDB PHP library
 - [alcaeus/mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - :link: [Deprecated] Adapter to provide ext-mongo interface on top of mongo-php-library
 - [mongodb/mongo-php-driver](https://github.com/mongodb/mongo-php-driver) - The Official MongoDB PHP driver
-- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
+- [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that can interact with your data.
 - [Setono/SyliusSchedulerPlugin](https://github.com/Setono/SyliusSchedulerPlugin) - 
 - [php-llm/mcp-bundle](https://github.com/php-llm/mcp-bundle) - Symfony integration bundle for Model Context Protocol (via php-llm/mcp-sdk)
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
