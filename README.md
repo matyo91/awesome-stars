@@ -97,6 +97,7 @@
 - [creatures-sh/creatures.sh](https://github.com/creatures-sh/creatures.sh) - The creatures.sh website repo
 - [fairsource/fair.io](https://github.com/fairsource/fair.io) - Software sharing for modern businesses. Engage the developer community with your core products.
 - [evanpurkhiser/purkhiser.com](https://github.com/evanpurkhiser/purkhiser.com) - Purkhiser Electronics business website
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## AutoHotkey 
 
@@ -263,6 +264,7 @@
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [HackerPoet/Trackpad](https://github.com/HackerPoet/Trackpad) - Turns a Keyboard into a Trackpad
 - [nathanlo99/wordblitz](https://github.com/nathanlo99/wordblitz) - Fast Word Blitz player with auto-clicker
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
@@ -316,7 +318,6 @@
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [onestlatech/onestlatech.github.io](https://github.com/onestlatech/onestlatech.github.io) - ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [darkwood-com/2048-vnc](https://github.com/darkwood-com/2048-vnc) - A docker version of 2048 on VNC
 
 ## Clojure 
@@ -2535,7 +2536,6 @@
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [cantino/twitter_to_csv](https://github.com/cantino/twitter_to_csv) - Dump the Twitter stream to JSON and CSV, then apply filters, reject non-English content, do sentiment analysis, and more.
 - [prontolabs/pronto](https://github.com/prontolabs/pronto) - Quick automated code review of your changes
-- [sorbet/sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [aanand/git-up](https://github.com/aanand/git-up) - NOT MAINTAINED
@@ -2903,7 +2903,7 @@
 - [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - A flashcards app.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [Natizyskunk/vscode-sftp](https://github.com/Natizyskunk/vscode-sftp) - Super fast sftp/ftp extension for VS Code
 - [liximomo/vscode-remote-fs](https://github.com/liximomo/vscode-remote-fs) - Working with any file in everywhere with vscode.
