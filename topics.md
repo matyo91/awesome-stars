@@ -954,7 +954,7 @@
 
 ## cms 
 
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [qmachard/developers-blog](https://github.com/qmachard/developers-blog) - Every developer needs a simple blog
@@ -2838,7 +2838,7 @@
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
 - [sensiolabs/GotenbergBundle](https://github.com/sensiolabs/GotenbergBundle) - A Symfony Bundle for interacting with Gotenberg. Integrates natively with twig, router, PHPStorm and more !
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
@@ -3019,7 +3019,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - A flashcards app.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
@@ -5357,7 +5357,7 @@
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [gajus/redux-immutable](https://github.com/gajus/redux-immutable) - redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -6215,7 +6215,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
+- [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
