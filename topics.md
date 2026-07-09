@@ -400,7 +400,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 - [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3293,7 +3293,7 @@
 - [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
 - [Syntaxx-HQ/PHPX-TaskBoard](https://github.com/Syntaxx-HQ/PHPX-TaskBoard) - 
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
-- [open-webui/computer](https://github.com/open-webui/computer) - Get more done. Away.
+- [open-webui/computer](https://github.com/open-webui/computer) - Your Computer. Anywhere.
 - [EdouardCourty/data-gouv-client](https://github.com/EdouardCourty/data-gouv-client) - A data.gouv.fr API client written in PHP
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
@@ -3755,7 +3755,7 @@
 - [igorw/evenement](https://github.com/igorw/evenement) - Événement is a very simple event dispatching library for PHP.
 - [selency/openapi](https://github.com/selency/openapi) - Provides a user-friendly, object-oriented API to build OpenAPI specifications using PHP
 - [florentdestremau/symfonycon-turbo](https://github.com/florentdestremau/symfonycon-turbo) - A simple website to demonstrate symfony-ux turbo
-- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
+- [linagora/cozy-stack](https://github.com/linagora/cozy-stack) - Simple, Versatile, Yours
 - [freeotp/freeotp-ios](https://github.com/freeotp/freeotp-ios) - 
 - [miroir-os/gabin](https://github.com/miroir-os/gabin) - Automate camera switching with OBS, Bitfocus Companion and any audio api.
 - [charlax/entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) - A list of articles, books, videos related to entrepreneurship
@@ -5709,6 +5709,7 @@
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## server 
@@ -5718,6 +5719,7 @@
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
 - [redirectionio/libredirectionio](https://github.com/redirectionio/libredirectionio) - redirection.io redirect and filtering api (used in agent, proxies and web assembly module)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 
 ## serverless 
 
