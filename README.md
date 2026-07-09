@@ -491,7 +491,7 @@
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [ezeoleaf/larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a bot generator that post content from different providers to one or multiple publishers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
+- [linagora/cozy-stack](https://github.com/linagora/cozy-stack) - Simple, Versatile, Yours
 - [google/mangle](https://github.com/google/mangle) - 
 - [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -2273,7 +2273,7 @@
 
 - [Salesably/salesably-marketplace](https://github.com/Salesably/salesably-marketplace) - Claude Code plugins for sales and marketing teams. Built by Salesably.ai.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
-- [open-webui/computer](https://github.com/open-webui/computer) - Get more done. Away.
+- [open-webui/computer](https://github.com/open-webui/computer) - Your Computer. Anywhere.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [apple/ml-lito](https://github.com/apple/ml-lito) - [ICLR 2026] LiTo: Surface Light Field Tokenization
 - [goabonga/multicz](https://github.com/goabonga/multicz) - Multi-component versioning for monorepos: bump apps, charts, and images independently from conventional commits.
@@ -2398,7 +2398,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [AnalyzerREST/python-tradingview-ta](https://github.com/AnalyzerREST/python-tradingview-ta) - Unofficial TradingView technical analysis API wrapper.
