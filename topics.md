@@ -3280,6 +3280,7 @@
 
 ## others 
 
+- [matyo91/laravel-pipeline](https://github.com/matyo91/laravel-pipeline) - 
 - [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations.
 - [ircmaxell/PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP
 - [matyo91/flow-pipe](https://github.com/matyo91/flow-pipe) - 
