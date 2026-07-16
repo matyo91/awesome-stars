@@ -605,6 +605,7 @@
 
 ## HTML 
 
+- [mf4633/board-gaming](https://github.com/mf4633/board-gaming) - 30+ single-file HTML5 strategy games & sims at boardgaminghub.com — chess, go, mancala, plus originals (Bisque, Aresia, Doctrine) and physics sims (Apoapsis, Floodline, Tower)
 - [BrendanEich/sieve](https://github.com/BrendanEich/sieve) - Fun with primes
 - [Syntaxx-HQ/PHPX-TaskBoard](https://github.com/Syntaxx-HQ/PHPX-TaskBoard) - 
 - [darkwood-com/crypto-trade](https://github.com/darkwood-com/crypto-trade) - 🤑 Easy win money
@@ -2430,7 +2431,7 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
