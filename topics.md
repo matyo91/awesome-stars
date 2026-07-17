@@ -5577,7 +5577,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in Rust
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A tacit array programming language
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [flows-network/flows-connector](https://github.com/flows-network/flows-connector) - The SaaS connectors that flows.network supported
 - [wasmerio/wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️ WebAssembly runtime for Go
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
