@@ -1408,6 +1408,7 @@
 
 ## PHP 
 
+- [matyo91/rxjs-flow](https://github.com/matyo91/rxjs-flow) - 
 - [matyo91/laravel-pipeline](https://github.com/matyo91/laravel-pipeline) - 
 - [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations.
 - [true-async/php-async](https://github.com/true-async/php-async) - The heart of asynchronous PHP, delivered as a core extension and implementing the TrueAsync ABI.
