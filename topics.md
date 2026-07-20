@@ -3281,6 +3281,7 @@
 
 ## others 
 
+- [matyo91/rxjs-flow](https://github.com/matyo91/rxjs-flow) - 
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [matyo91/laravel-pipeline](https://github.com/matyo91/laravel-pipeline) - 
 - [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations.
