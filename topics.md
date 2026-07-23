@@ -1629,7 +1629,7 @@
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [SwiftyContacts/SwiftyContacts](https://github.com/SwiftyContacts/SwiftyContacts) - A Swift library for Contacts framework.
 - [recksjs/recks](https://github.com/recksjs/recks) - 🐶 React-like RxJS-based framework
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
 - [silexphp/Silex](https://github.com/silexphp/Silex) - [DEPRECATED -- Use Symfony instead] The PHP micro-framework based on the Symfony Components
 - [andreia/symfony-cheat-sheets](https://github.com/andreia/symfony-cheat-sheets) - Symfony Cheat Sheets
@@ -4929,7 +4929,7 @@
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [php-fig/http-factory](https://github.com/php-fig/http-factory) - Implementation of PSR-17 (HTTP Message Factories)
 - [php-http/httplug](https://github.com/php-http/httplug) - HTTPlug, the HTTP client abstraction for PHP
 - [SymfonyLive/paris-2020-talks](https://github.com/SymfonyLive/paris-2020-talks) - 
@@ -6181,7 +6181,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - PHPUnit extensions and rules for PHPStan
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) - Symfony extension for PHPStan
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [symfony/phpunit-bridge](https://github.com/symfony/phpunit-bridge) - Provides utilities for PHPUnit, especially user deprecation notices management
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
