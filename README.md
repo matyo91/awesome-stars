@@ -131,7 +131,6 @@
 - [ponceto/xcpc-emulator](https://github.com/ponceto/xcpc-emulator) - Xcpc - Amstrad CPC emulator for Linux, BSD, Unix [this repository is a mirror]
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
-- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [oransel/node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
@@ -730,6 +729,7 @@
 - [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
 - [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [fastify/fast-uri](https://github.com/fastify/fast-uri) - Dependency-free RFC 3986 URI toolbox
 - [BerserkerVV/BerserkerVV](https://github.com/BerserkerVV/BerserkerVV) - 
@@ -1132,6 +1132,7 @@
 
 - [IngeniozIT/php-skeleton](https://github.com/IngeniozIT/php-skeleton) - A clean new PHP project
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [Ysurac/openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [javanile/springboard](https://github.com/javanile/springboard) - 🌈 Your project's first place
 - [slashfan/docker-supervisor-php-workers](https://github.com/slashfan/docker-supervisor-php-workers) - Starting point configuration for running (PHP) workers inside Docker containers with Supervisor.
 - [motioneye-project/motioneyeos](https://github.com/motioneye-project/motioneyeos) - A Video Surveillance OS For Single-board Computers
@@ -1961,7 +1962,7 @@
 - [symfony/sendinblue-notifier](https://github.com/symfony/sendinblue-notifier) - Symfony Sendinblue Notifier Bridge
 - [janephp/janephp](https://github.com/janephp/janephp) - :seedling: Jane is a set of libraries to generate Models & API Clients based on JSON Schema / OpenAPI specs
 - [symfony/sendinblue-mailer](https://github.com/symfony/sendinblue-mailer) - Symfony Sendinblue Mailer Bridge
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - Symfony polyfill for uuid functions
 - [php-fig/http-factory](https://github.com/php-fig/http-factory) - Implementation of PSR-17 (HTTP Message Factories)
 - [php-http/promise](https://github.com/php-http/promise) - Promise used for asynchronous HTTP requests
@@ -2283,7 +2284,6 @@
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [symfony/models-dev](https://github.com/symfony/models-dev) - 
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🧪 An application designed to test and compare Local LLM using Ollama.
