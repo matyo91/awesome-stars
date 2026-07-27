@@ -3291,6 +3291,7 @@
 
 ## others 
 
+- [matyo91/framework-x-flow](https://github.com/matyo91/framework-x-flow) - 
 - [matyo91/rxjs-flow](https://github.com/matyo91/rxjs-flow) - 
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [matyo91/laravel-pipeline](https://github.com/matyo91/laravel-pipeline) - 
@@ -5769,6 +5770,7 @@
 ## shell 
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
 - [loophp/nix-shell](https://github.com/loophp/nix-shell) - Nix shells for PHP development
