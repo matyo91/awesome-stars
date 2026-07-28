@@ -3430,7 +3430,7 @@
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
-- [Halleck45/ast-metrics](https://github.com/Halleck45/ast-metrics) - See the invisible structure of your code
+- [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) - See the invisible structure of your code
 - [julienlucas/julienlucas](https://github.com/julienlucas/julienlucas) - 
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
 - [jmfayard/hire-me](https://github.com/jmfayard/hire-me) - Hire me !
