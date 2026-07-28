@@ -98,6 +98,7 @@
 - [fairsource/fair.io](https://github.com/fairsource/fair.io) - Software sharing for modern businesses. Engage the developer community with your core products.
 - [evanpurkhiser/purkhiser.com](https://github.com/evanpurkhiser/purkhiser.com) - Purkhiser Electronics business website
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## AutoHotkey 
 
@@ -463,7 +464,7 @@
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [LeonardoTrapani/hyprvoice](https://github.com/LeonardoTrapani/hyprvoice) - Voice‑powered typing for Wayland/Hyprland desktops
-- [Halleck45/ast-metrics](https://github.com/Halleck45/ast-metrics) - See the invisible structure of your code
+- [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) - See the invisible structure of your code
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
@@ -656,7 +657,6 @@
 - [DSchau/gatsby-mail](https://github.com/DSchau/gatsby-mail) - A Gatsby email *application*
 - [hendricius/pizza-dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [emmanuelroecker/php-w3cvalidator](https://github.com/emmanuelroecker/php-w3cvalidator) - Auto validate html and css files using w3c validation services
