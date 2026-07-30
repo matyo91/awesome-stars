@@ -357,7 +357,6 @@
 
 ## ai 
 
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
@@ -419,6 +418,7 @@
 
 ## ai-agents 
 
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
@@ -995,6 +995,7 @@
 
 ## code-quality 
 
+- [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) - See the   invisible structure of your code. Multi-language code quality and architecture analyzer (Go,   PHP, Python, Rust...)
 - [green-code-initiative/creedengo-rules-specifications](https://github.com/green-code-initiative/creedengo-rules-specifications) - Reduce the environmental footprint of your software programs with SonarQube
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
@@ -3430,7 +3431,6 @@
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFmpeg Assembly Language Lessons
 - [phpstreamserver/phpstreamserver](https://github.com/phpstreamserver/phpstreamserver) - PHPStreamServer is a high-performance PHP application server and process manager written in PHP.
-- [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) - See the invisible structure of your code
 - [julienlucas/julienlucas](https://github.com/julienlucas/julienlucas) - 
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
 - [jmfayard/hire-me](https://github.com/jmfayard/hire-me) - Hire me !
@@ -3880,7 +3880,7 @@
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [jpaulm/drawfbp](https://github.com/jpaulm/drawfbp) - Tool for Creating and Exploring Flow-Based Programming Diagram Hierarchies
 - [moltenform/vipercard](https://github.com/moltenform/vipercard) - An open source rewrite of 1987's HyperCard
-- [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
+- [kotauskas/interprocess](https://github.com/kotauskas/interprocess) - Cross-platform interprocess communication library for Rust
 - [igorw/lambda-php](https://github.com/igorw/lambda-php) - Lambda calculus interpreter in PHP.
 - [mpociot/mpociot](https://github.com/mpociot/mpociot) - 
 - [DavidSaintAnna/DavidSaintAnna](https://github.com/DavidSaintAnna/DavidSaintAnna) - 
@@ -5338,6 +5338,7 @@
 
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
