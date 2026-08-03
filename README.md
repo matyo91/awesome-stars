@@ -1197,6 +1197,8 @@
 
 ## Others 
 
+- [alexadark/compress-video-skill](https://github.com/alexadark/compress-video-skill) - Claude Code skill: shrink a video to 480p with FFmpeg, hardware-accelerated on macOS
+- [gmoigneu/skills](https://github.com/gmoigneu/skills) - 
 - [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
 - [4lxndr/super-octo-spork](https://github.com/4lxndr/super-octo-spork) - 
 - [symfony-tools/fabbot](https://github.com/symfony-tools/fabbot) - Opinionated CS checks, Symfony style
@@ -1266,7 +1268,6 @@
 - [arikroc/most-influential-books](https://github.com/arikroc/most-influential-books) - 📚🐦 Patrick Collison on Twitter: Which five books have influenced you the most? (In terms of shaping your worldview.)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
-- [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [SymfonyLive/paris-2023-talks](https://github.com/SymfonyLive/paris-2023-talks) - 
 - [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony) - A list of awesome Symfony bundles, utilities and resources.
 - [elazar/asynchronous-php](https://github.com/elazar/asynchronous-php) - List of resources for asynchronous programming in PHP
@@ -1406,6 +1407,7 @@
 
 ## PHP 
 
+- [matyo91/nolife-tests](https://github.com/matyo91/nolife-tests) - 
 - [matyo91/framework-x-flow](https://github.com/matyo91/framework-x-flow) - 
 - [matyo91/rxjs-flow](https://github.com/matyo91/rxjs-flow) - 
 - [matyo91/laravel-pipeline](https://github.com/matyo91/laravel-pipeline) - 
@@ -2362,7 +2364,6 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
@@ -2917,6 +2918,7 @@
 - [toddcooke/namechecker](https://github.com/toddcooke/namechecker) - Find out if your project name is taken
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community) - 🤗 Start Here! Discussions, issues, docs and roadmap
 - [total-typescript/typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [linuxfoundation/crowd.dev](https://github.com/linuxfoundation/crowd.dev) - LFX Community Data Platform (CDP)
