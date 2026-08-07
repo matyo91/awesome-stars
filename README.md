@@ -456,7 +456,7 @@
 
 - [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
@@ -1613,7 +1613,6 @@
 - [siberfx/share](https://github.com/siberfx/share) - "siberfx/share" package unofficial upgrading
 - [zenstruck/messenger-monitor-bundle](https://github.com/zenstruck/messenger-monitor-bundle) - Batteries included UI to monitor your Messenger workers, transports, schedules, and messages.
 - [TomasVotruba/class-leak](https://github.com/TomasVotruba/class-leak) - Find leaking classes that you never use... and get rid of them.
-- [Pierstoval/rad](https://github.com/Pierstoval/rad) - 
 - [AurelienPillevesse/game-of-thrones-website](https://github.com/AurelienPillevesse/game-of-thrones-website) - Game of Thrones website made for a PHP/HTML/CSS project during my studies at the IUT Clermont-Ferrand ; Mark : 18/20
 - [brefphp/dev-server](https://github.com/brefphp/dev-server) - Local development server for serverless web apps
 - [pgrimaud/lametric-hall-of-fame](https://github.com/pgrimaud/lametric-hall-of-fame) - This is a list of the most popular developers for the LaMetric Time smart clock.
@@ -2563,7 +2562,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [alrpal/TinyETL](https://github.com/alrpal/TinyETL) - Fast, zero-config ETL in a single binary
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
-- [supabase/etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.
+- [supabase/etl](https://github.com/supabase/etl) - A high-performance Postgres replication engine written in Rust. Embed it in your Rust application or run it as a standalone binary.
 - [maximecb/plush](https://github.com/maximecb/plush) - Minimalistic dynamically-typed language for fun, teaching and creative programming.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
