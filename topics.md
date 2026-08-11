@@ -338,7 +338,7 @@
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
@@ -371,7 +371,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [Gabriella439/grace](https://github.com/Gabriella439/grace) - A prompt engineering functional programming language
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
@@ -383,7 +383,6 @@
 - [php-llm/llm-chain](https://github.com/php-llm/llm-chain) - PHP library for building LLM-based and AI-based features and applications.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [BurnySc2/python-sc2](https://github.com/BurnySc2/python-sc2) - A StarCraft II bot api client library for Python 3
@@ -570,7 +569,7 @@
 
 ## artificial-intelligence 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
@@ -585,7 +584,7 @@
 ## automation 
 
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) - A categorized collection of FFmpeg commands for video automation pipelines.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -833,7 +832,7 @@
 
 ## chatbot 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -888,7 +887,6 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
@@ -1747,7 +1745,6 @@
 - [shiragannavar/Testing-RAG](https://github.com/shiragannavar/Testing-RAG) - 
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic Data SDK ✨
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2745,7 +2742,6 @@
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
 - [php-llm/llm-chain](https://github.com/php-llm/llm-chain) - PHP library for building LLM-based and AI-based features and applications.
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -2767,7 +2763,7 @@
 
 ## low-code 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2936,7 +2932,6 @@
 - [trashware/mcp3xxx-rs](https://github.com/trashware/mcp3xxx-rs) - Rust SPI driver for MCP3xxx family of 10-13-Bit A/D converters.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
@@ -3056,7 +3051,7 @@
 
 - [CristianOlivera1/openhero](https://github.com/CristianOlivera1/openhero) - The free, open collection of cinematic video hero sections Browse, preview, copy & download production-ready backgrounds - instantly.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -3091,7 +3086,7 @@
 
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [lunapark/lunapark](https://github.com/lunapark/lunapark) - 🎡 The most advanced visual scripting editor for the web.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
@@ -3253,7 +3248,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -4721,6 +4716,7 @@
 
 ## php 
 
+- [pgrimaud/lametric-diablo4](https://github.com/pgrimaud/lametric-diablo4) - Display timers for World Boss & Helltide
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
 - [true-async/php-async](https://github.com/true-async/php-async) - The heart of asynchronous PHP, delivered as a core extension and implementing the TrueAsync ABI.
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
@@ -5265,7 +5261,6 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [datastax/astrapy](https://github.com/datastax/astrapy) - AstraPy is a Pythonic interface for DataStax Astra DB and the Data API
-- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
@@ -5365,7 +5360,7 @@
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
@@ -5394,7 +5389,7 @@
 
 ## react 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -6257,7 +6252,7 @@
 - [mrzdevcore/multisite-boiler-plate](https://github.com/mrzdevcore/multisite-boiler-plate) - Frontend boiler plate to build multi-site in one project
 - [mirkobozzetto/whisper-audio-converter](https://github.com/mirkobozzetto/whisper-audio-converter) - Converts any audio format to Whisper-optimized MP3 with automatic bitrate   standardization via REST API
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
