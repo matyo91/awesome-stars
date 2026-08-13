@@ -358,6 +358,7 @@
 
 ## ai 
 
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
@@ -383,6 +384,7 @@
 - [php-llm/llm-chain](https://github.com/php-llm/llm-chain) - PHP library for building LLM-based and AI-based features and applications.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [BurnySc2/python-sc2](https://github.com/BurnySc2/python-sc2) - A StarCraft II bot api client library for Python 3
@@ -419,6 +421,7 @@
 
 ## ai-agents 
 
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -887,12 +890,14 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 
 ## claude-code 
 
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [Salesably/salesably-marketplace](https://github.com/Salesably/salesably-marketplace) - Claude Code plugins for sales and marketing teams. Built by Salesably.ai.
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -906,6 +911,7 @@
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [datastax/astra-cli](https://github.com/datastax/astra-cli) - Command Line Interface for DataStax Astra
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -1310,6 +1316,7 @@
 
 ## developer-tools 
 
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
@@ -1745,6 +1752,7 @@
 - [shiragannavar/Testing-RAG](https://github.com/shiragannavar/Testing-RAG) - 
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic Data SDK ✨
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2094,7 +2102,6 @@
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 Default casks (upstream binary packages) for the package manager for everywhere
@@ -2723,6 +2730,7 @@
 
 ## llm 
 
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)
@@ -2742,6 +2750,7 @@
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.
 - [php-llm/llm-chain-bundle](https://github.com/php-llm/llm-chain-bundle) - Symfony integration bundle for php-llm/llm-chain library.
 - [php-llm/llm-chain](https://github.com/php-llm/llm-chain) - PHP library for building LLM-based and AI-based features and applications.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - AutoRAG: Now your agent can find anything in your computer. It gets smarter if you are using it frequently.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -2932,6 +2941,7 @@
 - [trashware/mcp3xxx-rs](https://github.com/trashware/mcp3xxx-rs) - Rust SPI driver for MCP3xxx family of 10-13-Bit A/D converters.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
@@ -3306,6 +3316,16 @@
 
 ## others 
 
+- [matyo91/vibephp-flow](https://github.com/matyo91/vibephp-flow) - 
+- [matyo91/php-flow](https://github.com/matyo91/php-flow) - 
+- [matyo91/kibono-flow](https://github.com/matyo91/kibono-flow) - 
+- [matyo91/diablo-php](https://github.com/matyo91/diablo-php) - 
+- [id-Software/Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
+- [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
+- [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
+- [id-Software/Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
+- [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [matyo91/thanks-agent](https://github.com/matyo91/thanks-agent) - 
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [Amoifr/phpquality](https://github.com/Amoifr/phpquality) - 
@@ -4700,6 +4720,7 @@
 
 ## penetration-testing 
 
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 - [m3n0sd0n4ld/GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) - GooFuzz is a tool to perform fuzzing with an OSINT approach, managing to enumerate directories, files, subdomains or parameters without leaving evidence on the target's server and by means of advanced
 - [liamg/gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
@@ -4716,6 +4737,8 @@
 
 ## php 
 
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [pgrimaud/lametric-diablo4](https://github.com/pgrimaud/lametric-diablo4) - Display timers for World Boss & Helltide
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
 - [true-async/php-async](https://github.com/true-async/php-async) - The heart of asynchronous PHP, delivered as a core extension and implementing the TrueAsync ABI.
@@ -5261,6 +5284,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [datastax/astrapy](https://github.com/datastax/astrapy) - AstraPy is a Pythonic interface for DataStax Astra DB and the Data API
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
 - [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator) - ASCII generator (image to text, image to image, video to video)
@@ -5678,6 +5702,7 @@
 
 ## security 
 
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [symfonycorp/security-checker-action](https://github.com/symfonycorp/security-checker-action) - The PHP Security Checker
 - [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -5706,6 +5731,7 @@
 
 ## security-tools 
 
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [IBM/fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux) - IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos
@@ -5894,6 +5920,8 @@
 
 ## symfony 
 
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
+- [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 The Darkwood PHP framework
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
@@ -6231,6 +6259,7 @@
 ## tui 
 
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [php-tui/php-tui](https://github.com/php-tui/php-tui) - Make awesome console applications in PHP (port of Rust's Ratatui)
 - [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) - Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.
@@ -6473,6 +6502,7 @@
 
 ## web 
 
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
