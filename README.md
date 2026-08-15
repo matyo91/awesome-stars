@@ -1204,7 +1204,6 @@
 
 ## Others 
 
-- [matyo91/quake-III-arena-php](https://github.com/matyo91/quake-III-arena-php) - 
 - [alexadark/compress-video-skill](https://github.com/alexadark/compress-video-skill) - Claude Code skill: shrink a video to 480p with FFmpeg, hardware-accelerated on macOS
 - [gmoigneu/skills](https://github.com/gmoigneu/skills) - 
 - [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
@@ -1415,6 +1414,7 @@
 
 ## PHP 
 
+- [matyo91/quake-III-arena-php](https://github.com/matyo91/quake-III-arena-php) - 
 - [matyo91/vibephp-flow](https://github.com/matyo91/vibephp-flow) - 
 - [matyo91/php-flow](https://github.com/matyo91/php-flow) - 
 - [matyo91/kibono-flow](https://github.com/matyo91/kibono-flow) - 
