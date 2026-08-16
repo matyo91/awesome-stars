@@ -1022,7 +1022,7 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -2799,7 +2799,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [joetannenbaum/php-mac-automator](https://github.com/joetannenbaum/php-mac-automator) - A PHP library to do script automation on your Mac
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -2834,7 +2834,7 @@
 ## macos 
 
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
@@ -5816,7 +5816,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library
