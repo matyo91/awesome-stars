@@ -1414,6 +1414,8 @@
 
 ## PHP 
 
+- [symfony/language-tools](https://github.com/symfony/language-tools) - Symfony-aware completion, navigation and diagnostics through the Language Server Protocol
+- [matyo91/nolife-tokens](https://github.com/matyo91/nolife-tokens) - 
 - [matyo91/quake-III-arena-php](https://github.com/matyo91/quake-III-arena-php) - 
 - [matyo91/vibephp-flow](https://github.com/matyo91/vibephp-flow) - 
 - [matyo91/php-flow](https://github.com/matyo91/php-flow) - 
@@ -2328,7 +2330,7 @@
 - [webagent-cloud/webagent](https://github.com/webagent-cloud/webagent) - 🚀 Fast AI web browser agent to automate repetitive tasks
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [langchain-ai/langchain-community](https://github.com/langchain-ai/langchain-community) - ⚠️ No longer maintained, see linked issue
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Simultaneous speech-to-text models
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
 - [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
