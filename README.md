@@ -75,7 +75,6 @@
 - [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
@@ -205,6 +204,7 @@
 
 ## C++ 
 
+- [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
 - [id-Software/DOOM-3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release
 - [id-Software/DOOM-3-BFG](https://github.com/id-Software/DOOM-3-BFG) - Doom 3 BFG Edition
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
@@ -245,6 +245,7 @@
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
+- [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware.
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
@@ -460,7 +461,7 @@
 
 ## Go 
 
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Local emulator for European cloud APIs — Scaleway, Outscale, Exoscale. One binary, one port, no account.
+- [stephrobert/feint](https://github.com/stephrobert/feint) - Run Terraform, OpenTofu and the official Scaleway, Outscale and Exoscale CLIs locally — no cloud account, no credentials, nothing billed.
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
@@ -1633,7 +1634,7 @@
 - [AurelienPillevesse/game-of-thrones-website](https://github.com/AurelienPillevesse/game-of-thrones-website) - Game of Thrones website made for a PHP/HTML/CSS project during my studies at the IUT Clermont-Ferrand ; Mark : 18/20
 - [brefphp/dev-server](https://github.com/brefphp/dev-server) - Local development server for serverless web apps
 - [pgrimaud/lametric-hall-of-fame](https://github.com/pgrimaud/lametric-hall-of-fame) - This is a list of the most popular developers for the LaMetric Time smart clock.
-- [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.
+- [tallstackui/tallstackui](https://github.com/tallstackui/tallstackui) - TallStackUI is a powerful suite of 80+ Blade components that elevate your workflow of Livewire applications.
 - [dseguy/changedBehavior](https://github.com/dseguy/changedBehavior) - Museum of change behaviors in PHP
 - [veewee/psr18-react-browser](https://github.com/veewee/psr18-react-browser) - A small PSR-18 bridge for react browser
 - [crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli) - Build standalone portable PHP binaries on Linux, macOS, Windows, with PHP project together, with popular extensions included.
@@ -2804,10 +2805,6 @@
 - [evanpurkhiser/magnetic](https://github.com/evanpurkhiser/magnetic) - An iOS app to send magnet links and torrent files to a Transmission server
 - [Lona/Lona](https://github.com/Lona/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-
-## Tcl 
-
-- [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware.
 
 ## TeX 
 
