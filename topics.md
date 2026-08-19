@@ -3059,7 +3059,7 @@
 
 ## neovim 
 
-- [symfony/language-tools](https://github.com/symfony/language-tools) - Symfony-aware completion, navigation and diagnostics through the Language Server Protocol
+- [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 
 ## nestjs 
 
@@ -4752,7 +4752,7 @@
 
 ## php 
 
-- [symfony/language-tools](https://github.com/symfony/language-tools) - Symfony-aware completion, navigation and diagnostics through the Language Server Protocol
+- [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [pgrimaud/lametric-diablo4](https://github.com/pgrimaud/lametric-diablo4) - Display timers for World Boss & Helltide
@@ -4950,7 +4950,6 @@
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
-- [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [fabpot/local-php-security-checker](https://github.com/fabpot/local-php-security-checker) - PHP security vulnerabilities checker
@@ -5938,7 +5937,7 @@
 
 ## symfony 
 
-- [symfony/language-tools](https://github.com/symfony/language-tools) - Symfony-aware completion, navigation and diagnostics through the Language Server Protocol
+- [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 The Darkwood PHP framework
@@ -6022,7 +6021,6 @@
 - [conradfr/ProgRadio](https://github.com/conradfr/ProgRadio) - French radio schedule and worlwide radios streaming
 - [rectorphp/rector-symfony](https://github.com/rectorphp/rector-symfony) - Rector upgrade rules for Symfony
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
-- [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
 - [dunglas/DunglasTorControlBundle](https://github.com/dunglas/DunglasTorControlBundle) - Integration of PHP TorControl library in Symfony
 - [dunglas/symfonycon-lisbon](https://github.com/dunglas/symfonycon-lisbon) - A joind.in clone built with Symfony 4 and Vue.js
