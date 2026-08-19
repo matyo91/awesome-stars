@@ -1415,7 +1415,7 @@
 
 ## PHP 
 
-- [symfony/language-tools](https://github.com/symfony/language-tools) - Symfony-aware completion, navigation and diagnostics through the Language Server Protocol
+- [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [matyo91/nolife-tokens](https://github.com/matyo91/nolife-tokens) - 
 - [matyo91/quake-III-arena-php](https://github.com/matyo91/quake-III-arena-php) - 
 - [matyo91/vibephp-flow](https://github.com/matyo91/vibephp-flow) - 
@@ -1866,7 +1866,6 @@
 - [estvoyage/phpTour2015](https://github.com/estvoyage/phpTour2015) - 
 - [phpflo/phpflo](https://github.com/phpflo/phpflo) - Flow-based programming for PHP
 - [symfony/recipes-contrib](https://github.com/symfony/recipes-contrib) - Symfony Contrib Recipes Repositories
-- [deprecated-packages/symplify](https://github.com/deprecated-packages/symplify) - [DISCONTINUED] Check split packages in their own repositories :)
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 - [turanct/railway](https://github.com/turanct/railway) - :train: Railway Oriented Programming in PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group or team. https://github.com/nextcloud-releases/groupfolders
