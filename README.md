@@ -1106,7 +1106,7 @@
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [JetBrains/pest-intellij](https://github.com/JetBrains/pest-intellij) - The official Pest Plugin for PhpStorm / IntelliJ IDEA
 - [lopspower/CleanRxArchitecture](https://github.com/lopspower/CleanRxArchitecture) - Clean Rx Kotlin Architecture sample on GitHub Api 🚀
-- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
 - [jarroyoesp/KotlinMultiplatform_MVVM](https://github.com/jarroyoesp/KotlinMultiplatform_MVVM) - Android & iOS App using MVVM pattern and LiveData on the presentation layer + Clean Arch on the common shared code.
 - [jarroyoesp/KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform) - Kotlin MultiPlatform App (Android, iOS, JVM & JS). MVVM/MVP - Kotlin MultiPlatform
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
@@ -2382,7 +2382,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: auto apply to jobs, with a tailored resume and cover letter for each posting.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
