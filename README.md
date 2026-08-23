@@ -1208,6 +1208,7 @@
 
 ## Others 
 
+- [matyo91/nolife-local](https://github.com/matyo91/nolife-local) - 
 - [alexadark/compress-video-skill](https://github.com/alexadark/compress-video-skill) - Claude Code skill: shrink a video to 480p with FFmpeg, hardware-accelerated on macOS
 - [gmoigneu/skills](https://github.com/gmoigneu/skills) - 
 - [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
@@ -1288,7 +1289,7 @@
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) - Official Documentation for the Binance Spot APIs and Streams
 - [coinpride/CryptoList](https://github.com/coinpride/CryptoList) - Curated collection of blockchain & cryptocurrency resources.
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [angristan/awesome-stars](https://github.com/angristan/awesome-stars) - A curated list of my GitHub stars!
 - [matyo91/awesome-stars](https://github.com/matyo91/awesome-stars) - 🌟 A curated list of my GitHub stars!
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
