@@ -641,7 +641,6 @@
 - [flexbox/vercel-101](https://github.com/flexbox/vercel-101) - 
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 - [darkwood-com/dj-stream](https://github.com/darkwood-com/dj-stream) - 🎛 Setup for DJ to stream online
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [faircode-io/faircode](https://github.com/faircode-io/faircode) - Fair code
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
@@ -979,7 +978,7 @@
 - [gatsbyjs/gatsby-fr](https://github.com/gatsbyjs/gatsby-fr) - French translation of Gatsbyjs.org
 - [drop-ice/dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [moroshko/react-autosuggest](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 2,000+ sources in your browser new tab or on mobile. Free and open source.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [xriley/CoderDocs-Theme](https://github.com/xriley/CoderDocs-Theme) - CoderDocs - Bootstrap 5 Documentation Template For Software Projects
 - [wgao19/gatsby-starter-multiple-author](https://github.com/wgao19/gatsby-starter-multiple-author) - A Gatsby starter for multiple author blog.
@@ -1208,7 +1207,6 @@
 
 ## Others 
 
-- [matyo91/nolife-local](https://github.com/matyo91/nolife-local) - 
 - [alexadark/compress-video-skill](https://github.com/alexadark/compress-video-skill) - Claude Code skill: shrink a video to 480p with FFmpeg, hardware-accelerated on macOS
 - [gmoigneu/skills](https://github.com/gmoigneu/skills) - 
 - [symfony/lts](https://github.com/symfony/lts) - Enforces Long Term Supported versions of Symfony components
@@ -1419,6 +1417,7 @@
 
 ## PHP 
 
+- [matyo91/nolife-local](https://github.com/matyo91/nolife-local) - 
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [matyo91/nolife-tokens](https://github.com/matyo91/nolife-tokens) - 
 - [matyo91/quake-III-arena-php](https://github.com/matyo91/quake-III-arena-php) - 
@@ -1923,6 +1922,7 @@
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
 - [nealio82/absolute-beginners-guide-to-ddd-with-symfony](https://github.com/nealio82/absolute-beginners-guide-to-ddd-with-symfony) - Example application to go along with the "Absolute Beginner's Guide to DDD with Symfony" presentation
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 - [BitBagCommerce/SyliusElasticsearchPlugin](https://github.com/BitBagCommerce/SyliusElasticsearchPlugin) - Elasticsearch integration for Sylius apps.
