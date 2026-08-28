@@ -3403,7 +3403,7 @@
 - [future-agi/n8n-nodes-futureagi](https://github.com/future-agi/n8n-nodes-futureagi) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [symfony/models-dev](https://github.com/symfony/models-dev) - 
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provide
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directly integrated into your Go appli
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🧪 An application designed to test and compare Local LLM using Ollama.
 - [matyo91/nolife-models](https://github.com/matyo91/nolife-models) - 
