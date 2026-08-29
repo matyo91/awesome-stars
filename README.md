@@ -461,7 +461,7 @@
 
 ## Go 
 
-- [stephrobert/feint](https://github.com/stephrobert/feint) - Run Terraform, OpenTofu and the official Scaleway, Outscale and Exoscale CLIs locally — no cloud account, no credentials, nothing billed.
+- [stephrobert/feint](https://github.com/stephrobert/feint) - A local emulator of the Scaleway, Outscale and Exoscale APIs. Their own official CLIs drive it end to end, Terraform and OpenTofu drive two of the three — no cloud account, no cloud credentials, nothi
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
@@ -787,7 +787,6 @@
 - [lupyuen/nuttx-ox64](https://github.com/lupyuen/nuttx-ox64) - Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)
 - [httptoolkit/httptoolkit-server](https://github.com/httptoolkit/httptoolkit-server) - The backend of HTTP Toolkit
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
-- [mdsarfarazalam840/mdsarfarazalam840](https://github.com/mdsarfarazalam840/mdsarfarazalam840) - 
 - [viebel/data-oriented-programming](https://github.com/viebel/data-oriented-programming) - 
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [sindresorhus/make-asynchronous](https://github.com/sindresorhus/make-asynchronous) - Make a synchronous function asynchronous by running it in a worker
@@ -1416,6 +1415,7 @@
 
 ## PHP 
 
+- [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 - [matyo91/nolife-local](https://github.com/matyo91/nolife-local) - 
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [matyo91/nolife-tokens](https://github.com/matyo91/nolife-tokens) - 
@@ -2409,6 +2409,7 @@
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) - A Complete Osint Tool :mag:
+- [mdsarfarazalam840/mdsarfarazalam840](https://github.com/mdsarfarazalam840/mdsarfarazalam840) - 
 - [jrohitofficial/jrohitofficial](https://github.com/jrohitofficial/jrohitofficial) - 
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
