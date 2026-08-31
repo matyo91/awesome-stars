@@ -1993,6 +1993,7 @@
 
 ## gui 
 
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
@@ -3336,6 +3337,7 @@
 
 ## others 
 
+- [matyo91/sqlite-compiler-php](https://github.com/matyo91/sqlite-compiler-php) - 
 - [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 - [matyo91/nolife-local](https://github.com/matyo91/nolife-local) - 
 - [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) - A from-scratch C++17/ggml port of Depth Anything 2 and 3 (ByteDance)
@@ -5732,6 +5734,7 @@
 
 ## security 
 
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
 - [symfonycorp/security-checker-action](https://github.com/symfonycorp/security-checker-action) - The PHP Security Checker
 - [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
@@ -6043,7 +6046,7 @@
 - [dunglas/doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm) - An object document mapper for Doctrine ORM using JSON types of modern RDBMS.
 - [wouterj/WouterJEloquentBundle](https://github.com/wouterj/WouterJEloquentBundle) - Integrates the Eloquent ORM in the Symfony framework
 - [ekino/EkinoNewRelicBundle](https://github.com/ekino/EkinoNewRelicBundle) - Add NewRelic support to Symfony
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn
+- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable WebAuthn demos for web-auth/webauthn-framework: pure PHP demos (passkeys, usernameless, passkey upgrade, Signal API, extensions, PRF, SPC) and a full Symfony application
 - [symfony/stimulus-bridge](https://github.com/symfony/stimulus-bridge) - Stimulus integration bridge for Symfony projects
 - [symfony/ux-swup](https://github.com/symfony/ux-swup) - Swup integration for Symfony
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
