@@ -3924,7 +3924,6 @@
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [vinodotdev/vino](https://github.com/vinodotdev/vino) - Vino releases
 - [Jazys/nuag.e-lib](https://github.com/Jazys/nuag.e-lib) - Package for nuag.e provider to create VPS
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [docker/for-mac](https://github.com/docker/for-mac) - Bug reports for Docker Desktop for Mac
 - [jpaulm/fbp](https://github.com/jpaulm/fbp) - Flow-Based Programming (backbone repository)
 - [jpaulm/jsfbp](https://github.com/jpaulm/jsfbp) - FBP implementation written using JavaScript and node-fibers
@@ -4173,7 +4172,6 @@
 - [dunglas/demo-postgres-listen-notify](https://github.com/dunglas/demo-postgres-listen-notify) - Demo of the PostgreSQL LISTEN/NOTIFY support in Symfony Messenger
 - [dunglas/dunglas](https://github.com/dunglas/dunglas) - My GitHub profile!
 - [dunglas/stripe-invoice-exporter](https://github.com/dunglas/stripe-invoice-exporter) - Download all your Stripe PDF invoices in bulk.
-- [mardelplatadev/tsoa-api](https://github.com/mardelplatadev/tsoa-api) - express.js, tsoa, inversify, swagger, mongoose
 - [evansm7/vftool](https://github.com/evansm7/vftool) - A simple macOS Virtualisation.framework wrapper
 - [scottie1984/swagger-ui-express](https://github.com/scottie1984/swagger-ui-express) - Adds middleware to your express app to serve the Swagger UI bound to your Swagger document. This acts as living documentation for your API hosted from within your app.
 - [hapi-swagger/hapi-swagger](https://github.com/hapi-swagger/hapi-swagger) - A Swagger interface for hapi
@@ -6544,6 +6542,7 @@
 - [theacodes/kicanvas](https://github.com/theacodes/kicanvas) - The KiCAD web viewer
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -6567,6 +6566,7 @@
 
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 
 ## web3 
