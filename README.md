@@ -836,7 +836,7 @@
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [harshil1712/spotify-cli-n8n](https://github.com/harshil1712/spotify-cli-n8n) - Control your Spotify Player with the CLI 🎧 Built using n8n.io, and Node.js
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [Jazys/OpenMVPBox](https://github.com/Jazys/OpenMVPBox) - 
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
@@ -1247,6 +1247,7 @@
 - [certificationy/php-pack](https://github.com/certificationy/php-pack) - A series of questions to prepare for the Zend PHP certification
 - [certificationy/symfony-pack](https://github.com/certificationy/symfony-pack) - A series of questions to prepare for the Symfony certification
 - [gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api) - Drawing graphics efficiently on Apple Vision using the Metal rendering API
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application toolkit in Python: generate a resume and cover letter tailored to each job posting, and drive a stealth browser from any AI client over MCP.
 - [open-thought/system-2-research](https://github.com/open-thought/system-2-research) - System 2 Reasoning Link Collection
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - 70 splash screens and logos for use in Godot
@@ -1415,6 +1416,7 @@
 
 ## PHP 
 
+- [matyo91/sqlite-compiler-php](https://github.com/matyo91/sqlite-compiler-php) - 
 - [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 - [matyo91/nolife-local](https://github.com/matyo91/nolife-local) - 
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
@@ -1921,6 +1923,7 @@
 - [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 - [paragonie/halite](https://github.com/paragonie/halite) - High-level cryptography interface powered by libsodium
 - [nealio82/absolute-beginners-guide-to-ddd-with-symfony](https://github.com/nealio82/absolute-beginners-guide-to-ddd-with-symfony) - Example application to go along with the "Absolute Beginner's Guide to DDD with Symfony" presentation
+- [web-auth/webauthn-demos](https://github.com/web-auth/webauthn-demos) - Runnable WebAuthn demos for web-auth/webauthn-framework: pure PHP demos (passkeys, usernameless, passkey upgrade, Signal API, extensions, PRF, SPC) and a full Symfony application
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [PHPOffice/PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
@@ -2384,7 +2387,6 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
@@ -2573,6 +2575,7 @@
 
 ## Rust 
 
+- [martin-olivier/airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
@@ -2819,7 +2822,6 @@
 
 - [afsy/website](https://github.com/afsy/website) - 👩‍💻👨‍💻 afsy.fr website ✨
 - [Elao/elao_](https://github.com/Elao/elao_) - Elao website & blog
-- [web-auth/symfony-webauthn-demo](https://github.com/web-auth/symfony-webauthn-demo) - Demo Application using Symfony 6, Tailwind, FrankenPHP, AssetMapper and Webauthn
 - [atlas-services/hermes](https://github.com/atlas-services/hermes) - CMS based on Bootstrap and Symfony
 - [symfony/web-profiler-bundle](https://github.com/symfony/web-profiler-bundle) - Provides a development tool that gives detailed information about the execution of any request
 
@@ -2974,7 +2976,7 @@
 - [LBRYFoundation/Watch-on-LBRY](https://github.com/LBRYFoundation/Watch-on-LBRY) - Plugin for web browser that automatic check if YouTube video is on LBRY
 - [france-connect/sources](https://github.com/france-connect/sources) - 
 - [Jazys/nuag.e-lib](https://github.com/Jazys/nuag.e-lib) - Package for nuag.e provider to create VPS
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients
 - [reacttips-dev/stylex](https://github.com/reacttips-dev/stylex) - Write CSS-in-JS with atomic support. Like Facebook's Stylex!
 - [moltenform/vipercard](https://github.com/moltenform/vipercard) - An open source rewrite of 1987's HyperCard
@@ -3031,7 +3033,6 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [fxpio/tug](https://github.com/fxpio/tug) - Private Composer registry for private PHP packages on AWS Serverless
-- [mardelplatadev/tsoa-api](https://github.com/mardelplatadev/tsoa-api) - express.js, tsoa, inversify, swagger, mongoose
 - [lukeautry/tsoa](https://github.com/lukeautry/tsoa) - Build OpenAPI-compliant REST APIs using TypeScript and Node
 - [anttiviljami/serverless-openapi-joi](https://github.com/anttiviljami/serverless-openapi-joi) - Serverless plugin for creating OpenAPI specifications with Joi validation
 - [expo/snack](https://github.com/expo/snack) - Expo Snack lets you run Expo in the browser.
