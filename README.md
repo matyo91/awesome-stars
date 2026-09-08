@@ -429,7 +429,7 @@
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
 - [theshaggydev/unto-deepest-depths-prototype](https://github.com/theshaggydev/unto-deepest-depths-prototype) - This is early prototype code for the core game loop of Unto Deepest Depths, provided as a learning example on how I structure turn-based games in Godot 4.
 - [zwometer/Godot4MultiplayerMVP](https://github.com/zwometer/Godot4MultiplayerMVP) - A minimal working prototype for Godot 4 multiplayer using ENetMultiplayerPeer.
-- [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot game engine!
+- [ClarkThyLord/Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - Voxel plugin for the Godot 3!
 - [fenix-hub/godot-engine.supabase-ui](https://github.com/fenix-hub/godot-engine.supabase-ui) - UI library for Supabase in Godot Engine
 - [supabase-community/godot-engine.supabase](https://github.com/supabase-community/godot-engine.supabase) - A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.
 - [wesnoth/haldric](https://github.com/wesnoth/haldric) - Wesnoth 2.0, being developed in the Godot engine.
@@ -467,7 +467,7 @@
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
-- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directly integrated into your Go appli
+- [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directl
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) - The Symfony CLI tool
 - [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
@@ -525,6 +525,7 @@
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - AWS Copilot CLI will reach end-of-support on June 12, 2026.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
@@ -1263,7 +1264,7 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mnapoli/hard-mode](https://github.com/mnapoli/hard-mode) - PHP hard mode
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
 - [WebMamba/slide-php-forum-2023](https://github.com/WebMamba/slide-php-forum-2023) - Les slides de mon talk (Symfony se met au front, a votre tour maintenant). Que j'ai presenter au ForumPHP 2023!
 - [systemdesignfightclub/SDFC](https://github.com/systemdesignfightclub/SDFC) - Roadmap and Resource Compilation for System Design Fight Club
@@ -2458,6 +2459,7 @@
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [marmelab/pentago-python](https://github.com/marmelab/pentago-python) - 
 - [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [wkta/open-bomberman-py](https://github.com/wkta/open-bomberman-py) - 
 - [dunglas/vclient-web](https://github.com/dunglas/vclient-web) - Web interface for Viessmann Vito heating system
@@ -2650,7 +2652,6 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [stateright/stateright](https://github.com/stateright/stateright) - A model checker for implementing distributed systems.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [redirectionio/libredirectionio](https://github.com/redirectionio/libredirectionio) - redirection.io redirect and filtering api (used in agent, proxies and web assembly module)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -3015,7 +3016,6 @@
 - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages
 - [phiresky/blog](https://github.com/phiresky/blog) - Source code of my personal blog
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
