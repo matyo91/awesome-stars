@@ -480,7 +480,7 @@
 - [datastax/terraform-provider-astra](https://github.com/datastax/terraform-provider-astra) - A project that allows DataStax Astra users to manage their full database lifecycle for Astra Serverless databases (built on Apache Cassandra(TM)) using Terraform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
@@ -1413,6 +1413,7 @@
 
 ## PHP 
 
+- [matyo91/navi-key-management](https://github.com/matyo91/navi-key-management) - 
 - [matyo91/flow-partial-function-application](https://github.com/matyo91/flow-partial-function-application) - 
 - [yethee/tiktoken-php](https://github.com/yethee/tiktoken-php) - This is a port of the tiktoken
 - [matyo91/nolife-language](https://github.com/matyo91/nolife-language) - 
