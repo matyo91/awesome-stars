@@ -446,6 +446,7 @@
 - [apioo/fusio](https://github.com/apioo/fusio) - Self-Hosted API Management for Builders
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [brainless/dwata](https://github.com/brainless/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
+- [A9T9/RPA](https://github.com/A9T9/RPA) - Browser and desktop automation with an MCP server for AI assistants. Record macros or write JavaScript to automate websites, extract data, and control desktop apps with OCR and image recognition.
 
 ## ajax 
 
@@ -481,7 +482,7 @@
 - [RubixML/ML](https://github.com/RubixML/ML) - A high-level machine learning and deep learning library for the PHP language.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [brainless/dwata](https://github.com/brainless/dwata) - AI enabled insights from emails, calendars, contacts, files, Slack, databases, web... Fast, private and local. Launching soon!
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -2752,7 +2753,6 @@
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
@@ -2968,6 +2968,7 @@
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight AI-friendly Docker Swarm management
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [A9T9/RPA](https://github.com/A9T9/RPA) - Browser and desktop automation with an MCP server for AI assistants. Record macros or write JavaScript to automate websites, extract data, and control desktop apps with OCR and image recognition.
 
 ## microservices 
 
@@ -3017,7 +3018,7 @@
 - [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, a
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -4554,7 +4555,6 @@
 - [HackerPoet/Trackpad](https://github.com/HackerPoet/Trackpad) - Turns a Keyboard into a Trackpad
 - [blockly-games/blockly-games](https://github.com/blockly-games/blockly-games) - Games for tomorrow's programmers.
 - [jderusse/docker-gitsplit](https://github.com/jderusse/docker-gitsplit) - 
-- [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [scratchfoundation/scratch-blocks](https://github.com/scratchfoundation/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
@@ -5243,7 +5243,7 @@
 
 ## productivity 
 
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
+- [feder-cr/aihawk_mcp_server](https://github.com/feder-cr/aihawk_mcp_server) - Anti-detect agentic browser: undetected browsing, browser automation, MCP server, AI web browsing agent, computer use, scraping, lead generation. No captchas.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -5419,7 +5419,6 @@
 
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
