@@ -3351,6 +3351,7 @@
 
 ## others 
 
+- [matyo91/flow-jev](https://github.com/matyo91/flow-jev) - 
 - [darkwood-com/ai](https://github.com/darkwood-com/ai) - 
 - [matyo91/navi-key-management](https://github.com/matyo91/navi-key-management) - 
 - [matyo91/flow-partial-function-application](https://github.com/matyo91/flow-partial-function-application) - 
