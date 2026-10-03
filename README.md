@@ -737,6 +737,7 @@
 
 ## JavaScript 
 
+- [vgrichina/wine-assembly](https://github.com/vgrichina/wine-assembly) - Run real Windows 98 apps and games in your browser. An x86 emulator and Win32 layer written directly in WebAssembly Text, no OS image, no source ports.
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
@@ -1395,7 +1396,7 @@
 - [symfony/orm-pack](https://github.com/symfony/orm-pack) - A Symfony Pack for Doctrine ORM
 - [symfony/debug-pack](https://github.com/symfony/debug-pack) - A Symfony Pack for Symfony debug
 - [symfony/apache-pack](https://github.com/symfony/apache-pack) - A Symfony Pack for Symfony Apache
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - The Cloud Native AI Platform
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [arialdomartini/Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -2365,7 +2366,7 @@
 - [mostly-ai/mostlyai](https://github.com/mostly-ai/mostlyai) - Synthetic Data SDK ✨
 - [SigmaHQ/pySigma](https://github.com/SigmaHQ/pySigma) - Python library to parse and convert Sigma rules into queries (and whatever else you could imagine)
 - [northsh/detection.studio](https://github.com/northsh/detection.studio) - Convert Sigma rules to SIEM queries, directly in your browser.
-- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
+- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 - [yoanbernabeu/YoutubeTranscriptApi](https://github.com/yoanbernabeu/YoutubeTranscriptApi) - A REST API wrapper around https://pypi.org/project/youtube-transcript-api/ Python package. This API allows you to fetch YouTube video transcripts (subtitles) in various formats.
 - [matyo91/prime-ai-answer](https://github.com/matyo91/prime-ai-answer) - 🤖 AI Auto-Responder for Social Media
 - [ThomasRinsma/pdftris](https://github.com/ThomasRinsma/pdftris) - Tetris in a PDF (in most browsers)
