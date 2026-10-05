@@ -2315,7 +2315,7 @@
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [symfony/models-dev](https://github.com/symfony/models-dev) - 
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
-- [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🧪 An application designed to test and compare Local LLM using Ollama.
+- [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🚀 [Project] An application designed to test and compare Local LLM using Ollama.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [BaratiLab/Material-Database-Agent](https://github.com/BaratiLab/Material-Database-Agent) - 
