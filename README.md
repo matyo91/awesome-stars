@@ -40,6 +40,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Liquid](#liquid)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -96,6 +97,7 @@
 - [creatures-sh/creatures.sh](https://github.com/creatures-sh/creatures.sh) - The creatures.sh website repo
 - [fairsource/fair.io](https://github.com/fairsource/fair.io) - Software sharing for modern businesses. Engage the developer community with your core products.
 - [evanpurkhiser/purkhiser.com](https://github.com/evanpurkhiser/purkhiser.com) - Purkhiser Electronics business website
+- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
@@ -448,7 +450,6 @@
 - [w84death/Tanks-of-Freedom](https://github.com/w84death/Tanks-of-Freedom) - Indie Turn Based Strategy in Isometric Pixel Art
 - [heroiclabs/nakama-godot](https://github.com/heroiclabs/nakama-godot) - Nakama Godot Client SDK
 - [GDQuest/godot-steering-ai-framework](https://github.com/GDQuest/godot-steering-ai-framework) - A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.
-- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 
 ## GDShader 
 
@@ -482,7 +483,7 @@
 - [datastax/terraform-provider-astra](https://github.com/datastax/terraform-provider-astra) - A project that allows DataStax Astra users to manage their full database lifecycle for Astra Serverless databases (built on Apache Cassandra(TM)) using Terraform
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [runmedev/runme](https://github.com/runmedev/runme) - DevOps Notebooks Built with Markdown
@@ -623,6 +624,7 @@
 - [darkwood-com/crypto-trade](https://github.com/darkwood-com/crypto-trade) - 🤑 Easy win money
 - [Puliczek/mcp-memory](https://github.com/Puliczek/mcp-memory) - 🔥🖥️ MCP Memory is a MCP Server that gives MCP Clients (Cursor, Claude, Windsurf and more) the ability to remember information about users (preferences, behaviors) across conversations.
 - [platformsh/platformsh-docs](https://github.com/platformsh/platformsh-docs) - Platform.sh documentation. Templates available at https://github.com/platformsh-templates/
+- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog.
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [f2r/f2r.github.io](https://github.com/f2r/f2r.github.io) - 
@@ -637,6 +639,7 @@
 - [jpaulm/jpaulm.github.io](https://github.com/jpaulm/jpaulm.github.io) - Personal repo for jpaulm
 - [afup/identity](https://github.com/afup/identity) - 
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [matyo91/matyo91-live](https://github.com/matyo91/matyo91-live) - 🎥 Setup for live recording with OBS
 - [WebAssembly/meetings](https://github.com/WebAssembly/meetings) - WebAssembly meetings (VC or in-person), agendas, and notes
 - [Tom32i/talk-stenope](https://github.com/Tom32i/talk-stenope) - Présentation de Stenope
@@ -754,7 +757,6 @@
 - [MathieuGaudron/Puissance_4](https://github.com/MathieuGaudron/Puissance_4) - 
 - [discord/getting-started-activity](https://github.com/discord/getting-started-activity) - This template is used in the Building An Activity tutorial in the Discord Developer Docs.
 - [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
-- [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog.
 - [ai-driven-dev/prompts](https://github.com/ai-driven-dev/prompts) - 
 - [theonemule/x86box-docker](https://github.com/theonemule/x86box-docker) - A container image for running x86box in a Docker container and streaming the results back to the browser.
 - [theonemule/qemu-docker](https://github.com/theonemule/qemu-docker) - Run VMs in a Docker Container and Connect To Them With a Browser!
@@ -841,7 +843,6 @@
 - [GoogleChromeLabs/jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 - [harshil1712/spotify-cli-n8n](https://github.com/harshil1712/spotify-cli-n8n) - Control your Spotify Player with the CLI 🎧 Built using n8n.io, and Node.js
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [Jazys/OpenMVPBox](https://github.com/Jazys/OpenMVPBox) - 
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
@@ -1107,6 +1108,10 @@
 - [jarroyoesp/KotlinMultiplatform_MVVM](https://github.com/jarroyoesp/KotlinMultiplatform_MVVM) - Android & iOS App using MVVM pattern and LiveData on the presentation layer + Clean Arch on the common shared code.
 - [jarroyoesp/KotlinMultiPlatform](https://github.com/jarroyoesp/KotlinMultiPlatform) - Kotlin MultiPlatform App (Android, iOS, JVM & JS). MVVM/MVP - Kotlin MultiPlatform
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+
+## Lean 
+
+- [openai/math](https://github.com/openai/math) - 
 
 ## Liquid 
 
@@ -1426,7 +1431,7 @@
 - [matyo91/php-flow](https://github.com/matyo91/php-flow) - 
 - [matyo91/kibono-flow](https://github.com/matyo91/kibono-flow) - 
 - [matyo91/diablo-php](https://github.com/matyo91/diablo-php) - 
-- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications — provider-agnostic via symfony/ai.
+- [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
 - [pgrimaud/lametric-diablo4](https://github.com/pgrimaud/lametric-diablo4) - Display timers for World Boss & Helltide
 - [matyo91/thanks-agent](https://github.com/matyo91/thanks-agent) - 
 - [Amoifr/phpquality](https://github.com/Amoifr/phpquality) - 
@@ -1681,7 +1686,7 @@
 - [openswoole/core](https://github.com/openswoole/core) - OpenSwoole core library [READ ONLY]
 - [openswoole/openswoole](https://github.com/openswoole/openswoole) - Openswoole: powering the next-generation micro-services and application
 - [b-viguier/PhpFk](https://github.com/b-viguier/PhpFk) - Writing PHP with only 5 characters
-- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
+- [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - A community-driven PHP SDK for OpenAI.
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [reactphp/event-loop](https://github.com/reactphp/event-loop) - ReactPHP's core reactor event loop that libraries can use for evented I/O.
 - [niiknow/bayes](https://github.com/niiknow/bayes) - naive bayes in php
@@ -1754,7 +1759,6 @@
 - [ircmaxell/monad-php](https://github.com/ircmaxell/monad-php) - A simple Monad library for PHP
 - [jaxon-php/jaxon-core](https://github.com/jaxon-php/jaxon-core) - The Jaxon core library
 - [andersondanilo/process-pool](https://github.com/andersondanilo/process-pool) - PHP Process Pool (Using symfony process)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [Shopify/shopify-api-php](https://github.com/Shopify/shopify-api-php) - 
 - [scssphp/scssphp](https://github.com/scssphp/scssphp) - SCSS compiler written in PHP
 - [Ocramius/LazyMap](https://github.com/Ocramius/LazyMap) - :rainbow: A lazy-initializing high performance service map
@@ -2389,7 +2393,6 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
@@ -2584,7 +2587,7 @@
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
@@ -2692,6 +2695,7 @@
 - [awoimbee/sf4_updater](https://github.com/awoimbee/sf4_updater) - Helper for migrating from symfony 3 to symfony 4. Scans and removes deprecations
 - [awoimbee/rsr](https://github.com/awoimbee/rsr) - Recursive Search & Replace, as fast as possible. Saves lots of time on large repositories.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 
 ## SCSS 
@@ -2717,7 +2721,7 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [m4rise/docker-stack](https://github.com/m4rise/docker-stack) - 
 - [alexadark/audit-codebase-skill](https://github.com/alexadark/audit-codebase-skill) - Codebase health audit for Claude Code — AI-readiness scoring, bug detection (Assay), and optional Codex deep adversarial pass with synthesis
 - [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
@@ -2911,6 +2915,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 - [afup/pufa](https://github.com/afup/pufa) - 
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [sensiolabs/StorybookBundle](https://github.com/sensiolabs/StorybookBundle) - 
 - [wesbos/bg-remover](https://github.com/wesbos/bg-remover) - 100% client side background remover
@@ -2984,6 +2989,7 @@
 - [moltenform/vipercard](https://github.com/moltenform/vipercard) - An open source rewrite of 1987's HyperCard
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [FormidableLabs/react-live](https://github.com/FormidableLabs/react-live) - A flexible playground for live editing React components
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [ridedott/merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merges Pull Requests.
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -3095,7 +3101,6 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [getsentry/action-release](https://github.com/getsentry/action-release) - GitHub Action for creating a release on Sentry
-- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [turbulenz/turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
