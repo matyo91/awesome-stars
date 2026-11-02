@@ -803,6 +803,7 @@
 - [AurelienPillevesse/tictacbro](https://github.com/AurelienPillevesse/tictacbro) - TicTacToe game made for a Java project during my studies at the IUT Clermont-Ferrand
 - [AurelienPillevesse/cupcaze-ball](https://github.com/AurelienPillevesse/cupcaze-ball) - Web game made with Canvas2D during my free time
 - [JeanDavidDaviet/lire-la-musique](https://github.com/JeanDavidDaviet/lire-la-musique) - 
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [garak/electron-symfony](https://github.com/garak/electron-symfony) - A Symfony application inside electron
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
 - [personoids/personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
@@ -1353,6 +1354,7 @@
 - [jnavarro7/pineeye_for_pinephone](https://github.com/jnavarro7/pineeye_for_pinephone) - Thermal imaging board aimed to be used with the PinePhone.
 - [edbentley/miniscript-rfc](https://github.com/edbentley/miniscript-rfc) - An RFC that proposes an idea for a new open source programming language called MiniScript
 - [RvNovae/rvnovae](https://github.com/RvNovae/rvnovae) - 
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 - [marmelab/argos-cli](https://github.com/marmelab/argos-cli) - 
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
@@ -2423,7 +2425,6 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [ThePorgs/Exegol](https://github.com/ThePorgs/Exegol) - Fully featured and community-driven hacking environment
 - [oppo-us-research/NeuRBF](https://github.com/oppo-us-research/NeuRBF) - 
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [vietnh1009/Photomosaic-generator](https://github.com/vietnh1009/Photomosaic-generator) - photomosaic generator (image to image, video to video)
 - [LansburyCH/relightable-nr](https://github.com/LansburyCH/relightable-nr) - A Neural Rendering Framework for Free-Viewpoint Relighting (CVPR 2020)
 - [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) - 
@@ -2666,7 +2667,6 @@
 - [matyo91/adventofcode](https://github.com/matyo91/adventofcode) - 
 - [ekzhang/rpt](https://github.com/ekzhang/rpt) - A physically-based path tracer
 - [gobanos/cargo-aoc](https://github.com/gobanos/cargo-aoc) - 
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) - The most accurate natural language detection library for Rust, suitable for short text and mixed-language text
 - [radicle-dev/radicle-link](https://github.com/radicle-dev/radicle-link) - The second iteration of the Radicle code collaboration protocol.
 - [jdrouet/catapulte](https://github.com/jdrouet/catapulte) - Rust implementation of catapulte email sender
@@ -2883,7 +2883,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ai-driven-dev/rules](https://github.com/ai-driven-dev/rules) - Nos règles "AI Editor" basée sur Cursor pour optimiser 10x les réponses de l'IA.
 - [Kameleoon-new/bouncing-ball](https://github.com/Kameleoon-new/bouncing-ball) - bouncing-ball
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [supabase/mcp](https://github.com/supabase/mcp) - Connect Supabase to your AI assistants
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization opti
