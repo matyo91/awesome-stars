@@ -460,7 +460,6 @@
 
 ## Gherkin 
 
-- [psalm/psalm-plugin-symfony](https://github.com/psalm/psalm-plugin-symfony) - Psalm Plugin for Symfony
 - [FriendsOfBehat/VariadicExtension](https://github.com/FriendsOfBehat/VariadicExtension) - 🍺 Extension adding variadic arguments support to Behat steps definitions
 - [FriendsOfBehat/SymfonyExtension](https://github.com/FriendsOfBehat/SymfonyExtension) - :musical_score: Extension integrating Behat with Symfony.
 - [Behatch/contexts](https://github.com/Behatch/contexts) - Behat extension with most custom helper steps
@@ -628,6 +627,7 @@
 - [Syntaxx-HQ/PHPX-TaskBoard](https://github.com/Syntaxx-HQ/PHPX-TaskBoard) - 
 - [darkwood-com/crypto-trade](https://github.com/darkwood-com/crypto-trade) - 🤑 Easy money
 - [Puliczek/mcp-memory](https://github.com/Puliczek/mcp-memory) - 🔥🖥️ MCP Memory is a MCP Server that gives MCP Clients (Cursor, Claude, Windsurf and more) the ability to remember information about users (preferences, behaviors) across conversations.
+- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [platformsh/platformsh-docs](https://github.com/platformsh/platformsh-docs) - Platform.sh documentation. Templates available at https://github.com/platformsh-templates/
 - [drupol/not-a-number.io](https://github.com/drupol/not-a-number.io) - Hugo source files of my personal blog.
 - [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
@@ -1421,6 +1421,7 @@
 
 ## PHP 
 
+- [matyo91/nolife-tracker](https://github.com/matyo91/nolife-tracker) - 
 - [matyo91/flow-jev](https://github.com/matyo91/flow-jev) - 
 - [darkwood-com/ai](https://github.com/darkwood-com/ai) - 
 - [matyo91/navi-key-management](https://github.com/matyo91/navi-key-management) - 
@@ -1883,6 +1884,7 @@
 - [turanct/railway](https://github.com/turanct/railway) - :train: Railway Oriented Programming in PHP
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group or team. https://github.com/nextcloud-releases/groupfolders
 - [schmittjoh/JMSJobQueueBundle](https://github.com/schmittjoh/JMSJobQueueBundle) - Run and Schedule Symfony Console Commands as Background Jobs
+- [psalm/psalm-plugin-symfony](https://github.com/psalm/psalm-plugin-symfony) - Psalm Plugin for Symfony
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
 - [php/doc-base](https://github.com/php/doc-base) - Tools for the PHP documentation
 - [vimeo/php-mysql-engine](https://github.com/vimeo/php-mysql-engine) - A MySQL engine written in pure PHP
@@ -2335,7 +2337,6 @@
 - [Nisseya/submission_example](https://github.com/Nisseya/submission_example) - 
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 - [gmoigneu/n6](https://github.com/gmoigneu/n6) - 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [alondmnt/joplin-mcp](https://github.com/alondmnt/joplin-mcp) - MCP server for the Joplin note taking app
 - [dweigend/joplin-mcp-server](https://github.com/dweigend/joplin-mcp-server) - A Model Context Protocol (MCP) Server for https://joplinapp.org/ that enables note access through the https://modelcontextprotocol.io. Perfect for integration with AI assistants like Claude.
 - [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
@@ -2347,7 +2348,6 @@
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [matyo91/remove-background](https://github.com/matyo91/remove-background) - Plus d'infos https://youtu.be/wBAj-ZEo9q8
-- [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-Source Security Reports, Made Simple - 100% free. No paywalls, just actionable insights.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [AI-Phil/KineticConstructs](https://github.com/AI-Phil/KineticConstructs) - A fake company with a Product Catalog application
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
@@ -2789,6 +2789,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web) - 
@@ -3009,7 +3010,7 @@
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter from the 🐻 BearStudio Team with ⚙️ Node.js, 🟦 TypeScript, ⚛️ React, 📦 TanStack Start, 💨 Tailwind CSS, 🧩 shadcn/ui, 📋 React Hook Form, 🔌 oRPC, 🛠 Prisma, 🔐 
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [marmelab/ra-supabase](https://github.com/marmelab/ra-supabase) - Supabase adapter for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services.
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [evanpurkhiser/tooling-personal](https://github.com/evanpurkhiser/tooling-personal) - Software specific to my workflows
 - [flowbased/fbp-graph](https://github.com/flowbased/fbp-graph) - FBP graph library for JavaScript
 - [formium/formium](https://github.com/formium/formium) - The headless form builder for the modern web.
