@@ -246,7 +246,7 @@
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [diekmann/wasm-fizzbuzz](https://github.com/diekmann/wasm-fizzbuzz) - WebAssembly from Scratch: From FizzBuzz to DooM.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [Rythe-Interactive/Rythe-Engine](https://github.com/Rythe-Interactive/Rythe-Engine) - Rythe is a data-oriented C++20 game engine built to make optimal use of modern hardware.
 - [utilForever/RosettaStone](https://github.com/utilForever/RosettaStone) - Hearthstone simulator using C++ with some reinforcement learning
@@ -494,12 +494,12 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
+- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [darkweak/souin](https://github.com/darkweak/souin) - An HTTP cache system, RFC compliant, compatible with @tyktechnologies, @traefik, @caddyserver, @go-chi, @bnkamalesh, @beego, @devfeel, @labstack, @gofiber, @go-goyave, @go-kratos, @gin-gonic, @roadrun
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
@@ -750,6 +750,7 @@
 - [WhatDreamsCost/WhatDreamsCost-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
 - [alexadark/riff](https://github.com/alexadark/riff) - Lean, profile-driven coding agent framework for Claude Code
+- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [dgageot/modles](https://github.com/dgageot/modles) - AI Model explorer based on models.dev
 - [fastify/fast-uri](https://github.com/fastify/fast-uri) - Dependency-free RFC 3986 URI toolbox
 - [BerserkerVV/BerserkerVV](https://github.com/BerserkerVV/BerserkerVV) - 
@@ -2322,7 +2323,6 @@
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [future-agi/future-agi](https://github.com/future-agi/future-agi) - Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
 - [symfony/models-dev](https://github.com/symfony/models-dev) - 
-- [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [nixiz0/Local-LLM-Comparator](https://github.com/nixiz0/Local-LLM-Comparator) - 🚀 [Project] An application designed to test and compare Local LLM using Ollama.
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
@@ -2396,6 +2396,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [EnVision-Research/DisEnvisioner](https://github.com/EnVision-Research/DisEnvisioner) - Official implementation of "DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation"
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - An AI web agent that applies to jobs for you while you sleep.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [carmensantos/cs-jackie-tetris](https://github.com/carmensantos/cs-jackie-tetris) - 
@@ -2459,6 +2460,7 @@
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [nicolasbonnici/cryptobot](https://github.com/nicolasbonnici/cryptobot) - Crypto trading bot wrote using Python 3.9.
 - [wkta/space-gatherer](https://github.com/wkta/space-gatherer) - basic arcade game, that uses python3.8 & pygame2
+- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager [maintainer=@Rusydy]
 - [eleurent/twitter-graph](https://github.com/eleurent/twitter-graph) - Fetch and visualize the graph of your Twitter friends and followers.
 - [phiresky/world-development-indicators-sqlite](https://github.com/phiresky/world-development-indicators-sqlite) - 
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
@@ -2727,7 +2729,6 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [m4rise/docker-stack](https://github.com/m4rise/docker-stack) - 
 - [alexadark/audit-codebase-skill](https://github.com/alexadark/audit-codebase-skill) - Codebase health audit for Claude Code — AI-readiness scoring, bug detection (Assay), and optional Codex deep adversarial pass with synthesis
-- [goabonga/ollama](https://github.com/goabonga/ollama) - 📦 Multi-arch Debian package builder for Ollama (amd64, arm64) with systemd support
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
@@ -2747,7 +2748,6 @@
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [aitorroma/n8n-traefik](https://github.com/aitorroma/n8n-traefik) - 🔶 Deploy N8N usando traefik o Caddy con dominio personalizado y Letsencrypt.
-- [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php) - PHP plugin for the asdf version manager [maintainer=@Rusydy]
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
 - [antalaron/action-splitsh](https://github.com/antalaron/action-splitsh) - Synchronises a subtree repository using splitsh-lite
 - [php/systems](https://github.com/php/systems) - Hooks and Cronjobs for PHP Infrastructure
@@ -2898,7 +2898,7 @@
 - [JJarrie/ai-snake-js](https://github.com/JJarrie/ai-snake-js) - 
 - [conference-hall/conference-hall](https://github.com/conference-hall/conference-hall) - Open SaaS platform to manage CFPs
 - [matklad/matklad.github.io](https://github.com/matklad/matklad.github.io) - My coding related blog
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 - [premieroctet/next-admin](https://github.com/premieroctet/next-admin) - ▲ Full-featured admin for Next.js and Prisma
@@ -2919,7 +2919,6 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
 - [afup/pufa](https://github.com/afup/pufa) - 
-- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [sensiolabs/StorybookBundle](https://github.com/sensiolabs/StorybookBundle) - 
 - [wesbos/bg-remover](https://github.com/wesbos/bg-remover) - 100% client side background remover
@@ -2945,7 +2944,6 @@
 - [BlueWallet/BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
 - [nikolovlazar/flashcards](https://github.com/nikolovlazar/flashcards) - A flashcards app.
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - TinaCMS is the leading open-source headless CMS that supports Markdown and Visual Editing. Your content is stored in your own GitHub repo 🦙 ❤️
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [Natizyskunk/vscode-sftp](https://github.com/Natizyskunk/vscode-sftp) - Super fast sftp/ftp extension for VS Code
