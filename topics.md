@@ -308,6 +308,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -3382,7 +3383,7 @@
 
 ## others 
 
-- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Darkwood
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [matyo91/darkwood-memory](https://github.com/matyo91/darkwood-memory) - 🧠 Six expériences exécutables autour de la mémoire : connaissances, code, processus, jeu, musique et récit. Symfony, sans API payante.
 - [matyo91/nolife-tracker](https://github.com/matyo91/nolife-tracker) - 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
@@ -3648,7 +3649,7 @@
 - [lunapark/demo](https://github.com/lunapark/demo) - 
 - [johnklipi/PolyModUI](https://github.com/johnklipi/PolyModUI) - 
 - [johnklipi/PolyPlus](https://github.com/johnklipi/PolyPlus) - The Battle of Polytopia rebalance mod, aimed to improve game's overall balance.
-- [PolyModdingTeam/PolyMod](https://github.com/PolyModdingTeam/PolyMod) - The Battle of Polytopia's mod loader.
+- [PolyModdingTeam/PolyMod](https://github.com/PolyModdingTeam/PolyMod) - PolyMod : The Battle of Polytopia's mod loader.
 - [squrious/godot-fastnoiselite-configurator-plugin](https://github.com/squrious/godot-fastnoiselite-configurator-plugin) - A simple plugin to configure FastNoiseLite noise with a live preview
 - [JJarrie/xdebug-exploit](https://github.com/JJarrie/xdebug-exploit) - 
 - [JJarrie/ai-snake-js](https://github.com/JJarrie/ai-snake-js) - 
@@ -6665,6 +6666,10 @@
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
+
+## whatsapp 
+
+- [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 
 ## windows 
 
