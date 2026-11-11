@@ -186,7 +186,7 @@
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
 - [johnklipi/PolyModUI](https://github.com/johnklipi/PolyModUI) - 
 - [johnklipi/PolyPlus](https://github.com/johnklipi/PolyPlus) - The Battle of Polytopia rebalance mod, aimed to improve game's overall balance.
-- [PolyModdingTeam/PolyMod](https://github.com/PolyModdingTeam/PolyMod) - The Battle of Polytopia's mod loader.
+- [PolyModdingTeam/PolyMod](https://github.com/PolyModdingTeam/PolyMod) - PolyMod : The Battle of Polytopia's mod loader.
 - [GarnetKane99/WaveFunction3D](https://github.com/GarnetKane99/WaveFunction3D) - 3D wave function collapse tutorial from my YouTube video
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [GarnetKane99/WaveFunctionCollapse](https://github.com/GarnetKane99/WaveFunctionCollapse) - Easy Wave Function Collapse from my YouTube series.
@@ -495,7 +495,6 @@
 - [mholt/caddy-embed](https://github.com/mholt/caddy-embed) - Caddy plugin for embedding static files directly into the server binary
 - [IBM/fp-go](https://github.com/IBM/fp-go) - Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads,
 - [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fluxninja/aperture](https://github.com/fluxninja/aperture) - Rate limiting, caching, and request prioritization for modern workloads
@@ -1421,7 +1420,7 @@
 
 ## PHP 
 
-- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Darkwood
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [matyo91/darkwood-memory](https://github.com/matyo91/darkwood-memory) - 🧠 Six expériences exécutables autour de la mémoire : connaissances, code, processus, jeu, musique et récit. Symfony, sans API payante.
 - [matyo91/nolife-tracker](https://github.com/matyo91/nolife-tracker) - 
 - [matyo91/flow-jev](https://github.com/matyo91/flow-jev) - 
@@ -2938,6 +2937,7 @@
 - [bufferhead-code/nextjs-use-php](https://github.com/bufferhead-code/nextjs-use-php) - Use PHP code right within your React / Next.js App. With "use php";
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [gajus/redux-immutable](https://github.com/gajus/redux-immutable) - redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator) - 🕹Techstack generator that can show dynamic technology stack.
