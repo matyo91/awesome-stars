@@ -497,7 +497,7 @@
 - [jolicode/asynit](https://github.com/jolicode/asynit) - :stars: Asynchronous HTTP Request Testing Library for API or more...
 - [amphp/process](https://github.com/amphp/process) - An async process dispatcher for Amp.
 - [amphp/websocket](https://github.com/amphp/websocket) - Shared code for websocket servers and clients.
-- [darkwood-com/flow](https://github.com/darkwood-com/flow) - 💧Flow
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 
 ## analytics 
@@ -1843,7 +1843,7 @@
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [mayhemantt/mayhemantt](https://github.com/mayhemantt/mayhemantt) - Awesome Github Profile Readme. Github ReadMe Github Profile Readme Dynamic Github ReadMe Dynamic Github Profile ReadMe. Please Star and Fork
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [matyo91/matyo91](https://github.com/matyo91/matyo91) - :octocat: Matyo91 Github Profile
+- [matyo91/matyo91](https://github.com/matyo91/matyo91) - Read-only profile mirror of darkwood-com/darkwood: library/matyo91
 - [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
 - [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
@@ -2020,6 +2020,7 @@
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## hack 
 
@@ -3026,6 +3027,7 @@
 - [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: The Powerful GUI Agent Family
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
@@ -3473,9 +3475,9 @@
 - [nicolas-grekas/Patchwork](https://github.com/nicolas-grekas/Patchwork) - PHP research framework
 - [EdouardCourty/friendsepisodepicker](https://github.com/EdouardCourty/friendsepisodepicker) - Your best way of chosing what episode of Friends you're gonna watch tonight.
 - [GromNaN/symfony-tui-games](https://github.com/GromNaN/symfony-tui-games) - Terminal games built with the Symfony TUI component
-- [darkwood-com/navi](https://github.com/darkwood-com/navi) - ⚡️Navi : personnal assistant
+- [darkwood-com/darkwood-php-component-navi](https://github.com/darkwood-com/darkwood-php-component-navi) - Read-only Composer distribution mirror for darkwood/navi; development happens in darkwood-com/darkwood
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
-- [darkwood-com/media-bundle](https://github.com/darkwood-com/media-bundle) - 🎬 Darkwood trailer generator
+- [darkwood-com/darkwood-php-bundle-media](https://github.com/darkwood-com/darkwood-php-bundle-media) - Read-only Composer distribution mirror for darkwood/media-bundle; development happens in darkwood-com/darkwood
 - [bitExpert-forks/ai](https://github.com/bitExpert-forks/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [joshembling/artisan-browse](https://github.com/joshembling/artisan-browse) - 🔎 Artisan Browse provides an interactive terminal UI for discovering, searching, and executing all Laravel Artisan commands.
 - [gmoigneu/signal](https://github.com/gmoigneu/signal) - My own tech review dashboard
@@ -3961,7 +3963,7 @@
 - [Ocramius/LazyMap](https://github.com/Ocramius/LazyMap) - :rainbow: A lazy-initializing high performance service map
 - [Drewbi/drewbi](https://github.com/Drewbi/drewbi) - My Bio
 - [harshil1712/spotify-cli-n8n](https://github.com/harshil1712/spotify-cli-n8n) - Control your Spotify Player with the CLI 🎧 Built using n8n.io, and Node.js
-- [darkwood-com/.github](https://github.com/darkwood-com/.github) - :octocat: Github Darkwood Profile
+- [darkwood-com/.github](https://github.com/darkwood-com/.github) - Read-only distribution mirror of darkwood-com/darkwood: library/.github
 - [mrsuh/php-generics](https://github.com/mrsuh/php-generics) - PHP generics written in PHP
 - [symfony-cmf/routing-docs](https://github.com/symfony-cmf/routing-docs) - Symfony bundle to provide the CMF chain router to handle multiple routers, and the dynamic router to load routes from a database or other sources.
 - [gaudiatech/demo2-asteroids](https://github.com/gaudiatech/demo2-asteroids) - demo for the katasdk python package
@@ -4745,7 +4747,7 @@
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
-- [darkwood-com/ia-exception-bundle](https://github.com/darkwood-com/ia-exception-bundle) - 🚨 Darkwood IA Exception Bundle for Symfony
+- [darkwood-com/darkwood-php-bundle-ia-exception](https://github.com/darkwood-com/darkwood-php-bundle-ia-exception) - Read-only Composer distribution mirror for darkwood/ia-exception-bundle; development happens in darkwood-com/darkwood
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
@@ -4907,7 +4909,7 @@
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
-- [darkwood-com/flow](https://github.com/darkwood-com/flow) - 💧Flow
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email or log during development) Notifier Bridge.
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
@@ -5935,7 +5937,7 @@
 - [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
-- [darkwood-com/ia-exception-bundle](https://github.com/darkwood-com/ia-exception-bundle) - 🚨 Darkwood IA Exception Bundle for Symfony
+- [darkwood-com/darkwood-php-bundle-ia-exception](https://github.com/darkwood-com/darkwood-php-bundle-ia-exception) - Read-only Composer distribution mirror for darkwood/ia-exception-bundle; development happens in darkwood-com/darkwood
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
@@ -5996,7 +5998,7 @@
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
-- [darkwood-com/flow](https://github.com/darkwood-com/flow) - 💧Flow
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony
 - [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email or log during development) Notifier Bridge.
 - [symfony/lock](https://github.com/symfony/lock) - Creates and manages locks, a mechanism to provide exclusive access to a shared resource
