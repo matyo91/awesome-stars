@@ -2038,7 +2038,7 @@
 ## hacktoberfest 
 
 - [php-fig/simple-cache](https://github.com/php-fig/simple-cache) - 
-- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for Agent Observability
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [Sylius/SyliusDemo](https://github.com/Sylius/SyliusDemo) - Official Sylius demo application.
 - [Sylius/SyliusResourceBundle](https://github.com/Sylius/SyliusResourceBundle) - Simpler CRUD for Symfony applications
@@ -2966,7 +2966,7 @@
 
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for Agent Observability
 - [getgaal/gaal](https://github.com/getgaal/gaal) - A single CLI to keep your local repositories, AI agent skills, and MCP server configurations in sync.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -3320,7 +3320,7 @@
 ## openai 
 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
+- [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for Agent Observability
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vietnh1009/Super-mario-bros-PPO-pytorch](https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch) - Proximal Policy Optimization (PPO) algorithm for Super Mario Bros
@@ -5773,7 +5773,6 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
-- [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## server 
 
