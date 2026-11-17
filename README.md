@@ -1391,6 +1391,7 @@
 
 ## PHP 
 
+- [symfony/ux-upload](https://github.com/symfony/ux-upload) - Direct and resumable file uploads for Symfony applications
 - [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [yethee/tiktoken-php](https://github.com/yethee/tiktoken-php) - This is a port of the tiktoken
 - [swoole/typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
@@ -2553,7 +2554,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Low-level cross-platform audio I/O library in Rust
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A tacit array programming language
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [flows-network/flows-connector](https://github.com/flows-network/flows-connector) - The SaaS connectors that flows.network supported
 - [dylibso/modsurfer](https://github.com/dylibso/modsurfer) - Devtools to validate, audit and investigate WebAssembly binaries.
 - [Geal/serverless-wasm](https://github.com/Geal/serverless-wasm) - 
