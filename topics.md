@@ -812,7 +812,7 @@
 - [lipis/bootstrap-social](https://github.com/lipis/bootstrap-social) - :couple: Social Sign-In Buttons for Bootstrap
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## bot 
@@ -1032,7 +1032,7 @@
 - [Kunstmaan/KunstmaanBundlesCMS](https://github.com/Kunstmaan/KunstmaanBundlesCMS) - An advanced yet user-friendly content management system, based on the full stack Symfony framework combined with a whole host of community bundles. It provides a full featured, multi-language CMS syst
 - [sulu/sulu](https://github.com/sulu/sulu) - Core framework that implements the functionality of the Sulu content management system
 - [qmachard/developers-blog](https://github.com/qmachard/developers-blog) - Every developer needs a simple blog
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [Orbitale/CmsBundle](https://github.com/Orbitale/CmsBundle) - Super-lightweight CMS bundle for Symfony
 - [ezsystems/ezplatform](https://github.com/ezsystems/ezplatform) - Meta repository that pulls in all dependencies for clean distribution of Ibexa Platform.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
@@ -1218,7 +1218,7 @@
 - [nitin42/terminal-in-react](https://github.com/nitin42/terminal-in-react) - 👨‍💻  A component that renders a terminal
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2275,7 +2275,7 @@
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape metadata from any URL using Open Graph, JSON-LD, HTML meta tags, and smart fallbacks.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2284,7 +2284,7 @@
 
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
@@ -2497,7 +2497,7 @@
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [mayhemantt/mayhemantt](https://github.com/mayhemantt/mayhemantt) - Awesome Github Profile Readme. Github ReadMe Github Profile Readme Dynamic Github ReadMe Dynamic Github Profile ReadMe. Please Star and Fork
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [symfony/polyfill-uuid](https://github.com/symfony/polyfill-uuid) - Symfony polyfill for uuid functions
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -2574,7 +2574,7 @@
 ## jekyll 
 
 - [github/choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## jenkins 
@@ -5492,7 +5492,7 @@
 - [flexbox/machine-learning-with-javascript](https://github.com/flexbox/machine-learning-with-javascript) - Everything I know about TensorFlow with JavaScript
 - [appandflow/react-native-safe-area-context](https://github.com/appandflow/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [recksjs/recks](https://github.com/recksjs/recks) - 🐶 React-like RxJS-based framework
 - [airbnb/native-navigation](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
 - [streamlabs/desktop](https://github.com/streamlabs/desktop) - Free and open source streaming software built on OBS and Electron.
@@ -5711,7 +5711,7 @@
 - [flexbox/davidl](https://github.com/flexbox/davidl) - 💎 Designer & front-end developer website
 - [flexbox/codeless](https://github.com/flexbox/codeless) - 🚚✨ Advanced Middleman template with Sass, Slim & Yarn
 - [symfony/webpack-encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing & compiling assets built around Webpack
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## scala 
@@ -5905,7 +5905,7 @@
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+- [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for static site generators (formerly Netlify CMS)
 - [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
