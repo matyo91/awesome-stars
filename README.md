@@ -305,6 +305,7 @@
 
 ## CSS 
 
+- [darkwood-com/darkwood-php-bundle-darkwood-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/DarkwoodBundle
 - [hraban/tomono](https://github.com/hraban/tomono) - Multi- To Mono-repository merge
 - [eilgin/php-the-right-way](https://github.com/eilgin/php-the-right-way) - La version française de "PHP: The Right Way" qui est un condensé des meilleures pratiques sur le développement PHP (conventions, liens vers les tutoriels qui font référence, etc)
 - [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
@@ -457,7 +458,7 @@
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 - [stephrobert/feint](https://github.com/stephrobert/feint) - A local emulator of the Scaleway, Outscale and Exoscale APIs. Their own official CLIs drive it end to end, Terraform and OpenTofu drive two of the three — no cloud account, no cloud credentials, nothi
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [igor-php/igor-php](https://github.com/igor-php/igor-php) - Static analysis and state mutation auditor specifically designed for FrankenPHP's Worker Mode.
 - [ardanlabs/kronk](https://github.com/ardanlabs/kronk) - Go With Your Own Intelligence! Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stable-diffusion.cpp directly integrated into your Go applications. Kronk provides a hig
@@ -1398,7 +1399,7 @@
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
 - [pgrimaud/lametric-diablo4](https://github.com/pgrimaud/lametric-diablo4) - Display timers for World Boss & Helltide
 - [Amoifr/phpquality](https://github.com/Amoifr/phpquality) - 
-- [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations.
+- [flow-php/flow](https://github.com/flow-php/flow) - Strongly typed data processing framework for PHP with a low memory footprint.
 - [true-async/php-async](https://github.com/true-async/php-async) - The heart of asynchronous PHP, delivered as a core extension and implementing the TrueAsync ABI.
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords.
 - [ircmaxell/PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP
@@ -1420,14 +1421,14 @@
 - [nicolas-grekas/Patchwork](https://github.com/nicolas-grekas/Patchwork) - PHP research framework
 - [EdouardCourty/friendsepisodepicker](https://github.com/EdouardCourty/friendsepisodepicker) - Your best way of chosing what episode of Friends you're gonna watch tonight.
 - [GromNaN/symfony-tui-games](https://github.com/GromNaN/symfony-tui-games) - Terminal games built with the Symfony TUI component
-- [darkwood-com/darkwood-php-component-navi](https://github.com/darkwood-com/darkwood-php-component-navi) - Read-only Composer distribution mirror for darkwood/navi; development happens in darkwood-com/darkwood
-- [darkwood-com/darkwood-php-bundle-media](https://github.com/darkwood-com/darkwood-php-bundle-media) - Read-only Composer distribution mirror for darkwood/media-bundle; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-navi](https://github.com/darkwood-com/darkwood-php-component-navi) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Navi
+- [darkwood-com/darkwood-php-bundle-darkwood-media-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-media-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/MediaBundle
 - [bitExpert-forks/ai](https://github.com/bitExpert-forks/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [WendellAdriel/slidewire](https://github.com/WendellAdriel/slidewire) - Create beautiful presentations powered by Livewire
 - [joshembling/artisan-browse](https://github.com/joshembling/artisan-browse) - 🔎 Artisan Browse provides an interactive terminal UI for discovering, searching, and executing all Laravel Artisan commands.
 - [VincentLanglet/Twig-CS-Fixer](https://github.com/VincentLanglet/Twig-CS-Fixer) - A tool to automatically fix Twig Coding Standards issues
 - [gmoigneu/ivebeenthere](https://github.com/gmoigneu/ivebeenthere) - 
-- [darkwood-com/darkwood-php-bundle-ia-exception](https://github.com/darkwood-com/darkwood-php-bundle-ia-exception) - Read-only Composer distribution mirror for darkwood/ia-exception-bundle; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-bundle-darkwood-ia-exception-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-ia-exception-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/IaExceptionBundle
 - [bitExpert/sylius-2fa](https://github.com/bitExpert/sylius-2fa) - Sylius 2FA plugin
 - [loophp/path-hasher](https://github.com/loophp/path-hasher) - Library to serialize a filesystem path
 - [maxbeckers/php-yaml-parser](https://github.com/maxbeckers/php-yaml-parser) - A PHP implementation of a YAML parser.
@@ -1739,7 +1740,7 @@
 - [StenopePHP/Stenope](https://github.com/StenopePHP/Stenope) - The static website generator for Symfony developers
 - [composer/semver](https://github.com/composer/semver) - Semantic versioning utilities with the addition of version constraints parsing and checking.
 - [symfony-tools/symfony-translation-checker](https://github.com/symfony-tools/symfony-translation-checker) - 
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library
+- [flow-php/etl](https://github.com/flow-php/etl) - The Flow DataFrame: read, transform and write data in PHP within a memory limit.
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience.
 - [thephpleague/tactician](https://github.com/thephpleague/tactician) - A small, flexible command bus
 - [ddeboer/imap](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library
@@ -1763,7 +1764,7 @@
 - [laravel/octane](https://github.com/laravel/octane) - Supercharge your Laravel application's performance.
 - [composer/metadata-minifier](https://github.com/composer/metadata-minifier) - Small utility library that handles metadata minification and expansion.
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
-- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Flow
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [SimpleBus/SimpleBus](https://github.com/SimpleBus/SimpleBus) - Main repository of SimpleBus
 - [zairigimad/messagebird](https://github.com/zairigimad/messagebird) - MessageBird Symfony Notifier Bridge
