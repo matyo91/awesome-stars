@@ -345,14 +345,12 @@
 
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 
 ## agentic-ai 
 
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, Tools, vector DBs, memory) to agents that interact with your data and UI.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
@@ -454,7 +452,6 @@
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) - Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AIHawk: AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
@@ -470,7 +467,6 @@
 - [kestra-io/mcp-server-python](https://github.com/kestra-io/mcp-server-python) - Python MCP Server for Kestra — you can use it as a tool in Kestra's AI Agents
 - [SmythOS/sre](https://github.com/SmythOS/sre) - The SmythOS Runtime Environment (SRE) is an open-source, cloud-native runtime for agentic AI. Secure, modular, and production-ready, it lets developers build, run, and manage intelligent agents across
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -512,7 +508,7 @@
 - [jolicode/asynit](https://github.com/jolicode/asynit) - :stars: Asynchronous HTTP Request Testing Library for API or more...
 - [amphp/process](https://github.com/amphp/process) - An async process dispatcher for Amp.
 - [amphp/websocket](https://github.com/amphp/websocket) - Shared code for websocket servers and clients.
-- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Flow
 - [amphp/amp](https://github.com/amphp/amp) - A non-blocking concurrency framework for PHP applications. 🐘
 
 ## analytics 
@@ -943,7 +939,6 @@
 - [romainsimon/paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 
 ## claude-skills 
 
@@ -1251,6 +1246,7 @@
 
 ## data-engineering 
 
+- [flow-php/flow](https://github.com/flow-php/flow) - Strongly typed data processing framework for PHP with a low memory footprint.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -1527,6 +1523,7 @@
 ## dsh-plugin 
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 
 ## education 
 
@@ -1921,6 +1918,7 @@
 
 ## godot 
 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [charpurrr/SuperMarioSolarEngine](https://github.com/charpurrr/SuperMarioSolarEngine) - An open source fanmade 2D Mario engine that implements elements from all the mainline 3D titles
 - [wchen02/platformer](https://github.com/wchen02/platformer) - Super Mario Replica platformer game built with godot
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
@@ -2601,6 +2599,7 @@
 ## json 
 
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
+- [flow-php/flow](https://github.com/flow-php/flow) - Strongly typed data processing framework for PHP with a low memory footprint.
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [CleverCloud/frankenphp-kv-json-example](https://github.com/CleverCloud/frankenphp-kv-json-example) - PHP app using FrankenPHP runtime and MateriaKV JSON commands on Clever Cloud
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -2979,6 +2978,7 @@
 
 ## mcp 
 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem) - [ICML'26] SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
 - [Arize-ai/openinference](https://github.com/Arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
@@ -3294,6 +3294,7 @@
 
 ## open-source 
 
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
@@ -3396,7 +3397,6 @@
 
 ## others 
 
-- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -3419,7 +3419,6 @@
 - [gmoigneu/skills](https://github.com/gmoigneu/skills) - 
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [flow-php/flow](https://github.com/flow-php/flow) - The most advanced data processing framework allowing to build scalable data processing pipelines and move data between various data sources and destinations.
 - [ircmaxell/PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [kotiel/uvuk](https://github.com/kotiel/uvuk) - UvuKCube allows you to imagine a 3D path ... knowing the path ... and running the path ...
@@ -3436,7 +3435,7 @@
 - [olivierlambert/calrs](https://github.com/olivierlambert/calrs) - Fast, self-hostable scheduling platform. Like Cal.com, but written in Rust.
 - [open-webui/computer](https://github.com/open-webui/computer) - Your Computer. Anywhere.
 - [EdouardCourty/data-gouv-client](https://github.com/EdouardCourty/data-gouv-client) - A data.gouv.fr API client written in PHP
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [microsoft/coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 - [FabienSalles/website](https://github.com/FabienSalles/website) - 
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
@@ -3490,9 +3489,7 @@
 - [nicolas-grekas/Patchwork](https://github.com/nicolas-grekas/Patchwork) - PHP research framework
 - [EdouardCourty/friendsepisodepicker](https://github.com/EdouardCourty/friendsepisodepicker) - Your best way of chosing what episode of Friends you're gonna watch tonight.
 - [GromNaN/symfony-tui-games](https://github.com/GromNaN/symfony-tui-games) - Terminal games built with the Symfony TUI component
-- [darkwood-com/darkwood-php-component-navi](https://github.com/darkwood-com/darkwood-php-component-navi) - Read-only Composer distribution mirror for darkwood/navi; development happens in darkwood-com/darkwood
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
-- [darkwood-com/darkwood-php-bundle-media](https://github.com/darkwood-com/darkwood-php-bundle-media) - Read-only Composer distribution mirror for darkwood/media-bundle; development happens in darkwood-com/darkwood
 - [bitExpert-forks/ai](https://github.com/bitExpert-forks/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
 - [joshembling/artisan-browse](https://github.com/joshembling/artisan-browse) - 🔎 Artisan Browse provides an interactive terminal UI for discovering, searching, and executing all Laravel Artisan commands.
 - [gmoigneu/signal](https://github.com/gmoigneu/signal) - My own tech review dashboard
@@ -4046,7 +4043,6 @@
 - [eleurent/twitter-graph](https://github.com/eleurent/twitter-graph) - Fetch and visualize the graph of your Twitter friends and followers.
 - [symfony-tools/symfony-translation-checker](https://github.com/symfony-tools/symfony-translation-checker) - 
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
-- [flow-php/etl](https://github.com/flow-php/etl) - PHP - ETL (Extract Transform Load) data processing library
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [drawrowfly/tiktok-scraper](https://github.com/drawrowfly/tiktok-scraper) - TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [github/catalyst](https://github.com/github/catalyst) - Catalyst is a set of patterns and techniques for developing components within a complex application.
@@ -4746,11 +4742,14 @@
 
 ## php 
 
+- [darkwood-com/darkwood-php-bundle-darkwood-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/DarkwoodBundle
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
 - [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
 - [pgrimaud/lametric-diablo4](https://github.com/pgrimaud/lametric-diablo4) - Display timers for World Boss & Helltide
 - [illegalstudio/elephc](https://github.com/illegalstudio/elephc) - A PHP-to-native compiler. Takes a subset of PHP - including eval() - and compiles it directly to native assembly, producing standalone binaries for macOS ARM64, Linux ARM64, and Linux x86_64. No VM, n
+- [flow-php/flow](https://github.com/flow-php/flow) - Strongly typed data processing framework for PHP with a low memory footprint.
 - [true-async/php-async](https://github.com/true-async/php-async) - The heart of asynchronous PHP, delivered as a core extension and implementing the TrueAsync ABI.
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - TOTP and HOTP one-time passwords.
 - [shipmonk-rnd/dead-code-detector](https://github.com/shipmonk-rnd/dead-code-detector) - 💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead co
@@ -4762,7 +4761,9 @@
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [alexandre-daubois/ember](https://github.com/alexandre-daubois/ember) - 🔥 Real-time terminal dashboard for Caddy servers, with built-in FrankenPHP support
 - [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
-- [darkwood-com/darkwood-php-bundle-ia-exception](https://github.com/darkwood-com/darkwood-php-bundle-ia-exception) - Read-only Composer distribution mirror for darkwood/ia-exception-bundle; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-navi](https://github.com/darkwood-com/darkwood-php-component-navi) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Navi
+- [darkwood-com/darkwood-php-bundle-darkwood-media-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-media-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/MediaBundle
+- [darkwood-com/darkwood-php-bundle-darkwood-ia-exception-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-ia-exception-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/IaExceptionBundle
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [inovector/mixpost](https://github.com/inovector/mixpost) - 📅 Schedule, 📢 publish, and ⚡ manage your social media content on your server. No subscriptions, no limits. (Buffer alternative)
@@ -4911,6 +4912,7 @@
 - [zanbaldwin/runtime-playground](https://github.com/zanbaldwin/runtime-playground) - Demo of a new project using the new Runtime Symfony component (PHP-FPM, RoadRunner, and Swoole).
 - [ogizanagi/shiningame](https://github.com/ogizanagi/shiningame) - Shiny little extracts from enjoyable games ✨ 🎮  🌅
 - [symfony/cli](https://github.com/symfony/cli) - Repository for reporting issues related to the Symfony CLI
+- [flow-php/etl](https://github.com/flow-php/etl) - The Flow DataFrame: read, transform and write data in PHP within a memory limit.
 - [EventSaucePHP/EventSauce](https://github.com/EventSaucePHP/EventSauce) - A pragmatic event sourcing library for PHP with a focus on developer experience.
 - [ddeboer/imap](https://github.com/ddeboer/imap) - Object-oriented, fully tested PHP IMAP library
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
@@ -4923,7 +4925,7 @@
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
 - [mnapoli/externals](https://github.com/mnapoli/externals) - Opening PHP's #internals to the outside
-- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Flow
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email or log during development) Notifier Bridge.
 - [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
@@ -5255,6 +5257,7 @@
 ## project-management 
 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
@@ -5760,7 +5763,6 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into a structured API. Extract, automate, search and monitor the web.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [Outerbridgeio/Outerbridge](https://github.com/Outerbridgeio/Outerbridge) - Outerbridge is a low code/no code workflow automation application, focusing on integrating both on-chain and off-chain applications.
@@ -5955,7 +5957,9 @@
 
 ## symfony 
 
+- [darkwood-com/darkwood-php-bundle-darkwood-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/DarkwoodBundle
 - [symfony/ux-upload](https://github.com/symfony/ux-upload) - Direct and resumable file uploads for Symfony applications
+- [darkwood-com/darkwood](https://github.com/darkwood-com/darkwood) - 🖤 Public monorepo for Darkwood open-source projects
 - [symfony/language-tools](https://github.com/symfony/language-tools) - Official Symfony language tools for VS Code, Zed, Neovim, and other editors
 - [vinceAmstoutz/symfony-security-auditor](https://github.com/vinceAmstoutz/symfony-security-auditor) - AI-powered multi-agent security auditor for Symfony applications, provider-agnostic via symfony/ai.
 - [dev-toolings/superpowers-symfony](https://github.com/dev-toolings/superpowers-symfony) - Claude Code plugin for Symfony 7.4 LTS & 8.x — 44 skills, 7 AI subagents & 13 commands for API Platform v4, Doctrine ORM 3, TDD (Pest/PHPUnit), Messenger, security & DDD.
@@ -5963,7 +5967,9 @@
 - [playwright-php/playwright-symfony](https://github.com/playwright-php/playwright-symfony) - E2E testing for Symfony with Playwright PHP, real browsers, and in-process request handling.
 - [symfony/prelude-notifier](https://github.com/symfony/prelude-notifier) - Symfony Prelude Notifier Bridge
 - [symfony/ai-demo](https://github.com/symfony/ai-demo) - Symfony AI Demo Application
-- [darkwood-com/darkwood-php-bundle-ia-exception](https://github.com/darkwood-com/darkwood-php-bundle-ia-exception) - Read-only Composer distribution mirror for darkwood/ia-exception-bundle; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-navi](https://github.com/darkwood-com/darkwood-php-component-navi) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Navi
+- [darkwood-com/darkwood-php-bundle-darkwood-media-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-media-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/MediaBundle
+- [darkwood-com/darkwood-php-bundle-darkwood-ia-exception-bundle](https://github.com/darkwood-com/darkwood-php-bundle-darkwood-ia-exception-bundle) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Bundle/IaExceptionBundle
 - [jolicode/MediaBundle](https://github.com/jolicode/MediaBundle) - 🖼️ A media management bundle for Symfony applications, with Easyadmin and SonataAdmin integrations
 - [symfony/mcp-sdk](https://github.com/symfony/mcp-sdk) - Model Context Protocol SDK for Client and Server applications in PHP
 - [symfony/ai](https://github.com/symfony/ai) - Symfony AI is a set of components that integrate AI capabilities into PHP applications
@@ -6023,7 +6029,7 @@
 - [symfony/security-acl](https://github.com/symfony/security-acl) - Symfony Security ACL Component
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [symfony/fake-chat-notifier](https://github.com/symfony/fake-chat-notifier) - Fake Chat (as email or log during development) Notifier Bridge.
-- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only Composer distribution mirror for darkwood/flow; development happens in darkwood-com/darkwood
+- [darkwood-com/darkwood-php-component-flow](https://github.com/darkwood-com/darkwood-php-component-flow) - Read-only distribution mirror of darkwood-com/darkwood: library/darkwood-php/src/Darkwood/Component/Flow
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony
 - [symfony/fake-sms-notifier](https://github.com/symfony/fake-sms-notifier) - Fake SMS (as email or log during development) Notifier Bridge.
 - [symfony/lock](https://github.com/symfony/lock) - Creates and manages locks, a mechanism to provide exclusive access to a shared resource
